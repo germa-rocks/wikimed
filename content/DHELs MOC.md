@@ -5,21 +5,21 @@ publish: true
 ## Na
 [[hiperNa]]
 [[hipoNa]]
-[[Disnatremias SBN]]
+[[Disnatremias SN]]
 ## K
 [[hiperK]]
 [[hipoK]]
-[[Discalemias SBN]]
+[[Discalemias SN]]
 ## Ca
 [[hiperCa]]
 [[hipoCa]]
-[[Discalcemias SBN]]
+[[Discalcemias SN]]
 ## Mg
 [[hiperMg]]
 [[hipoMg]]
-[[Dismagnesemias SBN]]
+[[Dismagnesemias SN]]
 
 ## Pi
 [[hiperPi]]
 [[hipoPi]]
-[[Disfosfatemias SBN]]
+[[Disfosfatemias SN]]

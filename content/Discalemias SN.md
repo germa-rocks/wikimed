@@ -3,9 +3,6 @@ publish: true
 ---
 
 
-
-Aqui está a estruturação do material focado em alto rendimento para a prática clínica (beira-leito) e estudo, formatado estritamente com listas de alternância (toggles) para Notion, Obsidian ou Roam Research, aplicando a divulgação progressiva da informação.
-
 # HIPOPOTASSEMIA (K⁺ < 3,5 mEq/L)
 
 ## Princípios Fisiopatológicos e Clínicos

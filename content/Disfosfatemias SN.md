@@ -2,12 +2,6 @@
 publish: true
 ---
 
-
-
-Aqui está a estruturação do texto baseada no princípio da divulgação progressiva de informações. O material foi desenhado com foco em utilidade clínica rápida a beira-leito, transformando blocos de texto em "toggles" (listas expansíveis) prontos para serem importados para o Notion, Obsidian ou Anki.
-
-Todas as tags de extração e formatações poluentes foram rigorosamente eliminadas.
-
 ***
 
 # 1. HIPOFOSFATEMIA (Fósforo < 2,5 mg/dL)

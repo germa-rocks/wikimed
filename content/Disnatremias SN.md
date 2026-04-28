@@ -2,10 +2,6 @@
 publish: true
 ---
 
-
-
-Aqui está a estruturação completa e de alto rendimento baseada no seu documento, formatada sob o princípio da divulgação progressiva (estilo DynaMed / Notion / Obsidian).
-
 # DISTÚRBIOS DO SÓDIO: HIPONATREMIA
 
 ## Diagnóstico e Conceitos Fundamentais

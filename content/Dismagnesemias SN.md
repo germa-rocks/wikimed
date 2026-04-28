@@ -2,10 +2,6 @@
 publish: true
 ---
 
-
-
-Aqui está a estruturação do conteúdo fornecido, otimizada para consulta beira-leito e estudo de alto rendimento (estilo DynaMed/Notion), aplicando rigorosamente o princípio da divulgação progressiva de informações e listas aninhadas.
-
 # PARTE 1: HIPOMAGNESEMIA
 
 ## Relevância Clínica e Fisiologia Básica
