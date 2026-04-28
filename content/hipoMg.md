@@ -23,7 +23,7 @@ publish: true
   - **Manifestações Metabólicas:**
     - Induz ou agrava a resistência à insulina.
 - balance
-	- ![[Pasted image 20260428132246.png]]
+	- ![[Pasted image 20260428143157.png]]
 - another view
 	- ![[Pasted image 20260428132314.png]]
 
