@@ -6,7 +6,7 @@ publish: true
 ***
 
 # Transcrição da Aula: Hipocalemia - Abordagem Geral
-**Palestrante:** Dr. Lucas Gobetti da Luz (Nefropapers)
+
 
 **[Slide 1: Hipocalemia - Abordagem Geral]**
 Olá a todos, meu nome é Lucas Gobetti da Luz, sou integrante do Nefropapers e o nosso objeto de estudo hoje será o potássio, em especial a hipocalemia. Vamos dar uma abordagem geral, falar bastante de diagnóstico etiológico, das ferramentas que temos para esse diagnóstico e também falar um pouco da reposição do potássio.

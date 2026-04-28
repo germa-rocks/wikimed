@@ -3,8 +3,6 @@ publish: true
 ---
 
 
-**Palestrante:** Dr. Diego Ennes (Nefropapers)
-
 ## Transcrição e Integração dos Slides
 
 E aí pessoal, tudo bem? Meu nome é Diego, sou um dos integrantes do Nefropapers e hoje a aula vai ser de Hipercalemia, a letra que causa insônia. Quem nunca teve um problema na madrugada, na noite, com aquele potássio alto num paciente clínico, num paciente renal? É um dos distúrbios hidroeletrolíticos que mais potencialmente pode causar uma morte aí em poucas horas. Então requer bastante cuidado.

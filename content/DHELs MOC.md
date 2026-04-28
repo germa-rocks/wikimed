@@ -5,7 +5,7 @@ publish: true
 ## Na
 [[hiperNa]]
 [[hipoNa]]
-[[DIsnatremias SBN]]
+[[Disnatremias SBN]]
 ## K
 [[hiperK]]
 [[hipoK]]
