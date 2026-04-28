@@ -16,3 +16,7 @@ publish: true
 ## Mg
 [[hiperMg]]
 [[hipoMg]]
+
+## Pi
+[[hiperPi]]
+[[hipoPi]]
