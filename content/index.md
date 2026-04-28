@@ -3,7 +3,7 @@ publish: true
 ---
 	Hahah
 
-
+	
 
 Aqui estão 15 vinhetas clínicas de alto rendimento (3 para cada grupo de íons), modeladas em situações clássicas e frequentes nas Unidades de Terapia Intensiva. O formato é desenhado para treino de raciocínio rápido à beira-leito.
 
