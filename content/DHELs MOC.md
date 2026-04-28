@@ -10,3 +10,9 @@ publish: true
 [[hiperK]]
 [[hipoK]]
 ## Ca
+[[hiperCa]]
+[[hipoCa]]
+
+## Mg
+[[hiperMg]]
+[[hipoMg]]
