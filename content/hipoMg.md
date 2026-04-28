@@ -22,6 +22,8 @@ publish: true
     - Neuromuscular: Parestesias, fasciculações, cãibras musculares generalizadas e tetania.
   - **Manifestações Metabólicas:**
     - Induz ou agrava a resistência à insulina.
+- balance
+	- ![[Pasted image 20260428132246.png]]
 
 ---
 
