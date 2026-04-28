@@ -97,6 +97,30 @@ export default (() => {
             return resource
           }
         })}
+<script dangerouslySetInnerHTML={{ __html: `
+        document.addEventListener("nav", () => {
+          document.querySelectorAll("article ul li").forEach(li => {
+            const childUl = li.querySelector(":scope > ul");
+            if (childUl) {
+              li.style.listStyleType = "none";
+              const toggle = document.createElement("span");
+              toggle.innerHTML = "▶ ";
+              toggle.style.cursor = "pointer";
+              toggle.style.color = "var(--secondary)";
+              toggle.style.fontWeight = "bold";
+              toggle.style.marginLeft = "-1.2em";
+              childUl.style.display = "none";
+              toggle.onclick = (e) => {
+                e.stopPropagation();
+                const isHidden = childUl.style.display === "none";
+                childUl.style.display = isHidden ? "block" : "none";
+                toggle.innerHTML = isHidden ? "▼ " : "▶ ";
+              };
+              li.insertBefore(toggle, li.firstChild);
+            }
+          });
+        });
+      `}} />        
       </head>
     )
   }
