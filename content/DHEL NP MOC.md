@@ -10,6 +10,7 @@ publish: true
 
 ## Mg
 - [[Distúrbios do Magnésio - Abordagem Geral]]
+	- [[dismagnesemias remastered]]
 ## Pi
 - [[Aula Hipofosfatemia - Abordagem Geral]]
 	- [[Hipofosfatemia remasterred]]
@@ -18,3 +19,4 @@ publish: true
 
 ## Cl
 - [[Aula Cloro - A Rainha Esquecida dos Eletrólitos]]
+	- [[discloremia remasteded]]
