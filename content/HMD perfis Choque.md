@@ -2,8 +2,6 @@
 publish: true
 ---
 
-- 
-	- 
 - [[FisioSepse remast]]
 	- [[Aula 1_FisioSepse]]
 - [[Rx Sepse remast]]
