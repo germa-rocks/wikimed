@@ -3,11 +3,11 @@ publish: true
 ---
 
 
-- [[Conceitos e Epidemiologia do Choque Circulatório]]
-	- [[conceitos remast]]
-- [[exame fisico]]
-	- [[Avaliação Clínica Choque Circulatório (remast)]]
-- [[parametros perfusao]]
-	- [[Parâmetros Perfusão (remast)]]
-- [[lactato]]
-	- [[Lactato no Choque Circulatório (remast)]]
+- [[conceitos remast]]
+	- [[Conceitos e Epidemiologia do Choque Circulatório]]
+- [[Avaliação Clínica Choque Circulatório (remast)]]
+	- [[exame fisico]]
+- [[Parâmetros Perfusão (remast)]]
+	- [[parametros perfusao]]
+- [[Lactato no Choque Circulatório (remast)]]
+	- [[lactato]]
