@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-
+- [[visao global DHELs no paciente crítuco]]
 ## Na
 [[hiperNa]]
 [[hipoNa]]
