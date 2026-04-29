@@ -11,6 +11,9 @@ publish: true
 ## Mg
 - [[Distúrbios do Magnésio - Abordagem Geral]]
 	- [[dismagnesemias remastered]]
+
+## Ca..............
+
 ## Pi
 - [[Aula Hipofosfatemia - Abordagem Geral]]
 	- [[Hipofosfatemia remasterred]]
