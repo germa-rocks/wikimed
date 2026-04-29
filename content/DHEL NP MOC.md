@@ -27,7 +27,7 @@ publish: true
 	- [[Hiperfosfatemia remastered]]
 
 ## Cl
-- [[Aula Cloro - A Rainha Esquecida dos Eletrólitos]]
+- [[Aula Cloro - O que]]
 	- [[discloremia remasteded]]
 
 
