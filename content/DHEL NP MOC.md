@@ -7,3 +7,5 @@ publish: true
 	- [[hiperK NP remast]]
 - [[Aula Hipocalemia - Abordagem Geral]]
 	- [[hipoK NP remastered]]
+
+## Mg
