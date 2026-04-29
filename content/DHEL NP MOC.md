@@ -9,3 +9,12 @@ publish: true
 	- [[hipoK NP remastered]]
 
 ## Mg
+- [[Distúrbios do Magnésio - Abordagem Geral]]
+## Pi
+- [[Aula Hipofosfatemia - Abordagem Geral]]
+	- [[Hipofosfatemia remasterred]]
+- [[Aula Hiperfosfatemia - Não é apenas DRC]]
+	- [[Hiperfosfatemia remastered]]
+
+## Cl
+- [[Aula Cloro - A Rainha Esquecida dos Eletrólitos]]
