@@ -3,34 +3,33 @@ publish: true
 ---
 
 ## K
-- [[Aula Hipercalemia - A letra que causa insônia]]
-	- [[hiperK NP remast]]
-- [[Aula Hipocalemia - Abordagem Geral]]
-	- [[hipoK NP remastered]]
+- [[hiperK NP remast]]
+	- [[Aula Hipercalemia - A letra que causa insônia]]
+- [[hipoK NP remastered]]
+	- [[Aula Hipocalemia - Abordagem Geral]]
 
 ## Mg
-- [[Distúrbios do Magnésio - Abordagem Geral]]
-	- [[dismagnesemias remastered]]
+- [[dismagnesemias remastered]]
+	- [[Distúrbios do Magnésio - Abordagem Geral]]
 
-## Ca..............
-- [[hipoca np]]
-	- [[hipoCa remastered]]
-- [[hiperCa dx]]
-	- [[hiperCa dx remasn]]
-- [[hiperCa rx]]
-	- [[hiperCa Rx remaster]]
+## Ca
+- [[hipoCa remastered]]
+	- [[hipoca np]]
+- [[hiperCa dx remasn]]
+	- [[hiperCa dx]]
+- [[hiperCa Rx remaster]]
+	- [[hiperCa rx]]
 
 ## Pi
-- [[Aula Hipofosfatemia - Abordagem Geral]]
-	- [[Hipofosfatemia remasterred]]
-- [[Aula Hiperfosfatemia - Não é apenas DRC]]
-	- [[Hiperfosfatemia remastered]]
+- [[Hipofosfatemia remasterred]]
+	- [[Aula Hipofosfatemia - Abordagem Geral]]
+- [[Hiperfosfatemia remastered]]
+	- [[Aula Hiperfosfatemia - Não é apenas DRC]]
 
 ## Cl
-- [[Aula Cloro - O que]]
-	- [[discloremia remasteded]]
-
-
+- [[discloremia remasteded]]
+	- [[Aula Cloro - O que]]
 ## Extra
-- [[multiplos DHELs]]
-	- [[multiplos DHELs remas]]
+- [[multiplos DHELs remas]]
+	- [[multiplos DHELs]]
+	- 
