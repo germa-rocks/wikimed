@@ -10,6 +10,7 @@ publish: true
 # CV
 ## CVC
 - [[CVC Guiado]]
+- [[Acesso Vascular]]
 ## PAI
 - [[Punção Arterial - Monitorização Invasiva]]
 
