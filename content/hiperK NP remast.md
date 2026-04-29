@@ -2,8 +2,6 @@
 publish: true
 ---
 
-
-
 # Hipercalemia: Avaliação e Manejo Beira-Leito
 
 ## Fisiologia e Homeostase

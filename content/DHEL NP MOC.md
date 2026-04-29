@@ -13,6 +13,12 @@ publish: true
 	- [[dismagnesemias remastered]]
 
 ## Ca..............
+- [[hipoca np]]
+	- [[hipoCa remastered]]
+- [[hiperCa dx]]
+	- [[hiperCa dx remasn]]
+- [[hiperCa rx]]
+	- [[hiperCa Rx remaster]]
 
 ## Pi
 - [[Aula Hipofosfatemia - Abordagem Geral]]
