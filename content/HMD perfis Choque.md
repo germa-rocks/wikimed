@@ -1,0 +1,22 @@
+---
+publish: true
+---
+
+- [[Aula 1_FisioSepse]]
+	- [[FisioSepse remast]]
+- [[Aula RxSepse]]
+	- [[Rx Sepse remast]]
+- [[Aula fisioNeuro]]
+	- [[fisioNeuro remast]]
+- [[Aula RxNeuro]]
+	- [[RxNeuro remast]]
+- [[Aula fisioHemorr]]
+	- [[fisioHemorr remast]]
+- [[aula fisioCardio]]
+	- [[fisioCardio remast]]
+- [[aula RxCardio]]
+	- [[RxCardio remast]]
+- [[aula fisioObstr]]
+	- [[fisioObstr remast]]
+- [[aula RxObstr]]
+	- [[RxObstr remast]]
