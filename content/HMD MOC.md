@@ -5,6 +5,11 @@ publish: true
 - [[HMD perfis Choque]]
 - [[HMD Mx básica]]
 	- [[15 Abordagem Clínica Choque]]
+	- [[Mx macro]]
+		- [[Aula Mx macro]]
+	- [[Mx perfusao remast]]
+		- [[Aula Mx perfusao]]
+- [[HMD Mx Avançada]]
 
 ## Mx
  [[2  Shock - Definition and Recognition]]
