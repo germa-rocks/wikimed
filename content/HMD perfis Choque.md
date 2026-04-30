@@ -3,6 +3,7 @@ publish: true
 ---
 
 - [[FisioSepse remast]]
+	- [[17 Choque INfl]]
 	- [[Aula 1_FisioSepse]]
 - [[Rx Sepse remast]]
 	- [[Aula RxSepse]]
@@ -11,8 +12,10 @@ publish: true
 - [[RxNeuro remast]]
 	- [[Aula RxNeuro]]
 - [[fisioHemorr remast]]
+	- [[15 Hemorrhagic Shock]]
 	- [[Aula fisioHemorr]]
 - [[fisioCardio remast]]
+	- [[16 cardiogenico]]
 	- [[aula fisioCardio]]
 - [[RxCardio remast]]
 	- [[aula RxCardio]]

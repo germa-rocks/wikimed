@@ -4,6 +4,7 @@ publish: true
 
 - [[HMD perfis Choque]]
 - [[HMD Mx básica]]
+	- [[15 Abordagem Clínica Choque]]
 
 
  [[2  Shock - Definition and Recognition]]
