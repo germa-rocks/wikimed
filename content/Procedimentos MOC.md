@@ -11,6 +11,10 @@ publish: true
 ## CVC
 - [[CVC Guiado]]
 - [[Acesso Vascular]]
+- [[Marcapasso]]
+	- [[Aula Marcapasso]]
+- [[POCUS]]
+	- [[Aula POCUS]]
 ## PAI
 - [[Punção Arterial - Monitorização Invasiva]]
 
