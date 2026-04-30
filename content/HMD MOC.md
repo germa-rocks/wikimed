@@ -6,7 +6,7 @@ publish: true
 - [[HMD Mx básica]]
 	- [[15 Abordagem Clínica Choque]]
 
-
+## Mx
  [[2  Shock - Definition and Recognition]]
  [[3  Assessing the Adequacy of Cardiac Output]]
  [[4  Determinants of Venous Return]]
@@ -18,3 +18,8 @@ publish: true
 [[ 10  Mitochondrial Function]]
 [[11  Perioperative Haemodynamics]]
  [[12  Hemodynamics and Extracorporeal Circulation]]
+
+## Basics
+- [[7 Oximetria]]
+- [[8 CAP]]
+- [[9 Oxigenação]]
