@@ -24,6 +24,21 @@ publish: true
 [[11  Perioperative Haemodynamics]]
  [[12  Hemodynamics and Extracorporeal Circulation]]
 
+
+## Rx
+- [[principios fluidos remast]]
+	- [[aula principios fluidos]]
+- [[BH remast]]
+	- [[aula BH]]
+
+- [[cristaloid remast]]
+	- [[aula cristaloide]]
+- [[coloid remast]]
+	- [[aula coloid]]
+
+- [[transf remast]]
+	- [[aula transfusao]]
+
 ## Basics
 - [[7 Oximetria]]
 - [[8 CAP]]
