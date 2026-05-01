@@ -13,3 +13,7 @@ publish: true
 	- [[aula frank-starling]]
 - [[pos carga remast]]
 	- [[aula pos carga]]
+- [[inotrop remast]]
+	- [[aula inotropismo]]
+- [[interação coração-pulmao remast]]
+	- [[aula interação coração-pulmão]]
