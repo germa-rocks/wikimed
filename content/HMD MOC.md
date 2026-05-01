@@ -39,6 +39,18 @@ publish: true
 - [[transf remast]]
 	- [[aula transfusao]]
 
+
+- [[principios DVA remast]]
+	- [[aula principios DVA ]]
+- as
+	- [[aula nora dopa adrena]]
+- [[vaso remast]]
+	- [[aula vaso]]
+- [[inotropicos rema]]
+	- [[aula inotrop]]
+- [[adjuvantes remast]]
+	- [[aula adjuvantes]]
+
 ## Basics
 - [[7 Oximetria]]
 - [[8 CAP]]
