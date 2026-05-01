@@ -42,7 +42,7 @@ publish: true
 
 - [[principios DVA remast]]
 	- [[aula principios DVA ]]
-- as
+- [[catecolaminas remast]]
 	- [[aula nora dopa adrena]]
 - [[vaso remast]]
 	- [[aula vaso]]
