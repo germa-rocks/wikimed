@@ -10,7 +10,8 @@ publish: true
 	- [[Mx perfusao remast]]
 		- [[Aula Mx perfusao]]
 - [[HMD Mx Avançada]]
-
+- [[choque refratario remast]]
+	- [[aula choque refratario]]
 ## Mx
  [[2  Shock - Definition and Recognition]]
  [[3  Assessing the Adequacy of Cardiac Output]]
