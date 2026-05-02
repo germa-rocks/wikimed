@@ -19,6 +19,14 @@ publish: true
 	- [[aula interação coração-pulmão]]
 
 
+## micro
+- a
+- [[Metabolismo do Lactato - Fundamentos Fisiológicos]]
+- [[Hiperlactatemia no Choque e na Sepse]]
+- [[sat venosa central]]
+- [[gapCO2]]
+
+
 ## Fisio
 - [[2a remast]]
 	- [[2a aula]]
