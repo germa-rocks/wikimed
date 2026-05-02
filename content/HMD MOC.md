@@ -7,7 +7,7 @@ publish: true
 	- [[15 Abordagem Clínica Choque]]
 	- [[Mx macro]]
 		- [[Aula Mx macro]]
-	- [[Mx perfusao remast]]
+	- [[Monitorização da Perfusão Tecidual remast]]
 		- [[Aula Mx perfusao]]
 - [[HMD Mx Avançada]]
 - [[choque refratario remast]]

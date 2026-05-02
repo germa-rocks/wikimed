@@ -2,7 +2,6 @@
 publish: true
 ---
 
-
 # Monitorização da Perfusão Tecidual
 
 ## Princípios Básicos (Oferta vs. Consumo)
