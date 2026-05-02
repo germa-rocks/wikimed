@@ -22,6 +22,7 @@ publish: true
 ## micro
 - [[Metabolismo do Lactato - Fundamentos Fisiológicos]]
 - [[Hiperlactatemia no Choque e na Sepse]]
+- [[lactate]]
 - [[sat venosa central]]
 - [[gapCO2]]
 - [[gap indexado]]
