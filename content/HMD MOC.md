@@ -10,6 +10,10 @@ publish: true
 	- [[Monitorização da Perfusão Tecidual remast]]
 		- [[Aula Mx perfusao]]
 - [[HMD Mx Avançada]]
+	- [[aula mx não invasiva]]
+	- [[mx invasiva remast]]
+		- [[aula mx invasiva]]
+	- [[aula marcadores perfusao]]
 - [[choque refratario remast]]
 	- [[aula choque refratario]]
 ## Mx
