@@ -44,8 +44,9 @@ publish: true
 [[18 pocus]]
 [[19 não card]]
 [[20 pvc]]
-
+[[21 PA]]
 [[22 monitor debito]]
+[[23 monitor volume]]
 
 [[29 blood pressure target]]
 [[30 choosing vasopressor]]
