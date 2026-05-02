@@ -47,6 +47,9 @@ publish: true
 [[21 PA]]
 [[22 monitor debito]]
 [[23 monitor volume]]
+[[24 aval fluidorr]]
+[[25 CAP]]
+[[26 Análise da Onda de Pressão Arterial]]
 
 [[29 blood pressure target]]
 [[30 choosing vasopressor]]
