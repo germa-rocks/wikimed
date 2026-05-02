@@ -33,6 +33,27 @@ publish: true
 [[11  Perioperative Haemodynamics]]
  [[12  Hemodynamics and Extracorporeal Circulation]]
 
+---
+[[13 Avaliação Clínica da Instabilidade Hemodinâmica]]
+[[14 Avaliação e Manejo da Microcirculação]]
+[[15 SatVO2]]
+[[16 pco2]]
+[[17 lactato]]
+
+
+[[18 pocus]]
+[[19 não card]]
+[[20 pvc]]
+
+[[22 monitor debito]]
+
+[[29 blood pressure target]]
+[[30 choosing vasopressor]]
+[[31 Fluid ress]]
+
+[[33 choque septico]]
+[[34 sara]]
+
 
 ## Rx
 - [[principios fluidos remast]]
