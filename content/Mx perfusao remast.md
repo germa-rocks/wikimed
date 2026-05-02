@@ -3,9 +3,6 @@ publish: true
 ---
 
 
-
-Aqui está a estruturação da base de conhecimento médico de alto rendimento, desenhada para Notion/Obsidian, utilizando a lógica de divulgação progressiva (toggles e nested lists) e com foco direto na tomada de decisão beira-leito.
-
 # Monitorização da Perfusão Tecidual
 
 ## Princípios Básicos (Oferta vs. Consumo)
