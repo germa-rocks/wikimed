@@ -20,7 +20,6 @@ publish: true
 
 
 ## micro
-- a
 - [[Metabolismo do Lactato - Fundamentos Fisiológicos]]
 - [[Hiperlactatemia no Choque e na Sepse]]
 - [[sat venosa central]]
