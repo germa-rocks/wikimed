@@ -25,6 +25,10 @@ publish: true
 - [[Hiperlactatemia no Choque e na Sepse]]
 - [[sat venosa central]]
 - [[gapCO2]]
+- [[gap indexado]]
+- [[janelas clínicas]]
+- [[fluxo]]
+- [[casos micro]]
 
 
 ## Fisio
