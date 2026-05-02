@@ -12,7 +12,6 @@ publish: true
 ---
 
 ##### **definition of elevated lactate**
-
 - ~0.5-2 mM is normal.
 - 2-4 mM is mild/moderately elevated.
 - >4 mM is unequivocally elevated. This is worrisome for an occult shock state or serious illness (yet the differential diagnosis is broad, as explored below).
