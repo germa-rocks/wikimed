@@ -14,7 +14,8 @@ publish: true
 		- [[aula mx não invasiva]]
 	- [[mx invasiva remast]]
 		- [[aula mx invasiva]]
-	- [[aula marcadores perfusao]]
+	- [[marcadores perfusao remast]]
+		- [[aula marcadores perfusao]]
 - [[choque refratario remast]]
 	- [[aula choque refratario]]
 ## Mx
