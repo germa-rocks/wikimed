@@ -49,5 +49,6 @@ publish: true
 ## Extra
 - [[multiplos DHELs remas]]
 	- [[multiplos DHELs]]
-- [[DHELs - Na]]
+- [[DHELs - hipoNa]]
 - [[DHELs - hiperNa]]
+- [[hupoK]]

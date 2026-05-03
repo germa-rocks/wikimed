@@ -9,7 +9,7 @@ Aqui está a transcrição sintetizada e focada nos detalhes de relevância clí
 ***
 
 # Resumo Clínico: Abordagem da Hipernatremia
-**Palestrante:** Paulo Lins
+
 
 ## 1. Fisiologia Básica e Definição
 A concentração urinária depende de um tripé fisiológico. Qualquer distúrbio nesses fatores pode levar à hipernatremia:
