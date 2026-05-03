@@ -2,6 +2,7 @@
 publish: true
 ---
 Dx) Diagnostic Reasoning (Choosing Wisely): high-level diagnostic reasoning: cross-reference the patient's past medical history with the acute presentation to avoid unnecessary tests and direct therapy ("Choosing the next best test").
+- [[objDx]]
 
 Rx) Resource Management and Care Transition: In the reality of the hospitalist or ED physician, managing shock involves stabilizing the patient outside the ideal environment (the ICU). The competence to transfer care at the exact right moment and in a structured manner is fundamental.
 
