@@ -7,6 +7,7 @@ Dx) Diagnostic Reasoning (Choosing Wisely): high-level diagnostic reasoning: cro
 Rx) Resource Management and Care Transition: In the reality of the hospitalist or ED physician, managing shock involves stabilizing the patient outside the ideal environment (the ICU). The competence to transfer care at the exact right moment and in a structured manner is fundamental.
 - [[objRx Resource Management and Care Transition]]
 Rx) Safe Use of Vasopressors: An increasingly demanded skill for general internists is the early initiation of vasopressors (like norepinephrine) via a well-established peripheral IV, avoiding delays in restoring perfusion pressure while awaiting central access.
+- [[objRxDVA]]
 
 ## 1. Pathophysiology (Sketchy
 • Understand the 4 classic pathophysiological profiles and their most common etiologies in the Ward (epi)
