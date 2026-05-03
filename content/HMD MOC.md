@@ -1,7 +1,11 @@
 ---
 publish: true
 ---
-
+- =!
+[[objetivos]]
+- [[redbook remast]]
+	- [[red book]]
+- 
 - [[HMD perfis Choque]]
 - [[HMD Mx básica]]
 	- [[15 Abordagem Clínica Choque]]
