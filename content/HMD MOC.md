@@ -5,6 +5,7 @@ publish: true
 [[objetivos]]
 - [[redbook remast]]
 	- [[red book]]
+	- [[AcuteMed]]
 - 
 - [[HMD perfis Choque]]
 - [[HMD Mx básica]]
