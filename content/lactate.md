@@ -5,8 +5,6 @@ publish: true
 
 ### elevated L-lactate (hyperlactatemia)
 
-[(back to contents)](https://emcrit.org/ibcc/agma/#top)
-
 ---
 
 ---
@@ -35,7 +33,7 @@ publish: true
 
 #### **type A: tissue hypoxia (either generalized or regional)**
 
-- Shock of any etiology, including: [![📖](https://s.w.org/images/core/emoji/17.0.2/svg/1f4d6.svg)](https://emcrit.org/ibcc/shock/#top)
+- Shock of any etiology, including:
     - Septic shock.
     - Cardiogenic shock.
     - Obstructive shock (e.g., pulmonary embolism).
@@ -67,7 +65,7 @@ publish: true
     - Terbutaline.
     - Epinephrine.
 - Linezolid.
-- Metformin. [![📖](https://s.w.org/images/core/emoji/17.0.2/svg/1f4d6.svg)](https://emcrit.org/ibcc/metformin/)
+- Metformin. [![📖]
 - Propofol (propofol infusion syndrome).
 - Propylene glycol intoxication:
     - Lorazepam, diazepam.
@@ -81,7 +79,7 @@ publish: true
 
 #### **type B2: toxins**
 
-- Acetaminophen poisoning (massive) [![📖](https://s.w.org/images/core/emoji/17.0.2/svg/1f4d6.svg)](https://emcrit.org/ibcc/acetaminophen/#massive_acetaminophen_poisoning)
+- Acetaminophen poisoning (massive) 
 - Alcohols:
     - Ethylene glycol (point-of-care assays may _misidentify_ glycolic acid as lactic acid). ([31418093](https://pubmed.ncbi.nlm.nih.gov/31418093/))
     - Methanol.
@@ -109,7 +107,8 @@ publish: true
 
 #### **[2] examine patient with focus on features of shock**
 
-- **Signs of shock?** [![📖](https://s.w.org/images/core/emoji/17.0.2/svg/1f4d6.svg)](https://emcrit.org/ibcc/shock/) (tachycardia, low urine output, hypotension, confusion, impaired skin perfusion).
+- **Signs of shock?** 
+- [📖 (tachycardia, low urine output, hypotension, confusion, impaired skin perfusion).
     - If there are signs of shock, then resuscitation should begin immediately without delay.
     - When in doubt, assume that the hyperlactatemia is real.
 - **POCUS**: Evaluate for unusual types of shock (e.g., massive pulmonary embolism, tamponade).
@@ -128,7 +127,7 @@ publish: true
     - Blood cultures.
     - Imaging studies (e.g., chest radiograph +/- CT scans).
     - Procalcitonin and/or C-reactive protein levels.
-    - (Further discussion of the approach to sepsis: [![📖](https://s.w.org/images/core/emoji/17.0.2/svg/1f4d6.svg)](https://emcrit.org/ibcc/sepsis/#rapid_reference))
+    - (Further discussion of the approach to sepsis:)
 - **Poisoned patient**: consider evaluation for
     - Acetaminophen.
     - Carbon monoxide.
