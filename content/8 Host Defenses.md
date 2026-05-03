@@ -100,15 +100,7 @@ Aqui está a estruturação da base de conhecimento médico de alto rendimento, 
 ---
 
 ## 📊 4. Referência Rápida: Critérios e Fórmulas de UTI
-- **Critérios de SIRS e Sepse**
-  - Definição de SIRS (Exige 2 ou mais):
-    - Temperatura: > 38°C ou < 36°C
-    - Frequência Cardíaca: > 90 bpm
-    - Frequência Respiratória: > 20 irpm
-    - Leucócitos: > 12.000/mm³ ou < 4.000/mm³
-  - Sepse: SIRS + Cultura positiva (ou evidência clínica de infecção).
-  - Sepse Grave: Sepse + Disfunção orgânica (Ex: P/F < 175, Creatinina elevando > 2.0, Plaquetas com queda > 25%).
-  - Choque Séptico: Sepse + Hipotensão refratária a fluidos.
+
 - **Classificação de Child-Pugh Modificada (Fígado)**
   - Bilirrubina: < 2 (A), 2-3 (B), > 3 (C)
   - Albumina: > 3.5 (A), 3-3.5 (B), < 3 (C)
