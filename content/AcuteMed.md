@@ -2,16 +2,7 @@
 publish: true
 ---
 - [[AcuteMed sc]]
-
-
-
-
-
-
-Aqui está a estruturação de alto rendimento do capítulo fornecido, formatada em sistema de marcadores aninhados (compatível com os blocos de alternância/toggles do Notion e Obsidian). Apliquei o princípio da divulgação progressiva: a regra geral fica visível logo de início e os detalhes técnicos, condutas aprofundadas e doses estão nos níveis inferiores.
-
 ***
-
 # Hipotensão e Choque: Avaliação e Manejo Beira-Leito
 
 ## Conceitos Chave e Avaliação Inicial
