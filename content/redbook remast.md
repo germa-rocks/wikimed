@@ -7,7 +7,7 @@ publish: true
 # Hemodinâmica na UTI: Estratégias e Condutas
 
 ## Metas de Pressão Arterial (A Abordagem "Cachinhos Dourados")
-- **A meta não é um número perfeito, mas garantir perfusão orgânica sem elevar excessivamente a pós-carga.**
+- **A meta não é um número perfeito, mas garantir perfusão orgânica sem elevar excessivamente a pós-carga.** (trabalho cardíaco)
 	- **Manejo da Pressão Alta:** Tratar APENAS se estiver causando ou exacerbando dano de órgão-alvo.
 		- Na UTI, a elevação leve da PA sem sintomas deve ser apenas observada ("fazer nada"). O foco não é prevenção de sequelas a longo prazo como no ambulatório.
 		- Órgãos-alvo de risco: Dissecção aórtica, edema cerebral/pulmonar, isquemia miocárdica, pré-eclâmpsia e sangramento intracraniano.
