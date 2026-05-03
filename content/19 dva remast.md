@@ -1,0 +1,217 @@
+---
+publish: true
+---
+
+
+
+Aqui está a estruturação de alto rendimento do capítulo, desenhada sob a lógica de divulgação progressiva e em formato de "toggle lists" nativo para Notion/Obsidian. O foco é a tomada de decisão a beira-leito.
+
+# Fármacos Vasoativos: Guia Prático
+
+## 1. Princípios Gerais e Fisiologia Hemodinâmica
+- **O objetivo principal do uso de vasoativos no choque é restaurar a perfusão tecidual, e não apenas atingir um número de pressão arterial.**
+	- Os agentes vasoativos possuem meia-vida curta e rápido início de ação, o que exige titulação contínua guiada por metas clínicas e fisiológicas.
+	- 📎 Refs: 1, 2, 3
+- **A Pressão Média Sistêmica (Pms) é gerada exclusivamente pelo "Volume Estressado" intravascular.**
+	- Todo vaso fechado possui um "volume não estressado" que não gera pressão nas paredes. O volume que excede esse limite é o volume estressado.
+	- Redução da Pms: Causada por hipovolemia (perda de conteúdo) ou vasodilatação (aumento do continente).
+	- Aumento da Pms: Causada por expansão volêmica ou vasoconstrição (transloca sangue do território venoso, que guarda 70% do volume, para a circulação efetiva).
+	- 📎 Refs: 4
+- **Aumentar a Pressão Arterial Média (PAM) com vasopressores não significa obrigatoriamente aumento do fluxo (Débito Cardíaco).**
+	- Se a PAM for elevada exclusivamente à custa do aumento da Resistência Vascular Sistêmica (RVS), a pós-carga aumenta. Em corações doentes, isso reduz o Volume Sistólico (VS) e, consequentemente, a Oferta de Oxigênio ($DO_2$).
+	- Fórmulas Norteadoras:
+		- $\text{DO}_2 = \text{DC} \times \text{CaO}_2$
+		- $\text{CaO}_2 = 1,34 \times \text{Hb} \times \text{SaO}_2 + 0,003 \times \text{pO}_2$
+		- $\text{DC} = \text{Volume Sistólico (VS)} \times \text{Frequência Cardíaca (FC)}$
+	- 📎 Refs: 4
+- **A escolha do fármaco depende do perfil de receptores que precisa ser ativado para corrigir a fisiopatologia específica.**
+	- **Adrenérgicos:**
+		- Alfa-1: Vasoconstrição venosa e arterial. (Pequeno efeito cronotrópico e prolonga contração).
+		- Alfa-2: Vasoconstrição venosa e arterial (ausente no miocárdio).
+		- Beta-1: Inotropismo e cronotropismo positivos (aumenta força e frequência cardíaca). Mínima vasoconstrição.
+		- Beta-2: Vasodilatação sistêmica.
+	- **Dopaminérgicos:**
+		- DA1: Vasodilatação renal, cerebral, mesentérica e coronária.
+		- DA2: Induz liberação de noradrenalina endógena (causando vasoconstrição).
+	- **Inibidores da Fosfodiesterase-3 (PDE-3):**
+		- Mecanismo: Inibem degradação de cAMP. No coração, aumentam o influxo de cálcio (inotropismo e lusitropismo). No vaso, causam vasodilatação.
+		- Vantagem: Ação independente de receptores beta (eficaz mesmo em vigência de betabloqueadores) e menor risco arritmogênico clássico.
+		- 📎 Refs: 5, 7
+	- **Sensibilizadores de Canais de Cálcio (ex: Levosimendana):**
+		- Aumentam a afinidade da troponina C ao cálcio na sístole (inotropismo) sem aumentar o consumo de $O_2$.
+		- 📎 Refs: 8
+	- **Receptores Vasopressinérgicos:**
+		- V1: Músculo liso vascular (vasoconstrição intensa).
+		- V2: Dutos coletores renais (reabsorção de água pelo ADH).
+		- V3: Adeno-hipófise.
+		- 📎 Refs: 5
+	- **Bloqueadores de Canais de Cálcio (BCC) Di-idropiridínicos:**
+		- Ação puramente vascular (ex: Nicardipina). Reduzem cálcio intracelular liso, causando vasodilatação.
+		- 📎 Refs: 10
+	- **Óxido Nítrico (NO):**
+		- Aumenta GMPc intracelular, desfosforilando miosina e promovendo potente relaxamento vascular.
+		- 📎 Refs: 5
+
+---
+
+## 2. Fármacos, Doses e Cuidados Específicos (Beira-leito)
+- **Noradrenalina: Vasopressor de 1ª linha na maioria dos choques (especialmente séptico).**
+	- **Ação:** Principalmente $\alpha$1 (+++), com efeito $\beta$1 (++) e $\beta$2 (+). Efeito vasoconstritor predominante com leve inotropismo/cronotropismo.
+	- **Dose:** 0,01 a 2 mcg/kg/min.
+	- **Indicação:** Choque séptico e choques com hipotensão grave por vasoplegia.
+	- **Red Flags e Manejo:**
+		- Redução de eficácia em vigência de acidose metabólica grave.
+		- Preferir sempre via CVC. Permissível em AVP apenas na urgência, usando veia calibrosa longe de dobras articulares, sob vigilância rigorosa.
+	- 📎 Refs: 4, 5, 11, 12, 26
+- **Dobutamina: Inotrópico de escolha no choque cardiogênico.**
+	- **Ação:** Principalmente $\beta$1 (+++), com leve $\alpha$1 e $\beta$2 (+). Aumenta débito cardíaco com discreta vasodilatação (reduz pós-carga).
+	- **Dose:** 2,5 a 20 mcg/kg/min (texto base indica a faixa clássica inicial em torno de 2,5).
+	- **Indicação:** Choque cardiogênico e baixo débito.
+	- **Red Flags e Manejo:**
+		- Aumenta expressivamente o consumo miocárdico de $O_2$.
+		- Risco arritmogênico: Evitar em Fibrilação Atrial, *Flutter*, e histórico de TV/FV.
+		- Contraindicado na obstrução dinâmica de via de saída do VE (VSVE) e Estenose Aórtica grave.
+	- 📎 Refs: 4, 5
+- **Vasopressina: Vasopressor adjuvante para choque refratário ou deficiência de ADH.**
+	- **Ação:** Receptores V1 (vasos), V2 e V3.
+	- **Dose:** 0,01 a 0,04 UI/min. (Desmame gradual: reduzir 0,01 UI/min a cada 30 min).
+	- **Indicação:** Choque refratário a altas doses de Noradrenalina (> 0,25 mcg/kg/min); Diabetes Insípido (incluindo manejo de potencial doador em morte encefálica).
+	- **Red Flags e Manejo:**
+		- Evitar uso como vasopressor isolado/único.
+		- O seu efeito vasopressor *é mantido* mesmo em ambientes de acidose.
+		- Risco de espasmo coronariano em altas doses e aumento de agregação plaquetária.
+	- 📎 Refs: 5, 13, 14
+- **Adrenalina: Vasopressor e inotrópico de resgate ou em anafilaxia.**
+	- **Ação:** $\beta$1 (+++), $\alpha$1 (++), $\beta$2 (+). Efeito misto, causa também broncodilatação e inibe mastócitos.
+	- **Dose:** 0,01 a 2 mcg/kg/min.
+	- **Indicação:** Choque refratário (após Nora + Vaso ou Nora + Dobuta), anafilaxia, bradicardia refratária, PCR.
+	- **Red Flags e Manejo:**
+		- Causa hiperlactatemia (dificulta a avaliação da perfusão pelo lactato) e hiperglicemia.
+		- Aumenta severamente o consumo miocárdico de $O_2$ e o risco de arritmias.
+		- Difícil titulação devido ao efeito bifásico (vasoconstrição x inotropismo).
+	- 📎 Refs: 5, 15
+- **Terlipressina: Escolha para Síndrome Hepatorrenal e Sangramento Varicoso.**
+	- **Ação:** Receptores V1, V2 e V3.
+	- **Dose:** 0,85 a 1,7 mg a cada 6 horas (iniciar dose mínima e reavaliar creatinina em 3 dias) ou Infusão contínua de 4 mg/24h.
+	- **Indicação:** Síndrome Hepatorrenal (SHR) e Hemorragia Digestiva Alta (HDA) por varizes esofágicas.
+	- **Red Flags e Manejo:**
+		- Infundir *bolus* lentamente em 5 min.
+		- Risco de Edema Agudo de Pulmão (EAP), isquemia mesentérica e hiponatremia.
+		- *Não recomendada* para choque séptico.
+	- 📎 Refs: 5, 16, 17
+- **Milrinona: Inotrópico e vasodilatador pulmonar/sistêmico (Inodilatador).**
+	- **Ação:** Inibidor da Fosfodiesterase-3 (PD3).
+	- **Dose:** Ataque de 0,125 mcg/kg em 10 min + Manutenção de 0,15 a 0,75 mcg/kg/min.
+	- **Indicação:** IC grave refratária. Útil em pacientes em uso prévio de betabloqueadores. Doses mais altas causam taquicardia.
+	- **Red Flags e Manejo:**
+		- Meia-vida longa (30 a 60 min) dependente de depuração renal e hepática.
+		- Contraindicado na obstrução de VSVE e Infarto Agudo do Miocárdio com Supra-ST como monoterapia.
+		- Trombocitopenia rara (<1%), surge após 2-3 dias e reverte com suspensão.
+	- 📎 Refs: 5, 18
+- **Levosimendana: Inodilatador sem aumento de consumo de oxigênio miocárdico.**
+	- **Ação:** Sensibilizador de canais de Cálcio e leve inibição de PD3 (em doses altas).
+	- **Dose:** Ataque (opcional) de 6 a 24 mcg/kg em 10 min + Manutenção de 0,05 a 0,2 mcg/kg/min.
+	- **Indicação:** Semelhante à Dobutamina, mas útil em pacientes com uso de betabloqueadores.
+	- **Red Flags e Manejo:**
+		- Meia-vida muito longa (60 min a 5,5h), com metabólitos ativos que duram dias.
+		- Sem evidência clara de benefício no choque cardiogênico grave.
+	- 📎 Refs: 5, 19
+- **Nitroprussiato de Sódio: Vasodilatador arterial e venoso potente.**
+	- **Ação:** Ação direta em receptor de Óxido Nítrico. Reduz pré e pós-carga simultaneamente.
+	- **Dose:** 0,25 a 2 mcg/kg/min (Doses de 5 mcg/kg/min apenas por curtíssimo período).
+	- **Red Flags e Manejo:**
+		- Risco de intoxicação por cianeto se infusão > 48 horas, dose > 2 mcg/kg/min ou na insuficiência renal.
+		- Usar com cautela extrema em Edema Cerebral, Síndrome Coronariana Aguda (SCA) e azotemia. Contraindicado na gestação.
+	- 📎 Refs: 5
+- **Nitroglicerina: Vasodilatador de escolha na Síndrome Coronariana e Congestão Venosa.**
+	- **Ação:** Precursor de Óxido Nítrico. Ação predominantemente venosa (reduz pré-carga), com ação arterial coronariana em altas doses.
+	- **Dose:** 5 a 200 mcg/min.
+	- **Red Flags e Manejo:**
+		- Risco de taquifilaxia (perda de efeito) após 24 a 48 horas de uso contínuo.
+		- Contraindicado no uso prévio (últimas 24-48h) de inibidores da fosfodiesterase-5 (Sildenafil/Tadalafil), na gravidez e na hipovolemia. Risco raro de metemoglobinemia.
+	- 📎 Refs: 4, 5
+- **Nicardipina: Vasodilatador arterial cerebral e coronariano (BCC).**
+	- **Ação:** Bloqueador de Canal de Cálcio di-idropiridínico. Ultrapassa barreira hematoencefálica.
+	- **Dose:** 5 a 15 mg/h.
+	- **Indicação:** Controle pressórico rigoroso onde não se deseja aumento da PIC.
+	- **Red Flags e Manejo:**
+		- Metabolização hepática rigorosa.
+		- Contraindicado na Insuficiência Aórtica (IAo) grave. Evitar na SCA não relacionada a vasoespasmo.
+	- 📎 Refs: 5, 9
+- **Labetalol: Betabloqueador alfa e beta-bloqueador misto.**
+	- **Ação:** Bloqueio misto ($\alpha$:$\beta$ = 1:7). Reduz RVS sem causar taquicardia reflexa importante e com pouco impacto no Débito Cardíaco.
+	- **Dose:** *Bolus* de 20 mg em 2 min + infusão de 0,5 a 2 mg/min.
+	- **Red Flags e Manejo:**
+		- Droga segura na gestação (passa barreira placentária, exige monitorização).
+		- Preserva a autorregulação cerebral (não altera PIC).
+		- Evitar em doença pulmonar obstrutiva, IC aguda, Bloqueio Atrioventricular e intolerância a betabloqueadores.
+	- 📎 Refs: 5
+- **Esmolol: Betabloqueador cardiosseletivo de curtíssima duração.**
+	- **Ação:** $\beta$1 seletivo. Reduz PA, Frequência Cardíaca e Débito Cardíaco.
+	- **Dose:** *Bolus* de 500 mcg em 1 min + Manutenção de 50 a 300 mcg/kg/min.
+	- **Red Flags e Manejo:**
+		- Metabolizado por esterases das hemácias (não precisa ajustar para disfunção renal ou hepática).
+		- Contraindicado em bradicardia, disfunção ventricular e intoxicação por cocaína.
+	- 📎 Refs: 4, 5
+- **Fenilefrina: Vasopressor $\alpha$1 puro.**
+	- **Ação:** $\alpha$1 exclusivo (+++).
+	- **Dose:** 40 a 80 mcg/min.
+	- **Indicação:** Vasoplegia, choque neurogênico (sem bradicardia), hipotensão pós-anestesia espinhal ou choque medular. Pode ser tentado na Estenose Aórtica/Mitral grave e na obstrução dinâmica de VSVE.
+	- **Red Flags e Manejo:**
+		- Indisponível no Brasil. Risco de bradicardia reflexa severa.
+		- Mesmo com seu efeito alfa puro, a Noradrenalina geralmente é preferida.
+		- Cuidado em pacientes com disfunção miocárdica grave (aumenta pós-carga sem suporte inotrópico).
+	- 📎 Refs: 5, 6
+- **Dopamina: Obsoleta como primeira linha hemodinâmica e contraindicada para "proteção renal".**
+	- **Ações dose-dependentes:**
+		- 1 a 5 mcg/kg/min (Dose DA): Aumento de fluxo renal e excreção de Na+ em pessoas saudáveis.
+		- 5 a 10 mcg/kg/min (Dose $\beta$1): Cronotropismo. Útil em bradicardia sinusal refratária ou BAVT como *ponte* até a passagem de marca-passo transvenoso ou transcutâneo.
+		- 10 a 20 mcg/kg/min (Dose $\alpha$1/$\beta$1): Vasopressor. Deve-se preferir Noradrenalina por segurança.
+	- **Red Flags e Manejo:**
+		- O uso da "dose renal" aumenta a mortalidade e não previne disfunção renal em pacientes graves. Prática abolida.
+		- Elevado potencial arritmogênico em altas doses.
+	- 📎 Refs: 2, 20, 21, 22
+
+---
+
+## 3. Cálculos e Diluições Padrão de Serviço
+- **É imperativa a padronização institucional das diluições para evitar iatrogenias e atrasos.**
+	- **Fórmula Padrão de Infusão (mcg/kg/min):**
+		- $\frac{ \text{Taxa (mL/h)} \times \text{Nº ampolas} \times \text{Dose/ampola (mg)} \times 1.000 }{ \text{Peso (kg)} \times \text{Volume total (mL)} \times 60 }$
+	- **Infusões Prolongadas/Altas Doses:** É necessário concentrar a solução para reduzir a sobrecarga hídrica do paciente.
+- **Concentrações Práticas para Titulação:**
+	- **Noradrenalina (60 mcg/mL):** 16 mg + SG 5% 250 mL $\rightarrow$ 1 mL/h = 1 mcg/min.
+	- **Vasopressina (0,4 UI/mL):** 40 UI + SF 98 mL $\rightarrow$ 6 mL/h = 0,04 UI/min.
+	- **Adrenalina (60 mcg/mL):** 6 mg + SG 5% 94 mL $\rightarrow$ 1 mL/h = 1 mcg/min.
+	- **Dobutamina (4.000 mcg/mL):** 1.000 mg + SG 5% 170 mL $\rightarrow$ 3 mL/h = 200 mcg/min.
+	- **Nitroglicerina (100 mcg/mL):** 25 mg + SF/SG 5% 245 mL $\rightarrow$ 6 mL/h = 10 mcg/min.
+	- **Nitroprussiato (200 mcg/mL):** 50 mg + SG 5% 245 mL $\rightarrow$ 3 mL/h = 10 mcg/min.
+	- **Terlipressina (10 mcg/mL):** 1 mg + SF 95 mL $\rightarrow$ 6 mL/h = 1 mcg/min.
+
+---
+
+## 4. Pérolas e Controvérsias a Beira-leito
+- **Tolerância de PAM baixa em Insuficiência Cardíaca Grave.**
+	- Reduzir demasiadamente a pós-carga em pacientes com IC grave melhora o volume sistólico, gerando uma PAM artificialmente mais baixa.
+	- **A Conduta:** É seguro tolerar níveis pressóricos menores (PAM limite de segurança ~55 mmHg), desde que existam critérios de boa perfusão: aumento de débito cardíaco documentado (ECOTT ou monitor), diurese preservada, status neurológico adequado e lactato em queda.
+	- *Atenção:* O tempo de enchimento capilar perde a confiabilidade diagnóstica nesses pacientes.
+	- 📎 Refs: 4, 5
+- **Alvos de PAM no Choque Séptico para pacientes cronicamente hipertensos.**
+	- Manter uma meta de PAM mais alta (ex: 75-85 mmHg em vez de 65 mmHg) tem demonstrado reduzir a necessidade de suporte dialítico neste subgrupo.
+	- *Atenção:* Essa recomendação nasce de análises de subgrupo; deve ser individualizada com cautela.
+	- 📎 Refs: 12
+- **A falácia do Índice Cardíaco supranormal (> 4,5 L/min/m²).**
+	- Forçar inotrópicos e fluidos para atingir ofertas de oxigênio supranormais NÃO melhora o consumo tecidual ($VO_2$) se a disfunção orgânica já se tornou irreversível.
+	- **A Conduta:** Não persiga essa meta. Causa aumento substancial de arritmias, isquemia e mortalidade.
+	- 📎 Refs: 23, 24
+- **Segurança no uso de Vasopressores em Acesso Venoso Periférico (AVP).**
+	- **A Conduta no Brasil:** AVP deve ser utilizado apenas como resgate provisório (urgência) e pelo menor tempo possível, até a passagem segura do Cateter Venoso Central (CVC).
+	- **Regras para infusão em AVP:**
+		- Equipe treinada com rácio de no máximo 2 pacientes por enfermeiro.
+		- Utilizar solução em concentrações mais diluídas.
+		- Sítio de punção próximo à fossa cubital (longe de dobras articulares).
+		- Vigilância e inspeção a cada 30 minutos.
+	- **Intercorrências no uso Periférico:**
+		- Extravasamento: Risco de necrose tecidual. Antídoto: infusão local subcutânea de fentolamina.
+		- Interrupção abrupta: Devido à meia-vida curtíssima, a perda do AVP leva ao colapso hemodinâmico imediato do paciente.
+	- 📎 Refs: 11, 26

@@ -103,3 +103,14 @@ publish: true
 	- [[37  Metas Choque Inicial]]
 - [[22 mx perfas]]
 	- [[22 Mx Perfusão e Oxigenação]]
+
+----
+## mSan
+- [[18.1 mx hmd remast]]
+	- [[18.1 mx hmd]]
+- [[18.2 mx perf remast]]
+	- [[18.2 mx perf]]
+- [[18.3 fluidorr remast]]
+	- [[18.3 fluidorr]]
+- [[19 dva remast]]
+	- [[19 dva]]

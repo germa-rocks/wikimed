@@ -2,8 +2,6 @@
 publish: true
 ---
 
-
-
 # Bases Fisiológicas e Dinâmicas do Sistema Circulatório
 
 ## Pressão Arterial Sistêmica e o "Custo Evolutivo"
