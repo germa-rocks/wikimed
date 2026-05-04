@@ -125,4 +125,6 @@ publish: true
 [[abordagem choque indiferenciado]]
 - [[hipovol e distri]]
 	- [[neurogen]]
+	- [[hemorragico]]
 - [[cardio e obstr]]
+- [[tamponamento]]
