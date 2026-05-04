@@ -119,3 +119,10 @@ publish: true
 	- [[18.3 fluidorr]]
 - [[19 dva remast]]
 	- [[19 dva]]
+
+----
+## Skt
+[[abordagem choque indiferenciado]]
+- [[hipovol e distri]]
+	- [[neurogen]]
+- [[cardio e obstr]]
