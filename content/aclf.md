@@ -1,0 +1,139 @@
+---
+publish: true
+---
+
+# Falência Hepática Aguda sobre Crônica (ACLF) e Hepatite Alcoólica
+
+## 1. Definições e Diagnóstico Diferencial
+- **A ACLF refere-se a uma cirrose descompensada que cursa com falência orgânica. Na prática, qualquer paciente com cirrose descompensada grave o suficiente para necessitar de UTI provavelmente tem ACLF.**
+	- **Critérios EASL-CLIF para ACLF:** Exige a presença conjunta de descompensação aguda e falência de órgãos.
+		- Descompensação aguda: Ascite, encefalopatia hepática, sangramento gastrointestinal (HDA/HDB) ou infecção bacteriana.
+		- Falência de 1 ou mais órgãos (Critérios específicos):
+			- Fígado: Bilirrubina > 12 mg/dL.
+			- Coagulação: INR > 2.5.
+			- Renal: Creatinina > 2 mg/dL ou necessidade de hemodiálise.
+			- Cérebro: Encefalopatia hepática grau 3-4.
+			- Cardiovascular: Necessidade de vasopressor.
+			- Respiratório: Relação P/F < 200, SpO2/FiO2 < 214, ou intubação.
+		- Escala de Graduação da ACLF:
+			- Grau 1: Falência de apenas um órgão (ex: falência renal isolada; ou falência de outro órgão associada a Cr 1.5–1.9 mg/dL e/ou encefalopatia grau I–II).
+			- Grau 2: Falência de 2 órgãos.
+			- Grau 3: Falência de 3 órgãos.
+	- **Diferenciação Crítica: ACLF vs. Insuficiência Hepática Aguda (ALF)**
+		- Doença hepática prévia: ALF ocorre em fígados saudáveis; ACLF tem histórico de doença prévia/complicações (ex: varizes).
+		- Fatores Precipitantes: ALF exige lesão aguda severa (ex: overdose de paracetamol, hepatite viral aguda, hepatite isquêmica). ACLF é desencadeada por perturbações menores (sangramento GI, infecção, desidratação).
+		- Imagem/Hipertensão Portal: ALF não tem sinais de cirrose; ACLF pode apresentar fígado nodular/encolhido, ascite, varizes, esplenomegalia.
+		- Laboratório: Ambas elevam bilirrubina e INR, mas transaminases *extremamente* elevadas sugerem ALF.
+
+## 2. Fatores Desencadeantes (Gatilhos Comuns da ACLF)
+- **A identificação do gatilho é o primeiro passo da conduta. As infecções lideram as causas, seguidas por hemorragias, distúrbios hemodinâmicos e insultos hepáticos diretos.**
+	- **Infecção (Em ordem decrescente de frequência):**
+		- Peritonite Bacteriana Espontânea (PBE).
+		- Urosepse.
+		- Infecções de pele e partes moles.
+		- Pneumonia.
+		- *C. difficile*.
+			- 📎 Refs: 37939273
+	- **Hemorragia:**
+		- Sangramento varicoso, gastropatia portal, úlcera péptica.
+	- **Anormalidades Hemodinâmicas:**
+		- Hipovolemia (excesso de diuréticos ou baixa ingesta oral).
+		- Hipervolemia (retenção hídrica da cirrose).
+		- Hipertensão pulmonar (portopulmonar).
+		- Medicamentos (anti-hipertensivos, vasodilatadores, nefrotóxicos).
+		- Trombose (veia portal, veia hepática/Budd-Chiari).
+	- **Insulto Hepático e Iatrogenia:**
+		- Hepatite Alcoólica (causa muito comum).
+		- Lesão Induzida por Drogas (DILI), especialmente paracetamol.
+		- Infecção viral (Agudização do VHB por não adesão ou nova infecção).
+		- Obstrução biliar.
+		- Iatrogenia: Ressecção hepática, ablação de CHC, cirurgias abdominais ou uso de anestésicos inalatórios.
+
+## 3. Avaliação Clínica e Laboratorial (Workup)
+- **A avaliação exige um rastreio infeccioso completo (mesmo sem febre), rigorosa avaliação do status volêmico via POCUS e investigação de toxinas e distúrbios de coagulação.**
+	- **História e Exame Físico:**
+		- Avaliar ingesta de álcool, medicamentos (paracetamol, escalonamento de betabloqueadores, diuréticos, neuroativos).
+		- Estimar volume: balanço hídrico, peso, edema.
+		- Revisar eventos recentes: HDA, paracentese, cirurgias.
+		- Exame neurológico com foco em *asterixis*.
+		- POCUS (Ecocardiografia à beira-leito): Doppler femoral (para congestão), USG abdominal (ascite), USG renal (excluir causa pós-renal na LRA).
+	- **Workup Infeccioso Básico (Cirróticos podem não fazer febre):**
+		- Hemoculturas e Urinocultura (Recomendação AASLD).
+		- Paracentese (se ascite moderada/avolumada) para excluir PBE.
+		- Toracocentese para derrames pleurais moderados/grandes (excluir empiema bacteriano espontâneo).
+		- Radiografia de tórax e Imagem direcionada (ex: TC abdome se suspeita de sepse abdominal).
+		- Marcadores inflamatórios: Desempenho ruim na cirrose. PCR > 20-50 mg/dL e Relação Neutrófilos/Linfócitos (NLR) >> 6 podem sugerir infecção sobreposta (NLR basal no cirrótico já é de 2-6).
+			- 📎 Refs: 37939273, 16310518, 29384797, 32921962, 24733601, 23249602.
+	- **Workup Laboratorial e de Imagem:**
+		- Eletrólitos (incluindo Ca, Mg, Fosfato), Hemograma, Função hepática.
+		- Coagulação estendida: INR, PTT, Fibrinogênio, TEG (Tromboelastografia).
+		- Nível de paracetamol (se qualquer suspeita), Lactato, Gasometria.
+		- USG de Quadrante Superior Direito com Doppler (excluir trombose portal/hepática ou obstrução biliar).
+	- **Workup Neurológico (se alteração do estado mental):**
+		- Glicemia capilar imediata.
+		- Amônia: Útil apenas na encefalopatia *grave* (um nível normal sugere diagnóstico alternativo).
+		- TC de crânio (se risco de sangramento) e Punção Lombar (se suspeita de infecção sem outro foco).
+	- **Workup Renal (LRA intercorrente):**
+		- EAS (urina tipo 1) e análise de sedimento.
+		- CPK (excluir rabdomiólise).
+		- Nível sérico de drogas (vancomicina, aminoglicosídeos, inibidores de calcineurina).
+		- Pressão intra-abdominal (PIA) pelo cateter vesical se suspeita de Síndrome Compartimental Abdominal por ascite.
+
+## 4. Manejo Multissistêmico na UTI
+- **A terapia na ACLF foca na reversão do gatilho, ressuscitação volêmica guiada por albumina, alvos de PAM mais elevados e proteção rigorosa da função renal.**
+	- **Manejo Cardiovascular e Volêmico:**
+		- Vasopressores: Alvo inicial de PAM > 65 mmHg.
+		- Alvo elevado de PAM (> 80-85 mmHg): Considerar fortemente se houver probabilidade de Síndrome Hepatorrenal (SHR) ou má perfusão mantida após prova com noradrenalina.
+		- Albumina a 20%: Estritamente indicada para SHR, PBE ou Paracentese de grande volume.
+			- *Nota sobre outras infecções:* Diretrizes atuais desencorajam albumina para infecções não-PBE, a menos que o paciente exiba fenótipo de fisiologia hepatorrenal (ascite, hipotensão crônica, hiponatremia crônica).
+			- 📎 Refs: 35006099 (ACG 2020), 37365997
+	- **Manejo Renal (Prevenção e Tratamento da LRA):**
+		- Suspensão imediata de nefrotóxicos (diuréticos e anti-hipertensivos).
+		- Tratamento empírico para Síndrome Hepatorrenal (SHR): Iniciar albumina e vasopressores precocemente.
+		- *Critério de LRA:* Aumento da creatinina em 0.3 mg/dL ou 1.5x o valor basal.
+	- **Gastrointestinal, Nutrição e Paracentese:**
+		- Profilaxia de úlcera de estresse com IBP (Diretrizes favorecem IBP sobre antagonista H2). Limiar baixo para Pantoprazol/Omeprazol 40mg IV 12/12h empírico.
+		- Paracentese terapêutica se ascite tensa: Indicada se suspeita de síndrome compartimental abdominal, LRA associada à PIA elevada, ou sangramento varicoso não controlado (reduz pressão portal).
+			- *Reposição:* 8 gramas de albumina para cada 1 Litro de fluido removido.
+		- N-acetilcisteína (NAC): Indicada em overdose de paracetamol e considerada na Hepatite Alcoólica severa.
+		- Nutrição: O cirrótico é desnutrido crônico. Risco alto de síndrome de realimentação. Repor profilaticamente: Tiamina, Vitamina A, D, Folato, Zinco e Cobre.
+			- 📎 Refs: 35006099, 8985265.
+	- **Hematologia e Endócrino:**
+		- Profilaxia de TVP: INR elevado **não** é contraindicação. Contraindicar apenas se sangramento GI ativo ou trombocitopenia severa.
+		- Vitamina K: Considerar 10mg IV se INR alto para excluir deficiência nutricional.
+		- Glicemia: Cuidado redobrado com hipoglicemia (gliconeogênese está falha). Não busque controle glicêmico agressivo (evitar hipoglicemia iatrogênica).
+	- **Dose de Estresse de Corticoide (Síndrome Hepatoadrenal):**
+		- Prevalência de insuficiência adrenal relativa é de ~50% na cirrose avançada.
+		- Indicações: Limiar mais baixo para iniciar corticoide em choque séptico, PAC grave ou Hepatite alcoólica.
+			- 📎 Refs: 31589973, 31977332, 17058239, 32928750, 37939273, 37593538, 37552333.
+	- **Manejo Neurológico (Encefalopatia e Delirium):**
+		- Tiamina: 100 mg IV em push diário de rotina. Usar alta dose (500 mg IV 8/8h) se suspeita de encefalopatia de Wernicke.
+		- Sedação: Evitar sedativos de longa ação. Dexmedetomidina é a preferida.
+		- *Red Flag:* Cuidado para não diagnosticar erroneamente abstinência alcoólica em paciente com encefalopatia; uso de benzodiazepínicos irá piorar drasticamente o quadro.
+		- Encefalopatia Hepática (EH): Baixo limiar para iniciar Lactulose +/- Rifaximina. Se muito grave, considerar lavagem intestinal total com Polietilenoglicol (PEG).
+			- 📎 Refs: 35006099, 25243839, 30234645, 28316761.
+
+## 5. Foco Específico: Hepatite Alcoólica
+- **Hepatite alcoólica se apresenta com icterícia de início rápido, bilirrubina muito elevada e transaminases moderadamente tocadas (relação AST/ALT > 1.5). Casos graves (MELD > 20) têm indicação de Corticoterapia e N-Acetilcisteína.**
+	- **Critérios Diagnósticos (Consórcio NIAAA):**
+		- Início de icterícia nas últimas < 8 semanas.
+		- Consumo pesado crônico (>3 doses/dia para mulheres; >4/dia para homens por >6 meses), com menos de 60 dias de abstinência antes do início da icterícia.
+		- Bilirrubina Total > 3 mg/dL (frequentemente com medianas ~13 mg/dL).
+		- AST > 50 UI/L (Mas **ambas** AST e ALT devem ser < 400 UI/L. Valores muito maiores sugerem outro diagnóstico).
+		- Relação AST/ALT > 1.5.
+			- 📎 Refs: 32277902, 36577100, 26921783, 25901427, 31219169.
+	- **Diferenciação (Hepatite Alcoólica vs. Cirrose Descompensada Pura):**
+		- Uso de álcool: Na hepatite deve ser recente (último uso ≤ 2 meses).
+		- Início: Hepatite cursa com icterícia aguda; Cirrose é crônica (podendo agudizar).
+		- Laboratório: Na cirrose pura, transaminases podem estar normais e relação AST/ALT frequentemente é < 1.5. A bilirrubina na hepatite alcoólica tende a ser muito mais alta.
+	- **Tratamento Medicamentoso da Hepatite Alcoólica Grave:**
+		- Indicação de tratamento específico: Score MELD > 20 (Diretriz Americana de Gastroenterologia).
+		- Corticoides:
+			- Dosagem: Prednisolona/Prednisona 40mg/dia VO **ou** Metilprednisolona 32mg/dia IV. (Se choque, hidrocortisona 50mg IV 6/6h é dose equivalente aceitável).
+			- Reavaliação: Calcular Escore de Lille no dia 4 a 7 de tratamento.
+			- Conduta guiada pelo Lille: Se ≥ 0.45 (má resposta), suspender corticoides. Se < 0.45 (boa resposta), manter o ciclo de 4 semanas.
+		- N-Acetilcisteína (NAC): Recomendada como terapia adjuvante ao corticoide para pacientes com MELD > 20. Melhora dramaticamente a sobrevida no prazo de 30 dias.
+			- 📎 Refs: 25901427, 29738698, 34166722, 38174913, 22070475.
+	- **Tratamento a Longo Prazo:**
+		- Acessar centros de transplante se paciente elegível (mesmo durante episódio agudo em casos selecionados).
+		- Abstinência alcoólica é compulsória para sobrevivência a longo prazo. Tratamento do transtorno por uso de álcool deve ser iniciado.
