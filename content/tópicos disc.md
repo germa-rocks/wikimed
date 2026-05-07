@@ -7,10 +7,13 @@ publish: true
 Aqui está a tabela com os tópicos de discussão reorganizados e agrupados **por sistema fisiológico**, facilitando a abordagem temática e a correlação com a beira do leito de cada paciente:
 
 ## Ne
+- [[ef coma remast]]
+	- [[ef coma]]
 - [[crise epiléptica em oncologico]]
 	- [[EEG]]
 	- [[neuroonco]]
 - [[EME]]
+	- [[EME mSanar]]
 - [[ACLF]]
 - [[EH]]
 - [[diplopia]]
