@@ -3,9 +3,6 @@ publish: true
 ---
 
 
-
-Aqui está a estruturação do capítulo convertida em uma base de conhecimento de alto rendimento, otimizada para Obsidian/Notion. A regra do *progressive disclosure* (divulgação progressiva) foi estritamente aplicada, colocando as pérolas clínicas na superfície e a fisiopatologia/detalhes em níveis profundos.
-
 ***
 
 # Exame Neurológico do Paciente em Coma
