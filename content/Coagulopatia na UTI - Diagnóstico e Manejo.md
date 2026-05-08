@@ -9,7 +9,7 @@ publish: true
 	- **Conceito central:** Alterações laboratoriais isoladas (como elevação de TP/TTPA) sem sangramento ativo ou sem procedimento invasivo planejado NÃO exigem tratamento profilático ou reposição de fatores.
 	- **Pré-requisitos Fisiológicos para Hemostasia:** A cascata de coagulação depende de enzimas proteolíticas que exigem um ambiente biológico ótimo. Antes de repor fatores, corrija o ambiente:
 		- **Temperatura:** Deve ser mantida > 34°C. A hipotermia (comum pós-bypass ou trauma maciço) inibe severamente a cascata.
-		- **pH:** Deve ser > 7.1. A acidose metabólica bloqueia a ação das proteases.
+		- [ ] **pH:** Deve ser > 7.1. A acidose metabólica bloqueia a ação das proteases.
 		- **Cálcio Ionizado:** O cálcio é o "Fator IV" essencial. Deve estar em níveis normais para que a coagulação ocorra.
 - **A topografia do sangramento indica o defeito hemostático subjacente.**
 	- **Defeitos da Hemostasia Primária (Plaquetas e Fator de von Willebrand):** 
