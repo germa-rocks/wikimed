@@ -3,10 +3,6 @@ publish: true
 ---
 
 
-
-
-Aqui está a base de conhecimento estruturada e otimizada para o modelo DynaMed, focada em divulgação progressiva da informação e formatada com hierarquia rigorosa para Notion ou Obsidian.
-
 # Coagulação Intravascular Disseminada (CIVD)
 ## Fisiopatologia e Quadro Clínico
 - **A CIVD é uma síndrome de formação generalizada e descontrolada de coágulos que esgota os fatores de coagulação, gerando um espectro letal de tromboses micro/macrovasculares e sangramento.**

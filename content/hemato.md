@@ -4,7 +4,7 @@ publish: true
 - [[Coagulopatia na UTI - Diagnóstico e Manejo]]
 - [[fisiologia er alt Hematologicas UTI]]
 	- [[132 Fisiologia da Coagulação e Alterações Hematológicas em UTI]]
-- Dis
+- [[DistCoagulacao remast]]
 	- [[distCoagulação aula]]
 - [[Coagulation Tests]]
 - [[Coagulopatia hepática]]
