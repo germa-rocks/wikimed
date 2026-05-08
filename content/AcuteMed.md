@@ -3,6 +3,7 @@ publish: true
 ---
 - [[AcuteMed sc]]
 ***
+
 # Hipotensão e Choque: Avaliação e Manejo Beira-Leito
 
 ## Conceitos Chave e Avaliação Inicial
