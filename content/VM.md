@@ -9,3 +9,8 @@ publish: true
 - [[Princípios e Fisiologia da Ventilação Mecânica]]
 - [[VM - manejo e complicações]]
 - [[SDRA geral]]
+
+- [[modos Bsaci]]
+	- [[26 VM principios e modos]]
+- [[Mx VM]]
+	- [[27 Monitorização da ventilação mecânica]]
