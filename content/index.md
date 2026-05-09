@@ -8,5 +8,6 @@ publish: true
 - [[fisio Barlet]]
 - [[casos D-m]]
 - [[hemato]]
+- [[VM]]
 
 ![[Pasted image 20260428160328.png]]
