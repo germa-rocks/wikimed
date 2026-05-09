@@ -2,12 +2,6 @@
 publish: true
 ---
 
-
-
-Aqui está a estruturação do capítulo em formato de conhecimento de alto rendimento (High-Yield), otimizado para Notion/Obsidian. O conteúdo foi condensado em marcadores multinível ("toggles"), focando na aplicação prática à beira-leito, algoritmos mentais e "red flags".
-
-***
-
 # Ventilação Mecânica: Princípios e Modos
 
 ## Conceitos Gerais e Fisiologia Básica
