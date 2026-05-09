@@ -8,57 +8,26 @@ Below is a set of ventilators videos and manual guides. The videos are grouped b
     
 
 - Monnal T60 
-    
+	- Basic [Setup Instructional Video](https://www.youtube.com/watch?v=C8ZDj_FjJic)
+	- [Autotest “How To” Video](https://www.youtube.com/watch?v=Ql6t8Q4PZI8) 
+	- [(A)VCV Mode “How To Video”](https://www.youtube.com/watch?v=L-o8fPcbtVQ)
+	- [PSV-NIV Mode “How To” Video](https://www.youtube.com/watch?v=3TTil19ELKc)
+	- Selecting [Other Ventilation Modes](https://www.youtube.com/watch?v=Z3pihBJEir4)
+	- “How To” [Monitor Ventilation Parameters](https://www.youtube.com/watch?v=_Twv33fl1Tk&list=PLviSEFu2tFvIZAnIp6Tk60PAj5sSyCHCX&index=7)
 
-- Basic [Setup Instructional Video](https://www.youtube.com/watch?v=C8ZDj_FjJic)
-    
-- [Autotest “How To” Video](https://www.youtube.com/watch?v=Ql6t8Q4PZI8) 
-    
-- [(A)VCV Mode “How To Video”](https://www.youtube.com/watch?v=L-o8fPcbtVQ)
-    
-- [PSV-NIV Mode “How To” Video](https://www.youtube.com/watch?v=3TTil19ELKc)
-    
-- Selecting [Other Ventilation Modes](https://www.youtube.com/watch?v=Z3pihBJEir4) 
-    
-- “How To” [Monitor Ventilation Parameters](https://www.youtube.com/watch?v=_Twv33fl1Tk&list=PLviSEFu2tFvIZAnIp6Tk60PAj5sSyCHCX&index=7)
-    
-
-### Dräger 
-    
-
+### Dräger
 - Evita Infinity V500 Ventilator
-    
-
-- [“How To Use” Manual / Guide](https://www.draeger.com/Library/Content/ventilation-mini-handbuch-bk-9069812-en.pdf) in English for V500
-    
-
+	- [“How To Use” Manual / Guide](https://www.draeger.com/Library/Content/ventilation-mini-handbuch-bk-9069812-en.pdf) in English for V500
 - Evita 4 Ventilator 
-    
-
-- [“How To Use” Manual / Guide](https://www.manualslib.com/manual/1536145/Dr-Ger-Evita-4.html#manual) in English for Evita 4
-    
-
+	- [“How To Use” Manual / Guide](https://www.manualslib.com/manual/1536145/Dr-Ger-Evita-4.html#manual) in English for Evita 4
 - Evita XL Respiratory Ventilator
-    
-
-- [”How To Use” Manual / Guide](https://www.draeger.com/Library/Content/ventilation-mini-handbuch-bk-9069812-en.pdf) for Evita XL 
-    
-
+	- [”How To Use” Manual / Guide](https://www.draeger.com/Library/Content/ventilation-mini-handbuch-bk-9069812-en.pdf) for Evita XL 
 - Savina 300 Select Ventilator 
-    
-
-- [“How to Use” Training Video](https://www.youtube.com/watch?v=v3H5Ka1n63E) in English for 300 Select
-    
-
+	- [“How to Use” Training Video](https://www.youtube.com/watch?v=v3H5Ka1n63E) in English for 300 Select
 - Oxylog 3000 Ventilator 
-    
-
-- [ICU-Created Training Video](https://www.youtube.com/watch?v=AVev0DYYWQ4) for Oxylog 3000 
-    
+	- [ICU-Created Training Video](https://www.youtube.com/watch?v=AVev0DYYWQ4) for Oxylog 3000 
 
 ### GE Healthcare 
-    
-
 - Carescape R860 Ventilator
     
 
