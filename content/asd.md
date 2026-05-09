@@ -160,3 +160,6 @@ Mechanical ventilation is a supportive therapy aimed at providing gas exchange w
 3.  **Optimize PEEP:** Set PEEP to achieve FRC—minimizing both atelectrauma (too low) and right heart strain/overdistention (too high). Consider esophageal manometry in complex cases.
 4.  **Balance Patient Effort:** Avoid total paralysis if possible to prevent diaphragmatic atrophy (VIDD), but aggressively manage excessive effort to prevent P-SILI.
 5.  **Implement Protocols:** Utilize prone positioning early for PaO2/FiO2 < 150, tolerate permissive hypercapnia, and strictly enforce the daily ventilator bundle.
+
+
+![[Pasted image 20260509031217.png]]
