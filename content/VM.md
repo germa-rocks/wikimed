@@ -19,4 +19,4 @@ publish: true
 - [[Princípios Físicos e Nomenclatura em Ventilação Mecânica]]
 	- [[aula Design Principles of Modern Mechanical Ventilators (Part 1)]]
 - [[cases Análise de Curvas e Modos em Ventilação Mecânica]]
-	- [[cases Design]]
+	- [[aula Análise de Curvas e Modos em Ventilação Mecânica]]
