@@ -40,3 +40,10 @@ publish: true
 	- [[aula VILI Determinants]]
 - [[VILI prevenção]]
 	- [[aula VILI prevenção]]
+
+
+## Abord Hipoxemia
+- [[asdasd]]
+	- [[aula Management of Hypoxemia]]
+- [[aula CNAF]]
+- [[aula ARDS and Self-Induced Lung Injury]]
