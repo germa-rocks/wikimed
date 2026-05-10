@@ -63,3 +63,16 @@ publish: true
 	- [[prona resultados aula]]
 - [[ecmo]]
 	- [[ecmo aula]]
+
+
+# uot
+- [[aula Mechanical Ventilation - Physiological Principles]]
+- [[aula Control of Breathing During Mechanical Ventilation]]
+- [[aula Determinants of Respiratory Drive and Effort]]
+- [[aula Patient-Ventilator Dyssynchrony]]
+- [[aula Heart-Lung Interactions]]
+- [[aula Mechanical Ventilation in Acute Brain Injury]]
+- [[aula Lung and Diaphragm-Protective Ventilation]]
+- [[aula Lung- and Diaphragm-Protective Ventilation 2]]
+- [[aula Lecture On Lung And Diaphragm Protection]]
+- [[aula Prone Positioning and Inhaled Pulmonary Vasodilators]]
