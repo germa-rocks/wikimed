@@ -21,6 +21,6 @@ publish: true
 - [[cases Análise de Curvas e Modos em Ventilação Mecânica]]
 	- [[aula Análise de Curvas e Modos em Ventilação Mecânica]]
 - [[Mecânica Ventilatória Aplicada (Parte 1)]]
-	- [[aula]]
+	- [[aula Mecânica Ventilatória Aplicada (Parte 1)]]
 - a
 	- [[aula 2]]
