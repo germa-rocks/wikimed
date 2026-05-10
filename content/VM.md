@@ -66,7 +66,9 @@ publish: true
 
 
 # uot
-- [[aula Mechanical Ventilation - Physiological Principles]]
+- [[Princípios Fisiológicos da Ventilação Mecânica]]
+	- [[aula Mechanical Ventilation - Physiological Principles]]
+- 
 - [[aula Control of Breathing During Mechanical Ventilation]]
 - [[aula Determinants of Respiratory Drive and Effort]]
 - [[aula Patient-Ventilator Dyssynchrony]]
