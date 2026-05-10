@@ -17,4 +17,6 @@ publish: true
 
 ## Mechanical Ventilator Design Principles
 - [[Princípios Físicos e Nomenclatura em Ventilação Mecânica]]
-	- [[aula]]
+	- [[aula Design Principles of Modern Mechanical Ventilators (Part 1)]]
+- [[cases Análise de Curvas e Modos em Ventilação Mecânica]]
+	- [[cases Design]]
