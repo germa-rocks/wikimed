@@ -78,3 +78,4 @@ publish: true
 - [[aula Lung- and Diaphragm-Protective Ventilation 2]]
 - [[aula Lecture On Lung And Diaphragm Protection]]
 - [[aula Prone Positioning and Inhaled Pulmonary Vasodilators]]
+- [[aula Managing Refractory Hypoxemia and ECLS]]
