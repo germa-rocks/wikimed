@@ -14,3 +14,7 @@ publish: true
 	- [[26 VM principios e modos]]
 - [[Mx VM]]
 	- [[27 Monitorização da ventilação mecânica]]
+
+## Mechanical Ventilator Design Principles
+- [[Princípios Físicos e Nomenclatura em Ventilação Mecânica]]
+	- [[aula]]
