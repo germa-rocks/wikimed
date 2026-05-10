@@ -22,5 +22,13 @@ publish: true
 	- [[aula Análise de Curvas e Modos em Ventilação Mecânica]]
 - [[Mecânica Ventilatória Aplicada (Parte 1)]]
 	- [[aula Mecânica Ventilatória Aplicada (Parte 1)]]
-- a
-	- [[aula 2]]
+- [[Mecânica Ventilatória Aplicada (Parte 2)]]
+	- [[aula Mecânica Ventilatória Aplicada (Parte 2)]]
+
+## PV Sincronia
+- 
+	- [[aula]]
+- 
+	- [[aula2]]
+- 
+	- [[aula 3]]
