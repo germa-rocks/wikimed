@@ -20,3 +20,7 @@ publish: true
 	- [[aula Design Principles of Modern Mechanical Ventilators (Part 1)]]
 - [[cases Análise de Curvas e Modos em Ventilação Mecânica]]
 	- [[aula Análise de Curvas e Modos em Ventilação Mecânica]]
+- [[Mecânica Ventilatória Aplicada (Parte 1)]]
+	- [[aula]]
+- a
+	- [[aula 2]]
