@@ -45,5 +45,7 @@ publish: true
 ## Abord Hipoxemia
 - [[Manejo da Hipoxemia e SDRA]]
 	- [[aula Management of Hypoxemia]]
-- [[aula CNAF]]
-- [[aula ARDS and Self-Induced Lung Injury]]
+- [[CNAF]]
+	- [[aula CNAF]]
+- [[SDRA e Lesão Pulmonar Induzida]]
+	- [[aula ARDS and Self-Induced Lung Injury]]
