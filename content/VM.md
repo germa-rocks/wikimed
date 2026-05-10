@@ -26,9 +26,9 @@ publish: true
 	- [[aula Mecânica Ventilatória Aplicada (Parte 2)]]
 
 ## PV Sincronia
-- 
-	- [[aula]]
-- 
-	- [[aula2]]
-- 
-	- [[aula 3]]
+- [[Interações Paciente-Ventilador (PVA) p1]]
+	- [[aula Interações Paciente-Ventilador (PVA) p1]]
+- [[Interações Paciente-Ventilador (PVA) p2]]
+	- [[aula Interações Paciente-Ventilador (PVA) p2]]
+- [[Interações Paciente-Ventilador (PVA) p3]]
+	- [[aula Interações Paciente-Ventilador (PVA) p3]]
