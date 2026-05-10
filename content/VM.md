@@ -34,9 +34,9 @@ publish: true
 	- [[aula Interações Paciente-Ventilador (PVA) p3]]
 
 ## VILI
-- as
-	- [[aula1]]
+- [[VILI 1 Hx]]
+	- [[aula1 VILI Hx]]
+- [[VILI determinantes]]
+	- [[aula VILI Determinants]]
 - a
-	- [[aula 2]]
-- a
-	- [[aula 3]]
+	- [[aula VILI prevenção]]
