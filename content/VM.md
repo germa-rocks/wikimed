@@ -79,3 +79,70 @@ publish: true
 - [[aula Lecture On Lung And Diaphragm Protection]]
 - [[aula Prone Positioning and Inhaled Pulmonary Vasodilators]]
 - [[aula Managing Refractory Hypoxemia and ECLS]]
+
+
+## asd
+
+- [[aula 1a Pleural Pressure]]
+- [[]]
+- [[aula 1c Working of Breathing]]
+- [[aula 1d Pressures]]
+
+
+1: Mechanics of Ventilation
+A: Static Respiratory Pressure
+B: Dynamic Respiratory Pressure
+C: Work of Breathing
+D: Mechanical Ventilation
+”E: Auto-PEEP
+
+Chapter 2: Cardiovascular Physiology
+A: Venous Return
+B: Cardiac Function
+C: Integration of cardiovascular & cardio-respiratory phys
+
+3 Heart-Lung Interactions in Health
+A: Lung Volume Effects
+B: Effects of Decreased Intra-Thoracic Pressure
+C: Effects of Spontaneous Ventilation”
+D: Effects of Increased Intra-Thoracic Pressure
+E: Effects of Intermittent Positive Pressure Ventilation without PEEP
+
+4: Heart-Lung Interactions in Sickness
+
+A: Ventilation as Exercise
+B: Obstructive airways disease
+C: Systolic heart failure
+D: ARDS
+E: Cirrhotic endotoxemia
+
+5: Physiology of Extubation Failure
+
+A: Obstructed lung physiology
+B: Congested lung physiology
+
+Chapter 6: The Central Venous Pressure
+A: Measurement
+B: Determinants
+C: Dynamic Assessments
+D: CVP and the IVC
+
+
+Chapter 7: The Pulmonary Artery Catheter
+A: The anatomy of the pulmonary artery catheter
+B: The central venous pressure re-visited
+C: Pulmonary artery pressure and pulmonary vascular resistance
+D: Pulmonary artery occlusion pressure & pulmonary capillary pressure
+E: Cardiac output & trouble-shooting”
+
+
+Chapter 8: Dynamic Means of Cardiovascular Monitoring
+
+A: Functional hemodynamic monitoring
+B: Dynamic LV output and pulse pressure variation in passive ventilated pt
+C: Caveats to 8B!
+D: Spontaneous inspiration and pulse pressure variation
+E: Pulse pressure variation in the ventilated pt with inspiratory effort
+F: Assessment of the vena cava
+G: Passive Leg Raise
+
