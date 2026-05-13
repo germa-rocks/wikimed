@@ -105,6 +105,34 @@ CN1L, Leve dispneia: desligado tridil 12/05. Proposta alta domicílio sem ATB (S
 
 [[SCAcSST]]
 
+IAMCSST evoluido 06/05
+Anestesia:
+1. Bloqueio regional na radial direita com lidocaina 2% sem vasoconstritor.
+Técnica:
+2. Cateterizaqäo arterial radial por via percutånea (introdutor 6 French), com uso de fio-guia teflonado 0,035", com
+instalaqäo de PAI;
+3. Cateterizaqåo com cateter (TIG, JL), seguida de angiografias seletivas das artérias coronårias direita e esquerda
+em mültiplas projeqöes;
+4. Utilizado contraste iodado Henetix, no volume total de 100 mL;
+4, Retirada do introdutor, com realizaqäo de compressäo mecänica e curativo hemoståtico.
+Arteriografia Coronåria Esquerda (ACE):
+Tronco de coronåria esquerda (TCE): bifurcado sem lesöes obstrutivas.
+A artéria descendente anterior (ADA): percorre o sulco interventricular anterior e atinge o åpex. Apresenta estenose
+de 50% em terp proximal. Emite ramos diagonais sem lesöes obstrutivas. Emite ramos septais sem lesöes
+obstrutivas.
+A artéria circunflexa (ACX): percorre o sulco atrioventricular esquerdo sub ocluida em terco distal com fino calibre.
+Emite ramos marginal de grandei ortåncia sem lesöes obstrutivas.
+Arteriografia Coronåria Direita (ACD):
+A ACD dominante- Nåo se observam lesöes obstrutivas. Emite ramo ventricular posterior (VP) com sub ramo de
+moderada importåncia sem lesöes obstrutivas. Emite ramo descendente posterior (DP) ocluido em terco proximal.
+Conclusäo:
+5. Circulaqäo coronåria tipo direita dominante.
+6. TCE: isento de lesões
+
+3, ADA: 50% em terco proximal
+4. ACX: sub-ocluido em terco distal
+5. ACD: isento de lesöes. VP isento de lesöes e DP ocluido em terco proximal.
+
 ---
 
 ### **Leito 10 - Ana
