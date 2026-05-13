@@ -182,8 +182,8 @@ Conclusäo:
     - **Oncológico / Hemodinâmica:** Massa ocluindo/comprimindo estruturas (SVCS Yale 1). **Plano:** Início de _debulking_ com Ciclofosfamida; manter profilaxia para Síndrome de Lise Tumoral (Alopurinol).
         
 
-- a
-	- [[tumores mediastinais]]
+- [[tu mediastinais]]
+	- [[tumores mediastinais aula]]
 
 ---
 
