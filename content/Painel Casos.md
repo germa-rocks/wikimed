@@ -171,7 +171,7 @@ Conclusäo:
 
 - [[tu mediastinais]]
 	- [[tumores mediastinais aula]]
-- a
+- [[tu pulmonares]]
 	- [[tu pulmonares aula]]
 
 ---
