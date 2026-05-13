@@ -1,6 +1,8 @@
 ---
 publish: true
 ---
+[[Evolução Sistematizada e Checklist em UTI]]
+
 [[ACLF a]]
 [[Sangramento Digestivo]]
 [[Clostridioides]]
