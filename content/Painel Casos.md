@@ -51,6 +51,10 @@ CN1L, Leve dispneia: desligado tridil 12/05. Proposta alta domicílio sem ATB (S
 
 - Angioplastia coronariana com baläo de ACD com sucesso angiogråfico.
 
+
+[[SCAsSST]]
+
+
 ---
 
 ### **Leito 6 - Eduardo HC**
