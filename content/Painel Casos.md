@@ -28,14 +28,9 @@ publish: true
 - **Resumo Essencial:** Manoel, 68 anos, vasculopata, HAS, DM e DAC triarterial. Internado por osteomielite em pé esquerdo (Klebsiella e Proteus ESBL), sofreu PCR durante tentativa de amputação (30/04). Evoluiu com IAMSST na UTI (07/05).
     
 - **Análise 3D:**
-    
     - **Cardiologia:** Submetido a CATE em 11/05 com balonamento da CD (fluxo TIMI III). **Plano:** Suspensa nitroglicerina.
-        
     - **Infeccioso:** Osteomielite ativa em coto. **Plano:** Manter Meropenem.
-        
     - **Direção Geral:** Programação de alta da UTI após fim de ATB; aguarda seguimento da Cirurgia Vascular.
-        
-
 - AP Vasculopata, DAC triarterial (trombose parcial stent CD CATE 07/04)
 - AIH Pé diabético + osteomielite MIE > PO (24/04) Amputação higiênica hálux
 	- Tentativa de reabordagem em 30/04 entretanto intercorre PCR durante indução
@@ -107,7 +102,8 @@ CN1L, Leve dispneia: desligado tridil 12/05. Proposta alta domicílio sem ATB (S
 - **Análise 3D:**
     
     - **Cardiovascular:** Paciente assintomática e hemodinamicamente estável sem DVA. **Plano:** Otimização clínica com Atorvastatina, Enalapril, AAS e Clopidogrel. Aguarda CATE para 12/05 (tarde).
-        
+
+[[SCAcSST]]
 
 ---
 
@@ -138,6 +134,8 @@ CN1L, Leve dispneia: desligado tridil 12/05. Proposta alta domicílio sem ATB (S
         
     - **Respiratório:** Extubada, em CNO2. **Plano:** Furosemida 100mg 8/8h e medidas para broncoespasmo.
         
+
+[[HP]]
 
 ---
 
