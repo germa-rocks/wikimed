@@ -167,7 +167,9 @@ Conclusäo:
 [[hp ibcc]]
 - [[DRHF]]
 	- [[Decompensated Right Heart Failure & Pulmonary Embolism Chest Aula]]
-[[HP Chest Aula]]
+
+- [[hp chest]]
+	- [[HP Chest Aula]]
 
 ---
 
