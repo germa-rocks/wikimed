@@ -36,6 +36,21 @@ publish: true
     - **Direção Geral:** Programação de alta da UTI após fim de ATB; aguarda seguimento da Cirurgia Vascular.
         
 
+- AP Vasculopata, DAC triarterial (trombose parcial stent CD CATE 07/04)
+- AIH Pé diabético + osteomielite MIE > PO (24/04) Amputação higiênica hálux
+	- Tentativa de reabordagem em 30/04 entretanto intercorre PCR durante indução
+- UTI SCAsSST (07/05) > CATE 11/05 Balonamento CD (trombose parcial stent prévio)
+CN1L, Leve dispneia: desligado tridil 12/05. Proposta alta domicílio sem ATB (Sem proposta CxVasc nesta internação). vig renal
+
+- CATE pré
+1. Circulação coronária tipo direita dominante.
+2. TCE: isento de estenoses.
+3. ADA: Lesão segmentar do terço proximal ao distal com estenose de até 80%.
+4. ACX: Lesão segmentar do terço médio ao distal de até 70%.
+5. ACD: Lesão no terço proximal de 80%. Stent previamente implantado com perda luminar de até 90%.
+
+- Angioplastia coronariana com baläo de ACD com sucesso angiogråfico.
+
 ---
 
 ### **Leito 6 - Eduardo HC**
@@ -44,7 +59,20 @@ publish: true
     
 - **Análise 3D:**
     
-    - **Neurológico:** Estado de mal convulsivo refratário. **Plano:** Sedação tripla (Quetamina e Midazolam em BIC), Clobazam 6/6h e Fenobarbital 8/8h. Pulsoterapia com metilprednisolona; aguarda laudo de EEG e LCR.
+    - **Neurológico:** Estado de mal convulsivo refratário. **Plano:** Sedação tripla (Quetamina e Midazolam em BIC), Clob- AP Vasculopata, DAC triarterial (trombose parcial stent CD CATE 07/04)
+- AIH Pé diabético + osteomielite MIE > PO (24/04) Amputação higiênica hálux
+	- Tentativa de reabordagem em 30/04 entretanto intercorre PCR durante indução
+- UTI SCAsSST (07/05) > CATE 11/05 Balonamento CD (trombose parcial stent prévio)
+CN1L, Leve dispneia: desligado tridil 12/05. Proposta alta domicílio sem ATB (Sem proposta CxVasc nesta internação). vig renal
+
+- CATE pré
+1. Circulação coronária tipo direita dominante.
+2. TCE: isento de estenoses.
+3. ADA: Lesão segmentar do terço proximal ao distal com estenose de até 80%.
+4. ACX: Lesão segmentar do terço médio ao distal de até 70%.
+5. ACD: Lesão no terço proximal de 80%. Stent previamente implantado com perda luminar de até 90%.
+
+- Angioplastia coronariana com baläo de ACD com sucesso angiogråfico.azam 6/6h e Fenobarbital 8/8h. Pulsoterapia com metilprednisolona; aguarda laudo de EEG e LCR.
         
     - **Hemodinâmica:** Labilidade hemodinâmica. **Plano:** Noradrenalina 4ml/h.
         
