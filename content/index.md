@@ -1,7 +1,10 @@
 ---
 publish: true
 ---
-[[Evolução Sistematizada e Checklist em UTI]]
+- [[Evolução Sistematizada e Checklist em UTI]]
+- a
+	- [[visita multi aula]]
+
 
 [[ACLF a]]
 [[Sangramento Digestivo]]
