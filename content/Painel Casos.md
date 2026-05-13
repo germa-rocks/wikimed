@@ -165,6 +165,9 @@ Conclusäo:
 
 [[HP]]
 [[hp ibcc]]
+- [[DRHF]]
+	- [[Decompensated Right Heart Failure & Pulmonary Embolism Chest Aula]]
+[[HP Chest Aula]]
 
 ---
 
@@ -178,6 +181,9 @@ Conclusäo:
         
     - **Oncológico / Hemodinâmica:** Massa ocluindo/comprimindo estruturas (SVCS Yale 1). **Plano:** Início de _debulking_ com Ciclofosfamida; manter profilaxia para Síndrome de Lise Tumoral (Alopurinol).
         
+
+- a
+	- [[tumores mediastinais]]
 
 ---
 
