@@ -1,6 +1,10 @@
 ---
 publish: true
 ---
+[[diplopia EF]]
+[[diplopia VI]]
+[[diplopia outros]]
+[[diplopia Oculomotor]]
 
 
 
