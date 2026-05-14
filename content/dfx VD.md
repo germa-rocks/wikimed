@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-Aqui está a base de conhecimento médico estruturada e de alto rendimento, desenhada nos moldes do DynaMed/UpToDate para leitura rápida beira-leito, utilizando o princípio da divulgação progressiva por *toggles* aninhados.
+[[dfx VE]]
 
 # Falência de Ventrículo Direito (VD) e Cor Pulmonale Agudo
 
