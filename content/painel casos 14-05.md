@@ -1,10 +1,10 @@
 ---
 publish: true
 ---
-
+- [[tópicos disc]]
 ---
-### **Leito 402 PN - Clarinda, 68a**
-**One Liner:** Paciente feminina, 68 anos, com doença pulmonar intersticial e suspeita de colagenose, internada na UTI por piora respiratória e necessidade de intubação após dessaturação aguda na tomografia.
+### **Leito 402 PN - Clarinda, 68a** (colagenose, DPI, HP?)
+**One Liner:** Doença pulmonar intersticial e suspeita de colagenose, internada na UTI por piora respiratória e necessidade de intubação após dessaturação aguda na tomografia.
 *   **Antecedentes:** Colagenose em investigação (Esclerose sistêmica? / Fenômeno de Raynaud), Doença Pulmonar Intersticial de etiologia indefinida com padrão restritivo severo.
 *   **Motivo de internação:** Hospitalar: Investigação de dispneia crônica descompensada. UTI: Insuficiência respiratória aguda e necessidade de IOT de urgência.
 *   **Status atual:** Intubada recentemente, com troca gasosa muito ruim e suspeita de hipertensão pulmonar associada.
