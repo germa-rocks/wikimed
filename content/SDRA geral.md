@@ -1,9 +1,6 @@
 ---
 publish: true
 ---
-
-
-
 # Síndrome do Desconforto Respiratório Agudo (SDRA)
 
 ## Fisiopatologia
