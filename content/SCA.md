@@ -1,7 +1,8 @@
 ---
 publish: true
 ---
-
+- [[SCAcSST]]
+- [[SCAsSST]]
 # Infarto do Miocárdio Tipo-1 (OMI & NOMI) e Complicações
 
 ## Diagnóstico e Classificação: O Foco Mudou de "Segmento ST" para "Oclusão"
