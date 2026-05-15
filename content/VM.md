@@ -87,7 +87,7 @@ publish: true
 - [[A Static Respiratory Pressure]]
 	- [[aula 1a Pleural Pressure]]
 - [[B Dynamic Respiratory Pressure]]
-	- [[aula 2b]]
+	- [[aula 2b Respiratory]]
 - [[C Work of Breathing]]
 	- [[aula 1c Working of Breathing]]
 - [[D Pressures and Mechanical Ventilation]]
@@ -97,10 +97,11 @@ publish: true
 
 
 ### Chapter 2: Cardiovascular Physiology
-- A Venous Return
+- [[A Venous Return]]
 	- [[aula 2a]]
 - B Cardiac Function
-- C Integration of cardiovascular & cardio-respiratory phys
+	- [[aula 2b card]]
+- [[C Integration of cardiovascular & cardio-respiratory phys]]
 	- [[aula 2c]]
 
 3 Heart-Lung Interactions in Health
