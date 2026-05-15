@@ -21,7 +21,9 @@ publish: true
 - **O fluxo turbulento (vias centrais) é dependente da densidade do gás, enquanto o fluxo laminar (vias periféricas) é dependente da viscosidade.**
 	- **Fluxo Turbulento (Grandes Vias Aéreas):**
 		- O gradiente de pressão aumenta *exponencialmente* com o fluxo. A resistência efetiva aumenta dinamicamente quanto maior for o fluxo.
-		- ▶ **Pérola Clínica (Uso do Heliox):** A mistura de Hélio-Oxigênio (Heliox) tem **baixa densidade** (embora tenha maior viscosidade que o ar). Em crises de asma grave, onde o fluxo turbulento atinge até vias periféricas, o Heliox converte o fluxo turbulento em transicional/laminar, reduzindo drasticamente o trabalho respiratório.
+		- ▶ **Pérola Clínica (Uso do Heliox):**
+			- A mistura de Hélio-Oxigênio (Heliox) tem **baixa densidade** (embora tenha maior viscosidade que o ar).
+			- Em crises de asma grave, onde o fluxo turbulento atinge até vias periféricas, o Heliox converte o fluxo turbulento em transicional/laminar, reduzindo drasticamente o trabalho respiratório.
 	- **Fluxo Laminar (Pequenas Vias Aéreas):**
 		- O gradiente de pressão aumenta *linearmente* com o fluxo (segue a Lei de Poiseuille). A resistência efetiva é constante.
 	- **O papel do Raio da Via Aérea:**
