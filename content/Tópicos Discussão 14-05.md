@@ -28,3 +28,6 @@ publish: true
 [[Sedação, Agitação e Privação de Sono na UTI]]
 [[Doenças Pulmonares Parenquimatosas Difusas (DPLD)]]
 [[Síndromes Coronarianas Agudas (SCA)]]
+[[Ventilação Mecânica]]
+[[Avaliação Diagnóstica em Pneumologia]]
+[[Câncer de Pulmão]]
