@@ -81,25 +81,27 @@ publish: true
 - [[aula Managing Refractory Hypoxemia and ECLS]]
 
 
-## asd
+## Kenny
 
-- [[aula 1a Pleural Pressure]]
-- [[]]
-- [[aula 1c Working of Breathing]]
-- [[aula 1d Pressures]]
+### Chapter 1: Mechanics o f Ventilation
+- [[A Static Respiratory Pressure]]
+	- [[aula 1a Pleural Pressure]]
+- [[B Dynamic Respiratory Pressure]]
+	- [[aula 2b]]
+- [[C Work of Breathing]]
+	- [[aula 1c Working of Breathing]]
+- [[D Pressures and Mechanical Ventilation]]
+	- [[aula 1d Pressures]]
+- [[E Auto-PEEP]]
+	- [[aula 1e]]
 
 
-1: Mechanics of Ventilation
-A: Static Respiratory Pressure
-B: Dynamic Respiratory Pressure
-C: Work of Breathing
-D: Mechanical Ventilation
-”E: Auto-PEEP
-
-Chapter 2: Cardiovascular Physiology
-A: Venous Return
-B: Cardiac Function
-C: Integration of cardiovascular & cardio-respiratory phys
+### Chapter 2: Cardiovascular Physiology
+- A Venous Return
+	- [[aula 2a]]
+- B Cardiac Function
+- C Integration of cardiovascular & cardio-respiratory phys
+	- [[aula 2c]]
 
 3 Heart-Lung Interactions in Health
 A: Lung Volume Effects
