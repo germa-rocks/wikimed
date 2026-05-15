@@ -13,10 +13,10 @@ publish: true
     - **Pressão Estática:** Pressão necessária apenas para manter o volume do pulmão e da parede torácica.
     - **Pressão Dinâmica:** Pressão necessária para superar as forças de atrito e viscosidade (resistência) para gerar fluxo de ar.
 - **O Modelo "Balão e Tubo" (Bag & Tube) simplifica a mecânica em componentes Estáticos e Dinâmicos.**
-  - **O Balão (Alvéolo):** Representa o componente estático. Medido em condições de ausência de fluxo (No Airflow).
-    - Pressão Estática = Pressão Alveolar ($P_{ALV}$) - Pressão Pleural ($P_{PL}$).
-  - **O Tubo (Via Aérea):** Representa o componente dinâmico. Segue os princípios da Lei de Poiseuille (Fluxo e Resistência).
-    - Pressão Dinâmica = Pressão da Superfície Corporal (Atmosférica/Zero) - Pressão Alveolar ($P_{ALV}$).
+	- **O Balão (Alvéolo):** Representa o componente estático. Medido em condições de ausência de fluxo (No Airflow).
+	    - Pressão Estática = Pressão Alveolar ($P_{ALV}$) - Pressão Pleural ($P_{PL}$).
+	- **O Tubo (Via Aérea):** Representa o componente dinâmico. Segue os princípios da Lei de Poiseuille (Fluxo e Resistência).
+	    - Pressão Dinâmica = Pressão da Superfície Corporal (Atmosférica/Zero) - Pressão Alveolar ($P_{ALV}$).
 
 ## 2. Propriedades Estáticas do Pulmão e Pressão Transpulmonar
 - **A Pressão Transpulmonar ($P_{TP}$) é a pressão transmural de distensão do pulmão. Na prática clínica (ex: SARA), é a principal preditora de barotrauma e fratura alveolar.**
