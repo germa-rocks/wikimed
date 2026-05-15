@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-Aqui está a estruturação da base de conhecimento de alto rendimento, desenhada nos moldes do DynaMed para importação direta no Notion ou Obsidian (utilizando a lógica de listas aninhadas/toggles de divulgação progressiva).
 
 ***
 

@@ -8,7 +8,7 @@ publish: true
 
 ## 1. Princípios das Pressões Respiratórias e o Modelo "Balão-Tubo"
 - **A Pressão Pleural ($P_{PL}$) atua como o principal marcador (substituto) da Pressão Intratorácica e é o determinante central das interações coração-pulmão.**
-  - A $P_{PL}$ reflete a pressão no espaço intersticial pulmonar, ao redor das vias aéreas, do esôfago (mensurável via balão esofágico), do coração e dos grandes vasos.
+	- A $P_{PL}$ reflete a pressão no espaço intersticial pulmonar, ao redor das vias aéreas, do esôfago (mensurável via balão esofágico), do coração e dos grandes vasos.
   - A ventilação mecânica ou os músculos respiratórios precisam gerar pressão para superar duas forças fundamentais:
     - **Pressão Estática:** Pressão necessária apenas para manter o volume do pulmão e da parede torácica.
     - **Pressão Dinâmica:** Pressão necessária para superar as forças de atrito e viscosidade (resistência) para gerar fluxo de ar.
