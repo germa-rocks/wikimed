@@ -99,20 +99,24 @@ publish: true
 ### Chapter 2: Cardiovascular Physiology
 - [[A Venous Return]]
 	- [[aula 2a]]
-- B Cardiac Function
+- [[B Cardiac Function]]
 	- [[aula 2b card]]
 - [[C Integration of cardiovascular & cardio-respiratory phys]]
 	- [[aula 2c]]
 
-3 Heart-Lung Interactions in Health
-A: Lung Volume Effects
-B: Effects of Decreased Intra-Thoracic Pressure
-C: Effects of Spontaneous Ventilation”
-D: Effects of Increased Intra-Thoracic Pressure
-E: Effects of Intermittent Positive Pressure Ventilation without PEEP
+### 3 Heart-Lung Interactions in Health
+- [[A Lung Volume Effects]]
+	- [[aula 3a A Lung Volume Effects]]
+- [[B Effects of Decreased Intra-Thoracic Pressure]]
+	- [[aula 3b Decreased Intra-Thoracic P]]
+- [[C Effects of Spontaneous Ventilation]]
+	- [[3c Spontaneous aula]]
+- [[D Effects of Increased Intra-Thoracic Pressure]]
+	- [[3d Increased IntraTh P aula]]
+- [[E Effects of Intermittent Positive Pressure Ventilation without PEEP]]
+	- [[3e PEEP aula]]
 
-4: Heart-Lung Interactions in Sickness
-
+### 4 Heart-Lung Interactions in Sickness
 A: Ventilation as Exercise
 B: Obstructive airways disease
 C: Systolic heart failure
@@ -120,7 +124,6 @@ D: ARDS
 E: Cirrhotic endotoxemia
 
 5: Physiology of Extubation Failure
-
 A: Obstructed lung physiology
 B: Congested lung physiology
 
@@ -140,7 +143,6 @@ E: Cardiac output & trouble-shooting”
 
 
 Chapter 8: Dynamic Means of Cardiovascular Monitoring
-
 A: Functional hemodynamic monitoring
 B: Dynamic LV output and pulse pressure variation in passive ventilated pt
 C: Caveats to 8B!
