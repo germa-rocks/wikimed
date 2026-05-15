@@ -129,20 +129,20 @@ publish: true
 	- [[aula E Cirrhotic endotoxemia]]
 
 ### 5: Physiology of Extubation Failure
-[[A Obstructed lung physiology]]
-[[aula A Obstructed lung physiology]]
-[[B Congested lung physiology]]
-[[aula B Congested lung physiology]]
+- [[A Obstructed lung physiology]]
+	- [[aula A Obstructed lung physiology]]
+- [[B Congested lung physiology]]
+	- [[aula B Congested lung physiology]]
 
 ### Chapter 6: The Central Venous Pressure
-[[A CVP Measurement]]
-[[aula A CVP Measurement]]
-[[B CVP Determinants]]
-[[aula B CVP Determinants]]
-[[C CVP Dynamic Assessments]]
-[[aula C CVP Dynamic Assessments]]
-[[D CVP and the IVC]]
-[[aula D CVP and the IVC]]
+- [[A CVP Measurement]]
+	- [[aula A CVP Measurement]]
+- [[B CVP Determinants]]
+	- [[aula B CVP Determinants]]
+- [[C CVP Dynamic Assessments]]
+	- [[aula C CVP Dynamic Assessments]]
+- [[D CVP and the IVC]]
+	- [[aula D CVP and the IVC]]
 
 
 ### Chapter 7: The Pulmonary Artery Catheter

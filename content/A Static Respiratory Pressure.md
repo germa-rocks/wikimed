@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-Aqui está a estruturação de alto rendimento do capítulo fornecido, processada sob os princípios da divulgação progressiva de informações. O formato em listas aninhadas foi desenhado especificamente para importação direta e conversão em toggles no Notion, Obsidian ou RemNote.
 
 ***
 
