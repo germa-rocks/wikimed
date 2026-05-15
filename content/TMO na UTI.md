@@ -1,17 +1,6 @@
 ---
 publish: true
 ---
-
-
-***
-
-
-
-
-
-
-***
-
 # Terapia Celular e Transplante de Medula Óssea (TMO)
 
 ## 📌 Fundamentos e Indicações Clínicas
