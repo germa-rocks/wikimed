@@ -2,13 +2,7 @@
 publish: true
 ---
 
-
-
-
-Aqui está a estruturação de alto rendimento baseada no texto fornecido, otimizada para o sistema de *toggles* e revelação progressiva do Notion ou Obsidian. Para utilizar, basta copiar o bloco abaixo e colar no seu aplicativo de notas (as listas com recuo automaticamente se transformam em toggles na maioria desses softwares).
-
 ***
-
 # Ecocardiografia no Choque (POCUS Hemodinâmico)
 
 ## Introdução e Integração Clínica
