@@ -31,3 +31,5 @@ publish: true
 [[Ventilação Mecânica]]
 [[Avaliação Diagnóstica em Pneumologia]]
 [[Câncer de Pulmão]]
+
+[[Novos Terapêuticos em Doenças Infecciosas]]

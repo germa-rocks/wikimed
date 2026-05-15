@@ -1,0 +1,202 @@
+---
+publish: true
+---
+
+
+# Novos Terapêuticos em Doenças Infecciosas
+
+## Princípios Gerais da Antimicrobianoterapia
+- **A escolha do antimicrobiano ideal exige a intersecção de fatores do hospedeiro, da síndrome clínica e de conceitos farmacológicos.**
+	- Fatores do Hospedeiro: Histórico de alergias, gestação, função renal e hepática, presença de corpos estranhos (cateteres, próteses) e status imunológico (risco de oportunistas e necessidade de tratamentos prolongados).
+	- Terapia Empírica vs. Direcionada:
+		- **Terapia Empírica:** Baseada na síndrome clínica (ex: PAC, pielonefrite) e guiada pelo perfil de sensibilidade local (antibiograma institucional) antes do isolamento do patógeno.
+		- **Descalonamento (Terapia Direcionada):** Fundamental assim que o patógeno e o antibiograma são identificados, visando reduzir toxicidade, custos e pressão de seleção (resistência).
+- **A Terapia Combinada não é regra, mas possui indicações precisas na prática clínica.**
+	- Aumento de espectro empírico: Usado em pacientes críticos para garantir cobertura adequada até a saída das culturas.
+	- Infecções polimicrobianas: Quando um único agente não cobre todos os prováveis agentes.
+	- Prevenção de resistência: Clássico no tratamento da Tuberculose.
+	- Sinergismo antimicrobiano: Exceções clínicas específicas (ex: Penicilina + Gentamicina para endocardite enterocócica).
+
+## Farmacocinética (PK) e Farmacodinâmica (PD)
+- **A eficácia antibacteriana é previsível por meio de três índices PK-PD principais.**
+	- **Cmax/MIC (Morte Concentração-dependente):** A eficácia correlaciona-se com o pico de concentração plasmática em relação ao MIC.
+		- Exemplos: Aminoglicosídeos.
+	- **Tempo > MIC (%T > MIC) (Morte Tempo-dependente):** A eficácia correlaciona-se com o tempo em que a concentração do fármaco permanece acima do MIC entre as doses.
+		- Exemplos: Betalactâmicos.
+	- **AUC/MIC (Exposição Total):** A eficácia correlaciona-se com a área sob a curva (exposição total ao fármaco em 24h) acima do MIC.
+		- Exemplos: Fluoroquinolonas, Glicopeptídeos (Vancomicina), Daptomicina, Tetraciclinas.
+
+## Agentes Antibacterianos e Mecanismos de Resistência
+- **Bactérias desenvolvem resistência cromossômica (intrínseca) ou adquirida por 4 mecanismos cardinais.**
+	- 1. Inibição Enzimática (Produção de Betalactamases):
+		- Espectro estreito: TEM, SHV.
+		- ESBL (Betalactamases de Espectro Estendido): CTX-M (hidrolisam cefalosporinas de 3ª geração).
+		- Carbapenemases: NDM-1, KPC, OXA-48.
+		- Gene *AmpC* cromossômico: Comum no grupo CESP (*Enterobacter cloacae*, *Citrobacter freundii*, *Klebsiella aerogenes*). A exposição a betalactâmicos induz a expressão, gerando resistência a cefalosporinas de 3ª geração.
+		- *Nota:* Aminoglicosídeos também sofrem inativação enzimática.
+	- 2. Modificação do Alvo:
+		- MRSA (Staphylococcus aureus resistente à meticilina): O gene adquirido *mecA* codifica a PBP2a, que tem baixa afinidade por betalactâmicos (exceto a ceftarolina).
+		- *Streptococcus pneumoniae* resistente à penicilina: Decorre de PBPs em mosaico (redução de afinidade).
+	- 3. Bombas de Efluxo Ativo:
+		- Principal mecanismo de resistência às Tetraciclinas (genes *tet*) e Macrolídeos (gene *mef*).
+	- 4. Redução da Permeabilidade de Membrana (Porinas):
+		- Mutações nos canais de difusão de bactérias Gram-negativas. Ex: *Pseudomonas aeruginosa* perde a proteína OprD, tornando-se resistente a carbapenêmicos.
+
+## Classes de Antibacterianos: Pérolas Clínicas e Toxidade
+- **Betalactâmicos (Penicilinas, Cefalosporinas, Carbapenêmicos, Monobactâmicos)**
+	- Mecanismo: Ligam-se às PBPs, inibindo a síntese da parede celular (peptidoglicano).
+	- Perfil Clínico e Espectro: PK/PD é %T > MIC. Requerem ajuste na disfunção renal (exceções: Cloxacilina e Ceftriaxona).
+	- Cobertura antipseudomonas (*P. aeruginosa*): Piperacilina-tazobactam, Ceftazidime, Cefepime, Meropenem, Imipenem, Aztreonam.
+	- Monobactâmico (Aztreonam): Ativo apenas contra Gram-negativos aeróbicos.
+	- Efeitos Adversos (Red Flags): Reações de hipersensibilidade, nefrite intersticial, convulsões (principalmente penicilinas e imipenem), lama biliar (ceftriaxona), disfunção plaquetária, infecção por *Clostridioides difficile*.
+	- ▶ Novos Betalactâmicos (Aprovados pela FDA):
+		- Ceftarolina: Única com alta afinidade pela PBP2a (cobre MRSA). Indicações: ABSSSI, PAC.
+		- Ceftolozane/tazobactam: Espectro focado em Gram-negativos MDR, incluindo produtores de ESBL e *P. aeruginosa* resistente. (Dose dobrada na PAVM).
+		- Ceftazidime/avibactam: Atividade contra betalactamases de amplo espectro (ESBL, AmpC, KPC, OXA-48).
+		- Cefiderocol: Cefalosporina siderófora; cobre bacilos Gram-negativos MDR, incluindo resistentes aos carbapenêmicos.
+		- Meropenem/vaborbactam e Imipenem/relebactam: Cobertura contra Gram-negativos produtores de KPC.
+- **Glicopeptídeos e Lipoglicopeptídeos (Vancomicina, Telavancina, Oritavancina, Dalbavancina)**
+	- Mecanismo: Ligação ao peptídeo D-Ala-D-Ala, inibindo parede celular. PK/PD: AUC/MIC.
+	- Vancomicina: Sem absorção oral. Considerar dose de ataque. Cobre Gram-positivos (incluindo MRSA) e *C. difficile* (apenas quando via oral).
+		- Efeitos adversos: Nefrotoxicidade, dermatite bolhosa por IgA, Reação infusional ("Síndrome do Homem Vermelho"), flebite, ototoxicidade (rara).
+	- Telavancina: Risco de prolongamento do intervalo QTc e nefrotoxicidade.
+	- Oritavancina / Dalbavancina: Possuem meia-vida extremamente longa (usadas em dose única para infecções de pele e partes moles - ABSSSI).
+- **Lipopeptídeos (Daptomicina)**
+	- Mecanismo: Despolariza a membrana celular. PK/PD: AUC/MIC.
+	- **Atenção (Red Flag):** Inativada pelo surfactante pulmonar. É absolutamente contraindicada para pneumonias.
+	- Espectro: Cocos Gram-positivos, incluindo MRSA e Enterococos Resistentes à Vancomicina (VRE).
+	- Efeitos Adversos: Toxicidade muscular (miopatia/CPK elevada), neuropatia periférica, pneumonite eosinofílica.
+- **Aminoglicosídeos (Amicacina, Gentamicina, Tobramicina, Plazomicina)**
+	- Mecanismo: Inibição da síntese proteica (subunidade 30S). Possuem efeito pós-antibiótico prolongado. PK/PD: Cmax/MIC.
+	- Espectro: Bacilos Gram-negativos (*P. aeruginosa*). Usado em sinergismo com betalactâmicos para *Enterococcus sp.*
+	- Plazomicina (Novo): Ativa contra Gram-negativos produtores de enzimas modificadoras de aminoglicosídeos (Indicação: ITU complicada).
+	- Efeitos adversos: Nefrotoxicidade, ototoxicidade, bloqueio neuromuscular.
+- **Tetraciclinas e Glicilciclinas (Doxiciclina, Tigeciclina, Eravaciclina, Omadaciclina)**
+	- Mecanismo: Inibição da síntese proteica (30S). Excelente biodisponibilidade oral (exceto tigeciclina e eravaciclina, que são puramente EV). PK/PD: AUC/MIC.
+	- Espectro: Amplo (MRSA, atípicos, espiroquetas, rickettsias).
+	- Eravaciclina e Omadaciclina (Novos): Erava é potente contra GNB (para infecções intra-abdominais). Omada foca em *S. aureus*, *Streptococcus*, *Haemophilus* e atípicos.
+	- Efeitos adversos: TGI, esofagite medicamentosa, fotossensibilidade, deposição em ossos e dentes.
+- **Fluoroquinolonas (Ciprofloxacino, Levofloxacino, Moxifloxacino, Delafloxacino)**
+	- Mecanismo: Inibição da síntese de DNA. Excelente biodisponibilidade oral. PK/PD: AUC/MIC.
+	- **Pérola PK:** Cipro e Levo concentram muito na urina. Moxifloxacino possui depuração hepática (não serve para ITU).
+	- Espectro:
+		- Ciprofloxacino: Foco em Gram-negativos (*P. aeruginosa*).
+		- Levo/Moxi ("Quinolonas respiratórias"): Mais potentes para Gram-positivos, bactérias atípicas e micobactérias.
+		- Delafloxacino (Novo): Espectro muito amplo, cobrindo MRSA e *P. aeruginosa*.
+	- Efeitos adversos (Red Flags): Prolongamento do QTc, ruptura de tendão, neuropatia periférica, toxicidade do SNC, disgliemia, alto risco para *C. difficile*.
+- **Macrolídeos (Azitromicina, Claritromicina, Fidaxomicina)**
+	- Mecanismo: Inibição proteica (50S). Excelente VO. PK/PD: AUC/MIC.
+	- Espectro: Gram-positivos e negativos respiratórios, atípicos, NTM (micobactérias não tuberculosas), rickettsias.
+	- Fidaxomicina (Novo): Antibiótico não absorvível via oral, usado especificamente para infecção por *C. difficile* (menor taxa de recorrência que a vancomicina).
+	- Efeitos adversos: Prolongamento do QTc, intolerância TGI severa, hepatotoxicidade.
+- **Lincosamidas (Clindamicina)**
+	- Mecanismo: Inibição proteica (50S).
+	- Espectro: Cocos Gram-positivos (Não cobre enterococos) e Anaeróbios.
+	- Efeitos adversos: Alto risco de infecção por *C. difficile*, diarreia, hepatotoxicidade.
+- **Oxazolidinonas (Linezolida, Tedizolida)**
+	- Mecanismo: Inibição proteica (50S). Excelente biodisponibilidade oral. PK/PD: AUC/MIC.
+	- Espectro: Gram-positivos resistentes (MRSA, VRE), micobactérias.
+	- Tedizolida (Novo): Pode ser ativo contra Gram-positivos resistentes à linezolida; melhor tolerabilidade.
+	- Efeitos adversos (Red Flags): Citopenias (especialmente trombocitopenia após uso prolongado), Síndrome Serotoninérgica (inibidor fraco da MAO), neuropatia periférica/óptica, acidose lática.
+- **Nitroimidazóis (Metronidazol)**
+	- Mecanismo: Dano e quebra do DNA. Excelente biodisponibilidade oral. PK/PD: Cmax/MIC.
+	- Espectro: Estrito para Anaeróbios e certos parasitas.
+	- Efeitos adversos: Reação tipo Dissulfiram (interação com álcool), gosto metálico, neuropatia periférica, meningite asséptica, encefalopatia.
+- **Rifamicinas (Rifampicina)**
+	- Mecanismo: Inibição da síntese de RNA. Excelente VO.
+	- Tática Clínica: Quase sempre usada em terapia combinada (devido ao rápido surgimento de resistência, mediada por mutação no gene *rpoB*). Útil em infecções de corpos estranhos/próteses por *Staphylococcus* e micobactérias. (Cepas resistentes podem manter sensibilidade à rifabutina).
+	- Efeitos adversos: Interações medicamentosas severas (forte indutor do Citocromo P450), coloração alaranjada de fluidos corporais, rash.
+- **Sulfonamidas (Sulfametoxazol-Trimetoprima)**
+	- Mecanismo: Inibição da síntese de ácido fólico. Excelente VO.
+	- Espectro: *S. aureus* (incluindo CA-MRSA), muitas enterobactérias, *Listeria monocytogenes*, *Stenotrophomonas maltophilia*.
+	- Efeitos adversos: Hipersensibilidade (Síndrome de Stevens-Johnson), mielotoxicidade, hipercalemia, disfunção renal.
+- **Polimixinas (Polimixina B, Colistina)**
+	- Mecanismo: Rompimento da membrana celular. Uso comum em combinação.
+	- Espectro: Amplo para Gram-negativos MDR (KPC, *Acinetobacter*, *Pseudomonas*).
+	- **Pérola Prática:** A Colistina atinge maiores concentrações urinárias, sendo preferida para ITU por GNB MDR.
+	- Efeitos adversos: Altamente nefro e neurotóxicas.
+
+## Agentes Antituberculose
+- **O esquema para TB sensível exige combinação para evitar resistência: Fase intensiva (RIPE por 2 meses) seguida de Manutenção (RI por 4 meses).**
+	- **Isoniazida (H):** Inibe síntese do ácido micólico.
+		- Efeitos adversos: Hepatite (pode ser fulminante), neuropatia periférica (prevenir com Piridoxina - B6), hipersensibilidade.
+		- Resistência: Mutações no gene *KatG* (baixo nível) ou *inhA* (alto nível).
+	- **Pirazinamida (Z):** Mecanismo exato desconhecido.
+		- Efeitos adversos: Náuseas, hepatite, hiperuricemia/gota, poliartralgia.
+		- Resistência: Mutação no gene *pncA*.
+	- **Etambutol (E):** Inibe a arabinosil transferase (parede celular).
+		- Efeitos adversos: Neurite óptica (avaliação oftalmológica mandatória), neuropatia periférica.
+		- Resistência: Mutação no gene *embB*.
+- **TB Resistente: Novos Fármacos Aprovados.**
+	- **Bedaquilina:** Inibe a ATP sintase micobacteriana. Efeitos adversos: Hepatotoxicidade, prolongamento do QTc. (Resistência: mutação no gene *atpE* ou bombas de efluxo).
+	- **Pretomanida:** Inibe síntese de ácido micólico. Usada apenas em combinação (ex: com linezolida e bedaquilina). Efeitos adversos: Hepatotoxicidade, mielossupressão, acidose lática, prolongamento do QTc e neuropatias.
+
+## Antivirais
+- **A resistência antiviral requer falha virológica/clínica e é comumente atestada por ensaios genotípicos que identificam mutações pontuais.**
+- **Fármacos contra Vírus de DNA (Herpesvírus, CMV, Poxvírus)**
+	- Aciclovir (IV/VO) / Valaciclovir (VO): Inibem DNA polimerase. Foco: HSV e VZV.
+		- Efeitos adversos: Nefropatia obstrutiva por cristais (ACV exige hidratação!), neurotoxicidade. Valaciclovir tem mais intolerância TGI.
+		- Resistência: Alteração na Timidina Quinase (*UL23*) viral ou no gene da polimerase (*UL30*).
+	- Ganciclovir (IV) / Valganciclovir (VO): Inibem DNA polimerase. Potente contra CMV.
+		- Efeitos adversos: Mielotoxicidade.
+		- Resistência: Mutação na quinase viral (*UL97*) ou polimerase (*UL54*).
+	- Foscarnete (IV): Análogo de pirofosfato. Usado para CMV resistente a Ganciclovir e HSV resistente a Aciclovir.
+		- Efeitos adversos: Nefrotoxicidade grave, diabetes insipidus nefrogênico, síndrome de Fanconi, úlceras genitais, distúrbios hidroeletrolíticos.
+	- Cidofovir (IV): Análogo de nucleotídeo. Cobertura estendida para poliomavírus e adenovírus.
+		- Efeitos adversos: Nefrotoxicidade, Síndrome de Fanconi, neutropenia.
+	- ▶ Novos Fármacos contra Vírus de DNA:
+		- Letermovir: Inibidor do complexo terminase do CMV (*pUL51, pUL56, pUL89*). Aprovado para profilaxia de CMV pós-TMO.
+		- Maribavir: Inibidor da proteína quinase *pUL97* do CMV. Para doença/infecção refratária. Pode causar disgeusia (distúrbio do paladar).
+		- Tecovirimat: Inibe a proteína de envelope *VP37*. Aprovado para o tratamento de Varíola/Orthopoxvirus.
+- **Fármacos contra Vírus de RNA (Influenza e SARS-CoV-2)**
+	- Inibidores da Neuraminidase (Oseltamivir, Zanamivir, Peramivir): Bloqueiam liberação do vírus. Cobrem Influenza A e B.
+		- Efeitos: TGI (Oseltamivir); Broncoespasmo (Zanamivir Inalatório). Resistência cruzada ocorre (H275Y).
+	- Adamantanos (Amantadina, Rimantadina): Inibidores da proteína M2. Cobrem apenas Influenza A. Mutações são frequentes. Causam queixas em SNC e TGI.
+	- Baloxavir marboxil: Inibidor da endonuclease ácida (PA). Dose única oral para Influenza A e B.
+	- Ribavirina (VO/IV): Amplo espectro. Efeitos graves: Anemia hemolítica, teratogenicidade.
+	- ▶ Específicos para SARS-CoV-2 (COVID-19):
+		- Remdesivir (IV): Inibidor da RNA polimerase. Efeito adverso: Elevação de transaminases.
+		- Nirmatrelvir/ritonavir (VO): Inibidor de protease. Atenção: Múltiplas e graves interações medicamentosas (ritonavir é inibidor potente da CYP3A4).
+		- Molnupiravir (VO): Toxicidade óssea/cartilaginosa e embriofetal severas.
+
+## Antifúngicos
+- **A proximidade filogenética dos fungos (eucariontes) com o ser humano reduz o arsenal terapêutico e aumenta a toxicidade dos fármacos.**
+	- **Poliênicos (Anfotericina B desoxicolato vs. Formulações lipídicas):**
+		- Mecanismo: Ligação direta ao ergosterol na membrana, causando lise osmótica.
+		- Espectro mais amplo: Leveduras (mas resistência em *C. lusitaniae* e *C. guilliermondii*), Fungos dimórficos, Bolores (*Aspergillus*, exceto *A. terreus*) e Mucorales.
+		- Efeitos adversos: Nefrotoxicidade clássica, espoliação severa de Potássio e Magnésio, reações infusionais (rigidez/febre). A formulação lipídica é menos nefrotóxica.
+	- **Azóis (Fluconazol, Voriconazol, Itraconazol, Posaconazol, Isavuconazônio):**
+		- Mecanismo: Inibição da produção de ergosterol (liga-se a 14-alfa-demetilase).
+		- Efeitos adversos de classe: Hepatotoxicidade, prolongamento do QTc, inibição/interação via CYP.
+		- Fluconazol: *Candida* (não cobre *C. krusei*), *Cryptococcus*. **Atenção:** Nenhuma atividade contra bolores (ex: *Aspergillus*).
+		- Voriconazol: Ouro para *Aspergillus*. Efeitos específicos: Fotossensibilidade, distúrbios visuais/alucinações visuais e auditivas, periostite.
+		- Itraconazol: Foco em fungos endêmicos. Efeitos específicos: Hipertensão, edema periférico, agravamento de ICC.
+		- Posaconazol e Isavuconazônio (Novo): Espectro estendido incluindo Mucorales (Mucormicose).
+	- **Equinocandinas (Caspofungina, Micafungina, Anidulafungina):**
+		- Mecanismo: Inibe síntese de beta-d-glucana da parede fúngica.
+		- Espectro: Excelentes para cepas de *Candida* resistentes a azóis (menos ativas contra *C. parapsilosis*). Ativas contra *Aspergillus*, mas não cobrem *Cryptococcus*. Bem toleradas (eventual hepatotox).
+	- **Flucitosina (5-FC):**
+		- Mecanismo: Análogo de nucleosídeo (Inibe DNA/proteína).
+		- Uso clínico: Sempre em terapia combinada (com Anfotericina B) para Meningite por *Cryptococcus*. Efeitos: Supressão medular severa.
+	- ▶ Ibrexafungerp (Novo): Triterpenoide que inibe a beta-d-glucana. Aprovado oralmente para candidíase vulvovaginal.
+
+## Antiparasitários
+- **Antimaláricos**
+	- Derivados de Artemisinina (Artesunato IV, Arteméter VO): Atuam em trofozoítos/anéis. Para malária grave e não complicada.
+		- Red Flag: Risco de hemólise tardia pós-artesunato (pelo menos 7 dias após iniciar tratamento).
+	- Cloroquina (Regiões sensíveis): Prurido e queixas TGI.
+	- Mefloquina: Profilaxia. Efeitos adversos neuropsiquiátricos graves (ansiedade, depressão, alucinações, psicose).
+	- Primaquina e Tafenoquina: Únicos fármacos que atuam contra hipnozoítos (cura radical de *P. vivax* e *P. ovale*).
+		- Red Flag: Risco altíssimo de hemólise maciça se deficiência de G6PD (dosagem prévia obrigatória). Contraindicados na gestação.
+	- Atovaquona/proguanil: Foco no esquizonte hepático/trofozoíto. Causa cefaleia/TGI.
+- **Outros Fármacos Antiprotozoários**
+	- Leishmaniose: Anfotericina B, Antimônio pentavalente, Miltefosina.
+	- Amebíase, Giardíase e Tricomoníase: Metronidazol, Tinidazol, Paromomicina (apenas luz intestinal), Nitazoxanida (útil também em *Cryptosporidium*).
+	- Doença de Chagas (*Trypanosoma cruzi*): Benznidazol, Nifurtimox.
+	- Tripanossomíase Africana: Pentamidina, Suramina, Eflornitina, Melarsoprol, Fexinidazol.
+	- Toxoplasmose: Pirimetamina.
+- **Fármacos Anti-helmínticos**
+	- Albendazol/Mebendazol: Infecções intestinais, Cisticercose, Hidatidose.
+	- Ivermectina: Oncocercose, Estrongiloidíase, Escabiose, Larva migrans cutânea.
+	- Praziquantel: Agente de escolha para Platelmintos - Esquistossomose, Clonorquíase, e Cestódeos (Taeníase, Cisticercose).
+	- DiEtilcarbamazina: Fio de escolha para Filariose linfática e Loaíase.
