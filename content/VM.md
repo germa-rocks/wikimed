@@ -147,11 +147,11 @@ publish: true
 
 ### Chapter 7: The Pulmonary Artery Catheter
 [[A The anatomy of the pulmonary artery catheter]]
-[[aula A The anatomy of the pulmonary artery catheter]]
+- [[aula A The anatomy of the pulmonary artery catheter]]
 [[B The central venous pressure re-visited]]
 - [[aula B The central venous pressure re-visited]]
 [[C Pulmonary artery pressure and pulmonary vascular resistance]]
-[[aula C Pulmonary artery pressure and pulmonary vascular resistance]]
+- [[aula C Pulmonary artery pressure and pulmonary vascular resistance]]
 [[D Pulmonary artery occlusion pressure & pulmonary capillary pressure]]
 [[aula D Pulmonary artery occlusion pressure & pulmonary capillary pressure]]
 [[E Cardiac output & trouble-shooting]]
