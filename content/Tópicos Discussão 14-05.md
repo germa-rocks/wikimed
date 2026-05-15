@@ -21,3 +21,10 @@ publish: true
 | **Marcia (410)**           | • Pós-operatório imediato de cirurgia torácica maior (lobectomia) com dreno sob selo d'água.<br>• Controle avançado de dor com cateter peridural.                                                                       | • Hepatopatia crônica em fila de transplante (Colangite biliar primária).<br>• Tratamento de sequela infecciosa (bola fúngica/aspergiloma pós-TB).                                                                                  |
 | **Rute (411)**             | • Choque misto e insuficiência respiratória grave com reintubação.<br>• Broncoespasmo agudo, febre e taquiarritmias em ventilação mecânica.                                                                             | • Hipertensão pulmonar idiopática severa com falência prévia de VD.<br>• Histórico de intoxicação cumarínica resolvida.                                                                                                             |
 | **Eduardo Ferreira (413)** | • Insuficiência respiratória por obstrução (massa mediastinal) e intubação.<br>• Manejo de broncoespasmo refratário e alteração de secreção em sedoanalgesia contínua.                                                  | • Diagnóstico de neoplasia pulmonar provável.<br>• Síndrome da Veia Cava Superior tumoral aguardando histologia.<br>• Tratamento oncológico sistêmico empírico.                                                                     |
+
+[[Hipertensão Pulmonar (HP)]]
+
+[[Doença Ulcerosa Péptica (DUP)]]
+[[Sedação, Agitação e Privação de Sono na UTI]]
+[[Doenças Pulmonares Parenquimatosas Difusas (DPLD)]]
+[[Síndromes Coronarianas Agudas (SCA)]]
