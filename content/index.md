@@ -3,7 +3,7 @@ publish: true
 ---
 - [[painel casos 15-05]]
 - [[painel casos 14-05]]
-
+- [[oncology]]
 
 - [[Evolução Sistematizada e Checklist em UTI]]
 - [[visita multi]]

@@ -80,7 +80,7 @@ publish: true
 - [[aula Prone Positioning and Inhaled Pulmonary Vasodilators]]
 - [[aula Managing Refractory Hypoxemia and ECLS]]
 
-
+[[Ventilação Mecânica]] BrManual
 ## Kenny
 
 ### Chapter 1: Mechanics o f Ventilation

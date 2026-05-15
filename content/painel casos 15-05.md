@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-
+[[tópicos para discussão 15-05]]
 
 ### Leito 402 PN - Clarinda, 68a
 **One Liner:** Mulher de 68 anos, portadora de doença pulmonar intersticial fibrótica e colagenose em investigação, admitida por insuficiência respiratória crônica agudizada evoluindo com choque misto (cardiogênico/séptico). Atualmente intubada, com disfunção biventricular grave, em desmame progressivo de suporte vasopressor, porém com sedação difícil e histórico de extubação acidental ___ e rolha ___.
