@@ -117,11 +117,16 @@ publish: true
 	- [[3e PEEP aula]]
 
 ### 4 Heart-Lung Interactions in Sickness
-A: Ventilation as Exercise
-B: Obstructive airways disease
-C: Systolic heart failure
-D: ARDS
-E: Cirrhotic endotoxemia
+- [[A Ventilation as Exercise]]
+	- [[aula A Ventilation as Exercise]]
+- B Obstructive airways disease
+	- [[aula B Obstructive airways disease]]
+- [[C Systolic heart failure]]
+	- [[aula C Systolic heart failure]]
+- [[D ARDS]]
+	- [[aula D ARDS]]
+- E Cirrhotic endotoxemia
+- 
 
 5: Physiology of Extubation Failure
 A: Obstructed lung physiology
