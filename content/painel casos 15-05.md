@@ -175,7 +175,7 @@ publish: true
 - **Profilaxias:** Em restrição devido aos componentes vasculares esplâncnicos contínuos falhos graves do perfil patológico.
 
 ### Leito 421 CM - Marcio, 49a
-**One Liner:** Homem de 49 anos com doença renal falcêmica avançada (DRC III-B evoluindo para oligúria total) readmitido por falência absouta multissistêmica via inflamação maciça obstrutiva por infecção aguda colônica associada. Evoluiu em IRA dialítica de transição após deiscências severas e intercorrências inflamatórias raras agudizadas na internação primária dependente.
+**One Liner:** falciforme, DRCfalcêmica avançada (DRC III-B evoluindo para oligúria total) readmitido por falência absouta multissistêmica via inflamação maciça obstrutiva por infecção aguda colônica associada. Evoluiu em IRA dialítica de transição após deiscências severas e intercorrências inflamatórias raras agudizadas na internação primária dependente.
 - **Antecedentes:** DRC estádio III-B base terminal falcêmica, Anemia Falciforme clássica (genótipo SS cruzado), complicação grave basal e urológica urológica de difícil manuseio analgésico e oclusivo (Priapismo refratário grave contínuo) e sangramento ulceroso antigo.
 - **Motivo de internação:** Internação primária devido à instabilidade inflamatória contínua generalizada com agudização reativa absouta para Megacólon tóxico por isolamento de colite pseudo-membranosa na UTI (IRA pós sepse associada).
 - **Status atual & Meta:** Desmame da lesão inflamatória gástrica dependente grave de infecção intra-hospitalar. **O que falta para o paciente sair da UTI?** Remissão estrutural total da colite infecciosa isolada (Clostridium) permitindo desprescrição das reposições da diálise de contínuo diário associado.
