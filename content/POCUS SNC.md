@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-Aqui está a estruturação de alto rendimento do capítulo, desenhada para consulta rápida a beira-leito, utilizando o princípio da divulgação progressiva de informação (formato toggle/nested lists).
 
 # Avaliação Neurocrítica por Ultrassonografia na Emergência
 
