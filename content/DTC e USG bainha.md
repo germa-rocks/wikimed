@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+[[DTC e USG bainha aula]]
 # POCUS Neurológico: Bainha do Nervo Óptico e Doppler Transcraniano
 
 ## Avaliação da Bainha do Nervo Óptico (BNO)
