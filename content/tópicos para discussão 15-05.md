@@ -1,0 +1,41 @@
+---
+publish: true
+---
+
+
+### Grupo CM (Clínica Médica)
+
+| Paciente (Leito)         | Tópicos de Medicina Intensiva (UTI) <br>*(Suporte Avançado e Disfunções Agudas)*                                                                                                                                                                                                                     | Tópicos de Clínica Médica (Clínica) <br>*(Manejo Crônico, Diagnóstico e Especialidades)*                                                                                                                                                                                                                         |
+| :----------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Teresa (409)**         | • Monitorização hemodinâmica e rítmica pós-infarto agudo do miocárdio.                                                                                                                                                                                                                               | • Doença isquêmica coronariana com indicação de tratamento conservador pós-cateterismo.<br>• Otimização de prevenção secundária (DAPT, estatinas, betabloqueadores).                                                                                                                                             |
+| **Maria Grinalda (417)** | • Rebaixamento súbito de consciência e hipotensão aguda.<br>• Manejo laboratorial e metabólico de síndrome de realimentação.                                                                                                                                                                         | • Cuidados paliativos proporcionais (ordem de não intubação e não reanimação).<br>• Oncologia sistêmica: CA de mama metastático com carcinomatose meníngea provável.<br>• Planejamento de desospitalização.                                                                                                      |
+| **Mario (418)**          | • Insuficiência renal aguda em recuperação de Síndrome Hepatorrenal (pós-uso de terlipressina).<br>• Isolamento de contato por VRE e KPC.                                                                                                                                                            | • Cirrose multifatorial (Hemocromatose e MALSD) cursando com ACLF grau 1.<br>• Titulação de terapia para Encefalopatia Hepática (laxativos).<br>*(Tags/Temas: ACLF)*<br><br>[[aclf]]<br>[[ACLF a]]                                                                                                               |
+| **Marcio (421)**         | • Choque hipovolêmico grave secundário a perdas sensíveis e insensíveis.<br>• Manejo de Doença Renal Crônica dialítica cursando com acidose e hipervolemia agudas.<br>*(Tags/Temas: Sangramento Digestivo, HDA, HDB)*<br><br>[[Sangramento Digestivo]]<br>[[HDA]]<br>[[HDB]]<br>[[HDA não varicosa]] | • Doença inflamatória intestinal infecciosa ativa (*Clostridioides difficile*).<br>• Hemorragia Digestiva Alta secundária a úlcera péptica Sakita A1.<br>• Hematologia/Urologia: Anemia falciforme e priapismo refratário de base.<br><br>[[falciforme na emergência]]<br>[[Diarreia a/e]]<br>[[Clostridioides]] |
+
+---
+
+### Grupo PN (Pneumologia)
+
+| Paciente (Leito)           | Tópicos de Medicina Intensiva (UTI) <br>*(Suporte Avançado e Disfunções Agudas)*                                                                                                                                                         | Tópicos de Clínica Médica (Clínica) <br>*(Manejo Crônico, Diagnóstico e Especialidades)*                                                                                                                                        |
+| :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Clarinda (402)**         | • Insuficiência respiratória aguda e intubação de urgência com gasometria severa.<br>• Choque e suspeita de disfunção de VD / Cor pulmonale agudo.<br>*(Tags/Temas: Disfunção VD, Exacerbação DPI)*<br>[[dfx VD]]<br>[[DPI exacerbação]] | • Investigação de colagenose (esclerose sistêmica / Raynaud).<br>• Doença pulmonar intersticial (DPI) de padrão restritivo grave.<br>• Síndrome consuntiva e disfunção esofágica.<br><br>[[DPI]]<br>[[DPI sk]]                  |
+| **Eduardo Honório (406)**  | • Estado de mal epiléptico refratário com supressão em UTI.<br>• Choque vasoplégico com necessidade de suporte triplo de DVA.<br>• Manejo de infecção multirresistente (KPC, OXA-R) e pneumonia associada à ventilação.                  | • Investigação diagnóstica prévia (Meningoencefalite viral vs Doença de Still).<br>• Histórico de pancitopenia e intoxicação por metotrexato.                                                                                   |
+| **Valdeci (408)**          | • Manejo de tromboembolismo pulmonar (TEP) subsegmentar.<br>• Anticoagulação sistêmica plena.                                                                                                                                            | • Carcinoma de pequenas células do pulmão em início de quimioterapia.<br>• Síndrome da Veia Cava Superior (SVCS) secundária à trombose.<br>• Investigação neurológica de diplopia.<br>[[SVCS]]<br>[[QT basics]]<br>[[diplopia]] |
+| **Marcia (410)**           | • Pós-operatório imediato de cirurgia torácica maior (lobectomia) com dreno sob selo d'água.<br>• Controle avançado de dor com cateter peridural.                                                                                        | • Hepatopatia crônica em fila de transplante (Colangite biliar primária).<br>• Tratamento de sequela infecciosa (bola fúngica/aspergiloma pós-TB).                                                                              |
+| **Rute (411)**             | • Choque misto e insuficiência respiratória grave com reintubação.<br>• Broncoespasmo agudo, febre e taquiarritmias em ventilação mecânica.                                                                                              | • Hipertensão pulmonar idiopática severa com falência prévia de VD.<br>• Histórico de intoxicação cumarínica resolvida.                                                                                                         |
+| **Eduardo Ferreira (413)** | • Insuficiência respiratória por obstrução (massa mediastinal) e intubação.<br>• Manejo de broncoespasmo refratário e alteração de secreção em sedoanalgesia contínua.                                                                   | • Diagnóstico de neoplasia pulmonar provável.<br>• Síndrome da Veia Cava Superior tumoral aguardando histologia.<br>• Tratamento oncológico sistêmico empírico.                                                                 |
+
+---
+**Tópicos Teóricos Gerais Sugeridos para o Round:**
+* Hipertensão Pulmonar (HP) e Disfunção de VD
+	* [[Hipertensão Pulmonar (HP)]]
+* [[Síndromes Coronarianas Agudas (SCA)]]
+*Sangramento Digestivo
+* [[Doença Ulcerosa Péptica (DUP)]]
+* [[Câncer de Pulmão]] e Urgências Oncológicas (SVCS)
+
+[[Sedação, Agitação e Privação de Sono na UTI]]
+[[Doenças Pulmonares Parenquimatosas Difusas (DPLD)]]
+[[Ventilação Mecânica]]
+[[Avaliação Diagnóstica em Pneumologia]]
+[[Novos Terapêuticos em Doenças Infecciosas]]
