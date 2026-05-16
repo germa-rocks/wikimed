@@ -25,3 +25,16 @@ publish: true
 | **411 PN** - Rute, 61a     | • Choque complexo dependente de altas doses de vasopressores/inotrópicos<br>• Hipernatremia grave progressiva e IRA KDIGO 1<br>• Falha no manejo volêmico e intolerância pulmonar (VM retentora prévia)                           | • Pneumologia/Cardio: Hipertensão Pulmonar severa<br>• Cor Pulmonale com disfunção de Ventrículo Direito avançada<br>• Fígado de estase congênito / Intoxicação cumarínica prévia                                                                         |
 | **413 PN** - Eduardo, 57a  | • Agitação e despertar patológico resistente no desmame da IOT<br>• Controle de balanço hídrico rigorosamente negativo (foco em extubação)<br>• Treinamento de Respiração Espontânea (TRE)                                        | • Oncologia/Cirurgia Torácica: Neoplasia de pulmão (massa mediastinal indiferenciada)<br>• Síndrome de Veia Cava Superior (repercussão mecânica crônica)<br>• Pós-operatório complicação sangrante (POI de lobectomia)                                    |
 | **416 PN** - Marcia, 40a   | • Choque hemorrágico POI secundário agudo<br>• Transfusão maciça e reanimação volêmica guiada<br>• Vigilância estrita de hemostasia torácica (2 drenos de tórax robustos)<br>• Controle de dor com cateter peridural percutâneo   | • Cirurgia Geral/Infecto: Pós-operatório de reabordagem torácica (lise de coágulos)<br>• Transplante hepático prévio (MELD 11 base)<br>• Tuberculose pulmonar tratada anterior e Aspergiloma residual (?)                                                 |
+**Tópicos Teóricos Gerais Sugeridos para o Round:**
+* Hipertensão Pulmonar (HP) e Disfunção de VD
+	* [[Hipertensão Pulmonar (HP)]]
+* [[Síndromes Coronarianas Agudas (SCA)]]
+*Sangramento Digestivo
+* [[Doença Ulcerosa Péptica (DUP)]]
+* [[Câncer de Pulmão]] e Urgências Oncológicas (SVCS)
+
+[[Sedação, Agitação e Privação de Sono na UTI]]
+[[Doenças Pulmonares Parenquimatosas Difusas (DPLD)]]
+[[Ventilação Mecânica]]
+[[Avaliação Diagnóstica em Pneumologia]]
+[[Novos Terapêuticos em Doenças Infecciosas]]
