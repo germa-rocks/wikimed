@@ -21,7 +21,7 @@ publish: true
 
 ### Leito 403 CM - Ivaldo, 49a
 * **One Liner**: Homem, 49a, linfoma T NK avançado internado para investigação neurológica e suporte intensivo durante primeira fase de resgate oncológico venoso. Quadro atual dominado pelo risco agudo da Síndrome de Lise Tumoral desencadeado pela indução de Metotrexato e derrames pleurais com disfunção respiratória de suporte basal sem drogas agudas vasculares ou tubos.
-  * **Antecedentes**: Linfoma T NK com invasão medular sensitiva T5-T12, déficit visual/auditivo.
+  * **Antecedentes**: Provável Linfoma NK com invasão seio cavernoso (déficit visual/auditivo), SCM (T5-T12) e Parótida. DP bilateral (exsudato: PD?) + Lesão parótida. MTX 16/05 + debulking dexa
   * **Motivo de internação**: Hospitalar: Investigação tumoral neurológica. UTI: Dispneia obstrutiva pleural + Lise tumoral refratária pós Quimioterapia alta dose (MTX).
   * **Status atual & Meta**: Suporte oncológico vigilante focado em blindagem renal e metabólica.
   * **Falta para sair da UTI**:
