@@ -10,8 +10,9 @@ publish: true
     * Extubar com segurança (via aérea hipersecretiva/histórico de falha)
     * Desmame de DVA (Nora/Tridil)
 * **Sistemas**:
-  * **Ne**: RASS não avaliável (SDA plena). Em uso de Quetamina e Precedex (Midazolam suspenso dia 16/05 por agitação severa pós-extubação acidental). Associadas Risperidona e Quetiapina. Proposta de despertar diário.
-  * **CV**: Choque misto e IAM tipo 2 subagudo. Em uso de Noradrenalina + Dobutamina + Nitroglicerina (Tridil 3 ml/h). Meta estrita PAM 55. Proposta de redução diária do Tridil se estabilidade. 
+  * **Ne**: RASS não avaliável (SDA plena). Em uso de Quetamina e Precedex (Midazolam suspenso dia 16/05 por agitação severa pós-extubação acidental).
+	  * Associadas Risperidona e Quetiapina. Proposta de despertar diário.
+  * **CV**: Choque misto e IAM tipo 2 subagudo?. Em uso de \ + Dobutamina + Nitroglicerina (Tridil 3 ml/h). Meta estrita PAM 55. Proposta de redução diária do Tridil se estabilidade. 
   * **Rp**: IOT em PCV. Via aérea complexa: rolhas recorrentes e HME úmido indisponível para troca imediata (exige vigilância contínua). 
   * **Rn/Gim**: IRA KDIGO 1 (Cr 1.6). Diurese preservada estimulada c/ Furosemida (BH parcimonioso/negativo). Dieta enteral 10 ml/h -> meta progredir p/ 20 ml/h.
   * **HI**: Foco A/E séptico. Meropenem (D0 14/05) + Teicoplanina (dose ajustada para creatinina). Aguarda culturas pendentes (pesquisa p/ leveduras).
@@ -90,7 +91,7 @@ publish: true
 
 ### Leito 411 PN - Rute, 61a
 * **One Liner**: Mulher, 61a, portadora de falência cardíaca direita terminal (cor pulmonale) complicada por sepse mista (urina e cateteres), que originou quadro letal de coagulação intravascular disseminada (CIVD). Re-intubada por choque, evoluiu também com novos HSD cerebrais que impossibilitam hoje as trocas de acessos venosos infectados sem a transfusão prévia completa dos derivados do sangue.
-  * **Antecedentes**: HP Idiopática, Cor Pulmonale severo (PSAP 100), uso prévio crônico e tóxico de cumarínicos.
+  * **Antecedentes**: HP Idiopática Mista (pré e pós capilar), Cor Pulmonale severo (PSAP 100), uso prévio crônico e tóxico de cumarínicos.
   * **Motivo de internação**: Hospitalar: HP + ITU. UTI: Choque séptico grave e CIVD cursando com falência vascular biventricular sistêmica e falha de extubação mecânica (12/05).
   * **Status atual & Meta**: Reposição contínua de hemostasia PFC para garantir segurança na extração dos sítios venosos sépticos profundos.
   * **Falta para sair da UTI**:
