@@ -177,8 +177,11 @@ G: Passive Leg Raise
 - [[Modos Convencionais de Ventilação Mecânica]]
 	- [[44.2 Modos Convencionais de Ventilação Mecânica]]
 
-
-https://bizumed.com/Ventila%C3%A7%C3%A3o-Pulmonar-Artificial---Fisiologia-e-Mec%C3%A2nica-B%C3%A1sica
-https://bizumed.com/Cap%C3%ADtulo-44.1-Ventila%C3%A7%C3%A3o-Pulmonar-Artificial
-https://bizumed.com/Modos-Convencionais-de-Ventila%C3%A7%C3%A3o-Mec%C3%A2nica-(VM)
-https://bizumed.com/44.2-Modos-Convencionais-de-Ventila%C3%A7%C3%A3o-Mec%C3%A2nica
+## mSan
+- [[MECÂNICA RESPIRATÓRIA GUIA PRÁTICO BEIRA-LEITO]]
+	- [[1-3 Mecanica]]
+- [[VM - Modos Básicos e Ajustes Iniciais]]
+	- [[1-4 Modos Basicos]]
+- [[asdasd]]
+	- 
+- [[1-5 Assincronias]]
