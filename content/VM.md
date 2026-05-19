@@ -167,3 +167,12 @@ E: Pulse pressure variation in the ventilated pt with inspiratory effort
 F: Assessment of the vena cava
 G: Passive Leg Raise
 
+
+
+
+## mAmb
+
+- [[Ventilação Pulmonar Artificial - Fisiologia e Mecânica Básica]]
+	- [[Capítulo 44.1 Ventilação Pulmonar Artificial]]
+- 
+	- [[44.2 Modos Convencionais de Ventilação Mecânica]]
