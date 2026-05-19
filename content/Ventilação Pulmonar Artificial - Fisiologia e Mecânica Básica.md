@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-Aqui está o capítulo processado e estruturado no formato de base de conhecimento médico de alto rendimento (estilo DynaMed/Notion), aplicando o princípio da divulgação progressiva de informação e mantendo rigor absoluto na hierarquia clínica e fisiopatológica.
+
 
 ***
 
