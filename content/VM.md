@@ -182,6 +182,5 @@ G: Passive Leg Raise
 	- [[1-3 Mecanica]]
 - [[VM - Modos Básicos e Ajustes Iniciais]]
 	- [[1-4 Modos Basicos]]
-- [[asdasd]]
-	- 
-- [[1-5 Assincronias]]
+- [[ASSINCRONIAS EM VENTILAÇÃO MECÂNICA]]
+	- [[1-5 Assincronias]]

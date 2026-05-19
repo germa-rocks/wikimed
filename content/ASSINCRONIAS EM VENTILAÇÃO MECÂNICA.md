@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-Aqui está a estruturação de alto rendimento do capítulo, desenhada para divulgação progressiva de informação (ideal para Notion, Obsidian ou Roam Research). O foco está na rápida identificação gráfica beira-leito e na conduta imediata.
 
 ***
 
