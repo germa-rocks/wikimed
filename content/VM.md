@@ -174,5 +174,5 @@ G: Passive Leg Raise
 
 - [[Ventilação Pulmonar Artificial - Fisiologia e Mecânica Básica]]
 	- [[Capítulo 44.1 Ventilação Pulmonar Artificial]]
-- [[Modos Convencionais de Ventilação Mecânica (VM)]]
+- [[Modos Convencionais de Ventilação Mecânica]]
 	- [[44.2 Modos Convencionais de Ventilação Mecânica]]
