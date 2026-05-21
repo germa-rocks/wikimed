@@ -192,3 +192,14 @@ G: Passive Leg Raise
 
 
 [[VM made ridx simple]]
+
+
+## Man
+
+- [[anato e fisio VM]]
+	- [[aula anato e fisio VM]]
+- [[curvas VM]]
+	- [[aula curvas VM]]
+[[aulas efeitos fisio VM]]
+[[aula mecanica VM]]
+[[aula mx troca VM]]
