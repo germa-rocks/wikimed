@@ -189,3 +189,6 @@ G: Passive Leg Raise
 
 - [[VM situações especiais]]
 	- [[VM situações especiais aula]]
+
+
+[[VM made ridx simple]]
