@@ -204,4 +204,5 @@ G: Passive Leg Raise
 	- [[aulas efeitos fisio VM]]
 - [[mecanica VM]]
 	- [[aula mecanica VM]]
-[[aula mx troca VM]]
+- [[mx troca VM]]
+	- [[aula mx troca VM]]
