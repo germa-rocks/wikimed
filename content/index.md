@@ -1,6 +1,8 @@
 ---
 publish: true
 ---
+- 
+
 - [[painel casos 21-05]]
 - [[painel casos 16-05]]
 - [[painel casos 15-05]]
@@ -26,4 +28,6 @@ publish: true
 - [[VM]]
 - 
 
-![[Pasted image 20260428160328.png]]
+## Gestante
+- [[aula 1 gestUTI]]
+- 
