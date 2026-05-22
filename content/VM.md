@@ -176,9 +176,9 @@ G: Passive Leg Raise
 	- [[Capítulo 44.1 Ventilação Pulmonar Artificial]]
 - [[Modos Convencionais de Ventilação Mecânica]]
 	- [[44.2 Modos Convencionais de Ventilação Mecânica]]
-- [[desmame VM mAmb]]
-	- [[desmame VM capit mAmb]]
 
+- [[desmame VM mAMBa]]
+	- [[desmame VM mAmb capitulo]]
 
 ## mSan
 - [[MECÂNICA RESPIRATÓRIA GUIA PRÁTICO BEIRA-LEITO]]
@@ -187,12 +187,11 @@ G: Passive Leg Raise
 	- [[1-4 Modos Basicos]]
 - [[ASSINCRONIAS EM VENTILAÇÃO MECÂNICA]]
 	- [[1-5 Assincronias]]
+- [[desmame VM mSan]]
+	- [[desmame VM capit mSan]]
 
-- asd
-	- [[desmame VM mSan capitulo]]
-
-
-- [[usg diafragma aula]]
+- [[usg diafragm tp]]
+	- [[usg diafragma aula]]
 
 
 - [[VM situações especiais]]
