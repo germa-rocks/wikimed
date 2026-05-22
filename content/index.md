@@ -29,5 +29,6 @@ publish: true
 - 
 
 ## Gestante
-- [[aula 1 gestUTI]]
+- [[gestante UTI]]
+	- [[aula 1 gestUTI]]
 - 
