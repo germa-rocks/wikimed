@@ -4,21 +4,28 @@ publish: true
 
 
 
-Aqui está o material estruturado nos moldes de uma base de conhecimento de alto rendimento beira-leito, aplicando estritamente o princípio da divulgação progressiva da informação e a remoção completa de ruídos bibliográficos.
-
 ***
 
 # 🩸 Fisiologia da Coagulação e Alterações Hematológicas em UTI
 
 ## ⚙️ 1. Princípios e Modelo Fisiológico da Hemostasia
-**A hemostasia é regulada por um sistema multifacetado (Modelo Celular da Coagulação) que substitui a clássica "cascata", dividindo-se fisiologicamente em três fases interdependentes e sobrepostas.**
+**A hemostasia é
+- regulada por um sistema multifacetado (Modelo Celular da Coagulação) que substitui a clássica "cascata"
+- Dividindo-se fisiologicamente em três fases interdependentes e sobrepostas.**
+
 - **Hemostasia Primária (Tampão Plaquetário)**
   - Ocorre a adesão e agregação plaquetária no endotélio lesado.
-  - Endotélio intacto secreta antitrombóticos: Óxido Nítrico (ON), prostaciclinas e ADPase.
+  - Endotélio intacto: secreta antitrombóticos
+	  - Óxido Nítrico (ON),
+	  - prostaciclinas e
+	  - ADPase.
   - Endotélio lesado: Exposição de colágeno e Fator de von Willebrand (FvW).
-    - FvW liga o colágeno ao receptor plaquetário GPIb.
-    - Plaquetas ativadas liberam grânulos (ADP, Tromboxano A2) que causam vasoconstrição e atraem mais plaquetas.
-    - O tampão é estabilizado por pontes de fibrinogênio através dos receptores plaquetários GPIIb/IIIa.
+    - FvW liga o **colágeno** ao receptor **plaquetário** GPIb.
+    - Plaquetas ativadas causam vasoconstrição e atraem mais plaquetas.
+	    - liberam grânulos (ADP, Tromboxano A2)
+    - O tampão é estabilizado
+	    - por pontes de fibrinogênio
+	    - através dos receptores plaquetários GPIIb/IIIa.
 - **Hemostasia Secundária (Rede de Fibrina - Modelo Celular)**
   - Ocorre em três fases sobrepostas na superfície celular:
     - **1. Iniciação:** Lesão endotelial expressa Fator Tecidual (FT) → Liga-se ao Fator VIIa → Complexo ativa Fatores IX e X → Gera uma quantidade mínima e insuficiente de Trombina (FIIa).

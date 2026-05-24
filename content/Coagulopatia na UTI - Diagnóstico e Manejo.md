@@ -6,35 +6,60 @@ publish: true
 
 ## 1. Princípios Básicos e Fisiologia da Hemostasia
 - **A Regra de Ouro: Trate o paciente com sangramento, não trate os números do laboratório.**
-	- **Conceito central:** Alterações laboratoriais isoladas (como elevação de TP/TTPA) sem sangramento ativo ou sem procedimento invasivo planejado NÃO exigem tratamento profilático ou reposição de fatores.
-	- **Pré-requisitos Fisiológicos para Hemostasia:** A cascata de coagulação depende de enzimas proteolíticas que exigem um ambiente biológico ótimo. Antes de repor fatores, corrija o ambiente:
-		- **Temperatura:** Deve ser mantida > 34°C. A hipotermia (comum pós-bypass ou trauma maciço) inibe severamente a cascata.
-		- [ ] **pH:** Deve ser > 7.1. A acidose metabólica bloqueia a ação das proteases.
-		- **Cálcio Ionizado:** O cálcio é o "Fator IV" essencial. Deve estar em níveis normais para que a coagulação ocorra.
-- **A topografia do sangramento indica o defeito hemostático subjacente.**
+	- **Conceito central:** Alterações laboratoriais isoladas (como elevação de TP/TTPA) 
+		- sem sangramento ativo ou
+		- sem procedimento invasivo planejado 
+		- NÃO exigem tratamento profilático ou reposição de fatores.
+	- **Pré-requisitos Fisiológicos para Hemostasia:** A cascata de coagulação (enzimas proteolíticas) que exigem um ambiente biológico ótimo. Antes de repor fatores, corrija o ambiente:
+		- **Temperatura:** Deve ser mantida > 34°C.
+			- A hipotermia (comum pós-bypass ou trauma maciço) inibe severamente a cascata.
+		- **pH:** Deve ser > 7.1.
+			- A acidose metabólica bloqueia a ação das proteases.
+		- **Cálcio Ionizado:** Deve estar em níveis normais para que a coagulação ocorra.
+			- O cálcio é o "Fator IV" essencial. 
+- **A topografia do sangramento indica o defeito hemostático subjacente.** Manifestam-se como 
 	- **Defeitos da Hemostasia Primária (Plaquetas e Fator de von Willebrand):** 
-		- Manifestam-se como sangramento mucocutâneo, petéquias, equimoses, sangramento gengival e exsudação difusa de locais de punção intravenosa (*oozing*).
+		- sangramento mucocutâneo, petéquias, equimoses, sangramento gengival e exsudação difusa de locais de punção intravenosa (*oozing*).
 	- **Defeitos da Hemostasia Secundária (Cascata de Coagulação):** 
-		- Manifestam-se como hematomas em tecidos profundos, sangramento articular, ou sangramento massivo em sítios cirúrgicos.
+		- hematomas em tecidos profundos, sangramento articular, ou sangramento massivo em sítios cirúrgicos.
 
 ## 2. Abordagem Laboratorial: Interpretando o Painel de Coagulação
 - **O Painel Básico Beira-Leito exige: Hemograma (com esfregaço), TP, TTPA, Fibrinogênio e D-Dímero.**
 	- **Hemograma e Esfregaço Periférico:**
-		- Além de avaliar o número absoluto de plaquetas, a **pesquisa de esquizócitos** (hemácias fragmentadas) é vital. Sua presença alerta para microangiopatia trombótica, como a Púrpura Trombocitopênica Trombótica (PTT) ou CIVD.
+		- Além de avaliar o número absoluto de plaquetas,
+		- a **pesquisa de esquizócitos** (hemácias fragmentadas) é vital.
+			- Sua presença alerta para microangiopatia trombótica, como a Púrpura Trombocitopênica Trombótica (PTT) ou CIVD.
 	- **Fibrinogênio e D-Dímero:**
-		- **Fibrinogênio:** Valores baixos (< 100 mg/dL) são críticos e indicam falência de síntese hepática severa, perda dilucional, ou consumo maciço (ex: CIVD). 
-		- **D-Dímero:** É um marcador sensível de ativação da coagulação e fibrinólise cruzada. Valores normais excluem ativação sistêmica recente, mas é frequentemente elevado em pacientes críticos na UTI sem necessariamente indicar patologia primária.
-- **Algoritmo Mental para Prolongamento de TP e TTPA: Localize a deficiência na cascata.**
-	- **Apenas TP prolongado (Via Extrínseca):** Deficiência de Fator VII.
-		- *Fisiopatologia:* O Fator VII tem a meia-vida mais curta de todos os fatores (~6h), sendo o primeiro a cair. 
-		- *Causas comuns:* Início de insuficiência hepática, deficiência inicial de Vitamina K, uso de inibidores da Vitamina K (Varfarina), e inibidores diretos do Fator Xa (Rivaroxabana/Apixabana).
+		- **Fibrinogênio:** Valores baixos (< 100 mg/dL) são críticos e indicam
+			- falência de síntese hepática severa,
+			- perda dilucional ou
+			- consumo maciço (ex: CIVD). 
+		- **D-Dímero:** É um marcador sensível de ativação da coagulação e fibrinólise cruzada. 
+			- Valores normais excluem ativação sistêmica recente,
+			- mas é frequentemente elevado em pacientes críticos na UTI sem necessariamente indicar patologia primária.
+- **Algoritmo Mental Clássico para Prolongamento de TP e TTPA: Localizando a deficiência na cascata.**
+	- **Apenas TP prolongado (Via Extrínseca):** Deficiência de Fator VII (tem a meia-vida mais curta de todos os fatores (~6h), sendo o primeiro a cair).
+		- Início de insuficiência hepática
+		- deficiência inicial de Vitamina K ou uso de inibidores da Vitamina K (Varfarina)
+		- e inibidores diretos do Fator Xa (Rivaroxabana/Apixabana).
 	- **Apenas TTPA prolongado (Via Intrínseca):** Deficiências dos Fatores VIII, IX, XI, XII.
-		- *Causas comuns:* Uso de Heparina Não Fracionada, Anticoagulante Lúpico (um inibidor in vitro), inibidores específicos adquiridos (raros na UTI), ou uso de Bivalirudina.
+		- Uso de Heparina Não Fracionada,
+		- Anticoagulante Lúpico (um inibidor in vitro),
+		- Inibidores específicos adquiridos (raros na UTI) ou
+		- Uso de Bivalirudina.
 	- **Ambos TP e TTPA prolongados (Via Comum ou Distúrbio Global):** Deficiência nos Fatores X, V, II (Protrombina) ou Fibrinogênio.
-		- *Causas comuns:* Deficiência prolongada/grave de Vitamina K, insuficiência hepática avançada, CIVD, ou toxicidade por altas doses de anticoagulantes.
+		- Deficiência prolongada/grave de Vitamina K,
+		- Insuficiência hepática avançada
+		- CIVD ou
+		- Toxicidade por altas doses de anticoagulantes.
 - **A deficiência adquirida de Vitamina K é uma das causas mais prevalentes de coagulopatia na UTI e deve ser prevenida/tratada ativamente.**
-	- *Fisiopatologia:* Pacientes críticos frequentemente permanecem em jejum (NPO) por dias e recebem antibioticoterapia de amplo espectro, que erradica a flora intestinal primariamente responsável pela síntese de Vitamina K.
-	- *Conduta e Red Flag:* Prescreva Vitamina K empírica. Não foque apenas na correção laboratorial, mas garanta que o paciente possua substrato para produzir os fatores dependentes (II, VII, IX, X).
+	- Pacientes críticos frequentemente
+		- permanecem em jejum (NPO) por dias e
+		- recebem antibioticoterapia de amplo espectro,
+		- que erradicam a flora intestinal primariamente responsável pela síntese de Vitamina K.
+	- *Conduta e Red Flag:* Prescreva Vitamina K empírica.
+		- Não foque apenas na correção laboratorial,
+		- mas garanta que o paciente possua substrato para produzir os fatores dependentes (II, VII, IX, X).
 
 ## 3. Coagulação Intravascular Disseminada (CIVD)
 - **Bottom Line: CIVD não é uma doença primária; é uma síndrome de hipercoagulação secundária a um gatilho sistêmico catastrófico.**
