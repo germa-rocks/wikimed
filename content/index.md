@@ -1,7 +1,8 @@
 ---
 publish: true
 ---
-- 
+- [[painel admissões fds]]
+- [[painel casos 24-05]]
 
 - [[painel casos 21-05]]
 - [[painel casos 16-05]]
