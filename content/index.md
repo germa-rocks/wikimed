@@ -1,6 +1,9 @@
 ---
 publish: true
 ---
+
+- [[Immunocompromised Patient Clinical Review]]
+- [[painel casos 25-05]]
 - [[painel admissões fds]]
 - [[painel casos 24-05]]
 
