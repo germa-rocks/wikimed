@@ -1,7 +1,8 @@
 ---
 publish: true
 ---
-
+- [[Vasculitis & Alveolar Hemorrhage]]
+	- [[Vasculitis & Alveolar Hemorrhage Aula]]
 - [[Immunocompromised Patient Clinical Review]]
 - [[painel casos 25-05]]
 - [[painel admissões fds]]
