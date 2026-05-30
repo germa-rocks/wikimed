@@ -2,6 +2,10 @@
 publish: true
 ---
 
+- [[SDA e BNM]]
+	- [[cap 20 SEDAÇÃO E BLOQUEIO NEUROMUSCULAR]]
+- [[SDA e Desmame VM]]
+	- [[aula Sedation, Delirium, and Liberation from the Ventilator]]
 
 # 🧠 Sedação, Agitação e Privação de Sono na UTI
 
