@@ -20,6 +20,8 @@ Dispositivos: IOT (14/05), CVC VJID (25/05), SVD (14/05), SNE (14/05). SVD e SNE
 - Profilaxias: HNF, Omeprazol e colírio mantidos.
 
 ### Leito 403 CM - Larissa, 18a
+[[insights Caso Larissa]]
+
 - One Liner: Jovem, 18a, lúpica virgem de tratamento (NTA, proteinúria, neuropatia e AHAI provável), internada por EAP hipertensivo e anúria, submetida à IOT intempestiva em cenário catastrófico de hemorragia alveolar franca secundária a hematoma iatrogênico na passagem de cateter de diálise jugular. Exige forte vigilância vasoativa e sedação profunda para abortar drive.
 - Antecedentes: Lúpus Eritematoso Sistêmico recém-diagnosticado.
 - Motivo de internação: Hospitalar: Flare Lúpico. UTI: Urgência dialítica evoluindo com EAP e emergência hemorrágica via aérea.
@@ -32,6 +34,7 @@ Sistemas:
 - HI: Suspensos todos os antimicrobianos sistêmicos frente a quadro puramente inflamatório/hemorrágico. Iniciada pulsoterapia com Metilprednisolona. Programada Imunoglobulina 0,4g/kg (20g por 5 dias). Prescrita Ivermectina (profilaxia estrongiloidíase devido alta imunossupressão). Restrição transfusional: CH liberado apenas se Hb < 7; plaquetas apenas se sangramento ameaçador. Solicitadas 4 a 5 bolsas de crioprecipitado por coagulopatia.
 Dispositivos: TOT, SVD, CVC VJIE, Shilley VFD. Acesso arterial (PAI) passado e SOG sacada para passagem de SNE definitva. Dispositivos absolutamente necessários.
 - Profilaxias: Química suspensa devido ao sangramento alveolar ativo profuso. Omeprazol mantido.
+
 
 ### Leito 405 PN - Cleonice, Idade s/d
 - One Liner: Mulher, asmática crônica, admitida inicialmente por discinesia de cordas vocais e broncoespasmo agudo (trigger aeroalérgico). Apresentou rápida reversibilidade broncodilatadora em via aérea já desmamada (oxigenioterapia sacada em 28/05). 
