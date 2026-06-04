@@ -1,6 +1,18 @@
 ---
 publish: true
 ---
+## Systm
+
+### Infecto
+
+- TB
+	- [[tb dz ibcc]]
+	- [[TB farmaco skt]]
+	- 
+
+
+## Back
+
 - [[6. As Vasculites]]
 - [[Vasculites Grandes e Médios Vasos]]
 - [[Vasculites de Médios Vasos]]
