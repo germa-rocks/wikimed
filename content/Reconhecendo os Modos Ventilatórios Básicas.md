@@ -6,6 +6,7 @@ publish: true
 - olho a Pressão: qual morfologia da onda
 	- ![[Pasted image 20260607142749.png]]
 - olho o Fluxo: como encerra a inspiração ("como o vento faz a curva?")
+	- ![[Pasted image 20260607142816.png]]
 
 ![[EzBIESB7jP.jpg]]
 
