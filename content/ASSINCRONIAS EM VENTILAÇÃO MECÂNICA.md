@@ -9,6 +9,7 @@ publish: true
 ## Princípios Gerais e Impacto Clínico
 - **O equilíbrio na interação paciente-ventilador é fundamental para o sucesso do suporte ventilatório e prevenção de danos.**
 	- A assincronia ocorre quando há incompatibilidade entre o *tempo neural* do paciente e o *tempo mecânico* do ventilador (demandas de tempo, fluxo, volume ou pressão).
+		- ![[Pasted image 20260607174451.png]]
 	- **Red Flags (Consequências da Assincronia):**
 		- Aumento do esforço muscular e taquipneia.
 		- Necessidade de sedação excessiva e maior tempo de Ventilação Mecânica Invasiva (VMI).
