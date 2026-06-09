@@ -7,32 +7,18 @@ publish: true
 ## Princípios Fundamentais do Ciclo Ventilatório
 
 - **O ciclo ventilatório universal possui três fases mecânicas obrigatórias que governam a interação paciente-máquina: Disparo (Trigger), Alvo/Limite (Target) e Ciclagem (Cycle).**
-    
     - Disparo (Trigger): É a fase que inicia a inspiração.
-        
         - Disparo a Tempo: Determinado pelo timer do ventilador (frequência respiratória fixa). Configura um ciclo mandatório.
-            
         - Disparo a Esforço (Paciente): O ventilador detecta a tentativa de respiração através de queda de pressão (sensibilidade a pressão), desvio de fluxo (sensibilidade a fluxo), ou sinais neurais (Pes/EADi).
-            
     - Alvo / Limite (Target): É a variável que governa o fluxo de gás durante a fase inspiratória.
-        
         - Fluxo Fixo (Pressão Variável): O ventilador garante a entrega de um fluxo e volume exatos. A consequência direta é que a pressão do sistema irá variar livremente dependendo da complacência e resistência do paciente.
-            
             - Indicação: Quando a certeza absoluta do volume corrente (Vt) entregue é a prioridade médica inegociável.
-                
         - Pressão Fixa (Volume Variável): O ventilador garante uma pressão limite pré-definida. O fluxo e o volume de gás entregues irão variar dinamicamente.
-            
             - Indicação: Quando a prioridade é a sincronia fina e o conforto, adaptando o fluxo à demanda dinâmica do paciente.
-                
-    - Ciclagem (Cycle): É a variável que encerra o ciclo inspiratório e abre a válvula expiratória.
-        
+    - Ciclagem (Cycle): É a variável que encerra o ciclo inspiratório e abre a válvula expiratória.        
         - Ciclagem a Volume: O ciclo termina assim que o volume alvo pré-definido é atingido.
-            
         - Ciclagem a Tempo: O ciclo termina após o esgotamento de um Tempo Inspiratório (Ti) rígido e pré-configurado.
-            
         - Ciclagem a Fluxo: O ciclo termina quando o fluxo inspiratório em desaceleração atinge um percentual mínimo pré-definido (ex: 25% do pico de fluxo).
-            
-
 # A "Tabela Periódica" dos Modos Ventilatórios
 
 ## Os 3 Modos Essenciais (VCV, PCV e PSV)
@@ -40,27 +26,16 @@ publish: true
 - **Apesar da "sopa de letrinhas" das diferentes marcas comerciais, os modos ventilatórios são construídos sobre três matrizes mecânicas universais: Volume Controlado (VCV), Pressão Controlada (PCV) e Pressão de Suporte (PSV).**
     
     - VCV (Ventilação Controlada a Volume)
-        
         - Foco Clínico: Garantir o volume corrente; ventilação inicial em quadros de SARA (Síndrome de Angústia Respiratória Aguda).
-            
         - Mecânica: Disparado a tempo ou paciente; Alvo de Fluxo; Cicla a Volume (ou Tempo).
-            
         - Red Flag Dinâmica (Mecânica de Alvos): Se a complacência pulmonar do paciente cair, o volume será mantido, mas a pressão do circuito sofrerá uma elevação abrupta e potencialmente lesiva.
-            
     - PCV (Ventilação Controlada a Pressão)
-        
         - Foco Clínico: Limitar altas pressões de vias aéreas e melhorar a sincronia.
-            
         - Mecânica: Disparado a tempo ou paciente; Alvo de Pressão; Cicla a Tempo (Ti fixo).
-            
         - Red Flag Dinâmica (Mecânica de Alvos): Se a complacência pulmonar cair, a pressão será mantida em limites seguros, mas o volume corrente e o fluxo sofrerão queda severa (risco de hipoventilação).
-            
     - PSV (Ventilação com Pressão de Suporte)
-        
         - Foco Clínico: Ventilação espontânea e processos de desmame ventilatório.
-            
         - Mecânica: Disparo EXCLUSIVAMENTE pelo paciente; Alvo de Pressão; Cicla a Fluxo.
-            
 
 # Diagnóstico Gráfico à Beira-Leito (Análise de Curvas)
 
@@ -69,11 +44,9 @@ publish: true
 - **A análise visual das curvas de Fluxo e Pressão permite o reconhecimento exato do modo ventilatório de forma independente do que está escrito no painel da máquina.**
     
     - Regra Diagnóstica do VCV (Alvo de Fluxo):
-        
         - Curva de Fluxo: Constante (Formato de Onda Quadrada).
-            
         - Curva de Pressão: Ascensão linear contínua (pressão é a variável dependente).
-            
+
         - Conclusão: Fluxo constante + Volume fixo = Controle a Volume.
             
     - Matriz de Diferenciação: PCV vs. PSV (O Desafio Clínico):
