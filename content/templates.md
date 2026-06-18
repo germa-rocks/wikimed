@@ -123,7 +123,7 @@ Dados brutos dos pacientes:
 [COLE AQUI AS EVOLUÇÕES OU FOTOS TEXTUALIZADAS]
 
 
-## Coluna
+## Tópicos de Discussão (colunas)
 Agora elabore tabele com
 - cada caso nas linhas
 - 2 colunas: coluna1 medicina intensiva. coluna 2 clínica médica aplicada a UTI
