@@ -127,3 +127,4 @@ Dados brutos dos pacientes:
 Agora elabore tabele com
 - cada caso nas linhas
 - 2 colunas: coluna1 medicina intensiva. coluna 2 clínica médica aplicada a UTI
+Ordene com base em ordem crescente dos leitos
