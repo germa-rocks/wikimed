@@ -18,6 +18,12 @@ publish: true
 
 
 ## Telegra
+
+### Basics
+[[Microbiologia Basica]]
+[[ATB Basics]]
+[[PkPD]]
+### Espec
 [[fungicas na UTI]]
 [[Infeccoes Oportunistas HIV]]
 [[Infecções Oportunistas Tx]]
