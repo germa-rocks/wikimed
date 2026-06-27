@@ -74,7 +74,7 @@ publish: true
 
 ## O Dilema no Lúpus (LES): Infecção vs. Atividade de Doença (Flare)
 - **A distinção clínica entre infecção grave e flare reumatológico é difícil, mas o laboratório pode guiar a conduta inicial.**
-	- **Pérola Clínica (VHS vs. PCR):** 
+	- **Pérola Clínica (VHS vs. PCR):** PCR mais infeccioso (exceção serosite)
 		- **Infecção:** Aumenta tanto VHS quanto a Proteína C Reativa (PCR).
 		- **Atividade de Doença (Flare):** Aumenta o VHS, mas a **PCR costuma ser normal ou baixa**.
 		- *Exceção ao Flare:* A PCR pode subir no Flare apenas se houver serosite intensa (derrame pleural/pericárdico) ou artrite franca. Fora isso, PCR alta = pensar em infecção.
