@@ -71,21 +71,21 @@ publish: true
 
 # Acidente Vascular Cerebral Isquêmico (AVCi)
 
-## **Diferenciação Clínica Rápida e Diagnósticos Diferenciais (Mimics).**
+### **Diferenciação Clínica Rápida e Diagnósticos Diferenciais (Mimics).**
 - **AVCi (~80%):** Déficit máximo imediato, frequentemente percebido ao acordar, cefaleia incomum, convulsões raras (< 5%), nível de consciência tipicamente preservado.
 - **AVC Hemorrágico (~10-15%):** Déficit progressivo, frequentemente iniciado durante atividade, cefaleia e vômitos são muito comuns, redução do nível de consciência, hipertensão severa na admissão, e maior risco de convulsão (~30%).
 - **Mimics de AVC (3% das apresentações):** A **Hipoglicemia** é a principal. Outras incluem enxaqueca com aura, convulsões (paralisia de Todd), tumores, abscessos, intoxicação exógena, e encefalopatias virais.
 
-## **Avaliação Inicial e o tempo do "Último Momento Normal" ditam a conduta.**
+### **Avaliação Inicial e o tempo do "Último Momento Normal" ditam a conduta.**
 - **História Crucial:** Identificar a última vez em que o paciente foi visto normal, histórico recente de trauma/cirurgia e uso de medicações (especialmente anticoagulantes).
 - O exame neurológico deve ser quantificado pela escala **NIHSS** (pontuação de 0 a 42).
 
-## **O fluxo de imagem do AVCi determina a viabilidade de Trombólise e Trombectomia.**
+### **O fluxo de imagem do AVCi determina a viabilidade de Trombólise e Trombectomia.**
 - **1º Passo: TC de Crânio sem contraste.** Objetivo exclusivo: Descartar sangramento (Toma a decisão sobre o tPA).
 - **2º Passo: Angio-TC de Crânio e Pescoço.** Objetivo: Avaliar oclusão de grandes vasos proximais (Toma a decisão sobre a Trombectomia).
 - **3º Passo: TC com Perfusão ou RM com Difusão (DWI).** Objetivo: Avaliar área de penumbra isquêmica (tecido salvável) para janelas estendidas de Trombólise e Trombectomia.
 
-## **Manejo Agudo: Trombólise Sistêmica (tPA) reduz incapacidade em até 4,5 horas, mas exige exclusão rigorosa de contraindicações.**
+### **Manejo Agudo: Trombólise Sistêmica (tPA) reduz incapacidade em até 4,5 horas, mas exige exclusão rigorosa de contraindicações.**
 - **Atenção:** O único exame laboratorial que deve *obrigatoriamente* ser aguardado antes de iniciar o tPA é a **Glicemia Capilar**. Não atrase o tPA aguardando coagulograma ou plaquetas, a menos que haja suspeita clínica ou histórico de uso de anticoagulantes.
 - **Contraindicações Absolutas para tPA (Qualquer tempo):**
 	- Glicemia < 50 mg/dL.
@@ -102,12 +102,12 @@ publish: true
 	- Uso de QUALQUER anticoagulante oral (mesmo com coagulograma normal).
 	- Histórico de Diabetes combinado com AVC prévio.
 
-## **A Trombectomia Mecânica estende a janela terapêutica para até 24 horas e possui benefício de mortalidade comprovado.**
+### **A Trombectomia Mecânica estende a janela terapêutica para até 24 horas e possui benefício de mortalidade comprovado.**
 - Indicada se houver oclusão de grande vaso proximal evidenciada na Angio-TC.
 - Até 6 horas: Pode ser feita associada ou não à trombólise baseada na Angio-TC.
 - Entre 6 e 24 horas: Exige exames avançados (TC Perfusão ou RM-DWI) para comprovar tecido viável (penumbra).
 
-## **Checklist de "Do's and Don'ts" (O que fazer e o que não fazer) no AVC Isquêmico.**
+### **Checklist de "Do's and Don'ts" (O que fazer e o que não fazer) no AVC Isquêmico.**
 - **FAZER (DO):**
 	- Controlar PA: **< 185/110** antes do tPA e **< 180/105** após o tPA (ou após trombectomia). Se não receber tPA, tolerar PA até **220/120**.
 	- Iniciar **AAS** entre 24 e 48 horas após a trombólise.
@@ -127,14 +127,15 @@ publish: true
 
 ## 1. Hemorragia Intracerebral (HIC) Intraparenquimatosa
 
-## **A reversão rápida da anticoagulação (< 4 horas) é a intervenção primária que comprovadamente melhora a sobrevivência na HIC.**
-- O Complexo Protrombínico de 4 fatores (4-PCC / Kcentra) é superior e mais rápido que o Plasma Fresco Congelado (PFC) + Vitamina K para reversão de Varfarina, com menor volume infundido.
+### **A precoce da anticoagulação (< 4 h) é a intervenção primária que comprovadamente melhora a sobrevivência na HIC: preferência 4PCC**
+- O Complexo Protrombínico de 4 fatores (4-PCC / Kcentra) é superior e mais rápido que o Plasma Fresco Congelado (PFC) + Vitamina K para reversão de Varfarina, 
+	- com menor volume infundido.
 
-## **O controle da Pressão Arterial reduz o crescimento do hematoma, mas alvos demasiadamente estritos não melhoram o prognóstico e geram dano renal.**
+### **O controle PA reduz o crescimento do hematoma, mas alvos demasiadamente estritos não melhoram o prognóstico e geram dano renal.**
 - **Redução ideal:** Manter a PAS **< 150 mmHg**.
 - A tentativa agressiva de manter PAS < 140 mmHg (como visto nos trials ATACH II e INTERACT II) não demonstrou benefício de sobrevivência ou de redução de incapacidade em comparação com alvos menos estritos (140-180 mmHg) e aumentou eventos adversos.
 
-## **Checklist de "Do's and Don'ts" na HIC.**
+### **Checklist de "Do's and Don'ts" na HIC.**
 - **FAZER (DO):**
 	- Controlar PAS < 150 mmHg.
 	- Profilaxia mecânica / química para TVP após 48 horas de estabilidade do sangramento.
@@ -151,15 +152,15 @@ publish: true
 
 ## 2. Hemorragia Subaracnoidea (HSA)
 
-## **A HSA manifesta-se tipicamente como a "pior cefaleia da vida", com alta mortalidade se não tratada precocemente devido ao ressangramento.**
+### **A HSA manifesta-se tipicamente como a "pior cefaleia da vida", com alta mortalidade se não tratada precocemente devido ao ressangramento.**
 - Origem: 85% secundária ao rompimento de aneurismas (circulação anterior).
 - Diagnóstico: A TC de crânio sem contraste tem sensibilidade > 95% no primeiro dia, mas decai rapidamente. **A Punção Lombar (PL) é obrigatória se a clínica for altamente sugestiva e a TC for negativa** (procurando xantocromia e hemácias).
 
-## **O tratamento definitivo exige a oclusão do aneurisma o mais rápido possível; a embolização endovascular (Coil) é superior à clipagem cirúrgica aberta.**
+### **O tratamento definitivo exige a oclusão do aneurisma o mais rápido possível; a embolização endovascular (Coil) é superior à clipagem cirúrgica aberta.**
 - Coiling demonstrou melhores desfechos funcionais e menor mortalidade em 1 e 5 anos comparado ao clipe aberto.
 - Intervenção cirúrgica foca em impedir os 40% de risco de ressangramento nos primeiros 30 dias.
 
-## **A isquemia cerebral tardia (Vasoespasmo) é a complicação mais temida da HSA, ocorrendo tipicamente entre o 7º e o 14º dia.**
+### **A isquemia cerebral tardia (Vasoespasmo) é a complicação mais temida da HSA, ocorrendo tipicamente entre o 7º e o 14º dia.**
 - Apresenta-se com declínio do nível de consciência e déficits focais gradativos.
 - **Profilaxia mandatória:** **Nimodipino 60 mg via oral a cada 4 horas por 21 dias.** Previne ativamente a morbidade do vasoespasmo.
 - *Nota Histórica:* A estratégia "Triplo H" (Hipertensão, Hipervolemia e Hemodiluição) não possui mais evidências de benefício e não é recomendada.
