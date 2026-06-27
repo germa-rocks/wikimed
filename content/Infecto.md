@@ -23,6 +23,7 @@ publish: true
 [[Microbiologia Basica]]
 [[ATB Basics]]
 [[PkPD e MIC]]
+[[pkpd]]
 ### Espec
 [[fungicas na UTI]]
 [[Infeccoes Oportunistas HIV]]
