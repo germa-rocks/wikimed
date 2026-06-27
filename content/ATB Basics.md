@@ -7,7 +7,7 @@ publish: true
 ### Estrutura Bacteriana e Alvos Terapêuticos
 
 - **Alvos de Ação** (mnemônico **Med-PR**): As cinco estruturas bacterianas principais onde os antibióticos atuam são 
-	- a
+	- *mnemônico MedPR*
 		- **M**embrana,
 		- **E**nzimas, 
 		- **D**NA, 
