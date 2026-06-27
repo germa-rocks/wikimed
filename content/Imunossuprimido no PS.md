@@ -66,7 +66,7 @@ publish: true
 
 # 2. Doenças Autoimunes (Reumatologia) e Uso Crônico de Corticoides
 
-## Risco Infeccioso Relacionado ao Corticoide
+## Risco Infeccioso Relacionado ao Corticoide: dose dependente
 - **O risco de infecção é dose-dependente, mas qualquer dose aumenta o risco basal.**
 	- Doses > 20 mg/dia de Prednisona (ou equivalente) conferem altíssimo risco de infecção comunitária e oportunista.
 	- Doses baixas (5 a 10 mg/dia), muito comuns no ambulatório, já aumentam estatisticamente o risco em comparação com a população não usuária (entre 11% e 17% a mais ao ano).
@@ -90,7 +90,9 @@ publish: true
 - **O manejo emergencial depende de duas informações cruciais: Adesão ao tratamento (TARV) e Status Imunológico (CD4/Carga Viral).**
 	- Buscar sempre o último registro de CD4 e Carga Viral. Caso o paciente seja recém-diagnosticado ou não saiba, solicite a contagem geral pelo laboratório.
 	- **Proxy de Emergência:** Na ausência de CD4 disponível rapidamente, observar a **Contagem Total de Linfócitos no Hemograma**. Uma linfopenia grave sugere imunossupressão profunda.
-	- **Dilema das Profilaxias:** Checar se o paciente deveria estar usando e se está aderente a medicações profiláticas (ex: CD4 < 200 = Bactrim para PCP; CD4 < 50 = profilaxia para MAC).
+	- **Dilema das Profilaxias:** Checar se o paciente deveria estar usando e se está aderente a medicações profiláticas 
+		- (ex: CD4 < 200 = Bactrim para PCP;
+		- CD4 < 50 = profilaxia para MAC).
 
 ---
 
@@ -104,5 +106,5 @@ publish: true
 	- **O que MANTER (Obrigatório):**
 		- Corticosteroides.
 		- *Fisiopatologia:* O paciente não tem eixo adrenal funcionante devido ao uso crônico. Suspender corticoide na sepse causará Insuficiência Adrenal Aguda e choque refratário. Manter a dose basal ou considerar dose de estresse (ex: Hidrocortisona 50mg 6/6h).
-- **Na Infecção Leve/Trato Ambulatorial:**
+- **Na Infecção Leve/Trato Ambulatorial:** a regra é manter
 	- Manter o esquema basal. A decisão de reduzir o antiproliferativo/inibidor de calcineurina deve ser compartilhada e guiada pelo especialista que acompanha o paciente (Transplantador ou Reumatologista).

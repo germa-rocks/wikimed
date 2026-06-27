@@ -4,7 +4,7 @@ publish: true
 
 
 - [[Imunossuprimido no PS]]
-- [[Imunossupressores]]
+- [[Imunomoduladores e Imunossupressores Reumatológicos]]
 
 ## Chest
 - [[Care of the Immunocompromised Patient]]
