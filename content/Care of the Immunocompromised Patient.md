@@ -50,11 +50,12 @@ publish: true
 - **No Transplante de Órgãos Sólidos (TOS), o risco infeccioso segue um relógio previsível baseado em 3 fases (Nosocomial, Oportunista, Comunitária).**
   - Fase 1 (< 1 mês): Complicações nosocomiais ou técnicas operatórias.
     - Germes: MRSA, BGN resistentes.
-    - Focos: Broncoaspiração, infecção de cateter central (CLABSI), infecção do trato urinário por sonda (CAUTI), infecção de ferida operatória.
+- Focos: Broncoaspiração, infecção de cateter central (CLABSI), infecção do trato urinário por sonda (CAUTI), infecção de ferida operatória.
   - Fase 2 (1 a 6 meses): Ativação de patógenos latentes e oportunistas sistêmicos.
     - Patógenos: *Cryptococcus*, Vírus BK, CMV e outros Herpes-vírus, *Pneumocystis jirovecii*, *M. tuberculosis*, *Nocardia*.
   - Fase 3 (> 6 meses): Predomínio de patógenos adquiridos na comunidade.
-    - Patógenos: Pneumonias adquiridas na comunidade (PAC), ITU comunitária, além de riscos mantidos para *Aspergillus*, *Nocardia* e infecções virais tardias.
+    - Patógenos: Pneumonias adquiridas na comunidade (PAC), ITU comunitária, 
+	    - ! além de riscos mantidos para *Aspergillus*, *Nocardia* e infecções virais tardias.
 
 - **No Transplante de Células-Tronco Hematopoiéticas (TCTH), o risco é ditado pelas fases da pega do enxerto (engraftment).**
   - Fase Pré-Pega (0 a 30 dias): Risco atrelado à neutropenia severa e ruptura de barreiras mucosas. Gram-negativos, Gram-positivos, *Candida, Aspergillus* e HSV.

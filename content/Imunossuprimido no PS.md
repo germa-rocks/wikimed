@@ -15,7 +15,7 @@ publish: true
 
 # 1. Paciente Transplantado de Órgão Sólido (Ex: Rim, Fígado)
 
-## Terapia Imunossupressora Padrão (Terapia Tripla)
+## Terapia Imunossupressora Padrão (Terapia Tripla): CE + AntiProl/Metab + iCalc
 - **A maioria dos pacientes em pós-transplante imediato/recente estará em uso de Terapia Tripla.**
 	- Corticosteroide (ex: Prednisona).
 	- Antiproliferativo/Antimetabólito (ex: Micofenolato de Mofetila ou Azatioprina).
@@ -26,8 +26,8 @@ publish: true
 - **O risco e o tipo de infecção devem ser categorizados pelo tempo decorrido desde o transplante.**
 	- **< 1 mês (Fase Precoce): Infecções Nosocomiais e Cirúrgicas.**
 		- Flora hospitalar: MRSA, VRE, *Pseudomonas*.
-		- Complicações do sítio cirúrgico (fístulas, coleções).
-		- Infecções derivadas do doador ou relacionadas à assistência (cateteres, sondas).
+		- Infecções derivadas do doador ou relacionadas à assistência (cateteres, sondas, sítio cirúrgico (fístulas, coleções))
+			- Broncoaspiração, infecção de cateter central (CLABSI), infecção do trato urinário por sonda (CAUTI), infecção de ferida operatória.
 	- **1 a 6 meses (Fase Intermediária): Infecções Oportunistas.**
 		- *Fisiopatologia:* Período de imunossupressão máxima para evitar rejeição.
 		- Vírus: Citomegalovírus (CMV) - *o mais importante*, Epstein-Barr, Herpes.
