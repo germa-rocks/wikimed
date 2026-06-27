@@ -6,7 +6,13 @@ publish: true
 
 ### Estrutura Bacteriana e Alvos Terapêuticos
 
-- **Mnemônico de Alvos de Ação (Medi PR):** As cinco estruturas bacterianas principais onde os antibióticos atuam são **M**embrana, **E**nzimas, **D**NA, **P**arede celular e **R**ibossomos.
+- **Alvos de Ação** (mnemônico **Med-PR**): As cinco estruturas bacterianas principais onde os antibióticos atuam são 
+	- a
+		- **M**embrana,
+		- **E**nzimas, 
+		- **D**NA, 
+		- **P**arede celular e 
+		- **R**ibossomos.
   - Diferenciação Estrutural (Gram-positivos vs. Gram-negativos):
     - **Cocos Gram-positivos (CGP):** Possuem apenas membrana celular interna e uma espessa camada externa de peptideoglicano (parede celular).
     - **Bacilos Gram-negativos (BGN):** Possuem membrana celular interna, uma fina parede celular e uma **membrana celular externa** (que contém porinas, dificultando a entrada de moléculas grandes).
