@@ -15,3 +15,12 @@ publish: true
 	- [[Extrapulmonary Infections Chest]]
 - [[Intra-abdominal Emergencies]]
 	- [[Intra-abdominal Emergencies Chest]]
+
+
+## Telegra
+[[fungicas na UTI]]
+[[Infeccoes Oportunistas HIV]]
+[[Infecções Oportunistas Tx]]
+
+## Gen
+[[Aspergilose e Fusariose Invasivas em Onco-Hematologia]]
