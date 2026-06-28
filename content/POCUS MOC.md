@@ -28,3 +28,8 @@ publish: true
 [[pocus RUQ]]
 [[pocus LUQ]]
 [[pocus meio]]
+
+---
+
+[[pocus choque sincope]]
+[[pocus aval hemodinamica]]
