@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-Aqui está a estruturação da base de conhecimento focada em alto rendimento, desenhada para Notion/Obsidian, utilizando o princípio da divulgação progressiva (toggles aninhados).
+
 
 # Avaliação Doppler da Via de Saída do Ventrículo Direito (RVOT)
 
