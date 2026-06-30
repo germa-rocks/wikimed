@@ -128,3 +128,18 @@ publish: true
 	- [[hemorragico]]
 - [[cardio e obstr]]
 - [[tamponamento]]
+
+
+
+---
+
+## Teleg
+
+[[Elastância Arterial Dinâmica]]
+[[dPdt]]
+
+[[PAI Conceitos]]
+
+[[Componentes PA]]
+[[aval HMD pela Curva]]
+[[DC pela curva]]
