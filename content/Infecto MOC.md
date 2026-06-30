@@ -32,3 +32,9 @@ publish: true
 
 ## Gen
 [[Aspergilose e Fusariose Invasivas em Onco-Hematologia]]
+
+
+
+---
+
+[[choque septico 2026]]
