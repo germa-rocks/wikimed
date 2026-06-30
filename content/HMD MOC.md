@@ -142,4 +142,4 @@ publish: true
 
 [[Componentes PA]]
 [[aval HMD pela Curva]]
-[[DC pela curva]]
+	[[DC pela curva]]
