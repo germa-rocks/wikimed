@@ -9,18 +9,18 @@ publish: true
 
 ## Conceitos e Diagnóstico (Sepse 3.0)
 - **Sepse é uma disfunção orgânica ameaçadora à vida causada por uma resposta desregulada do hospedeiro a uma infecção.**
-	- **Patógenos:** Qualquer patógeno pode causar sepse (Bactérias, Vírus como COVID-19 e Influenza, Fungos, Parasitas como Malária e *Strongyloides*).
+	- **Patógenos:** Qualquer patógeno pode causar sepse 
+		- (Bactérias, Vírus como COVID-19 e Influenza, Fungos, Parasitas como Malária e *Strongyloides*).
 	- **Critério Diagnóstico (Escore SOFA):** Aumento $\ge$ 2 pontos no escore SOFA basal, secundário ao quadro infeccioso.
 		- Pode ocorrer num mesmo sistema (ex: queda isolada de plaquetas) ou na soma de sistemas diferentes (ex: 1 ponto hepático + 1 ponto renal).
 	- **Parâmetros avaliados no SOFA (6 sistemas):**
-		- Respiratório: Relação PaO2/FiO2.
-		- Hematológico: Contagem de Plaquetas.
-		- Hepático: Níveis de Bilirrubina.
-		- Cardiovascular: Pressão Arterial Média (PAM) e necessidade de vasopressores.
 		- Neurológico: Escala de Coma de Glasgow.
+		- Respiratório: Relação PaO2/FiO2.
+		- Cardiovascular: Pressão Arterial Média (PAM) e necessidade de vasopressores.
 		- Renal: Creatinina sérica e débito urinário.
+		- Hepático: Níveis de Bilirrubina.
+		- Hematológico: Contagem de Plaquetas.
 	- **Lactato:** Embora não pontue no SOFA, deve ser obrigatoriamente mensurado (recomendação SSC/ILAS) por ser um marcador de gravidade e evolução clínica desfavorável.
-
 - **Choque Séptico é definido pela persistência de hipotensão e hiperlactatemia apesar de ressuscitação volêmica adequada.**
 	- **Critérios Diagnósticos (Necessários simultaneamente):**
 		- Necessidade de vasopressor para manter PAM $\ge$ 65 mmHg.
@@ -68,10 +68,11 @@ publish: true
 	- **Acesso:** Pode ser iniciada de forma segura em acesso venoso periférico bem calibroso nas primeiras horas, enquanto se providencia o acesso venoso central.
 - **Associe Vasopressina precocemente se houver necessidade de doses crescentes de Noradrenalina.**
 	- **Dose da Vasopressina:** 0,025 a 0,03 Unidades/minuto (ação poupadora de catecolaminas).
-	- **Terceira linha:** Adrenalina (Epinefrina) fica reservada caso o choque permaneça refratário à associação Noradrenalina + Vasopressina.
+- **Terceira linha:** Adrenalina (Epinefrina) fica reservada caso o choque permaneça refratário à associação Noradrenalina + Vasopressina.
 - **Monitorização da Resposta Fluida e Perfusão:**
 	- **Teste de Responsividade:** Utilizar medidas dinâmicas, como o teste de Elevação Passiva das Pernas (Passive Leg Raise), antes de administrar fluidos adicionais (evitar sobrecarga).
-	- **Clareamento de Lactato (Lactate Clearance):** Avaliar a curva de queda (ex: coletar 0h, 2h, 4h). A ausência de queda indica ressuscitação inadequada ou foco não controlado.
+	- **Clareamento de Lactato (Lactate Clearance):** Avaliar a curva de queda (ex: coletar 0h, 2h, 4h). 
+		- A ausência de queda indica ressuscitação inadequada ou foco não controlado.
 	- **Tempo de Enchimento Capilar (TEC):** Meta de normalização ($\le$ 3 segundos). É uma ferramenta clínica excelente para guiar a reanimação.
 	- **Monitorização da PA:** Não invasiva (manguito) é suficiente se doses baixas de vasopressor; considere PAI (Pressão Arterial Invasiva) se uso de múltiplas drogas vasoativas ou instabilidade grave.
 - **Descalonamento Volêmico (Fase de Estabilização):**
