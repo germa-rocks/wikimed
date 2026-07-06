@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+[[painel casos 06-07]]
 ## Systm
 
 ### Infecto

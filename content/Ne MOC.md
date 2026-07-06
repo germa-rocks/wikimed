@@ -3,7 +3,7 @@ publish: true
 ---
 [[IVIG]]
 
-[[Hemorragia Intracerebral Harv]]
+[[Hemorragia Intracerebral HeIC Harv]]
 
 ----
 ## IBCC
