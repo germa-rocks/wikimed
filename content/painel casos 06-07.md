@@ -10,4 +10,5 @@ publish: true
 
 ## Flávio
 - [[celulite que não melhora]]
+- [[indicação cobertura MRSA]]
 - [[IPPM]]

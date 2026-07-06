@@ -2,7 +2,6 @@
 publish: true
 ---
 
-
 ***
 
 # 🔍 Workup: Celulite que Não Melhora (Falha Terapêutica)
@@ -10,27 +9,35 @@ publish: true
 ## **Passo 1: Descartar Emergências e Infecções Ocupadoras de Espaço (Red Flags imediatas).**
 - A principal causa de falha rápida ou piora clínica sob uso de antibióticos é a presença de uma coleção não drenada ou progressão para necrose tecidual.
 - **Sinais Clínicos de Fáscia Necrosante / Mionecrose:**
-  - Dor desproporcional ao exame físico ou que se estende além da margem do eritema.
+  - Dor desproporcional
+	  - ao exame físico ou
+	  - que se estende além da margem do eritema.
   - Endurecimento lenhoso (*woody induration*) à palpação.
-  - Sinais de isquemia tecidual: pele violácea, equimoses, bolhas (especialmente hemorrágicas) ou crepitação.
+  - Sinais de isquemia tecidual:
+	  - pele violácea, equimoses, bolhas (especialmente hemorrágicas) ou crepitação.
   - Toxicidade sistêmica desproporcional.
 - **Conduta Prática:**
   - Solicite **Imagem (Ultrassom Point-of-Care ou TC)** para descartar abscesso profundo oculto (necessita Incisão e Drenagem).
   - Se suspeita de Fasciite: Avaliação cirúrgica imediata (a mortalidade aumenta a cada hora de atraso no desbridamento).
 
 ## **Passo 2: Diferenciar "Cura Microbiológica" de "Resolução Inflamatória" (Tempo de Doença).**
-- É um erro comum acreditar que todos os sinais clássicos devem sumir ao final do curso de antibióticos. A persistência dos sintomas nem sempre indica falha do tratamento.
+- A persistência dos sintomas nem sempre indica falha do tratamento.
+	- É um erro comum acreditar que todos os sinais clássicos devem sumir ao final do curso de antibióticos. 
 - **Linha do tempo esperada:**
   - Após 10 dias de tratamento, o patógeno geralmente está erradicado (cura microbiológica).
   - **No entanto, dor, eritema, calor e edema podem persistir por semanas** devido à inflamação tecidual residual e dano linfático.
 - **Conduta Prática:**
-  - Se o paciente está afebril, a leucocitose resolveu e as margens do eritema pararam de progredir: **Não prescreva mais antibióticos ou transite para via IV**. Apenas observe, eleve o membro e aguarde a regressão inflamatória.
+  - Se o paciente está afebril, a leucocitose resolveu e as margens do eritema pararam de progredir: **Não prescreva mais antibióticos ou transite para via IV**.
+  - Apenas observe, eleve o membro e aguarde a regressão inflamatória.
 
 ## **Passo 3: Investigar Pseudocelulite (A causa mais comum de "falha" em pacientes estáveis).**
-- Até 39-41% das celulites não purulentas diagnosticadas empiricamente são, na verdade, diagnósticos alternativos não infecciosos. Os antibióticos falham porque não há bactéria para matar.
+- Até 39-41% das celulites não purulentas diagnosticadas empiricamente são, na verdade, diagnósticos alternativos não infecciosos. 
+	- Os antibióticos falham porque não há bactéria para matar.
 - **Diferenciadores Clínicos (A favor de Pseudocelulite):**
-  - **Bilateralidade:** Celulite verdadeira é quase sempre unilateral. Envolvimento bilateral sugere Dermatite de Estase.
-  - **Ausência de achados sistêmicos:** Sem febre, sem taquicardia, sem leucocitose.
+  - **Bilateralidade:**
+	  - Celulite verdadeira é quase sempre unilateral. Envolvimento bilateral sugere Dermatite de Estase.
+  - **Ausência de achados sistêmicos:**
+	  - Sem febre, sem taquicardia, sem leucocitose.
   - Evolução indolente (dias a semanas) em vez de horas a dias.
 - **Top 3 Causas de Pseudocelulite (54% dos casos):**
   - 1. Dermatite de estase (insuficiência venosa crônica).
@@ -47,7 +54,10 @@ publish: true
   - A taxa de resistência do *Streptococcus pyogenes* à clindamicina atinge 26.4%.
   - *Conduta:* Trocar para Sulfametoxazol-Trimetoprima (SMX-TMP), que apresenta excelentes taxas de sucesso.
 - **Necessidade de cobertura para MRSA?**
-  - Considere falha por MRSA se houver: história de uso de drogas injetáveis, trauma penetrante prévio, ou se a infecção for purulenta/abscesso desde o início.
+  - Considere falha por MRSA se houver:
+	  - história de uso de drogas injetáveis,
+	  - trauma penetrante prévio,
+	  - ou se a infecção for purulenta/abscesso desde o início.
 
 ## **Passo 5: Buscar Exposições Especiais na História Clínica (Microbiologia Atípica).**
 - Patógenos incomuns não respondem aos beta-lactâmicos clássicos prescritos para *Strepto/Staphylo*.
