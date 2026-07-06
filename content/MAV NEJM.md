@@ -7,6 +7,15 @@ publish: true
 
 # Malformações Arteriovenosas (MAVs) Cerebrais
 
+## Diagnóstico Diferencial (Critérios de Exclusão do Texto)
+
+### O conceito clássico de MAV Parenquimatosa (Pial) exclui outras anomalias vasculares.
+- **Diferenciação Básica:** A MAV verdadeira tratada neste guideline possui obrigatoriamente um **nidus** (um enovelado de vasos anormais fazendo a transição direta entre o sistema arterial e venoso, sem rede capilar).
+- **Entidades explicitamente excluídas desta classificação e conduta:**
+    - **Malformações Venosas (Anomalias do Desenvolvimento Venoso)**
+    - Malformações Cavernosas (Cavernomas)
+    - Fístulas Arteriovenosas Corticais diretas
+    - Fístulas Arteriovenosas Durais
 ## Fisiopatologia e Apresentação Clínica
 - **A MAV é uma anomalia vascular congênita caracterizada por um "nidus" (ovelho) com transição direta entre artérias e veias, sem rede capilar interposta.**
 	- **Fisiopatologia detalhada:** Deriva do mau desenvolvimento da rede capilar cerebral. A ausência de capilares causa fluxo de alto débito e alta pressão diretamente para o sistema venoso.
