@@ -23,6 +23,8 @@ publish: true
 
 ## Nutrição
 
+[[Nutricional UTI]]
+
 ### parenteral
 
 [[NPT UTI]]
