@@ -1,7 +1,11 @@
 ---
 publish: true
 ---
+[[IVIG]]
 
+[[Hemorragia Intracerebral Harv]]
+
+----
 ## IBCC
 - [[HSA IBCC]]
 
