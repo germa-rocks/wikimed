@@ -16,3 +16,14 @@ publish: true
 ----
 
 [[Paracentese guiada]]
+[[paracentese raiz]]
+[[paracentese medway]]
+
+----
+
+## Nutrição
+
+### parenteral
+
+[[NPT UTI]]
+[[Indicação NPT]]
