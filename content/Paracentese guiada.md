@@ -6,9 +6,11 @@ publish: true
 
 ## 📌 Introdução e Indicações Clínicas
 - **A paracentese de emergência possui indicações claras para diagnóstico, alívio sintomático e elucidação de achados do exame FAST.**
-	- **Diagnóstica:** Análise de líquido ascítico novo ou suspeita de processo infeccioso (ex: Peritonite Bacteriana Espontânea - PBE).
+	- **Diagnóstica:** 
+		- Análise de líquido ascítico novo
+		- Suspeita de processo infeccioso (ex: Peritonite Bacteriana Espontânea - PBE).
+		- **Trauma/FAST:** Identificação de líquido livre encontrado no POCUS em pacientes sem histórico claro de trauma.
 	- **Terapêutica (Alívio):** Conforto de pacientes com ascite de grande volume.
-	- **Trauma/FAST:** Identificação de líquido livre encontrado no POCUS em pacientes sem histórico claro de trauma.
 - **O uso do ultrassom (POCUS) é o padrão-ouro e deve preceder todo procedimento, aumentando a taxa de sucesso e a segurança.**
 	- **Taxa de Sucesso:** 95% com USG vs. 65% na técnica tradicional (às cegas).
 	- **Sensibilidade:** Detecta volumes tão pequenos quanto 100 mL (ou menores, se circundando a bexiga).
@@ -18,9 +20,8 @@ publish: true
 	- **Paracentese de Alívio:** Grandes volumes (6 a 8 Litros).
 		- *Materiais:* Dispositivos mais calibrosos (Abocath 14G ou 16G) ou kits específicos da instituição para drenagem.
 - **Complicações do procedimento podem ser minimizadas com a visualização ultrassonográfica prévia e contínua.**
-	- Hematomas de parede abdominal.
 	- Punção inadvertida de bexiga ou alças intestinais (risco de peritonite).
-	- Abscesso de parede abdominal.
+	- Hematomas e Abscesso de parede abdominal.
 	- Pseudoaneurismas de artérias abdominais.
 
 ---
