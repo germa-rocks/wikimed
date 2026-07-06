@@ -24,8 +24,10 @@ publish: true
 ## Nutrição
 
 [[Nutricional UTI 20a]]
-
+[[Critical Care Nutrition IBCC]]
+[[aval Necessidades Nutricionais]]
 ### parenteral
 
 [[NPT UTI HC]]
 [[Indicação NPT HC]]
+[[pTEMI NP Mx e Situações na UTI]]
