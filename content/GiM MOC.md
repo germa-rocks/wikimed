@@ -23,9 +23,9 @@ publish: true
 
 ## Nutrição
 
-[[Nutricional UTI]]
+[[Nutricional UTI 20a]]
 
 ### parenteral
 
-[[NPT UTI]]
-[[Indicação NPT]]
+[[NPT UTI HC]]
+[[Indicação NPT HC]]
