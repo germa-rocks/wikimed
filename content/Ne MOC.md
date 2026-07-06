@@ -27,7 +27,7 @@ publish: true
 - [[PIC]]
 - [[TRM HC]]
 - [[AVCh HC]]
-- [[HSA aneuris]]
+- [[HSA aneurism HC]]
 - [[complicações hemorragia]]
 - [[manejo PA no AVC]]
 
