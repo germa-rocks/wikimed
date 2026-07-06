@@ -12,3 +12,4 @@ publish: true
 - [[celulite que não melhora]]
 - [[indicação cobertura MRSA]]
 - [[IPPM]]
+- [[ippm gen]]

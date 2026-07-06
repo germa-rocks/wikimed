@@ -62,13 +62,23 @@ publish: true
 ## **Passo 5: Buscar Exposições Especiais na História Clínica (Microbiologia Atípica).**
 - Patógenos incomuns não respondem aos beta-lactâmicos clássicos prescritos para *Strepto/Staphylo*.
 - **O que perguntar ativamente na anamnese:**
-  - **Exposição Aquática (Água salgada/salobra) ou Frutos do Mar:** Suspeitar de *Vibrio vulnificus* (principalmente se houver formação rápida de bolhas e o paciente for hepatopata). *Conduta:* Mudar para Doxiciclina + Cefalosporina de 3ª geração.
-  - **Mordedura de Animais ou Humanos:** Suspeitar de gram-negativos e anaeróbios da flora oral (ex: *Eikenella*, *Pasteurella*).
-  - **Uso de Drogas Injetáveis:** Suspeitar de *Pseudomonas* (água de diluição), Anaeróbios (lamber a agulha) ou isquemia tóxica por Xilazina ("Tranq").
+  - **Exposição Aquática (Água salgada/salobra) ou Frutos do Mar:** 
+	  - Suspeitar de *Vibrio vulnificus* (principalmente se houver formação rápida de bolhas e o paciente for hepatopata). 
+	  - *Conduta:* Mudar para Doxiciclina + Cefalosporina de 3ª geração.
+  - **Mordedura de Animais ou Humanos:** 
+	  - Suspeitar de gram-negativos e anaeróbios da flora oral (ex: *Eikenella*, *Pasteurella*).
+  - **Uso de Drogas Injetáveis:** 
+	  - Suspeitar de *Pseudomonas* (água de diluição), Anaeróbios (lamber a agulha) ou isquemia tóxica por Xilazina ("Tranq").
 
 ## **Passo 6: Considerar Doenças Dermatológicas Raras / Mimetizadores Sistêmicos.**
-- Se tudo foi descartado, as culturas de ferida são repetidamente negativas, a imagem profunda é normal, e a "infecção" piora independentemente da ampliação do antibiótico, pense em causas autoimunes/inflamatórias idiopáticas.
+- Se tudo foi descartado, pense em causas autoimunes/inflamatórias idiopáticas.
+	- as culturas de ferida são repetidamente negativas, 
+	- a imagem profunda é normal, 
+	- e a "infecção" piora independentemente da ampliação do antibiótico, 
 - **Síndrome de Sweet (Dermatose Neutrofílica Febril Aguda):**
   - *Clínica:* Lesões eritematosas, dolorosas, que podem ulcerar (simulando deiscência cirúrgica ou celulite necrotizante), acompanhadas de febre e leucocitose neutrofílica severa.
-  - *Diagnóstico:* Requer **biópsia de pele** (revela infiltrado superficial e profundo denso de neutrófilos, com microabscessos, sem bactérias).
-  - *Conduta:* Suspensão de antibióticos e início de **Corticoterapia em altas doses** (resolução drástica do quadro).
+  - *Diagnóstico:* Requer **biópsia de pele**
+	  - infiltrado superficial e profundo denso de neutrófilos, com microabscessos, sem bactérias
+  - *Conduta:* 
+	  - Suspensão de antibióticos e
+	  - início de **Corticoterapia em altas doses** (resolução drástica do quadro).
