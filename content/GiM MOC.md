@@ -3,6 +3,13 @@ publish: true
 ---
 
 
+## HDA
+[[Acute GI Bleeding]]
+[[acute GI Bleeding bi]]
+
+
+----
+
 ## Hepato
 [[Acute-on-chronic liver failure (ACLF) - EMCrit Project.pdf]]
 [[aclf amboss]]
