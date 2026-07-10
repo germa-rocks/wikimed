@@ -14,6 +14,7 @@ A unidade possui pacientes com quadros complexos, muitos com histórico de hepat
 	- aguardando endoscopia (EDA) de urgência. Necessita de diálise e desmame de drogas vasoativas.
 	- [[coloid remast]]
 	- [[laxativos]]
+	- [[acute GI Bleeding bi]]
 - **Leito 405 - Izabel (75 anos):** Pós-operatório de câncer (ADC) de papila duodenal, evoluindo com sepse de foco abdominal. _Pendências principais:_ Dieta via oral recém-liberada. Aguarda avaliação da radiointervenção para possível drenagem e necessita de vigilância para delirium.
 - **Leito 410 - Adriana Xavier (30 anos):** Diagnosticada com Doença de Still, internada na UTI por insuficiência respiratória aguda. Apresenta melhora clínica. _Pendências principais:_ Programação de alta da UTI. Avaliar balanço hídrico e manter medicações específicas (IVIG).
 	- [[IVIG]]
