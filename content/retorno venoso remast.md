@@ -8,7 +8,7 @@ Aqui está a estrutura de alto rendimento baseada no modelo de divulgação prog
 
 ***
 
-# Fisiologia Cardiovascular: Retorno Venoso e Pré-carga Aplicados
+# A) Fisiologia Cardiovascular: Retorno Venoso e Pré-carga Aplicados
 
 ## 1. Princípios Hemodinâmicos à Beira-Leito (Estados de Choque)
 - **A avaliação da Pré-Carga e do Retorno Venoso (RV) é o pilar diagnóstico e terapêutico para manejar a fluidorresponsividade em pacientes graves.**
@@ -42,7 +42,10 @@ Aqui está a estrutura de alto rendimento baseada no modelo de divulgação prog
 		- Fisiologia Histórica: 
 			- Descoberta em modelos experimentais de parada cardíaca, onde o sistema se equaliza e 
 			- prova que a pressão de repouso dos vasos não é zero.
-		- Mecanismo: O sangue distende a vênula; o recolhimento elástico natural dessa vênula gera a Pms que "empurra" o sangue em direção ao coração, mesmo sem a força da bomba cardíaca operando localmente.
+		- Mecanismo: 
+			- O sangue distende a vênula; 
+			- o recolhimento elástico natural dessa vênula gera a Pms que "empurra" o sangue em direção ao coração, 
+			- mesmo sem a força da bomba cardíaca operando localmente.
 		- Impacto Prático: Intervenções como reposição de volume ou noradrenalina (que contrai vênulas) atuam aumentando a *Pms* para melhorar o RV.
 	- **Pressão do Átrio Direito (PAD)**: A Força de Sucção (Menor Pressão).
 		- Definição: É a contra-pressão ao Retorno Venoso. Representa a eficácia do coração direito em esvaziar a câmara.
@@ -51,14 +54,9 @@ Aqui está a estrutura de alto rendimento baseada no modelo de divulgação prog
 	- **Resistência ao Retorno Venoso (Rrv)**: 
 		- A oposição mecânica gerada pelos vasos que o sangue precisa vencer para chegar ao coração.
 
-
-
-
-Aqui está a estruturação do conteúdo em formato de base de conhecimento médico de alto rendimento, otimizado para Notion, Obsidian ou Roam Research, aplicando rigorosamente o princípio da divulgação progressiva.
-
 ***
 
-# Hemodinâmica e Fisiologia do Retorno Venoso
+# B) Hemodinâmica e Fisiologia do Retorno Venoso
 
 ## 1. Distribuição Volêmica e Anatomia Funcional
 - **O sistema venoso abriga cerca de 75% de toda a volemia e atua como o grande "reservatório" dinâmico do organismo.**
@@ -108,7 +106,7 @@ Aqui está a estruturação do conteúdo em formato de base de conhecimento méd
 
 
 
-# Hemodinâmica e Retorno Venoso à Beira-Leito
+# C) Hemodinâmica e Retorno Venoso à Beira-Leito
 
 ## Princípios Fisiológicos Básicos
 - **A Regra de Ouro: O Retorno Venoso (RV) e o Débito Cardíaco (DC) operam em um sistema fechado e devem ser invariavelmente iguais.**
