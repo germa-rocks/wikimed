@@ -1,7 +1,10 @@
 ---
 publish: true
 ---
-- =!
+
+[[HMD Tele]]
+
+
 [[objetivos]]
 - [[redbook remast]]
 	- [[red book]]
@@ -143,3 +146,4 @@ publish: true
 [[Componentes PA]]
 [[aval HMD pela Curva]]
 	[[DC pela curva]]
+	
