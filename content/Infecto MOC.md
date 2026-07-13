@@ -42,3 +42,15 @@ publish: true
 ---
 
 [[choque septico 2026]]
+
+
+
+[[Care of the Immunocompromised Patient]]
+[[Care of the Immunocompromised Patient Chest]]
+[[O Paciente Transplantado de Órgão Sólido no PS]]
+[[Immunocompromised Patient Clinical Review]]
+[[Imunossuprimido no PS]]
+[[ICU Issues for the Transplant Patient]]
+[[infecção pós Tx na UTI]]
+[[Infecções de Transplantes de Órgãos Sólidos (TOS)]]
+

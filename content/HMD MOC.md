@@ -146,4 +146,18 @@ publish: true
 [[Componentes PA]]
 [[aval HMD pela Curva]]
 	[[DC pela curva]]
-	
+
+
+## Resus
+- [[40 hmd 1 Retorno Venoso]]
+	- [[40 hmd 1 Retorno Venoso aula]]
+	- [[CVP Wave Beyond Numbers]]
+	- [[CVP Wave Beyond Numbers aula]]
+- [[41 hmd 2 Bomba]]
+	- [[41 hmd 2 Bomba aula]]
+- [[42 hmd 3 macro e micro no choque]]
+	- [[42 hmd 3 macro e micro no choque aula]]
+- [[43 hmd 4 Integração Multimodal no Choque]]
+	- [[43 hmd 4 Integração Multimodal no Choque aula]]
+
+- [[perfusao sem congestao aula]]
