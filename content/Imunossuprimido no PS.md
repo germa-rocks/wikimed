@@ -1,8 +1,6 @@
 ---
 publish: true
 ---
-
-
 # Abordagem ao Paciente Imunossuprimido no Pronto-Socorro
 
 ## Regras Gerais e Apresentação Clínica
@@ -41,13 +39,24 @@ publish: true
 - **Infecção Pulmonar: O limiar para Tomografia Computadorizada (TC) deve ser extremamente baixo.**
 	- Evite depender apenas de Radiografia de Tórax (RX), pois achados frustros podem esconder infecções fúngicas ou virais iniciais (especialmente em pacientes jovens).
 	- Se TC mostrar infiltrado/doença invasiva, considere Broncoscopia com Lavado Broncoalveolar precocemente.
-	- Pesquisar ativamente: Antígenos urinários (Legionella, Pneumococo), Galactomanana, PCR para CMV, pesquisa de BAAR e PPD.
+	- Pesquisar ativamente: 
+		- Antígenos urinários (Legionella, Pneumococo), 
+		- Galactomanana,
+		- PCR para CMV,
+		- pesquisa de BAAR e PPD.
 - **Diarreia: Jamais assuma como "gastroenterite viral aguda" sem investigar.**
 	- **Red Flag:** Diarreia é um dos principais efeitos adversos crônicos do Micofenolato, mas a infecção deve ser descartada primeiro.
-	- Fazer painel completo: Coprocultura, toxinas para *Clostridioides difficile*, protoparasitológico e, obrigatoriamente, PCR para Citomegalovírus (CMV faz enterocolite).
+	- Fazer painel completo: 
+		- Coprocultura, 
+		- toxinas para *Clostridioides difficile*, 
+		- protoparasitológico 
+		- obrigatoriamente, PCR para Citomegalovírus (CMV faz enterocolite).
 - **Sistema Nervoso Central (SNC): Qualquer alteração neurológica (cefaleia, confusão, febre) exige análise de Líquor (LCR).**
 	- Imagem (TC/RM) é o primeiro passo para afastar hipertensão intracraniana ou lesão expansiva, mas **não substitui a punção lombar** se segura.
-	- Investigar no LCR: Celularidade, tinta da China/antígeno para *Cryptococcus*, PCR para painel viral (Herpes, CMV).
+	- Investigar no LCR: 
+		- Celularidade,
+		- tinta da China/antígeno para *Cryptococcus*,
+		- PCR para painel viral (Herpes, CMV).
 - **Mucormicose (Rino-órbito-cerebral): Suspeitar em quadros faciais/nasais invasivos.**
 	- É menos comum no transplante de órgão sólido do que em neoplasias hematológicas ou diabetes descompensado, mas deve ser mantido no diagnóstico diferencial de sinusopatias invasivas e edema periorbitário.
 
