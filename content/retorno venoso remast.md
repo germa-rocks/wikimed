@@ -34,11 +34,14 @@ Aqui está a estrutura de alto rendimento baseada no modelo de divulgação prog
 
 ## 3. Dinâmica do Retorno Venoso: O Algoritmo Funcional
 - **Regra de Ouro Hemodinâmica: Em qualquer estado de equilíbrio, o Retorno Venoso (RV) é obrigatoriamente IGUAL ao Débito Cardíaco (DC).**
-	- $RV = DC$. O volume total ejetado pelo coração em um minuto precisa retornar na mesma quantidade e no mesmo minuto, garantindo o circuito fechado.
+	- $RV = DC$. 
+		- O volume total ejetado pelo coração em um minuto precisa retornar na mesma quantidade e no mesmo minuto, garantindo o circuito fechado.
 - **O Retorno Venoso é dependente de um gradiente de pressão e inversamente proporcional à resistência vascular ($RV = \frac{Pms - PAD}{Rrv}$).**
-	- **Pressão Sistêmica Média de Enchimento (Pms)**: A Força Motriz (Maior Pressão).
+	- **Pressão Sistêmica Média de Enchimento (Pms)**: A Força Motriz (Maior Pressão). A pressão de repouso dos vasos não é zero.
 		- Definição: É a pressão gerada pelo próprio volume de sangue estressando as paredes do sistema venoso (especificamente as vênulas).
-		- Fisiologia Histórica: Descoberta em modelos experimentais de parada cardíaca, onde o sistema se equaliza e prova que a pressão de repouso dos vasos não é zero.
+		- Fisiologia Histórica: 
+			- Descoberta em modelos experimentais de parada cardíaca, onde o sistema se equaliza e 
+			- prova que a pressão de repouso dos vasos não é zero.
 		- Mecanismo: O sangue distende a vênula; o recolhimento elástico natural dessa vênula gera a Pms que "empurra" o sangue em direção ao coração, mesmo sem a força da bomba cardíaca operando localmente.
 		- Impacto Prático: Intervenções como reposição de volume ou noradrenalina (que contrai vênulas) atuam aumentando a *Pms* para melhorar o RV.
 	- **Pressão do Átrio Direito (PAD)**: A Força de Sucção (Menor Pressão).
