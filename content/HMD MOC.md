@@ -160,4 +160,5 @@ publish: true
 - [[43 hmd 4 Integração Multimodal no Choque]]
 	- [[43 hmd 4 Integração Multimodal no Choque aula]]
 
+- [[Ressuscitação Harmônica e Perfusão]]
 - [[perfusao sem congestao aula]]
