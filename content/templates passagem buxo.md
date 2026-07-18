@@ -124,7 +124,7 @@ Dados brutos dos pacientes:
 
 
 ## Tópicos de Discussão (colunas)
-Agora elabore tabele com
+Agora elabore tabele com temas para discussão clínica
 - cada caso nas linhas
 - 2 colunas: coluna1 medicina intensiva. coluna 2 clínica médica aplicada a UTI
 Ordene com base em ordem crescente dos leitos
