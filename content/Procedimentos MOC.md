@@ -20,7 +20,7 @@ publish: true
 
 # GI
 - [[Paracentese guiada]]
-
+- [[EMCrit 405 – Paracentesis – the EMCrit (Easy) Way]]
 
 asd
 - [ ]
