@@ -6,3 +6,4 @@ publish: true
 [[Agitação na UTI]]
 
 [[Shock Vasopressor Physio Harv]]
+[[Controle de Temperatura Pós-PCR]]
