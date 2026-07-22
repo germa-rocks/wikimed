@@ -81,6 +81,8 @@ publish: true
 - [[aula Managing Refractory Hypoxemia and ECLS]]
 
 - [[Desmame da Ventilação Mecânica (Liberação) UoT]]
+- [[Desmame Difícil da Ventilação Mecânica UoT]]
+- 
 
 [[Ventilação Mecânica]] BrManual
 ## Kenny
