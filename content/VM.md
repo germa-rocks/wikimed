@@ -80,6 +80,8 @@ publish: true
 - [[aula Prone Positioning and Inhaled Pulmonary Vasodilators]]
 - [[aula Managing Refractory Hypoxemia and ECLS]]
 
+- [[Desmame da Ventilação Mecânica (Liberação) UoT]]
+
 [[Ventilação Mecânica]] BrManual
 ## Kenny
 

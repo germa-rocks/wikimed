@@ -13,8 +13,14 @@ publish: true
 - **A avaliação diária de elegibilidade para o desmame exige estabilidade clínica, ventilatória e hemodinâmica.**
 	- **Critérios mínimos para iniciar o desmame:**
 		- Resolução ou melhora evidente da causa que motivou a intubação.
-		- Nível de consciência: Redução da sedação e ausência de uso de Bloqueador Neuromuscular (BNM) nas últimas 24 horas.
-		- Oxigenação adequada: Relação $P/F > 150$; $FiO_2 < 40\%$; PEEP entre $4$ e $8 \text{ cmH}_2\text{O}$; $PaO_2 > 60 \text{ mmHg}$.
+		- Nível de consciência: 
+			- Redução da sedação e 
+			- ausência de uso de Bloqueador Neuromuscular (BNM) nas últimas 24 horas.
+		- Oxigenação adequada: 
+			- Relação $P/F > 150$;
+			- $PaO_2 > 60 \text{ mmHg}$.
+			- $FiO_2 < 40\%$; 
+			- PEEP entre $4$ e $8 \text{ cmH}_2\text{O}$; 
 		- Estabilidade Hemodinâmica: Ausência de drogas vasoativas (DVA) ou uso em doses baixas/decrescentes.
 		- Balanço hídrico neutro ou negativo.
 		- Ausência de distúrbios eletrolíticos significativos.
@@ -26,13 +32,16 @@ publish: true
 		- Modalidades permitidas:
 			- **Tubo T:** Respirar com fonte de $O_2$ suplementar.
 			- **Ventilador (PSV ou CPAP):** Pressão de Suporte (PSV) entre $5 \text{ a } 7 \text{ cmH}_2\text{O}$ ou CPAP de até $5 \text{ cmH}_2\text{O}$, mantendo PEEP $\le 5 \text{ cmH}_2\text{O}$.
-	- **Critérios Clínicos para Interrupção Imediata (Falha no TRE):**
-		- Frequência respiratória $> 35 \text{ irpm}$.
+	- **Critérios Clínicos para Interrupção Imediata (Falha no TRE):** ↓troca, ↑ esforço, ↑desconforto
 		- Saturação de oxigênio $< 90\%$.
+		- Frequência respiratória $> 35 \text{ irpm}$.
 		- Frequência cardíaca $> 140 \text{ bpm}$.
 		- Pressão arterial sistólica $> 180 \text{ mmHg}$ ou $< 90 \text{ mmHg}$.
-		- Sinais de esforço/sofrimento: Agitação, sonolência, diaforese, tosse produtiva ou ineficaz.
-	- **Conduta em caso de Falha no TRE:**
+		- Sinais de esforço/sofrimento: 
+			- Agitação, sonolência, 
+			- diaforese, 
+			- tosse produtiva ou ineficaz.
+	- **Conduta em caso de Falha no TRE:** suspensão + retrial 12-24h
 		- Interromper o teste imediatamente.
 		- Retornar aos parâmetros de conforto na VM.
 		- Aguardar 12 a 24 horas para uma nova tentativa (evitar fadiga muscular).
@@ -56,9 +65,14 @@ publish: true
 		- Objetivo: Avaliar patência da via aérea e risco de estridor laríngeo.
 		- Teste Positivo (Bom prognóstico): Presença de vazamento de ar ao desinsuflar o *cuff*.
 		- Teste Negativo (Alerta): Ausência de vazamento. Possui moderada sensibilidade, mas boa especificidade. Exige monitorização rigorosa pós-extubação.
-		- Indicações principais: Mulheres, uso de tubo orotraqueal calibroso, intubação $> 7 \text{ dias}$ ou intubação traumática.
+		- Indicações principais: 
+			- Mulheres, 
+			- uso de tubo orotraqueal calibroso, 
+			- intubação $> 7 \text{ dias}$ ou 
+			- intubação traumática.
 	- **Pressão de oclusão da via aérea (P0.1):**
-		- Medida da pressão aos 100 ms do início da inspiração com a via ocluída. Reflete o *drive* respiratório e a capacidade residual funcional.
+		- Medida da pressão aos 100 ms do início da inspiração com a via ocluída. 
+		- Reflete o *drive* respiratório e a capacidade residual funcional.
 
 ## 4. Falha de Extubação e Manejo do Estridor Laríngeo
 - **A falha de extubação (necessidade de reintubação em $< 48\text{h}$) exige reconhecimento imediato; retardar a reintubação aumenta a morbimortalidade.**
