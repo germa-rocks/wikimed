@@ -13,6 +13,8 @@ publish: true
 ----
 ## IBCC
 - [[HSA IBCC]]
+- [[NeuroEMCrit – External Ventricular Drains (EVDs)]]
+- [[Derivação Ventricular Externa (DVE) e Dreno Lombar]]
 
 ## Chest
 
