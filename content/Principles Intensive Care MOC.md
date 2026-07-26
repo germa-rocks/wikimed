@@ -18,3 +18,9 @@ publish: true
 [[Controle de Temperatura Pós-PCR]]
 
 ## Rp
+[[20-Baedorf-Kassis respiratory ]]
+
+- [[29-Parikh-BCQ-Pleural-Effusion-V2_new]]
+- [[Derrame Pleural Avaliação e Indicações de Drenagem]]
+
+[[51-Ferrera-Breathing-Trials_new]]
