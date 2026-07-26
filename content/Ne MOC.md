@@ -9,6 +9,15 @@ publish: true
 [[DVE aula SIMM]]
 [[Patologia Ventricular e Líquido Cefalorraquidiano]]
 [[Neurologia Congênita]]
+[[Avaliação de Alteração do Estado Mental (AMS) e Indicação de TC de Crânio na UTI]]
+
+
+
+
+
+
+
+
 
 ----
 ## IBCC
