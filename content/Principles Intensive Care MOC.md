@@ -13,6 +13,8 @@ publish: true
 - [[14 Does My Patient Need a Head CT]]
 - [[Avaliação de Alteração do Estado Mental (AMS) e Indicação de TC de Crânio na UTI]]
 
+- [[Avaliação do Delirium na UTI (Protocolo Beira-Leito)]]
+- [[27-Hayes-BCQ-Delirium_new]]
 ## CV
 [[Shock Vasopressor Physio Harv]]
 [[Controle de Temperatura Pós-PCR]]
