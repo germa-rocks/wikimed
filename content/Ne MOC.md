@@ -5,11 +5,15 @@ publish: true
 
 [[Hemorragia Intracerebral HeIC Harv]]
 
+
+
 [[Avaliação e Manejo de Derivação Ventricular Externa (DVE) a Beira-Leito]]
 [[DVE aula SIMM]]
 [[Patologia Ventricular e Líquido Cefalorraquidiano]]
 [[Neurologia Congênita]]
 [[Avaliação de Alteração do Estado Mental (AMS) e Indicação de TC de Crânio na UTI]]
+
+[[de]]
 
 
 
