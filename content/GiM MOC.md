@@ -33,6 +33,8 @@ publish: true
 [[Nutricional UTI 20a]]
 [[Critical Care Nutrition IBCC]]
 [[aval Necessidades Nutricionais]]
+[[Refeeding Syndrome IBCC]]
+
 ### parenteral
 
 [[NPT UTI HC]]
