@@ -29,10 +29,13 @@ publish: true
 ----
 
 ## Metabólico
-M.8 Update in Management of Chronic Kidney Disease Including ESRD - Steele - answers
+[[M.8 Update in Management of Chronic Kidney Disease Including ESRD - Steele]]
 
-[[T.3 Type 2 Diabetes_ A Comprehensive Review for the Practicing Clinician - Nathan]]
-T.6 Contemporary Management Strategies in Diabetes 2026 -Wexler
+- [[T.3 Type 2 Diabetes_ A Comprehensive Review for the Practicing Clinician - Nathan]]
+- [[Diabetes Tipo 2 Revisão Abrangente e Manejo Clínico]]
+[[T.6 Contemporary Management Strategies in Diabetes 2026 -Wexler]]
+
+[[F.14 Palliative Care Update - Daubman]]
 
 ----
 ## Nutrição
