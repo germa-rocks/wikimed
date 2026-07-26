@@ -34,6 +34,8 @@ publish: true
 [[Critical Care Nutrition IBCC]]
 [[aval Necessidades Nutricionais]]
 [[Refeeding Syndrome IBCC]]
+[[IBCC chapter & cast – Refeeding syndrome]]
+[[Thiamine (B1) deficiency, beriberi, and Wernicke encephalopathy EMCrit Project]]
 
 ### parenteral
 
