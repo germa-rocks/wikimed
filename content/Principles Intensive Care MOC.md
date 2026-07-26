@@ -1,6 +1,11 @@
 ---
 publish: true
 ---
+[[Time-Limited Trials (TLT) em Terapia Intensiva (UTI)]]
+[[48-Anandaiah-Time-Limited-Trials_new]]
+
+---
+
 ## Ne
 [[Comunicação com o Paciente Intubado]]
 [[Promoção do Sono e Ritmo Circadiano na UTI]]
@@ -11,3 +16,5 @@ publish: true
 ## CV
 [[Shock Vasopressor Physio Harv]]
 [[Controle de Temperatura Pós-PCR]]
+
+## Rp
