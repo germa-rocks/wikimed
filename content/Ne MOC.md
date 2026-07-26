@@ -5,6 +5,9 @@ publish: true
 
 [[Hemorragia Intracerebral HeIC Harv]]
 
+[[Avaliação e Manejo de Derivação Ventricular Externa (DVE) a Beira-Leito]]
+[[DVE aula SIMM]]
+
 ----
 ## IBCC
 - [[HSA IBCC]]
