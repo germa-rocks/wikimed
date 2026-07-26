@@ -13,7 +13,9 @@ publish: true
 [[Neurologia Congênita]]
 [[Avaliação de Alteração do Estado Mental (AMS) e Indicação de TC de Crânio na UTI]]
 
-[[de]]
+
+[[Delirium - Diagnóstico, Avaliação e Manejo Beira-Leito]]
+[[F.10 Delirium in 2026 - What the Clinician Needs to Know - Smith]]
 
 
 
