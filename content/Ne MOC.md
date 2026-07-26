@@ -7,6 +7,8 @@ publish: true
 
 [[Avaliação e Manejo de Derivação Ventricular Externa (DVE) a Beira-Leito]]
 [[DVE aula SIMM]]
+[[Patologia Ventricular e Líquido Cefalorraquidiano]]
+[[Neurologia Congênita]]
 
 ----
 ## IBCC
