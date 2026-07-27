@@ -19,6 +19,10 @@ publish: true
 [[Shock Vasopressor Physio Harv]]
 [[Controle de Temperatura Pós-PCR]]
 
+<<<<<<< HEAD
+## 
+[[9-Soffler-Rabkin-VENTS-101-REVIEW-FOR-BEGINNERS_new.pdf]]
+=======
 ## Rp
 [[20-Baedorf-Kassis respiratory ]]
 [[Manejo da Insuficiência Respiratória e SARA (Abordagem Baseada em Evidências) 2025]]
@@ -31,3 +35,4 @@ publish: true
 
 - [[51-Ferrera-Breathing-Trials_new]]
 - [[Liberação da Ventilação Mecânica (Desmame Ventilatório)]]
+>>>>>>> origin/main

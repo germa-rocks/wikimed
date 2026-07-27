@@ -2,9 +2,7 @@
 publish: true
 ---
 
-
 ***
-
 # Descontinuação da Ventilação Pulmonar Artificial (Desmame Ventilatório)
 
 ## Conceitos e Classificação
