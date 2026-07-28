@@ -35,11 +35,9 @@ publish: true
 [[T.6 Contemporary Management Strategies in Diabetes 2026 -Wexler]]
 [[Estratégias Contemporâneas no Manejo do Diabetes (Foco em GLP-1 e SGLT2i)]]
 
-[[F.14 Palliative Care Update - Daubman]]
 
 [[Antibiotics- What You Need to Know in 2026 - Dr. Alyssa Letourneau]]
 [[ATB 2026 Framework de Prescrição Antimicrobiana]]
-[[Atualização em Cuidados Paliativos (Palliative Care Update)]]
 
 ----
 ## Nutrição
