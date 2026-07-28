@@ -2,6 +2,8 @@
 publish: true
 ---
 
+[[resumo Update Paliativo]]
+
 ---
 
 [[SAVED - paciente instável]]
