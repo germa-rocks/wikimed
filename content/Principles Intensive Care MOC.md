@@ -36,3 +36,8 @@ publish: true
 - [[51-Ferrera-Breathing-Trials_new]]
 - [[Liberação da Ventilação Mecânica (Desmame Ventilatório)]]
 >>>>>>> origin/main
+
+
+## He
+[[Emergências Onco-Hematológicas na UTI]]
+[[17-Moran Hem-Onc Critical Care]]
