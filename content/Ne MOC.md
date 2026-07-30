@@ -3,12 +3,10 @@ publish: true
 ---
 
 ## ME
-- 
-	- [[87 ME mAMIB]]
 - [[ME Dx]]
 	- [[Manutenção do Potencial Doador na UTI (Manejo Beira-Leito)]]
 	- [[87 ME mAMIB]]
-	- 
+- [[Diagnóstico de Morte Encefálica]]
 	- [[Morte Encefálica aula Besen]]
 - [[Morte Encefalia (prática)]]
 	- [[ME Ladeira]]
