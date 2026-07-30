@@ -132,41 +132,5 @@ publish: true
 
 ---
 
-# Morte por Critérios Neurológicos (Morte Encefálica)
 
-## **O diagnóstico é clínico e beira-leito. O teste ancillary (imagem) só é usado quando há incerteza clínica ou impossibilidade técnica de completar o exame.**
-- As leis variam por Estado/Instituição. Apenas UM exame pode ser suficiente em adultos (diferente da pediatria). Qualquer médico licenciado (não necessita ser neurologista) pode determinar a ausência de atividade cerebral.
-
-## **Pré-requisitos Inegociáveis (Checklist pré-exame)**
-- **Conhecer a causa do coma:** É proibido abrir protocolo em coma a esclarecer.
-- Ausência total de sedativos e bloqueadores neuromusculares (aguardar no mínimo 5 meias-vidas de eliminação do fármaco).
-- Ausência de distúrbios hidroeletrolíticos ou metabólicos severos (ex: Na+ de 110 mEq/L proíbe o teste; Na+ 149 mEq/L é clinicamente aceitável - julgamento médico).
-- Temperatura central > 36ºC.
-- Pressão Arterial Sistólica (PAS) > 100 mmHg.
-- Se o coma for pós-Parada Cardiorrespiratória (Anóxia), deve-se aguardar ≥ 24 horas.
-
-## **Elementos do Exame Clínico Neurológico**
-- **Sem resposta a estímulos dolorosos/nocivos cranianos.**
-	- ⚠️ **Red Flag (Reflexos Espinhais):** Pacientes em morte encefálica *podem apresentar reflexos espinhais* (ex: flexão do quadril ao estímulo). Isso não invalida o diagnóstico.
-- Pupilas fixas e médio-fixas (4-9 mm).
-- Ausência de reflexo oculocefálico (olhos de boneca) e oculovestibular (prova calórica).
-- Ausência de reflexos de tronco: córneo, tosse e vômito (gag).
-
-## **O Teste de Apneia (Critérios e Cuidados)**
-- Ponto de partida: PaCO2 normal (35-45 mmHg) e ausência de retenção crônica de CO2.
-- Pré-oxigenação com FiO2 100%. O teste não avalia resposta à hipoxemia, apenas ao acúmulo de CO2. Interromper imediatamente se o paciente dessaturar.
-- Tempo de observação mínimo: 10 minutos. (Geralmente colhe-se gasometria aos 10 min; se necessário, a cada 2 min).
-- Critério de positividade (falha na respiração): **PaCO2 > 60 mmHg OU aumento ≥ 20 mmHg do valor basal.**
-
-## **Situações Especiais: ECMO e Hipotermia**
-- O exame de morte encefálica **pode** ser feito em pacientes sob suporte de ECMO (verificar diretrizes institucionais específicas para ajuste de sweep gas).
-- Em pacientes submetidos a controle direcionado de temperatura, aguardar **24 horas após o reaquecimento** para iniciar o protocolo.
-
-## **Exames Complementares (Ancillary Tests)**
-- **Quando indicar:** Incerteza no exame clínico (ex: pupila parecendo mover minimamente, reflexo espinhal atípico confuso), trauma facial/ocular severo, ou incapacidade de realizar teste de apneia (ex: lesão de medula alta em C2, SDRA gravíssima com hipoxemia refratária).
-- **Quais usar (Focam no Fluxo Sanguíneo):**
-	- Angiografia por Subtração Digital (Padrão-ouro visual).
-	- Cintilografia de Perfusão Cerebral (Radionuclídeo).
-	- Doppler Transcraniano.
-- ⚠️ **Testes proscritos:** EEG (linha isoelétrica por 30 min), Angio-RM (MRA) e Angio-TC (CTA) *não são mais recomendados* pelas guidelines recentes.
-	- 📎 Refs: Wijdicks EFM, et al. Neurology 2010; Greer DM, et al. JAMA 2020.
+## [[Morte por Critérios Neurológicos (Morte Encefálica)]]
