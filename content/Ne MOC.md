@@ -12,6 +12,8 @@ publish: true
 	- [[ME Ladeira]]
 - [[Morte por Critérios Neurológicos (Morte Encefálica)]]
 	- [[Neuromuscular Disease, Traumatic Brain Injury, Intracranial Hypertension, and Brain Death Chest]]
+- [[Variações Internacionais e Legislativas no Diagnóstico de Morte]]
+
 
 
 ----
