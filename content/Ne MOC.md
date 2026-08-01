@@ -47,6 +47,7 @@ publish: true
 - [[HSA IBCC]]
 - [[NeuroEMCrit – External Ventricular Drains (EVDs)]]
 - [[Derivação Ventricular Externa (DVE) e Dreno Lombar]]
+- [[Encefalite (Foco Autoimune) IBCC]]
 
 ## Chest
 
