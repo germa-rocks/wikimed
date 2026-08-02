@@ -8,6 +8,21 @@ publish: true
 	- [[AVC (i + h) (TEMIPapers).pdf]]
 
 
+### NIHSS
+
+- [[NIHSS (Itens 1 a 3)]]
+	- [[NIHSS (Itens 1 a 3) SIMM]]
+- [[NIHSS (Itens 4 a 6)]]
+	- [[NIHSS (Itens 4 a 6) SIMM]]
+- [[NIHSS (Itens 7 a 9)]]
+	- [[NIHSS (Itens 7 a 9) SIMM]]
+- [[NIHSS (Itens 10 a 11)]]
+	- [[NIHSS (Itens 10 a 11) SIMM]]
+- [[NIHSS (Extras)]]
+	- [[NIHSS (Extras) SIMM]]
+- a
+	- [[NIHSS General]]
+
 ----
 ## ME
 - [[ME Dx]]
