@@ -2,6 +2,13 @@
 publish: true
 ---
 
+## Vasc
+
+- [[Acidente Vascular Cerebral (AVCi, AVCh e AIT) TEMIpapers]]
+	- [[AVC (i + h) (TEMIPapers).pdf]]
+
+
+----
 ## ME
 - [[ME Dx]]
 	- [[Manutenção do Potencial Doador na UTI (Manejo Beira-Leito)]]
@@ -72,7 +79,6 @@ publish: true
 - [[manejo PA no AVC]]
 
 ## FNN
-
 - [[neuroanato]]
 - [[neuroEF]]
 - [[neuroImagem]]
