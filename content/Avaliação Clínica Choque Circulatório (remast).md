@@ -86,3 +86,57 @@ publish: true
 		- A estratégia guiada pela pele resultou na administração de volume significativamente menor (menos ~400mL nas primeiras 8 horas).
 		- Houve menor disfunção orgânica (SOFA inferior em 72h).
 		- Tendência a menor mortalidade em 28 dias no grupo guiado pelo TEC (34.9% vs 43.4%), reforçando a segurança do alvo clínico periférico que evita o "chasing the lactate" (perseguir o lactato infundindo soro incessantemente).
+
+# AVCi CHEST
+
+### **Diferenciação Clínica Rápida e Diagnósticos Diferenciais (Mimics).**
+- **AVCi (~80%):** Déficit máximo imediato, frequentemente percebido ao acordar, cefaleia incomum, convulsões raras (< 5%), nível de consciência tipicamente preservado.
+- **AVC Hemorrágico (~10-15%):** Déficit progressivo, frequentemente iniciado durante atividade, cefaleia e vômitos são muito comuns, redução do nível de consciência, hipertensão severa na admissão, e maior risco de convulsão (~30%).
+- **Mimics de AVC (3% das apresentações):** A **Hipoglicemia** é a principal. Outras incluem enxaqueca com aura, convulsões (paralisia de Todd), tumores, abscessos, intoxicação exógena, e encefalopatias virais.
+
+### **Avaliação Inicial e o tempo do "Último Momento Normal" ditam a conduta.**
+- **História Crucial:** Identificar a última vez em que o paciente foi visto normal, histórico recente de trauma/cirurgia e uso de medicações (especialmente anticoagulantes).
+- O exame neurológico deve ser quantificado pela escala **NIHSS** (pontuação de 0 a 42).
+
+### **O fluxo de imagem do AVCi determina a viabilidade de Trombólise e Trombectomia.**
+- **1º Passo: TC de Crânio sem contraste.** Objetivo exclusivo: Descartar sangramento (Toma a decisão sobre o tPA).
+- **2º Passo: Angio-TC de Crânio e Pescoço.** Objetivo: Avaliar oclusão de grandes vasos proximais (Toma a decisão sobre a Trombectomia).
+- **3º Passo: TC com Perfusão ou RM com Difusão (DWI).** Objetivo: Avaliar área de penumbra isquêmica (tecido salvável) para janelas estendidas de Trombólise e Trombectomia.
+
+### **Manejo Agudo: Trombólise Sistêmica (tPA) reduz incapacidade em até 4,5 horas, mas exige exclusão rigorosa de contraindicações.**
+- **Atenção:** O único exame laboratorial que deve *obrigatoriamente* ser aguardado antes de iniciar o tPA é a **Glicemia Capilar**. Não atrase o tPA aguardando coagulograma ou plaquetas, a menos que haja suspeita clínica ou histórico de uso de anticoagulantes.
+- **Contraindicações Absolutas para tPA (Qualquer tempo):**
+	- Glicemia < 50 mg/dL.
+	- Trauma craniano nos últimos 3 meses.
+	- Hemorragia Intracraniana (HIC) ou Subaracnoidea (HSA) prévias.
+	- Hemorragia ativa, punção arterial incompressível.
+	- Plaquetas < 100.000 / mm³.
+	- Heparina com PTTa alargado ou Varfarina com INR > 1.7.
+	- Novos anticoagulantes orais (DOACs - inibidores da trombina ou Fator Xa) com testes anormais.
+	- **Pressão Arterial > 185/110 mmHg** (deve ser controlada abaixo disso para administrar).
+- **Critérios de exclusão adicionais na janela estendida (3 a 4,5 horas):**
+	- Idade > 80 anos.
+	- NIHSS > 25 (AVC muito extenso).
+	- Uso de QUALQUER anticoagulante oral (mesmo com coagulograma normal).
+	- Histórico de Diabetes combinado com AVC prévio.
+
+### **A Trombectomia Mecânica estende a janela terapêutica para até 24 horas e possui benefício de mortalidade comprovado.**
+- Indicada se houver oclusão de grande vaso proximal evidenciada na Angio-TC.
+- Até 6 horas: Pode ser feita associada ou não à trombólise baseada na Angio-TC.
+- Entre 6 e 24 horas: Exige exames avançados (TC Perfusão ou RM-DWI) para comprovar tecido viável (penumbra).
+
+### **Checklist de "Do's and Don'ts" (O que fazer e o que não fazer) no AVC Isquêmico.**
+- **FAZER (DO):**
+	- Controlar PA: **< 185/110** antes do tPA e **< 180/105** após o tPA (ou após trombectomia). Se não receber tPA, tolerar PA até **220/120**.
+	- Iniciar **AAS** entre 24 e 48 horas após a trombólise.
+	- Estatinas de alta potência antes da alta.
+	- Controle glicêmico alvo: 140-180 mg/dL.
+	- Tratar hipertermia (Temperatura > 38ºC).
+- **NÃO FAZER (DON'T):**
+	- Evitar Ticagrelor agudo.
+	- Não fazer anticoagulação urgente sistêmica para o AVC.
+	- Não usar hemodiluição, expansão volêmica agressiva ou Albumina.
+	- Não realizar mobilização super precoce nas primeiras 24h.
+	- Hipotermia terapêutica não é recomendada.
+
+***
