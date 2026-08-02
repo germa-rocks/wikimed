@@ -15,6 +15,9 @@ publish: true
 
 - [[Avaliação do Delirium na UTI (Protocolo Beira-Leito)]]
 - [[27-Hayes-BCQ-Delirium_new]]
+
+- [[Hemorragia Intracerebral (HIC) para o Intensivista]]
+	- [[32-Yoon-Neuro-Quick-Hit-ABCs-of-IPH_new]]
 ## CV
 [[Shock Vasopressor Physio Harv]]
 [[Controle de Temperatura Pós-PCR]]
