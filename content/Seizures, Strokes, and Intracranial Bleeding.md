@@ -70,46 +70,5 @@ publish: true
 ***
 
 
-## [[AVCi CHEST]]
-# Acidente Vascular Cerebral Hemorrágico (HIC e HSA)
-
-## 1. Hemorragia Intracerebral (HIC) Intraparenquimatosa
-
-### **A precoce da anticoagulação (< 4 h) é a intervenção primária que comprovadamente melhora a sobrevivência na HIC: preferência 4PCC**
-- O Complexo Protrombínico de 4 fatores (4-PCC / Kcentra) é superior e mais rápido que o Plasma Fresco Congelado (PFC) + Vitamina K para reversão de Varfarina, 
-	- com menor volume infundido.
-
-### **O controle PA reduz o crescimento do hematoma, mas alvos demasiadamente estritos não melhoram o prognóstico e geram dano renal.**
-- **Redução ideal:** Manter a PAS **< 150 mmHg**.
-- A tentativa agressiva de manter PAS < 140 mmHg (como visto nos trials ATACH II e INTERACT II) não demonstrou benefício de sobrevivência ou de redução de incapacidade em comparação com alvos menos estritos (140-180 mmHg) e aumentou eventos adversos.
-
-### **Checklist de "Do's and Don'ts" na HIC.**
-- **FAZER (DO):**
-	- Controlar PAS < 150 mmHg.
-	- Profilaxia mecânica / química para TVP após 48 horas de estabilidade do sangramento.
-	- Monitorização invasiva de PIC se GCS < 9, hidrocefalia, sangramento intraventricular ou sinais de herniação.
-	- A anticoagulação prévia (se estritamente necessária, ex: válvula mecânica) *pode* ser reiniciada durante a hospitalização após avaliação de risco/benefício.
-- **NÃO FAZER (DON'T):**
-	- Não administrar profilaxia anticonvulsivante rotineiramente.
-	- Não utilizar Fator VIIa recombinante (alto risco trombótico).
-	- Não usar corticosteroides.
-	- Evitar cirurgia de evacuação de rotina para coágulos profundos (piora de desfechos).
-	- Não realizar transfusão de plaquetas apenas para reverter efeito prévio de AAS.
-
----
-
-## 2. Hemorragia Subaracnoidea (HSA)
-
-### **A HSA manifesta-se tipicamente como a "pior cefaleia da vida", com alta mortalidade se não tratada precocemente devido ao ressangramento.**
-- Origem: 85% secundária ao rompimento de aneurismas (circulação anterior).
-- Diagnóstico: A TC de crânio sem contraste tem sensibilidade > 95% no primeiro dia, mas decai rapidamente. **A Punção Lombar (PL) é obrigatória se a clínica for altamente sugestiva e a TC for negativa** (procurando xantocromia e hemácias).
-
-### **O tratamento definitivo exige a oclusão do aneurisma o mais rápido possível; a embolização endovascular (Coil) é superior à clipagem cirúrgica aberta.**
-- Coiling demonstrou melhores desfechos funcionais e menor mortalidade em 1 e 5 anos comparado ao clipe aberto.
-- Intervenção cirúrgica foca em impedir os 40% de risco de ressangramento nos primeiros 30 dias.
-
-### **A isquemia cerebral tardia (Vasoespasmo) é a complicação mais temida da HSA, ocorrendo tipicamente entre o 7º e o 14º dia.**
-- Apresenta-se com declínio do nível de consciência e déficits focais gradativos.
-- **Profilaxia mandatória:** **Nimodipino 60 mg via oral a cada 4 horas por 21 dias.** Previne ativamente a morbidade do vasoespasmo.
-- *Nota Histórica:* A estratégia "Triplo H" (Hipertensão, Hipervolemia e Hemodiluição) não possui mais evidências de benefício e não é recomendada.
-- **Outra complicação frequente:** Hidrocefalia (ocorre em 33-50% dos casos), geralmente requerendo Derivação Ventricular Externa (DVE).
+# [[AVCi CHEST]]
+# [[AVCh CHEST (HIC e HSA)]]
