@@ -12,6 +12,16 @@ publish: true
 > - [[Update on Ovarian and Cervical Cancer Screening Carmen IM Harv]]
 
 
+## Hemato
+[[51 Leucemias agudas Romualdo]]
+52 LLC Romualdo
+53 LMC Romualdo
+
+
+
+
+
+--------
 https://bizumed.murilogsales.workers.dev/Time-Limited-Trials-(TLT)-em-Terapia-Intensiva-(UTI)
 
 https://bizumed.murilogsales.workers.dev/obstina%C3%A7%C3%A3o-terap%C3%AAutica
