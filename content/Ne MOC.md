@@ -55,6 +55,7 @@ publish: true
 - [[NeuroEMCrit – External Ventricular Drains (EVDs)]]
 - [[Derivação Ventricular Externa (DVE) e Dreno Lombar]]
 - [[Encefalite (Foco Autoimune) IBCC]]
+- [[Spontaneous intracerebral hemorrhage (ICH) IBCC]]
 
 ## Chest
 
