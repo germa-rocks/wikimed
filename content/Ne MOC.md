@@ -20,8 +20,8 @@ publish: true
 	- [[NIHSS (Itens 10 a 11) SIMM]]
 - [[NIHSS (Extras)]]
 	- [[NIHSS (Extras) SIMM]]
-- a
-	- [[NIHSS General]]
+- [[NIHSS General]]
+	- [[NIHSS General aula]]
 
 ----
 ## ME
