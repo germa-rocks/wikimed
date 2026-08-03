@@ -54,3 +54,8 @@ publish: true
 [[infecção pós Tx na UTI]]
 [[Infecções de Transplantes de Órgãos Sólidos (TOS)]]
 
+
+---
+
+## IBCC
+[[Line Infection IBCC]]
