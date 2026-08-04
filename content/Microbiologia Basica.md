@@ -5,10 +5,12 @@ publish: true
 
 # Princípios Básicos de Microbiologia na UTI
 
-**Sempre diferencie Infecção de Colonização e Contaminação antes de prescrever antimicrobianos.**
+### **Sempre diferencie Infecção de Colonização e Contaminação antes de prescrever antimicrobianos.**
 *   Avalie a probabilidade pré-teste: bactéria isolada condiz com a patogenicidade e o sítio clínico?
-*   **Contaminação:** Crescimento de bactérias da microbiota da pele/ambiente em amostras mal coletadas (ex: *Staphylococcus* coagulase-negativo em apenas uma amostra de hemocultura).
-*   **Colonização:** Presença de bactérias sem resposta inflamatória/lesão tecidual (ex: *Enterococcus* em aspirado traqueal). Não requer tratamento.
+*   **Contaminação:** Crescimento de bactérias da microbiota da pele/ambiente em amostras mal coletadas. Não requer tratamento.
+	* (ex: *Staphylococcus* coagulase-negativo em apenas uma amostra de hemocultura).
+*   **Colonização:** Presença de bactérias sem resposta inflamatória/lesão tecidual. Não requer tratamento.
+	*  (ex: *Enterococcus* em aspirado traqueal)
 *   **Infecção:** Invasão tecidual com resposta inflamatória sistêmica ou local associada. Exige antimicrobiano.
     *   **Classificação Temporal (Comunitária vs. Hospitalar):**
         *   Ponto de corte: 48 a 72 horas de internamento.
@@ -28,26 +30,28 @@ publish: true
 
 # Estrutura Bacteriana e Diagnóstico Rápido
 
-**A Coloração de Gram é o exame mais rápido (30 min) para ajuste empírico beira-leito.**
+### **A Coloração de Gram é o exame mais rápido (30 min) para ajuste empírico beira-leito.**
 *   Aproveite o Gram direto da amostra para escalar ou desescalonar a terapia inicial antes da cultura final.
 *   **Gram-Positivos (Roxos/Azuis):** Possuem parede celular espessa de peptideoglicano (retêm o corante primário).
 *   **Gram-Negativos (Rosas/Vermelhos):** Possuem parede fina e uma Membrana Externa adicional (perdem o corante primário e absorvem a fucsina). A membrana externa dificulta a penetração de antibióticos.
 
-**Atente-se à capacidade de formação de Esporos e Biofilmes.**
+### **Atente-se à capacidade de formação de Esporos e Biofilmes.**
 *   **Esporos:** Estruturas de resistência ambiental extremas (difícil erradicação).
-    *   Exemplo clássico: *Clostridioides difficile*. Exige isolamento de contato rigoroso e lavagem das mãos com água e sabão (álcool gel não elimina esporos).
+    *   Exemplo clássico: *Clostridioides difficile*. 
+    * Exige isolamento de contato rigoroso e lavagem das mãos com água e sabão (álcool gel não elimina esporos).
 *   **Biofilme:** Matriz extracelular produzida por bactérias (ex: *S. aureus*, *Pseudomonas*) em superfícies sem vascularização (cateteres, tubos, próteses).
-    *   Bactérias no biofilme ficam protegidas da ação de antibióticos e anticorpos. O tratamento definitivo frequentemente exige a remoção do dispositivo.
+    *   Bactérias no biofilme ficam protegidas da ação de antibióticos e anticorpos. 
+    * O tratamento definitivo frequentemente exige a remoção do dispositivo.
 
 # Cocos Gram-Positivos (CGP)
 
-**Identifique imediatamente o grupo do CGP baseando-se nos testes de Catalase e Coagulase.**
+### **Identifique imediatamente o grupo do CGP baseando-se nos testes de Catalase e Coagulase.**
 *   **Cocos em Cachos + Catalase Positiva = *Staphylococcus*.**
     *   **Coagulase Positiva:** *Staphylococcus aureus* (alta patogenicidade, toxigênico, formador de biofilme).
     *   **Coagulase Negativa (CoNS):** *S. epidermidis*, *S. hominis*, etc. Menor virulência. Frequentes contaminantes de hemocultura, exceto em pacientes com dispositivos protéticos ou cateteres de longa permanência (onde causam infecção verdadeira).
 *   **Cocos em Cadeias/Pares + Catalase Negativa = *Streptococcus* ou *Enterococcus*.**
 
-**Manejo e patogenicidade do grupo *Streptococcus* (classificados por hemólise).**
+### **Manejo e patogenicidade do grupo *Streptococcus* (classificados por hemólise).**
 *   **Alfa-hemolíticos (Hemólise parcial/esverdeada):**
     *   *Streptococcus pneumoniae* (Pneumococo): Diplococo. Principal causa de PAC, meningite comunitária.
     *   *Streptococcus* grupo *Viridans*: Flora oral, causa comum de endocardite subaguda e bacteriemia transitória.
@@ -56,7 +60,7 @@ publish: true
     *   *Streptococcus agalactiae* (Grupo B): Flora genital/gastrointestinal. Importante em sepse neonatal.
 *   **Gama-hemolíticos (Sem hemólise):** A maioria dos *Enterococcus*.
 
-**Atenção ao *Enterococcus*: baixa virulência, mas alta resistência intrínseca.**
+### **Atenção ao *Enterococcus*: baixa virulência, mas alta resistência intrínseca.**
 *   Bactéria da flora gastrointestinal. Causa infecção urinária, endocardite, infecções intra-abdominais e bacteriemia.
 *   Resistência intrínseca a Cefalosporinas (não prescrever Ceftriaxona/Cefepime).
 *   **E. faecalis:** Mais comum, geralmente mais sensível (geralmente sensível à Ampicilina).
