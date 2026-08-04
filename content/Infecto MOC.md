@@ -1,6 +1,10 @@
 ---
 publish: true
 ---
+[[Infecções Relacionadas Saúde medcof]]
+[[Cronologias IpCS]]
+
+---
 
 [[IPPM]]
 [[celulite que não melhora]]
