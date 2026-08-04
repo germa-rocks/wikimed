@@ -4,6 +4,21 @@ publish: true
 [[Infecções Relacionadas Saúde medcof]]
 [[Cronologias IpCS]]
 
+[[Line Infection IBCC]]
+[[ICS e Sepse]]
+[[ICSrCVC Gen]]
+[[qTEMI ICS questões]]
+[[104 ICS mAMIB sum]]
+[[38 Bacteremia e ICS Wash]]
+[[104 ICS mAMIB]]
+[[Cronologias IpCS]]
+
+[[Principais infeccoes hospitalares UTI20a]]
+[[Infecções Relacionadas Saúde medcof]]
+
+
+
+
 ---
 
 [[IPPM]]
