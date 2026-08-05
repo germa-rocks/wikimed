@@ -15,7 +15,7 @@ publish: true
 
 [[Principais infeccoes hospitalares UTI20a]]
 [[Infecções Relacionadas Saúde medcof]]
-
+[[therapy for resistant G+ vancomycin vs. linezolid vs. daptomycin vs. ceftaroline]]
 
 
 
