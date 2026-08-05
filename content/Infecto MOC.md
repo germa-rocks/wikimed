@@ -18,6 +18,8 @@ publish: true
 [[therapy for resistant G+ vancomycin vs. linezolid vs. daptomycin vs. ceftaroline]]
 
 
+- [[Hemoculturas Coleta e Interpretação]]
+	- [[blood cultures AMBOSS]]
 
 ---
 
