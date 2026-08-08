@@ -5,11 +5,13 @@ publish: true
 
 ## Fisiologia Básica: Dinâmica vs. Estática Vascular
 - **Pressões dinâmicas determinam o fluxo, enquanto pressões estáticas determinam o volume do vaso/câmara.**
-	- **Pressão Dinâmica:** É a responsável por gerar o fluxo sanguíneo (ex: Retorno Venoso ou Débito Cardíaco). Exige um diferencial de pressão (pressão a montante vs. pressão a jusante). 
+	- **Pressão Dinâmica:** É a responsável por gerar o fluxo sanguíneo (ex: Retorno Venoso ou Débito Cardíaco). 
+		- Exige um diferencial de pressão (pressão a montante vs. pressão a jusante). 
 		- O fluxo interage com o leito vascular gerando **Resistência** (Relação Pressão-Fluxo).
 	- **Pressão Estática (Transmural):** Determina o volume contido dentro do compartimento vascular ou ventricular.
 		- A relação entre a alteração de volume e a alteração de pressão é a **Complacência**.
-		- *Fisiopatologia:* Vasos sanguíneos reais não são tubos rígidos. A pressão transmural e o raio costumam ser maiores proximalmente, gerando um efeito de afunilamento (tapering) que afeta a resistência dinamicamente ao longo do vaso.
+		- *Fisiopatologia:* Vasos sanguíneos reais não são tubos rígidos. 
+			- A pressão transmural e o raio costumam ser maiores proximalmente, gerando um efeito de afunilamento (tapering) que afeta a resistência dinamicamente ao longo do vaso.
 
 ## Retorno Venoso Sistêmico (RV)
 - **O Retorno Venoso (RV) e o Débito Cardíaco (DC) devem ser considerados equivalentes a longo prazo; o coração só pode ejetar o que recebe do sistema venoso.**
@@ -20,7 +22,8 @@ publish: true
 
 ## Pressão Sistêmica Média ($P_{MS}$) e Compartimentos de Volume
 - **A Pressão Sistêmica Média ($P_{MS}$) é a força motriz real a montante (upstream) que empurra o sangue para o coração.**
-	- **Conceito Fundamental:** É a pressão de todo o sistema vascular medida se o coração parar subitamente (fluxo zero). No gráfico de Guyton, é o intercepto do eixo X.
+	- **Conceito Fundamental:** É a pressão de todo o sistema vascular medida se o coração parar subitamente (fluxo zero). 
+		- No gráfico de Guyton, é o intercepto do eixo X.
 	- Fica praticamente inalterada se o fluxo parar ou recomeçar, pois o sistema venoso tem vasta complacência (atua como um reservatório gigante contendo ~70% da volemia).
 	- **O Volume Vascular é dividido em Não-Estressado e Estressado. Apenas o Volume Estressado gera a $P_{MS}$.**
 		- *Volume Não-Estressado:* É o volume necessário apenas para encher o vaso colapsado. Não exerce tensão nas paredes; não gera pressão.

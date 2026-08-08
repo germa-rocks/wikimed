@@ -49,7 +49,7 @@ publish: true
 - [[fisio Barlet]]
 - [[casos D-m]]
 - [[hemato]]
-- [[VM]]
+- [[VM MOC]]
 - 
 
 ## Gestante
