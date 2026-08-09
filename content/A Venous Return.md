@@ -70,5 +70,10 @@ publish: true
 	- **Aumento do Volume Pulmonar (VPP ou Inspiração Profunda):**
 		- Reduz a capacitância venosa pulmonar (deslocando a $P_{MS}$ pulmonar à direita).
 	- **O Status Volêmico Dita o Efeito (Zonas de West):**
-		- *Pacientes Hipervolêmicos (Zona 3 de West dominando):* As pressões vasculares pulmonares superam a alveolar. O aumento do volume/pressão transpulmonar "espreme" os vasos complacentes, **aumentando o retorno venoso para o lado esquerdo do coração**.
-		- *Pacientes Hipovolêmicos (Zonas 1 e 2 dominando):* As pressões vasculares são baixas. O aumento do volume pulmonar colapsa fisicamente os capilares, limitando drasticamente o fluxo e **reduzindo o retorno venoso para as cavidades esquerdas.**
+		- *Pacientes Hipervolêmicos (Zona 3 de West dominando):* 
+			- As pressões vasculares pulmonares superam a alveolar. 
+			- O aumento do volume/pressão transpulmonar "espreme" os vasos complacentes, **aumentando o retorno venoso para o lado esquerdo do coração**.
+		- *Pacientes Hipovolêmicos (Zonas 1 e 2 dominando):* 
+			- As pressões vasculares são baixas. 
+			- O aumento do volume pulmonar colapsa fisicamente os capilares, 
+			- limitando drasticamente o fluxo e **reduzindo o retorno venoso para as cavidades esquerdas.**
