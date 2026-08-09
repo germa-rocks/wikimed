@@ -4,6 +4,8 @@ publish: true
 
 # Fraqueza Neuromuscular na UTI
 
+[[fraqueza mm UTI by clusters]]
+
 ## **A Miopatia/Polineuropatia do Doente Crítico é, de longe, a causa mais comum de fraqueza na UTI.**
 - Ocorre em pacientes internados por outras afecções graves (ex: pneumonia, sepse) que desenvolvem fraqueza durante a internação.
 - O tempo de evolução (agudo vs. crônico) e os achados associados são a chave para o diagnóstico diferencial das outras causas.

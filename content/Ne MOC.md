@@ -71,12 +71,18 @@ publish: true
 - [[Derivação Ventricular Externa (DVE) e Dreno Lombar]]
 - [[Encefalite (Foco Autoimune) IBCC]]
 - [[Spontaneous intracerebral hemorrhage (ICH) IBCC]]
+- [[Neuromuscular Disorders IBCC]]
+- [[Myasthenia gravis & myasthenic crisis IBCC]]
+- [[Guillain Barre Syndrome (GBS)]]
 
+[[fraqueza mm UTI by clusters]]
 ## Chest
 
 - [[Seizures, Strokes, and Intracranial Bleeding]]
 	- [[Seizures, Strokes, and Intracranial Bleeding Chest]]
 
+- [[Fraqueza Neuromuscular na UTI]]
+- 
 - [[Neuromuscular Disease, Traumatic Brain Injury, Intracranial Hypertension, and Brain Death]]
 	- [[Neuromuscular Disease, Traumatic Brain Injury, Intracranial Hypertension, and Brain Death Chest]]
 
