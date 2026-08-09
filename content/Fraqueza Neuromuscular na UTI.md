@@ -24,7 +24,9 @@ publish: true
 - **Paralisia Ascendente Simétrica Pós-Infecção (Dias/Semanas) ➔ Pensar em Síndrome de Guillain-Barré (AIDP)**
 	- Clínica: Afebril, fraqueza simétrica, arreflexia, sintomas sensoriais e disfunção **autonômica**. Variante Miller-Fisher afeta nervos cranianos.
 	- Diagnóstico: Punção lombar (dissociação albuminocitológica com ↑proteína e leucócitos normais - aumenta com o tempo), anticorpos (GM1, GD1a), eletroneuromiografia.
-	- Conduta: Plasmaférese ou Imunoglobulina IV (IVIG). ⚠️ **Exceção:** Corticoides não têm benefício.
+	- Conduta: 
+		- Plasmaférese ou Imunoglobulina IV (IVIG). 
+		- ⚠️ **Exceção:** Corticoides não têm benefício.
 - **Fraqueza Flutuante que Piora com Esforço Repetitivo ➔ Pensar em Miastenia Gravis**
 	- Defect: Pós-sináptico (Receptores de Acetilcolina - AChR).
 	- Clínica: Envolvimento oculobulbar (diplopia, borramento visual) progredindo para fraqueza periférica simétrica. 
