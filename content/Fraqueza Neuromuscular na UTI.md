@@ -18,7 +18,8 @@ publish: true
 		- Descompressão cirúrgica, antibióticos ou corticoides conforme etiologia.
 - **Início Progressivo (Meses a Anos) com Fasciculações ➔ Pensar em Esclerose Lateral Amiotrófica (ELA)**
 	- Defect: Célula do corno anterior.
-	- Clínica: Paralisia ascendente, sensibilidade e motricidade ocular normais. ⚠️ **Red Flag:** Fasciculações na língua.
+	- Clínica: Paralisia ascendente, sensibilidade e motricidade ocular normais. 
+		- ⚠️ **Red Flag:** Fasciculações na língua.
 	- Conduta: Sem teste definitivo único (10% mutações familiares). Suporte.
 - **Paralisia Ascendente Simétrica Pós-Infecção (Dias/Semanas) ➔ Pensar em Síndrome de Guillain-Barré (AIDP)**
 	- Clínica: Afebril, fraqueza simétrica, arreflexia, sintomas sensoriais e disfunção **autonômica**. Variante Miller-Fisher afeta nervos cranianos.
@@ -26,9 +27,14 @@ publish: true
 	- Conduta: Plasmaférese ou Imunoglobulina IV (IVIG). ⚠️ **Exceção:** Corticoides não têm benefício.
 - **Fraqueza Flutuante que Piora com Esforço Repetitivo ➔ Pensar em Miastenia Gravis**
 	- Defect: Pós-sináptico (Receptores de Acetilcolina - AChR).
-	- Clínica: Envolvimento oculobulbar (diplopia, borramento visual) progredindo para fraqueza periférica simétrica. Relação com massa mediastinal (timoma).
+	- Clínica: Envolvimento oculobulbar (diplopia, borramento visual) progredindo para fraqueza periférica simétrica. 
+		- Relação com massa mediastinal (timoma).
 	- Diagnóstico: Estimulação nervosa repetitiva, anticorpos (AChR, MuSK).
-	- Conduta: Anticolinesterásicos (Piridostigmina), IVIG, Plasmaférese, Corticoides, Timectomia.
+	- Conduta: 
+		- Anticolinesterásicos (Piridostigmina)
+		- IVIG, Plasmaférese
+		- Corticoides
+		- Timectomia.
 
 ## **Apresentações Atípicas e Epidemiológicas (Red Flags para Provas e Prática)**
 - **Paralisia Descendente Flácida + Oftalmoplegia ➔ Botulismo**
