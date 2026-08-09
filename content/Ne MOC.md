@@ -76,6 +76,8 @@ publish: true
 - [[Guillain Barre Syndrome (GBS)]]
 
 [[fraqueza mm UTI by clusters]]
+
+## [[OnlyNeuro MOC]]
 ## Chest
 
 - [[Seizures, Strokes, and Intracranial Bleeding]]
