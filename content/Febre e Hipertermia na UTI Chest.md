@@ -1,10 +1,6 @@
 ---
 publish: true
 ---
-
-
-***
-
 # 🌡️ Definições e Fisiologia da Temperatura na UTI
 
 *   **Elevada frequência: Cerca de 50% dos pacientes na UTI apresentam temperatura corporal elevada (>37,5°C).**
