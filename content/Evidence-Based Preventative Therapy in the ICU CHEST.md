@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-
 # Profilaxia Baseada em Evidências na UTI
 
 ## Tromboembolismo Venoso (TEV) e Embolia Pulmonar (TEP)
