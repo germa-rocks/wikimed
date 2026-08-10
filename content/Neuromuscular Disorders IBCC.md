@@ -66,8 +66,10 @@ publish: true
 ## Provas de Função Pulmonar na UTI (Mecânica Respiratória)
 - **Não intube pacientes exclusivamente com base em um valor isolado de prova funcional; avalie tendências e a clínica global.**
 	- **Capacidade Vital Forçada (FVC): É a medida global mais reprodutível e útil clinicamente.**
-		- **Valores-alvo:** Normal é ~60 mL/kg. Risco de hipoventilação severa se < 30 mL/kg.
-		- **Monitoramento:** Importa mais a *tendência* ao longo de medições seriadas (ex: 3x ao dia) do que o valor absoluto. Não acorde o paciente para medir.
+		- **Valores-alvo:** Normal é ~60 mL/kg. 
+			- Risco de hipoventilação severa se < 30 mL/kg.
+		- **Monitoramento:** Importa mais a *tendência* ao longo de medições seriadas (ex: 3x ao dia) do que o valor absoluto. 
+			- Não acorde o paciente para medir.
 		- **Dica Postural (Supino vs Ortostatismo):** Queda de >25% do FVC em posição supina sugere forte disfunção diafragmática.
 	- **Força Inspiratória Negativa (NIF / MIP): Avalia apenas o diafragma.**
 		- É desconfortável, esforço-dependente e exige selo labial perfeito (difícil na fraqueza bulbar).
