@@ -16,8 +16,11 @@ publish: true
 	- **Disfunção Diastólica:** Desvio da relação pressão-volume em final de diástole para cima e esquerda. O coração enche sob maior pressão basal, comprometendo o DC.
 - **Mito do "Ramo Descendente" da Curva de Starling *in vivo*:**
 	- **Não existe queda real do débito cardíaco por hiperdistensão da fibra no coração humano intacto.**
-	- A porção plana (platô) da curva representa a **restrição pericárdica** e a limitação imposta pelo citoesqueleto miocárdico (mediastinal).
-	- O estiramento excessivo com perda de força de contração (fenômeno clássico de Starling) só ocorre *in vitro* (fibra muscular isolada); no paciente, a limitação de fluxo dita o teto máximo.
+	- A porção plana (platô) da curva representa 
+		- a **restrição pericárdica** e 
+		- a limitação imposta pelo citoesqueleto miocárdico (mediastinal).
+	- O estiramento excessivo com perda de força de contração (fenômeno clássico de Starling) só ocorre *in vitro* (fibra muscular isolada); 
+		- no paciente, a limitação de fluxo dita o teto máximo.
 
 ## 2. A Análise de Guyton (Interação Débito Cardíaco vs. Retorno Venoso)
 **O Ponto de Operação do sistema (CVP real e DC do paciente) é determinado exclusivamente pela intersecção entre a Curva de Função Cardíaca e a Curva de Retorno Venoso.**

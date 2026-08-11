@@ -60,9 +60,6 @@ publish: true
 		- **Ventrículo Esquerdo:** Sistema projetado para alta resistência, alta pressão de trabalho (~80 mmHg na aorta) e parede espessa.
 		- **Ventrículo Direito:** Sistema projetado para volume, baixíssima resistência vascular, alta complacência pulmonar, pressão de trabalho baixa (~20 mmHg na artéria pulmonar) e parede fina.
 
-
-
-
 # Fisiologia e Clínica Cardíaca: Modulação da Pós-Carga (Curva Pressão-Volume)
 
 ## Revisão Fisiológica: O Ciclo Cardíaco na Curva Pressão-Volume
