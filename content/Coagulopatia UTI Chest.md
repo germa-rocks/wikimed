@@ -1,17 +1,16 @@
 ---
 publish: true
 ---
-
-
----
-
 # Coagulopatia na UTI: Avaliação e Manejo
 
 ## Princípios Básicos e Regras de Ouro
 - **Trate o paciente que sangra, não os números de laboratório.**
 	- Um TAP (PT) ou TTPA (aPTT) elevado não exige tratamento se o paciente não apresentar sangramento ativo (exceto antes de procedimentos invasivos).
 - **A hemostasia adequada exige condições fisiológicas ideais.**
-	- A cascata de coagulação falha se não houver: normotermia, pH normal e cálcio ionizado (livre) normal.
+	- A cascata de coagulação falha se não houver: 
+		- normotermia, 
+		- pH normal e 
+		- cálcio ionizado (livre) normal.
 	- Pacientes resfriados (ex: pós-parada ou circulação extracorpórea) apresentarão coagulopatia funcional independentemente da reposição de fatores.
 - **Não esqueça a Vitamina K na UTI.**
 	- Pacientes graves em jejum (NPO) prolongado e em uso de antibióticos de amplo espectro perdem a flora intestinal produtora de Vitamina K.
@@ -33,14 +32,24 @@ publish: true
 ## Interpretação Rápida de TAP e TTPA
 - **Elevação ISOLADA do TAP (PT): Problema focado no Fator VII.**
 	- O Fator VII tem a meia-vida mais curta (6 horas).
-	- Causas comuns: Uso de Warfarina, DOACs inibidores do fator Xa (Rivaroxabana, Edoxabana), deficiência leve/inicial de Vitamina K.
+	- Causas comuns: 
+		- Uso de Warfarina, 
+		- DOACs inibidores do fator Xa (Rivaroxabana, Edoxabana), 
+		- deficiência leve/inicial de Vitamina K.
 - **Elevação ISOLADA do TTPA (aPTT): Via intrínseca.**
 	- Deficiência de fatores VIII, IX, XI, XII.
-	- Causas comuns: Anticoagulante lúpico, Heparina (Nao Fracionada), Bivalirudina, inibidores específicos de fatores (Raro).
+	- Causas comuns: 
+		- Anticoagulante lúpico, 
+		- Heparina (Não Fracionada), 
+		- Bivalirudina, 
+		- inibidores específicos de fatores (Raro).
 - **Elevação SIMULTÂNEA de TAP e TTPA: Via comum ou Múltiplos fatores.**
 	- Envolve fatores X, V, II (Protrombina) ou Fibrinogênio.
 	- *Mandatório:* Solicitar dosagem de Fibrinogênio imediatamente.
-	- Causas comuns: Efeito de drogas em excesso (supraterapêutico de heparina/warfarina), disfunção hepática grave, CIVD.
+	- Causas comuns: 
+		- Efeito de drogas em excesso (supraterapêutico de heparina/warfarina), 
+		- disfunção hepática grave, 
+		- CIVD.
 - **A relação D-Dímero vs. Fibrinogênio ajuda a diferenciar falência hepática de consumo.**
 	- O D-dímero só sobe se houver ativação cruzada da fibrina seguida de lise (plasmina).
 	- Fibrinogênio Baixo + D-Dímero Normal = Falência de síntese hepática (Shock liver, cirrose).
@@ -98,7 +107,7 @@ publish: true
 - **Os antifibrinolíticos são a "cereja do bolo", mas você precisa do "bolo" (Fibrinogênio) para o coágulo funcionar.**
 	- Mecanismo: Inibem a ligação do plasminogênio à fibrina, impedindo a lise do coágulo. Não formam novos coágulos, apenas protegem os existentes.
 - **Evidências Clássicas (Quando USAR o TXA):**
-	- **Trauma Maior (Trial CRASH-2):** Benefício claro em sobrevida se administrado nas **primeiras 3 horas** (Dose: 1g bólus + 1g em 8h).
+	- **Trauma Maior (Trial CRASH-2):** Benefício claro em sobrevida se administrado nas **primeiras 3 horas** (Dose: 1g bolus + 1g em 8h).
 	- **Hemorragia Pós-Parto (Trial WOMAN):** Reduz mortalidade por sangramento (Dose: 1g IV).
 - **Ausência de Evidência (Quando NÃO usar o TXA rotineiramente):**
 	- **Hemorragia Digestiva Alta/Baixa (Trial HALT-IT):** Sem benefício em mortalidade; aumento discreto na incidência de TEV (tromboembolismo venoso).

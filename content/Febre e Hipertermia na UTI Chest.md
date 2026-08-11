@@ -65,30 +65,38 @@ publish: true
     *   **Opções MRSA:** Vancomicina ou Linezolida.
     *   *Em pacientes com choque séptico/alto risco:* Adicionar um segundo agente gram-negativo (ex: Levofloxacino ou Tobramicina) até a saída das culturas.
 *   **Infecção de Corrente Sanguínea Associada a Cateter (CLABSI): Linezolida NÃO deve ser o agente empírico de escolha.**
-    *   **Opções MRSA:** Vancomicina ou Daptomicina (a Linezolida tem dados robustos para pulmão, mas dados clínicos insuficientes como primeira linha em bacteremia).
+    *   **Opções MRSA:** Vancomicina ou Daptomicina 
+	    * (a Linezolida tem dados robustos para pulmão, mas dados clínicos insuficientes como primeira linha em bacteremia).
     *   **Opção Gram-Negativa:** Cefepime, Ceftazidima, Pip-Tazo ou Meropenem.
 *   **Infecções Intra-Abdominais: Requerem cobertura anaeróbica mandatória.**
-    *   **Esquemas:** Ceftriaxona ou Cefepime + Metronidazol; OU Pip-Tazo isolado; OU Ampicilina-Sulbactam.
+    *   **Esquemas:** 
+	    * Ceftriaxona ou Cefepime + Metronidazol; 
+	    * OU Pip-Tazo isolado; 
+	    * OU Ampicilina-Sulbactam.
     *   Adicionar Vanco apenas se alto risco para MRSA (ex: cirurgia prévia, colonização conhecida).
 *   **Bacteremia por Gram-Negativos Produtores de ESBL (Ex: *E. coli, Klebsiella*): Meropenem é superior à Piperacilina-Tazobactam.**
     *   *Pérola Clínica:* Mesmo que o antibiograma mostre sensibilidade *in vitro* à Pip-Tazo ou Cefepime, o tratamento de sepse/bacteremia por ESBL exige Carbapenêmico.
-    *   📎 *Ref Clínica (MERINO Trial):* Pip-Tazo foi associada a pior desfecho de mortalidade em comparação ao Meropenem nestes cenários. Evite opções orais com baixa biodisponibilidade (ex: Fosfomicina, Amox-Clav) para bacteremia sistêmica.
+    *   📎 *Ref Clínica (MERINO Trial):* Pip-Tazo foi associada a pior desfecho de mortalidade em comparação ao Meropenem nestes cenários. 
+    * Evite opções orais com baixa biodisponibilidade (ex: Fosfomicina, Amox-Clav) para bacteremia sistêmica.
 
 # 🧪 O Papel da Procalcitonina (PCT)
 
 *   **A Procalcitonina NÃO substitui o julgamento clínico e serve prioritariamente para orientar o DESCALONAMENTO (retirada precoce) de antibióticos.**
     *   Mecanismo: Sobe em resposta pró-inflamatória, especificamente infecções bacterianas. Valor normal: < 0,1 ng/mL.
     *   **Interpretação e Uso:**
-        *   Em pacientes com PAC grave na UTI: PCT baixa (<0,25) virtualmente elimina a chance de infecção bacteriana.
-        *   Em sepse bacteriana: A queda de > 80% do valor de pico ou redução para < 0,5 ng/mL sugere que a antibioticoterapia pode ser suspensa com segurança (caso o paciente esteja clinicamente estável).
-    *   *Limitações Severas (Não utilizar nestes cenários):* Pacientes extremamente imunossuprimidos, gestantes, fibrose cística e infecções crônicas/profundas (endocardite, osteomielite).
+        * Em pacientes com PAC grave na UTI: PCT baixa (<0,25) virtualmente elimina a chance de infecção bacteriana.
+        * Em sepse bacteriana: A queda de > 80% do valor de pico ou redução para < 0,5 ng/mL sugere que a antibioticoterapia pode ser suspensa com segurança (caso o paciente esteja clinicamente estável).
+    *   *Limitações Severas (Não utilizar nestes cenários):* Pacientes 
+	    * extremamente imunossuprimidos, 
+	    * gestantes, 
+	    * fibrose cística e
+	    * infecções crônicas/profundas (endocardite, osteomielite).
 
 # ⏳ Stewardship Antimicrobiano: Tempos de Tratamento Curtos
-
 *   **O uso empírico amplo precoce salva vidas na UTI, mas a manutenção cega perpetua resistência multissensível.**
-    *   Estratégia: Reavaliar diariamente cada antibiótico. Descontinuar Vancomicina imediatamente se *swab* nasal e culturas não revelarem MRSA.
+    * Estratégia: Reavaliar diariamente cada antibiótico. Descontinuar Vancomicina imediatamente se *swab* nasal e culturas não revelarem MRSA.
 *   **Tratamentos curtos são eficazes e não-inferiores a cursos prolongados.**
-    *   **PAV/PAH:** Duração de **7 dias** é o padrão-ouro.
-    *   **Bacteremia por GNR (não-complicada):** **7 dias** é equivalente a 14 dias (desde que haja controle do foco).
-    *   **Infecção Intra-abdominal:** Apenas **4 dias** de antibiótico após o controle adequado do foco (cirurgia/drenagem).
+    * **PAV/PAH:** Duração de **7 dias** é o padrão-ouro.
+    * **Bacteremia por GNR (não-complicada):** **7 dias** é equivalente a 14 dias (desde que haja controle do foco).
+    * **Infecção Intra-abdominal:** Apenas **4 dias** de antibiótico após o controle adequado do foco (cirurgia/drenagem).
         *   📎 *Ref Clínica (STOP-IT Trial):* Estudo com >500 pacientes provou não haver diferença em infecção de ferida, recidiva ou mortalidade entre usar ATB por 4 dias vs 2-10 dias (esquema padrão), mesmo em pacientes com desfechos severos de perfuração colônica.
