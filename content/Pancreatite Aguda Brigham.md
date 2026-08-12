@@ -18,7 +18,7 @@ publish: true
 		- doença biliar, 
 		- trauma, 
 		- malignidade
-		- falência rena 
+		- falência renal 
 	- Em pacientes de UTI, considere um ponto de corte mais alto para a Lipase (ex: > 532 UI/L) para melhorar o valor preditivo positivo.
 - **A Ultrassonografia (USG) de Abdome é o exame de imagem mandatório na admissão para todos os pacientes.**
 	- Objetivo primário: Investigar litíase biliar (causa mais comum, 40-70% dos casos).
