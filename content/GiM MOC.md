@@ -4,8 +4,6 @@ publish: true
 
 
 ## HDA
-[[Acute GI Bleeding]]
-[[acute GI Bleeding bi]]
 
 
 ----
