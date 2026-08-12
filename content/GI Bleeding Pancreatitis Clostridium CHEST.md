@@ -114,32 +114,5 @@ publish: true
 
 ---
 
-# Colite por Clostridioides (C. diff)
-
-## Princípios de Diagnóstico
-- **Apenas teste os pacientes com alta suspeita clínica (≥ 3 fezes soltas/líquidas em 24 horas, sem uso de laxativos).**
-	- 40% das infecções atuais são comunitárias.
-	- Até 56% das pessoas possuem colonização assintomática (portadores), logo testes infundados resultam em sobre-tratamento.
-	- Os testes de rastreio e confirmação incluem:
-		- Antígeno GDH (Enzima imunoensaio): Excelente sensibilidade, mas detecta variantes não-toxigênicas (não confirma doença).
-		- Toxinas A e B (Enzima imunoensaio): Excelente especificidade, mas sofrem de alto índice de falso-negativos. (Nota: A toxina B é a responsável clínica pelos sintomas).
-		- Teste de Ácido Nucleico (PCR/NAAT): Detecta o gene da toxina, mas não avalia se há produção ativa no momento, podendo confirmar falso-positivo em carreadores.
-
-## Classificação de Gravidade
-- **A dosagem de leucócitos, a creatinina e o status de perfusão definem a abordagem da antibioticoterapia.**
-	- **Doença Não-Grave:** Leucócitos ≤ 15.000 células/mL e Creatinina < 1.5 mg/dL.
-	- **Doença Grave:** Leucócitos > 15.000 células/mL ou Creatinina > 1.5 mg/dL.
-	- **Colite Fulminante:** Presença de Hipotensão/Choque, Íleo Paralítico ou Megacólon Tóxico.
-
-## Protocolos de Tratamento 
-- **O Tratamento inicial e para episódios graves utiliza as vias de administração Oral (PO).**
-	- Regime: Vancomicina oral 125 mg 4x/dia (6/6h) por 10 dias OU Fidaxomicina oral 200 mg 2x/dia (12/12h) por 10 dias.
-- **A Colite Fulminante (ex: Megacólon) exige aumento maciço de doses orais de vancomicina, adição intravenosa e contato cirúrgico precoce.**
-	- Regime: Vancomicina 500 mg 4x/dia (via oral ou sonda) + Metronidazol Intravenoso 500mg 8/8h.
-	- Em casos de Íleo Paralítico associado: Instilação retal de Vancomicina deve ser adicionada à terapia oral e endovenosa.
-	- Não há evidência clínica recomendando a Fidaxomicina em episódios fulminantes.
-	- Equipe da cirurgia geral deve ser notificada pela alta taxa de perfuração ou instabilidade, que exigem ressecção colônica de emergência.
-
----
-
+#  [[Colite por Clostridioides (C. diff)  CHEST]]
 # [[Pancreatite Aguda CHEST]]
