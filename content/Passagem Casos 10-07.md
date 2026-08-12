@@ -14,7 +14,7 @@ A unidade possui pacientes com quadros complexos, muitos com histórico de hepat
 	- aguardando endoscopia (EDA) de urgência. Necessita de diálise e desmame de drogas vasoativas.
 	- [[coloid remast]]
 	- [[laxativos]]
-	- [[acute GI Bleeding bi]]
+	- [[acute GI Bleeding Brigham]]
 	- [[vaso remast]]
 	- 
 - **Leito 405 - Izabel (75 anos):** Pós-operatório de câncer (ADC) de papila duodenal, evoluindo com sepse de foco abdominal. _Pendências principais:_ Dieta via oral recém-liberada. Aguarda avaliação da radiointervenção para possível drenagem e necessita de vigilância para delirium.
