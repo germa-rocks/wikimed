@@ -1,8 +1,6 @@
 ---
 publish: true
 ---
-
-
 # Síndrome Compartimental Abdominal (SCA)
 
 ## Epidemiologia e Causas
