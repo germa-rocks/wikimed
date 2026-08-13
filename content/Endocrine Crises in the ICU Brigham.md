@@ -26,20 +26,22 @@ publish: true
 			- 25 a 45 pontos: Tempestade iminente.
 			- \> 45 pontos: Tempestade tireoidiana confirmada.
 		- Variáveis da Escala:
+			- Ne SNC: Desde agitação leve (10 pts) até convulsão/coma (30 pts).
+			- CV Cardiovascular: Taquicardia (até >140 bpm), Fibrilação Atrial, Insuficiência Cardíaca (edema até EAP).
+			- GiM TGI/Fígado: Desde diarreia/náusea/dor abdominal até icterícia inexplicada.
 			- Temperatura: Quanto maior, mais pontos.
-			- SNC: Desde agitação leve (10 pts) até convulsão/coma (30 pts).
-			- TGI/Fígado: Desde diarreia/náusea/dor abdominal até icterícia inexplicada.
-			- Cardiovascular: Taquicardia (até >140 bpm), Fibrilação Atrial, Insuficiência Cardíaca (edema até EAP).
 			- Histórico de Precipitante: Ausente (0 pts) ou Presente (10 pts).
-	- **Fatores Desencadeantes (Precipitantes):**
-		- Mais de 90% dos pacientes possuem Doença de Graves de base.
-		- Infecção, cirurgia, tratamento com Iodo-131, exposição a contraste iodado, cessação abrupta de antitireoidianos e toxemia.
+	- **Fatores Desencadeantes (Precipitantes):** Mais de 90% dos pacientes possuem Doença de Graves de base.
+		- Infecção e toxemia
+		- cirurgia, 
+		- tratamento com Iodo-131, exposição a contraste iodado, 
+		- cessação abrupta de antitireoidianos
 	- **Tratamento e Manejo (Protocolo Sequencial e Intensivo):**
 		- **1. Inibir a síntese do hormônio (Tionamidas):** 
 			- Propiltiouracil (PTU) é preferido sobre o Metimazol (bloqueia a conversão periférica de T4 em T3 de forma mais eficaz).
 			- Dosagem PTU: Ataque de 500-1000 mg VO, seguido por 250 mg a cada 4 horas.
 			- *Red Flag hepatotóxica:* A disfunção hepática pelo PTU é uma preocupação crônica, mas não deve limitar o uso no cenário agudo de crise.
-		- **2. Inibir a liberação do hormônio pré-formado (Iodo):**
+		- **2. Inibir a liberação do hormônio pré-formado (Iodo):** após PTU
 			- *Regra de Ouro:* Iniciar o Iodo APENAS APÓS a primeira dose do PTU ter sido administrada.
 			- Dosagem: Solução Saturada de Iodeto de Potássio (SSKI) 5 gotas a cada 6 horas.
 		- **3. Corticoterapia (Bloqueio periférico e suporte de estresse):**
@@ -59,19 +61,23 @@ publish: true
 ## 3. Coma Mixedematoso (Myxedema Coma)
 - **Representa a deficiência extrema de hormônio tireoidiano (com mortalidade de 30-50%); a presença de "coma" real não é obrigatória para o diagnóstico.**
 	- **Diagnóstico e Achados Clínicos:**
-		- 95% dos casos são primários (TSH elevado); 5% são centrais (TSH normal/baixo). Não descarte se TSH estiver normal na suspeita de falência central.
+		- 95% dos casos são primários (TSH elevado); 5% são centrais (TSH normal/baixo). 
+			- Não descarte se TSH estiver normal na suspeita de falência central.
 		- Achados Cardinais (Sistema de Pontuação sugerido):
 			- Hipotermia (Temperatura central < 35°C até < 32°C).
-			- SNC: Letargia até coma.
-			- TGI: Motilidade diminuída até íleo paralítico.
+			- Ne SNC: Letargia até coma.
 			- CV: Bradicardia, bloqueios, derrames (pericárdico/pleural), edema pulmonar, hipotensão, cardiomegalia.
+			- GiM TGI: Motilidade diminuída até íleo paralítico.
 			- Laboratório Típico: Hiponatremia, Hipoglicemia, Hipoxemia, Hipercapnia, TFG diminuída.
 	- **Fatores Desencadeantes:**
 		- Má adesão medicamentosa, clima frio, infecção, IAM/AVC.
 		- *Red Flag Iatrogênica:* Medicações depressoras do SNC dadas no hospital (narcóticos, anestésicos, sedativos).
 	- **Tratamento de Suporte (O que NÃO fazer e o que fazer):**
 		- **EVITAR:** Reaquecimento ativo e fluidos hipotônicos.
-		- **CONSIDERAR:** Suporte ventilatório (hipercapnia), antibióticos empíricos (infecção oculta), Salina Hipertônica se Sódio < 120 mEq/L.
+		- **CONSIDERAR:** 
+			- Suporte ventilatório (hipercapnia), 
+			- antibióticos empíricos (infecção oculta), 
+			- Salina Hipertônica se Sódio < 120 mEq/L.
 	- **Tratamento Direcionado (Corticoides ANTES da Levotiroxina):**
 		- **1. Glucocorticoides (Regra de Vida):**
 			- Iniciar SEMPRE hidrocortisona antes do hormônio tireoidiano (50-100 mg IV 3x/dia).
@@ -90,25 +96,59 @@ publish: true
 ## 4. Insuficiência Adrenal e Crise Adrenal
 - **A Crise Adrenal é definida pela tríade: Sintomas (Fadiga, Febre, Hipotensão refratária a aminas) + Distúrbios Laboratoriais (Hiponatremia, Hipoglicemia, Hipercalemia) + Nível de Cortisol baixo, com rápida melhora após Hidrocortisona IV.**
 	- **Fisiopatologia Prática:**
-		- Cortisol: Mantém PA (sensibiliza músculo liso às catecolaminas), antagoniza o ADH (evita intoxicação hídrica) e aumenta gliconeogênese. Hipotensão refratária a vasopressores exige suspeita de deficiência de cortisol.
-		- Aldosterona: Retém Na+, excreta K+, mantém volemia. Ausente apenas na insuficiência primária.
+		- Cortisol: 
+			- Mantém PA (sensibiliza músculo liso às catecolaminas), 
+			- antagoniza o ADH (evita intoxicação hídrica) e 
+			- aumenta gliconeogênese. 
+			- Hipotensão refratária a vasopressores exige suspeita de deficiência de cortisol.
+		- Aldosterona: 
+			- Retém Na+, 
+			- excreta K+,
+			- mantém volemia. 
+			- Ausente apenas na insuficiência primária.
 	- **Classificação e Etiologia:**
-		- Primária (Destruição da glândula - Cortisol e Aldosterona deficientes): Hemorragia bilateral, autoimune (Addison), infiltração (TB, metástase).
-		- Secundária (Falta de ACTH - Apenas Cortisol deficiente, Eixo Aldosterona intacto): Suspensão abrupta de corticoide crônico, falha em aumentar dose no estresse, massa/infarto hipofisário.
+		- Primária (Destruição da glândula - Cortisol e Aldosterona deficientes): 
+			- Hemorragia bilateral, 
+			- autoimune (Addison), 
+			- infiltração (TB, metástase).
+		- Secundária (Falta de ACTH - Apenas Cortisol deficiente, Eixo Aldosterona intacto): 
+			- Suspensão abrupta de corticoide crônico, 
+			- falha em aumentar dose no estresse, 
+			- massa/infarto hipofisário.
 		- Fármacos Inibidores: Etomidato, Cetoconazol, Megestrol.
 		- Imunoterapia (Inibidores de Checkpoint): Podem causar tanto IA primária quanto secundária (hipofisite).
 	- **Abordagem Diagnóstica (Teste de Estímulo com ACTH):**
-		- Coletar linha de base: ACTH (exige gelo imediato; se inviável, pedir Renina e Aldosterona) + Cortisol sérico.
-		- Teste de Estímulo: Administrar 250 µg de cosintropina (ACTH sintético) IV (pode ser feito a qualquer hora do dia). Medir cortisol entre 30 e 60 minutos.
+		- Coletar linha de base: 
+			- ACTH + 
+				- exige gelo imediato
+				- se inviável, pedir Renina e Aldosterona
+			- Cortisol sérico.
+		- Teste de Estímulo: 
+			- Administrar 250 µg de cosintropina (ACTH sintético) IV 
+				- (pode ser feito a qualquer hora do dia)
+			- Medir cortisol entre 30 e 60 minutos.
 		- Interpretação:
 			- Cortisol matinal > 13-14 µg/dL = Normal.
 			- Cortisol matinal < 5 µg/dL = Fortemente sugestivo de IA.
-			- Cortisol Estimulado < 14 µg/dL = IA Primária confirmada (nota: o valor de corte tradicional era 18, mas novos ensaios LC-MS/MS reduziram o limiar).
-		- *Red Flag Laboratorial (Reação cruzada):* Hidrocortisona e Prednisona elevam falsamente o cortisol no ensaio. **Dexametasona NÃO tem reação cruzada**. Se precisar dar suporte corticoide imediato antes/durante o teste, use Dexametasona.
+			- Cortisol Estimulado < 14 µg/dL = IA Primária confirmada
+				- (nota: o valor de corte tradicional era 18, mas novos ensaios LC-MS/MS reduziram o limiar).
+		- *Red Flag Laboratorial (Reação cruzada):* 
+			- Hidrocortisona e Prednisona elevam falsamente o cortisol no ensaio. 
+			- **Dexametasona NÃO tem reação cruzada**. 
+				- Se precisar dar suporte corticoide imediato antes/durante o teste, use Dexametasona.
 	- **Tratamento da Crise Adrenal:**
-		- Fluidoterapia: 1 a 3 Litros de SF 0,9% ou SG5% + SF 0,9% nas primeiras 12-24h (a salina repõe a necessidade de mineralocorticoide na fase aguda).
-		- Corticoterapia de Crise: Hidrocortisona 100 mg IV em bolus, seguido de infusão contínua de 200 mg/24h OU 50 mg IV a cada 6 horas.
-		- Manutenção crônica: Hidrocortisona 10-15 mg cedo + 5-10 mg tarde. Fludrocortisona 0.1 mg/dia (apenas se IA primária).
+		- Fluidoterapia:
+			- 1 a 3 Litros de SF 0,9% ou SG5% + 
+			- SF 0,9% nas primeiras 12-24h
+			- (a salina repõe a necessidade de mineralocorticoide na fase aguda).
+		- Corticoterapia de Crise: 
+			- Hidrocortisona 100 mg IV em bolus,
+			- seguido de 
+				- infusão contínua de 200 mg/24h OU 
+				- 50 mg IV a cada 6 horas.
+		- Manutenção crônica: 
+			- Hidrocortisona 10-15 mg cedo + 5-10 mg tarde. 
+			- Fludrocortisona 0.1 mg/dia (apenas se IA primária).
 
 ---
 
