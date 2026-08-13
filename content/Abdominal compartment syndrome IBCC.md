@@ -30,11 +30,14 @@ publish: true
 
 ## Diagnóstico e Medição da Pressão Intra-Abdominal (PIA)
 - **A medição da PIA deve ser feita através de um cateter de Foley (bexiga), garantindo que o paciente não esteja contraindo o abdome.**
-	- **Técnica Padrão:** Paciente em decúbito dorsal (totalmente supino), intubado, respirando passivamente no ventilador (sem tossir ou brigar).
+	- **Técnica Padrão:** Paciente em decúbito dorsal (totalmente supino), 
+		- intubado, 
+		- respirando passivamente no ventilador (sem tossir ou brigar).
 	- O transdutor deve ser zerado na **linha axilar média**.
 	- A pressão deve ser medida ao **final da expiração**.
 	- ⚠️ **Limitações e Falsos Positivos:** 
-		- Pacientes acordados ou não sedados dificultam a interpretação (se a PIA normaliza com sedação, afasta-se SCA).
+		- Pacientes acordados ou não sedados dificultam a interpretação 
+			- (se a PIA normaliza com sedação, afasta-se SCA).
 		- Obesos mórbidos possuem níveis basais de PIA mais altos (9-14 mmHg).
 		- Patologias pélvicas (ex: hematoma comprimindo a bexiga) podem gerar leituras falsamente elevadas.
 		- O gradiente de pressão é mais importante do que o valor absoluto de forma isolada.
@@ -42,24 +45,30 @@ publish: true
 	- **5 a 10 mmHg:** Normal (2-7 mmHg em magros; 9-14 mmHg em obesos mórbidos).
 	- **> 12 mmHg:** Hipertensão Intra-Abdominal (HIA).
 	- **12 a 15 mmHg:** HIA Grau 1.
-	- **16 a 20 mmHg:** HIA Grau 2 (Pode causar falência orgânica subtil).
+	- **16 a 20 mmHg:** HIA Grau 2 (Pode causar falência orgânica sutil).
+	- 
 	- **21 a 25 mmHg:** HIA Grau 3.
 	- **> 25 mmHg:** HIA Grau 4 (Geralmente causa falência orgânica e exige descompressão de emergência).
 - **Critérios Diagnósticos para SCA:**
 	- 🚨 **O diagnóstico exige DOIS componentes obrigatórios:**
 		1. Pressão Intra-Abdominal (PIA) sustentada **> 20 mmHg**.
 		2. Nova disfunção orgânica **atribuível** a esse aumento de pressão.
-	- 💡 *Pérola Clínica:* Os rins são o órgão mais sensível ao aumento de pressão. **Se o débito urinário está normal, é altamente improvável que o paciente tenha SCA.**
+	- 💡 *Pérola Clínica:* Os rins são o órgão mais sensível ao aumento de pressão. 
+		- **Se o débito urinário está normal, é altamente improvável que o paciente tenha SCA.**
 
 ## Quadro Clínico e Fisiopatologia por Órgão
 - **A SCA é frequentemente um "motor oculto" de falência de múltiplos órgãos (ex: falência cardíaca piorando a função renal).**
 	- O quadro clínico inicial dependerá do órgão mais frágil do paciente (ex: paciente renal crônico apresenta oligúria primeiro; o pneumopata apresenta insuficiência respiratória primeiro).
 - **Exame Físico Abdominal:**
-	- 🚨 **Um abdome tenso é ~80% específico para SCA, mas a palpação é apenas ~50% sensível.** (Ou seja, a pressão pode estar gravemente elevada em um abdome que parece flácido).
+	- 🚨 **Um abdome tenso é ~80% específico para SCA, mas a palpação é apenas ~50% sensível.** 
+		- (Ou seja, a pressão pode estar gravemente elevada em um abdome que parece flácido).
 	- Pacientes acordados referem dor abdominal e empachamento.
 - **Renal (Geralmente a Primeira Manifestação):**
 	- Manifestação inicial: **Insuficiência renal aguda oligúrica** (geralmente surge quando PIA > 15 mmHg).
-	- Fisiopatologia profunda: Ocorre compressão renal direta + congestão venosa renal (impossibilidade de drenagem do sangue) + aumento reflexo de ADH cerebral secundário à hipoperfusão.
+	- Fisiopatologia profunda: 
+		- Ocorre compressão renal direta +
+		- congestão venosa renal (impossibilidade de drenagem do sangue) + 
+		- aumento reflexo de ADH cerebral secundário à hipoperfusão.
 - **Cardiovascular (Atenção ao falso "Vazio" Volêmico):**
 	- Manifestação: A PA Sistólica costuma ser mantida inicialmente, com evolução para choque (hipotensão e taquicardia) tardio.
 	- Hemodinâmica enganosa:
@@ -70,31 +79,42 @@ publish: true
 	- Isquemia mesentérica ocorre tardiamente, gerando translocação bacteriana, vasodilatação sistêmica e choque refratário.
 - **Respiratório (Misnomer: Síndrome Policompartimental):**
 	- Manifestação: Aumento do trabalho respiratório (pacientes não entubados) ou aumento das pressões de via aérea no ventilador.
-	- Fisiopatologia: O abdome é separado do tórax por uma fina lâmina muscular (diafragma). Pressões são livremente transmitidas. Uma PIA de 16 cmH2O pode reduzir a complacência pulmonar em 50%, gerando atelectasias basais, hipoxemia e hipercapnia.
+	- Fisiopatologia: 
+		- O abdome é separado do tórax por uma fina lâmina muscular (diafragma). 
+		- Pressões são livremente transmitidas. 
+		- Uma PIA de 16 cmH2O pode reduzir a complacência pulmonar em 50%, gerando atelectasias basais, hipoxemia e hipercapnia.
 - **Neurológico:**
 	- Manifestação: Delirium, estupor ou coma.
-	- Fisiopatologia: PIA elevada ➔ eleva pressão intratorácica ➔ eleva pressão venosa central (PVC) ➔ impede a drenagem venosa cerebral ➔ **aumenta a Pressão Intracraniana (PIC)**.
+	- Fisiopatologia: 
+		- PIA elevada ➔ eleva pressão intratorácica ➔ eleva pressão venosa central (PVC) ➔ impede a drenagem venosa cerebral ➔ **aumenta a Pressão Intracraniana (PIC)**.
 
 ## Tratamento e Manejo Multimodal
-- **Hemodinâmica: Defenda a Pressão de Perfusão Abdominal (PPA > 60 mmHg).**
+- **Hemodinâmica: Defenda a Pressão de Perfusão Abdominal (PPA > 60 mmHg)**: PAM Alvo = PIA + 60
 	- **Fórmula:** PPA = PAM - PIA (Pressão Intra-Abdominal).
-	- **Alvo:** PAM Alvo > 60 mmHg + PIA. (Ex: se a PIA é 25, a PAM alvo deve ser > 85 mmHg).
+	- **Alvo:** PAM Alvo > 60 mmHg + PIA. 
+		- (Ex: se a PIA é 25, a PAM alvo deve ser > 85 mmHg).
 	- 💡 *Conduta:* Use **Vasopressores** para atingir o alvo. Uma PPA < 60 mmHg é forte preditor da necessidade de descompressão cirúrgica.
 - **Gestão Volêmica: O Ciclo Fútil dos Cristaloides.**
 	- 🚨 **EVITE fluidos adicionais (Cristaloides):** Fluidos irão rapidamente transudar para os tecidos abdominais já inflamados, piorando o edema e aumentando a PIA num "ciclo fútil letal".
-	- Desafio Clínico: O paciente costuma estar intravascularmente depletado, mas tecidualmente edemaciado. A VCI pode aparecer completamente colapsada (vazia) ao ultrassom devido à compressão externa.
-	- Conduta: O alvo mais realista é buscar **balanço hídrico neutro**. Se tolerado e factível, considere remoção de volume (diurese ou diálise).
+	- Desafio Clínico: O paciente costuma estar intravascularmente depletado, mas tecidualmente edemaciado. 
+		- A VCI pode aparecer completamente colapsada (vazia) ao ultrassom devido à compressão externa.
+	- Conduta: O alvo mais realista é buscar **balanço hídrico neutro**. 
+		- Se tolerado e factível, considere remoção de volume (diurese ou diálise).
 - **Descompressão Abdominal Médica (Não Invasiva):**
-	- **Ascite:** Se houver grande volume, deve ser drenada. Um dreno percutâneo de demora (pigtail) remove o líquido de forma mais completa que paracentese de alívio.
+	- **Ascite:** Se houver grande volume, deve ser drenada. 
+		- Um dreno percutâneo de demora (pigtail) remove o líquido de forma mais completa que paracentese de alívio.
 	- **Gastrointestinal:** 
 		- Estômago: Passar Sonda Naso/Orogástrica para sucção aberta.
 		- Cólon: Supositórios, Neostigmina IV, Sonda Retal ou Descompressão Endoscópica (Colonoscopia).
-- **Descompressão Torácica e Cuidados com a Via Aérea:**
+- Rp **Descompressão Torácica e Cuidados com a Via Aérea:**
 	- 💡 *Estratégia no Ventilador:* Reduzir PEEP e pressão de platô ajuda a diminuir a PIA (hipercapnia permissiva pode ser necessária).
 	- Drenar grandes derrames pleurais (alivia o efeito policompartimental).
-	- 🚨 **Cuidado extremo na Intubação:** A intubação converte o tórax nativo (pressão negativa) em pressão positiva, o que piora agudamente a PIA, sendo causa clássica de **parada cardíaca pós-intubação** na SCA.
+	- 🚨 **Cuidado extremo na Intubação:** 
+		- A intubação converte o tórax nativo (pressão negativa) em pressão positiva, o que piora agudamente a PIA, 
+		- sendo causa clássica de **parada cardíaca pós-intubação** na SCA.
 - **Sedação e Paralisia Muscular:**
-	- **Controle a agitação e assincronia no ventilador:** Analgesia e sedação profunda geralmente são necessárias. "Brigar com o ventilador" aumenta catastroficamente a pressão intra-abdominal.
+	- **Controle a agitação e assincronia no ventilador:** Analgesia e sedação profunda geralmente são necessárias. 
+		- "Brigar com o ventilador" aumenta catastroficamente a pressão intra-abdominal.
 	- **Bloqueio Neuromuscular (BNM):** Pode ser tentado cautelosamente em curtos períodos.
 		- *Prós:* O relaxamento total da parede abdominal melhora a complacência e pode reduzir a PIA (pode ser usado como "ponte" para a cirurgia).
 		- *Contras / Red Flag:* Se o paciente estava gerando forte pressão negativa com a própria musculatura torácica para respirar, paralisá-lo entregará a ventilação 100% à máquina (pressão positiva constante), o que pode **AUMENTAR** a pressão intratorácica e piorar a SCA.
