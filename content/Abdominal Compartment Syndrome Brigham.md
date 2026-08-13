@@ -118,29 +118,5 @@ publish: true
 
 ---
 
-## 7. Síndrome Compartimental Abdominal (SCA)
-- **Definida como Pressão Intra-abdominal (PIA) > 20 mmHg associada à disfunção de órgãos. Quando as medidas clínicas falham, a laparotomia descompressiva imediata salva a vida do paciente.**
-	- **Medição da Pressão Intra-abdominal (PIA):**
-		- O exame físico ("abdome tenso") falha em detectar hipertensão intra-abdominal (HIA) em mais de 50% das vezes.
-		- *Método padrão:* Medição da pressão vesical. Instilar 50 mL de soro fisiológico via sonda Foley, com transdutor zerado na sínfise púbica (paciente supino, relaxado).
-	- **Definições Fundamentais:**
-		- *Hipertensão Intra-abdominal (HIA):* PIA > 12 mmHg.
-		- *SCA:* PIA > 20 mmHg + Falência de Órgãos.
-		- *Primária:* Causa pélvico-abdominal direta (ex: trauma).
-		- *Secundária:* Causas extra-abdominais (ex: sepse, reanimação maciça com fluidos, grandes queimados).
-	- ▶ **Fisiopatologia e Efeitos Sistêmicos (A Cascata da SCA):**
-		- **Cardiovascular:** Compressão direta do coração (pelo diafragma) e da Veia Cava Inferior (VCI). Resulta em ↓ drástica do Retorno Venoso, ↓ Débito Cardíaco e ↑ Resistência Vascular Sistêmica.
-			- *Red Flag:* A Pressão Venosa Central (PVC/CVP) ficará **falsamente elevada** pela transmissão de pressão.
-		- **Pulmonar:** O diafragma é empurrado para o tórax. Resulta em ↓ complacência pulmonar, **aumento rápido da pressão de pico de vias aéreas** (frequentemente o primeiro gatilho de alarme no ventilador), atelectasias, hipóxia e hipercapnia.
-		- **Renal:** Causa oligúria e anúria agudas. A PIA > 12 mmHg já é um fator preditivo independente de falência orgânica e mortalidade.
-		- **Gastrointestinal:** Hipoperfusão esplâncnica, acidose, isquemia, e consequente translocação bacteriana e edema contínuo (ciclo vicioso).
-		- **Neurológico (SNC):** A pressão abdominal reflete no sistema venoso jugular, impedindo a drenagem venosa cerebral. Isso causa **aumento perigoso da Pressão Intracraniana (PIC)** e queda da Pressão de Perfusão Cerebral (PPC). Muito crítico em pacientes com Trauma Crânio-Encefálico (TCE).
-	- ▶ **Algoritmo de Tratamento:**
-		- *1º Linha (Manejo Médico e Esvaziamento):*
-			- Esvaziar o lúmen GI (Sonda nasogástrica calibrosa, tubo retal/descompressão colônica).
-			- Otimizar analgesia, sedação e, se necessário, usar **bloqueio neuromuscular** (paralisar o paciente reduz instantaneamente o tônus da parede abdominal e melhora a complacência).
-			- Otimizar reanimação fluídica (evitar hiper-hidratação excessiva, considerar diuréticos/terapia de substituição renal se houver excesso hídrico).
-			- Se houver ascite livre/coleção, considerar **paracentese** ou drenagem percutânea guiada.
-		- *2º Linha (Cirurgia):*
-			- **Laparotomia Descompressiva:** Realizada quando o manejo clínico não reverte a SCA. O abdome é mantido aberto utilizando-se curativos a vácuo (VAC) ou bolsa de Bogotá.
-			- Não hesite em descomprimir; o retardo cirúrgico na verdadeira SCA leva à parada cardíaca e morte. (Obs: A SCA pode recorrer mesmo com o abdome aberto, se o curativo a vácuo estiver excessivamente tenso ou houver edema massivo continuado).
+
+# [[7. Síndrome Compartimental Abdominal (SCA) Brigham]]
