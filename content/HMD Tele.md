@@ -20,10 +20,13 @@ publish: true
 - [[pos carga remast]]
 	- [[aula pos carga]]
 	- [[aula pos carga slides integrados]]
+
 - [[inotrop remast]]
 	- [[aula inotropismo]]
+	- [[aula inotropismo slides integrados]]
 - [[interação coração-pulmao remast]]
 	- [[aula interação coração-pulmão]]
+	- [[aula interação coração-pulmão slides integrados]]
 
 
 ## micro
