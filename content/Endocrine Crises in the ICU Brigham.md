@@ -103,7 +103,7 @@ publish: true
 			- Hipotensão refratária a vasopressores exige suspeita de deficiência de cortisol.
 		- Aldosterona: 
 			- Retém Na+, 
-			- excreta K+,
+			- **excreta K+**,
 			- mantém volemia. 
 			- Ausente apenas na insuficiência primária.
 	- **Classificação e Etiologia:**

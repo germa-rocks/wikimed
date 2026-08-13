@@ -130,26 +130,36 @@ publish: true
 
 # Insuficiência Adrenal (IA) e Apoplexia Hipofisária
 
-## **A Crise Adrenal Aguda manifesta-se tipicamente como choque vasodilatatório profundo e *totalmente refratário* à ressuscitação volêmica e aminas.**
+## **A Crise Adrenal Aguda manifesta-se tipicamente como choque vasoplégico profundo e *totalmente refratário* à ressuscitação volêmica e aminas.**
 - Distinguindo Primária (Addison) vs. Secundária:
-	- Primária (Falha da Glândula): Destruição dos eixos corticoide e mineralocorticoide. Cursa com Hipercalemia acentuada, hiponatremia, dor abdominal aguda/vômitos e hiperpigmentação (casos crônicos). 
-	- Secundária (Falha Hipofisária/ACTH): Sem quebra de mineralocorticoides. Logo, manifesta-se com Hiponatremia severa e hipoglicemia, **sem hipercalemia**. Frequentemente cursa com outros sinais de déficits hipofisários (ex: massa selar).
+	- Primária (Falha da Glândula): Destruição dos eixos corticoide e mineralocorticoide. 
+		- Cursa com **Hipercalemia acentuada**, hiponatremia, dor abdominal aguda/vômitos e hiperpigmentação (casos crônicos). 
+	- Secundária (Falha Hipofisária/ACTH): Sem quebra de mineralocorticoides. 
+		- Logo, manifesta-se com Hiponatremia severa e hipoglicemia, **sem hipercalemia**. 
+		- Frequentemente cursa com outros sinais de déficits hipofisários (ex: massa selar).
 
 ## **O teste diagnóstico jamais deve atrasar o uso empírico de esteroides em um cenário de colapso hemodinâmico.**
 - Protocolo Diagnóstico Oportuno:
 	- A.M. Cortisol Basal > 15 µg/dL: Descartada IA.
-	- A.M. Cortisol Basal < 3 µg/dL: IA Confirmada (Medir ACTH para tipagem etiológica).
-	- A.M. Cortisol Basal 3-15 µg/dL ("Zona Cinzenta"): Exige **Teste Rápido de Estímulo com Cosintropina**. Se resposta em 30 min for < 18 µg/dL, confirma-se o diagnóstico.
+	- A.M. Cortisol Basal < 3 µg/dL: IA Confirmada 
+		- (Medir ACTH para tipagem etiológica).
+	- A.M. Cortisol Basal 3-15 µg/dL ("Zona Cinzenta"): 
+		- Exige **Teste Rápido de Estímulo com Cosintropina**. 
+		- Se resposta em 30 min for < 18 µg/dL, confirma-se o diagnóstico.
 - Conduta Aguda e a Escolha Farmacológica:
 	- Estabilização: 1 L de cristaloide ou SG 5% (se hipoglicêmico) rápido.
-	- O Corticoide de Escolha: **Dexametasona 4 mg em bolus IV**. É o único que não sofre reatividade cruzada e *não* interfere na leitura da Cosintropina no teste funcional subsequente.
+	- O Corticoide de Escolha: **Dexametasona 4 mg em bolus IV**. 
+		- É o único que não sofre reatividade cruzada e *não* interfere na leitura da Cosintropina no teste funcional subsequente.
 	- Após a fase inicial diagnóstica, pode-se converter para Hidrocortisona contínua (ex: bolus de 100mg seguido de infusão 200mg/24h).
 - Manejo em Sepse: Pacientes instáveis, dependentes de aminas vasoativas em doses crescentes rápidas ou choque refratário de duplo vasopressor beneficiam-se da introdução de Hidrocortisona "stress-dose" a beira-leito, com boa chancela de guidelines atuais.
 
 ## **A Apoplexia Hipofisária é uma emergência hemorrágica intrasselar que se apresenta com cefaleia "explosiva", alterações visuais e instabilidade hemodinâmica aguda.**
-- Conduta 1: Dose de estresse IV imediata de glicocorticoides (risco de morte em minutos/horas devido a choque adrenal).
-- Conduta 2: Manejo de desbalanços rápidos eletrolíticos, com alta atenção para precipitação de Diabetes Insipidus (necessidade precoce de reposição volêmica guiada e DDAVP).
-- Conduta 3: Consulta neurocirúrgica emergencial para descompressão transesfenoidal (especialmente em casos de deterioração do nível de consciência ou perda visual rápida).
+- Conduta 1: Dose de estresse IV imediata de glicocorticoides 
+	- (risco de morte em minutos/horas devido a choque adrenal).
+- Conduta 2: Manejo de desbalanços rápidos eletrolíticos, com alta atenção para precipitação de Diabetes Insipidus
+	- (necessidade precoce de reposição volêmica guiada e DDAVP).
+- Conduta 3: Consulta neurocirúrgica emergencial para descompressão transesfenoidal 
+	- (especialmente em casos de deterioração do nível de consciência ou perda visual rápida).
 
 ---
 
