@@ -22,7 +22,8 @@ publish: true
 	- **Indicações e Otimização do Uso:**
 		- Maior benefício em pacientes graves (risco de óbito > 44%) e em uso de altas doses de drogas vasoativas.
 		- Início precoce: Administrar nas primeiras 24 horas da instalação do choque.
-		- Pré-requisito: A reposição volêmica adequada deve ser realizada *antes* da introdução do corticoide. (Hipotensão -> Expansão Volêmica -> Vasopressor -> Avaliar Corticoide com base na velocidade de ascensão da DVA).
+		- Pré-requisito: A reposição volêmica adequada deve ser realizada *antes* da introdução do corticoide. 
+			- (Hipotensão -> Expansão Volêmica -> Vasopressor -> Avaliar Corticoide com base na velocidade de ascensão da DVA).
 	- **Esquema Posológico:**
 		- Fármaco de escolha: **Hidrocortisona** (doses baixas).
 		- Dose: 200 a 300 mg/dia.
@@ -42,8 +43,17 @@ publish: true
 		- Tratamento com iodo radioativo ou exposição à sobrecarga de iodo (contraste, amiodarona).
 		- Eventos agudos: Cetoacidose diabética, IAM, AVE, TEP, ICC, Parto, ou palpação vigorosa da glândula.
 	- **Etiologia:**
-		- **Associadas à Hiperfunção:** Doença de Graves (autoimune anti-receptor TSH), nódulo hiperfuncionante/bócio multinodular tóxico, "Hashitoxicose", adenoma hipofisário (excesso de TSH), tumores trofoblásticos (mola hidatiforme - hCG atua no receptor de TSH).
-		- **Não Associadas à Hiperfunção (Liberação de estoques):** Tireotoxicose factícia (excesso de medicação oral), Tireoidites (subaguda/amiodarona), Struma ovarii (tecido ectópico), metástases de câncer folicular tireoidiano.
+		- **Associadas à Hiperfunção:** 
+			- Doença de Graves (autoimune anti-receptor TSH), 
+			- nódulo hiperfuncionante/bócio multinodular tóxico, 
+			- "Hashitoxicose", 
+			- adenoma hipofisário (excesso de TSH), 
+			- tumores trofoblásticos (mola hidatiforme - hCG atua no receptor de TSH).
+		- **Não Associadas à Hiperfunção (Liberação de estoques):** 
+			- Tireotoxicose factícia (excesso de medicação oral), 
+			- Tireoidites (subaguda/amiodarona), 
+			- Struma ovarii (tecido ectópico), 
+			- metástases de câncer folicular tireoidiano.
 	- **Quadro Clínico (Apresentação Multissistêmica):**
 		- Sinais Vitais: Febre alta (> 39°C), hiperventilação, sudorese profusa.
 		- Cardiovascular: Taquicardia sinusal, taquiarritmias (Fibrilação Atrial é a principal), sinais de descompensação e ICC.
