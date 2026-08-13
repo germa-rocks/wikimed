@@ -95,21 +95,36 @@ publish: true
 
 ## **A Síndrome do Eutireoideo Doente (Nonthyroidal Illness - NTI) é o achado mais frequente no doente crítico e não deve ser tratada com reposição hormonal.**
 - Perfil Clássico da NTI: TSH normal ou baixo; T4 normal ou baixo; **T3 francamente baixo**.
-- Diferenciação com Hipotireoidismo Central: Ambos possuem TSH, T4 e T3 baixos ou limítrofes. O diferencial é a dosagem do T3 reverso (rT3): estará *alto ou normal* na NTI e *baixo* no hipotireoidismo central.
+- Diferenciação com Hipotireoidismo Central: 
+	- Ambos possuem TSH, T4 e T3 baixos ou limítrofes.
+	- O diferencial é a dosagem do T3 reverso (rT3): 
+		- estará *alto ou normal* na NTI e *baixo* no hipotireoidismo central.
 
 ## **A Tempestade Tireoidiana (Tireotoxicose Aguda) mimetiza a sepse, mas a presença de Psicose de início súbito ou hipertermia/taquicardia extremas devem acionar alerta máximo.**
-- Apresentação: Tempestade adrenérgica (Tremores, hipertermia grave, HAS com pressão de pulso divergente, Fibrilação Atrial com alta resposta ventricular).
+- Apresentação: Tempestade adrenérgica 
+	- (Tremores, 
+	- hipertermia grave, 
+	- HAS com pressão de pulso divergente, Fibrilação Atrial com alta resposta ventricular).
 - Achados Secundários: Hipercalcemia, CPK elevada, alteração de TGO/TGP, acidose láctica.
 - Laboratório Central: TSH suprimido + T4 e T3 elevados.
 - Ferramenta de Apoio: Escore de Burch-Wartofsky > 45 suporta a suspeita.
 
 ## **Protocolo de Bloqueio Tireoidiano Sequencial Obrigatório (5 Passos)**
-- **RED FLAG TERAPÊUTICO:** Jamais administre Iodo (Lugol/SSKI) antes de estabelecer o bloqueio da síntese folicular. O Iodo ofertado precocemente age como substrato imediato para a produção de hormônio letal. **Aguarda-se no mínimo 1 hora após PTU/Metimazol.**
-- 1. Inibição da Síntese: Propiltiouracil (PTU) 200mg a cada 4-6h ou Metimazol 20-25mg a cada 6h. O PTU tem vantagem teórica em UTI pois também bloqueia a conversão periférica T4 $\rightarrow$ T3.
-- 2. Inibição da Liberação: Solução de Iodo (SSKI 5 gotas a cada 6h ou Lugol 10 gotas a cada 8h) administrado de forma segura *após* o PTU.
-- 3. Bloqueio da Conversão Periférica: Atingido usando PTU, Hidrocortisona IV (100mg a cada 8h) ou Propranolol.
-- 4. Bloqueio Adrenérgico: Propranolol ou Esmolol (titular pela frequência cardíaca, mas requer extrema cautela e avaliação hemodinâmica prévia se o paciente tiver cor pulmonale ou cardiomiopatia de base).
-- 5. Prevenção de Recirculação Enterohepática: Colestiramina (4g a cada 6h).
+- **RED FLAG TERAPÊUTICO:** Jamais administre Iodo (Lugol/SSKI) antes de estabelecer o bloqueio da síntese folicular. 
+	- O Iodo ofertado precocemente age como substrato imediato para a produção de hormônio letal.
+	- **Aguarda-se no mínimo 1 hora após PTU/Metimazol.**
+- 1. Inibição da Síntese: 
+	- Propiltiouracil (PTU) 200mg a cada 4-6h ou Metimazol 20-25mg a cada 6h.
+	- O PTU tem vantagem teórica em UTI pois também bloqueia a conversão periférica T4 $\rightarrow$ T3.
+- 2. Inibição da Liberação: 
+	- Solução de Iodo (SSKI 5 gotas a cada 6h ou Lugol 10 gotas a cada 8h) administrado de forma segura *após* o PTU.
+- 3. Bloqueio da Conversão Periférica: 
+	- Atingido usando PTU, Hidrocortisona IV (100mg a cada 8h) ou Propranolol.
+- 4. Bloqueio Adrenérgico: 
+	- Propranolol ou Esmolol (titular pela frequência cardíaca, 
+		- mas requer extrema cautela e avaliação hemodinâmica prévia se o paciente tiver cor pulmonale ou cardiomiopatia de base).
+- 5. Prevenção de Recirculação Enterohepática: 
+	- Colestiramina (4g a cada 6h).
 
 ---
 
