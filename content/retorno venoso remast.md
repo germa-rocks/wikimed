@@ -4,6 +4,11 @@ publish: true
 
 
 
+
+
+-----------
+
+
 Aqui está a estrutura de alto rendimento baseada no modelo de divulgação progressiva, pronta para ser colada no Notion, Obsidian ou Roam Research, permitindo a utilização de "toggles" nativos (listas colapsáveis).
 
 ***

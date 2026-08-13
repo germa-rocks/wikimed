@@ -7,12 +7,18 @@ publish: true
 	- [[ciclo cardiaco aula]]
 - [[curva pv remast]]
 	- [[aula curva pv]]
+	- [[aula pv com slides integrados]]
+- [[RV remast]]
 - [[retorno venoso remast]]
 	- [[aula retorno venoso]]
+	- [[aula retorno venoso slides integrados]]
+
+
 - [[Frank-Starling remast]]
 	- [[aula frank-starling]]
 - [[pos carga remast]]
 	- [[aula pos carga]]
+	- [[aula pos carga slides integrados]]
 - [[inotrop remast]]
 	- [[aula inotropismo]]
 - [[interação coração-pulmao remast]]

@@ -4,6 +4,68 @@ publish: true
 
 # Fisiologia Cardiovascular: O Ciclo Cardíaco e Hemodinâmica
 
+
+# Fisiologia Cardiovascular: O Ciclo Cardíaco
+
+## Princípios Fisiológicos Fundamentais
+- **A hemodinâmica do ciclo cardíaco é governada exclusivamente por gradientes de pressão e ação mecânica muscular.**
+	- A contração de uma câmara aumenta sua pressão intracavitária.
+	- O relaxamento de uma câmara reduz sua pressão intracavitária.
+	- O fluxo sanguíneo ocorre obrigatoriamente do ambiente de maior pressão para o de menor pressão.
+	- As valvas cardíacas (atrioventriculares e semilunares) são estruturas passivas: abrem e fecham respondendo diretamente às inversões de gradientes de pressão.
+
+## Balizadores Temporais e Eletromecânicos
+- **O ciclo mecânico é balizado pelas valvas atrioventriculares (Mitral) e precedido pelo ciclo elétrico (ECG).**
+	- **Limites do Ciclo (Pérola Didática):**
+		- Início da Sístole: Fechamento da valva mitral.
+		- Início da Diástole: Abertura da valva mitral.
+	- **Correlação Eletromecânica Básica:**
+		- Onda P (ECG): Despolarização atrial (origem no Nó Sinoatrial) $\rightarrow$ Deflagra a Contração Atrial.
+		- Complexo QRS (ECG): Despolarização ventricular (Nó AV $\rightarrow$ His/Purkinje) $\rightarrow$ Deflagra a Contração Ventricular.
+
+## Fases do Ciclo Cardíaco: Coração Esquerdo
+- **Diástole Tardia: Contração Atrial (Onda A) garante o enchimento ventricular final.**
+	- Ocorre logo após a Onda P do ECG.
+	- O Átrio Esquerdo (AE) se contrai $\rightarrow$ Aumento de pressão no AE $\rightarrow$ Ejeção ativa de sangue para o Ventrículo Esquerdo (VE).
+		- *Fisiologia:* Corresponde a aproximadamente 20% do volume de enchimento do VE em um coração saudável.
+- **Sístole: Fase Isovolumétrica eleva a pressão sem alteração de volume.**
+	- **Fechamento da Mitral:** Pressão VE > Pressão AE (ocorre devido ao enchimento do VE somado ao início da contração muscular ventricular).
+	- **Contração Isovolumétrica:** Valvas Mitral e Aórtica FECHADAS.
+		- O músculo contrai vigorosamente num compartimento fechado.
+		- *Fisiologia:* Rápido ganho de pressão no VE, essencial para alcançar e superar a pressão diastólica da aorta.
+- **Sístole: Fase de Ejeção esvazia o ventrículo contra a circulação sistêmica.**
+	- **Abertura da Valva Aórtica:** Pressão VE > Pressão da Aorta.
+	- **Ejeção Rápida:** Saída imediata de sangue em alta pressão.
+	- **Ejeção Lenta:** O VE começa a relaxar na metade da sístole $\rightarrow$ Pressão ventricular começa a cair $\rightarrow$ Sangue segue em direção à aorta impulsionado por inércia.
+- **Diástole Precoce: Relaxamento Isovolumétrico derruba a pressão intracavitária.**
+	- **Fechamento da Valva Aórtica:** Pressão da Aorta > Pressão do VE (que está relaxando e perdendo pressão).
+	- **Relaxamento Isovolumétrico:** Valvas Mitral e Aórtica FECHADAS.
+		- Volume estático no VE.
+		- *Fisiologia:* O relaxamento muscular provoca queda drástica da pressão no VE, preparando a câmara para a fase de sucção. A pressão do VE, embora caindo, ainda é maior que a do AE.
+- **Diástole Plena: Enchimento Ventricular (Rápido e Lento).**
+	- **Abertura da Mitral:** Pressão do VE cai abaixo da Pressão do AE.
+	- **Enchimento Rápido:** O VE relaxado e vazio "suga" ativamente o volume do AE.
+	- **Enchimento Lento:** As pressões entre AE e VE começam a se equalizar, diminuindo o gradiente e a velocidade do fluxo, até que ocorra uma nova contração atrial.
+
+## Dinâmica de Volumes: Relação Átrio-Ventriculo
+- **O volume do Átrio Esquerdo (AE) é inversamente proporcional ao do Ventrículo Esquerdo (VE).**
+	- O coração está restrito pelo pericárdio. O esvaziamento de uma câmara gera espaço físico para a outra.
+	- **Durante a Sístole Ventricular:** O VE esvazia e diminui de tamanho $\rightarrow$ Reduz a tensão e a pressão no AE $\rightarrow$ Favorece o enchimento (acúmulo de volume) contínuo do AE.
+	- **Durante a Diástole Ventricular:** Abertura da mitral gera imediato esvaziamento do volume represado no AE para dentro do VE.
+
+## Coração Direito vs. Coração Esquerdo (Monitorização Hemodinâmica)
+- **As curvas de pressão de VD e VE possuem morfologia idêntica, diferindo primariamente em magnitude temporal e pressórica.**
+	- **Aplicação Prática (Beira-Leito):** A curva captada por um cateter de artéria pulmonar (Swan-Ganz) quando no Ventrículo Direito será a representação fiel dessa morfologia fisiológica estudada.
+	- **Diferenças Hemodinâmicas Cruciais (Pérolas Clínicas):**
+		- **Magnitude de Pressão:** Gradientes do lado esquerdo (VE/Aorta) são maiores que do lado direito (VD/Artéria Pulmonar).
+			- *Fisiopatologia:* Ocorre devido à maior complacência dos vasos pulmonares (em relação à aorta) e à menor resistência vascular pulmonar (RVP) quando comparada à sistêmica (RVS).
+		- **Sincronismo temporal:** O Ventrículo Direito se contrai ANTES do Ventrículo Esquerdo.
+			- *Fisiopatologia:* O nó sinoatrial (marcapasso fisiológico) situa-se à direita; o estímulo elétrico atinge e despolariza o lado direito frações de segundos mais rápido.
+		- **Duração das fases:** Fases Isovolumétricas (Contração e Relaxamento) são MAIS CURTAS no lado direito.
+			- *Fisiopatologia:* Exige-se menos tempo para que o VD gere pressão suficiente para superar a baixa pressão diastólica da artéria pulmonar, bem como menos tempo para a pressão cair e permitir a abertura da tricúspide.
+
+
+-----------
 ## Princípios Fundamentais da Hemodinâmica
 - **O sangue flui estritamente a favor de um gradiente de pressão.**
 	- Move-se sempre da câmara de maior pressão para a de menor pressão. Este é o motor primário de todo o sistema circulatório.
