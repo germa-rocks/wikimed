@@ -2,7 +2,6 @@
 publish: true
 ---
 
-Aqui está a base de conhecimento estruturada e otimizada para o Notion/Obsidian, focada no alto rendimento para a prática clínica e beira-leito, aplicando a divulgação progressiva da informação.
 
 ***
 
@@ -204,7 +203,8 @@ Aqui está a estruturação de alto rendimento do material, formatada para plata
         - Reta íngreme (verticalizada): Alta capacidade contrátil. O miocárdio gera muita pressão para um determinado volume.
         - Reta deitada (horizontalizada): Baixa capacidade contrátil (ex: Insuficiência Cardíaca Sistólica). Gera pouca pressão, ejetando menos sangue e aumentando o volume residual (VSF).
     - **Fisiologia associada (Mecanismo de Frank-Starling):**
-        - O aumento progressivo da pré-carga (Volume Diastólico Final - VDF) aumenta a força de contração, gerando novos pontos na alça PV. A união desses pontos de sístole final (pressão x volume) forma a reta ESPVR.
+        - O aumento progressivo da pré-carga (Volume Diastólico Final - VDF) aumenta a força de contração, gerando novos pontos na alça PV. 
+        - A união desses pontos de sístole final (pressão x volume) forma a reta ESPVR.
 
 ## Elastância Arterial Efetiva ($E_a$) e Pós-carga
 - **A Elastância Arterial ($E_a$) dita a resistência que o sistema vascular impõe ao ventrículo (pós-carga) e é o exato inverso da complacência.**

@@ -60,7 +60,8 @@ publish: true
 		- **Magnitude de Pressão:** Gradientes do lado esquerdo (VE/Aorta) são maiores que do lado direito (VD/Artéria Pulmonar).
 			- *Fisiopatologia:* Ocorre devido à maior complacência dos vasos pulmonares (em relação à aorta) e à menor resistência vascular pulmonar (RVP) quando comparada à sistêmica (RVS).
 		- **Sincronismo temporal:** O Ventrículo Direito se contrai ANTES do Ventrículo Esquerdo.
-			- *Fisiopatologia:* O nó sinoatrial (marcapasso fisiológico) situa-se à direita; o estímulo elétrico atinge e despolariza o lado direito frações de segundos mais rápido.
+			- *Fisiopatologia:* O nó sinoatrial (marcapasso fisiológico) situa-se à direita; 
+			- o estímulo elétrico atinge e despolariza o lado direito frações de segundos mais rápido.
 		- **Duração das fases:** Fases Isovolumétricas (Contração e Relaxamento) são MAIS CURTAS no lado direito.
 			- *Fisiopatologia:* Exige-se menos tempo para que o VD gere pressão suficiente para superar a baixa pressão diastólica da artéria pulmonar, bem como menos tempo para a pressão cair e permitir a abertura da tricúspide.
 
