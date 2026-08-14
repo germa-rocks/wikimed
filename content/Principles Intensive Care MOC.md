@@ -41,6 +41,16 @@ publish: true
 >>>>>>> origin/main
 
 
+----
+
+## GiM
+- Aqui está a base de conhecimento estruturada e otimizada para consulta rápida beira-leito, baseada nos critérios de divulgação progressiva de informação (formato toggle list multinível).
+
+- [[Manejo CAD EHH em UTI PPC]]
+	- [[16 Taxin DKA]]
+- [[Síndrome Compartimental Abdominal (SCA) PCC]]
+	- [[42-Davis-Abdominal-Compartment-Syndrome]]
+
 ## He
 [[Emergências Onco-Hematológicas na UTI]]
 [[17-Moran Hem-Onc Critical Care]]
