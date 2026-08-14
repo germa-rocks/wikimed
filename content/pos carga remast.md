@@ -18,7 +18,8 @@ Aqui está a estruturação do conteúdo no formato de base de conhecimento de a
 
 ## A Tensão da Parede Ventricular (O cerne da Pós-carga)
 - **A avaliação clínica da pós-carga reflete a Tensão gerada na parede do ventrículo. Existe uma relação direta entre a Tensão da parede e o consumo miocárdico de oxigênio ($MVO_2$).**
-	- **Pérola Clínica (Choque Cardiogênico e ECMO):** Uma das formas de avaliar o sucesso da assistência em ECMO V-A é verificar se o ventrículo está "descarregado" (murcho). Menor volume $\rightarrow$ Menor tensão na parede $\rightarrow$ Menor $MVO_2$, permitindo a recuperação miocárdica.
+	- **Pérola Clínica (Choque Cardiogênico e ECMO):** Uma das formas de avaliar o sucesso da assistência em ECMO V-A é verificar se o ventrículo está "descarregado" (murcho). 
+		- Menor volume $\rightarrow$ Menor tensão na parede $\rightarrow$ Menor $MVO_2$, permitindo a recuperação miocárdica.
 	- **A Matemática da Pós-carga (Lei de Laplace adaptada):** A tensão ($T$) é proporcional à Pressão ($P$) no interior do ventrículo multiplicada pelo seu Raio ($R$), e inversamente proporcional à Espessura ($Espess$) da parede.
 		- Fórmula: $T \approx \frac{P \times R}{Espess}$
 		- *Nota:* O ventrículo não é uma esfera perfeita, mas a relação de proporcionalidade se mantém para a tomada de decisão hemodinâmica.
@@ -27,7 +28,8 @@ Aqui está a estruturação do conteúdo no formato de base de conhecimento de a
 *Com base na fórmula $T \approx \frac{P \times R}{Espess}$, atuamos nos seguintes componentes à beira-leito:*
 
 - **1. Raio Ventricular (Pré-carga): O raio ventricular reflete o grau de distensão diastólica, sendo primariamente determinado pela Pré-carga.**
-	- A Pré-carga, a Pós-carga e o Inotropismo estão clinicamente entrelaçados. Um aumento de pré-carga aumenta o raio, o que, por consequência, aumenta a tensão da parede (pós-carga).
+	- A Pré-carga, a Pós-carga e o Inotropismo estão clinicamente entrelaçados. 
+	- Um aumento de pré-carga aumenta o raio, o que, por consequência, aumenta a tensão da parede (pós-carga).
 
 - **2. Espessura da Parede: A espessura funciona como um fator de proteção contra o aumento da tensão (Pós-carga cronicamente aumentada gera hipertrofia).**
 	- Mudanças na espessura são adaptações de longo prazo (crônicas) através do surgimento de novos sarcômeros.
@@ -43,7 +45,8 @@ Aqui está a estruturação do conteúdo no formato de base de conhecimento de a
 			- **Vasodilatação:** Nitroprussiato de Sódio (Nipride) aumenta o raio, descarregando o VE em pacientes com insuficiência cardíaca crônica descompensada por alta ativação neuro-humoral.
 	- **II. Pressão Intratorácica (Interação Coração-Pulmão): A ventilação mecânica com pressão positiva reduz a pós-carga do VE e aumenta a do VD.**
 		- O coração está na cavidade torácica, sofrendo influência direta da pressão atmosférica/pleural.
-		- *Respiração Espontânea (Pressão Negativa):* Aumenta a pós-carga do VE (puxa a parede para fora) e diminui a do VD. Em esforço respiratório severo, a queda abrupta da pressão pleural piora o desempenho do VE.
+		- *Respiração Espontânea (Pressão Negativa):* Aumenta a pós-carga do VE (puxa a parede para fora) e diminui a do VD. 
+			- Em esforço respiratório severo, a queda abrupta da pressão pleural piora o desempenho do VE.
 		- *Ventilação Mecânica / VNI (Pressão Positiva):* Reduz a pós-carga do VE (empurra a parede auxiliando a sístole) e aumenta a do VD.
 		- **Pérola Clínica - Manejo do Edema Agudo de Pulmão (EAP):** 
 			- 1) Diurético: Reduz a pré-carga (reduz o volume/raio), o que diminui a pós-carga.
@@ -53,21 +56,19 @@ Aqui está a estruturação do conteúdo no formato de base de conhecimento de a
 		- *Aterosclerose:* Um ventrículo ejetando contra uma aorta doente ("dura"/menos complacente) precisa de muita energia (aumenta o $MVO_2$).
 	- **IV. Pressão de Saída Ventricular (Obstruções): Qualquer restrição na via de saída do ventrículo eleva patologicamente a pressão interna (gradiente de pressão).**
 		- *Estenose Aórtica:* A pressão intraventricular será significativamente maior que a pressão aórtica para conseguir transpor a valva estenótica.
-		- *Cuidado Clínico:* Pacientes hipovolêmicos podem fazer gradiente dinâmico de via de saída do VE. Além do baixo fluxo pela hipovolemia, a própria obstrução dinâmica aumenta agudamente a pós-carga, piorando o débito cardíaco.
+		- *Cuidado Clínico:* Pacientes hipovolêmicos podem fazer gradiente dinâmico de via de saída do VE. 
+			- Além do baixo fluxo pela hipovolemia, a própria obstrução dinâmica aumenta agudamente a pós-carga, piorando o débito cardíaco.
 
 ## Tabela de Alto Rendimento: Comparativo de Pós-carga (VE vs. VD)
 - **O VD trabalha como uma bomba de volume (baixa pressão), enquanto o VE trabalha como uma bomba de pressão. O VD não tolera aumentos súbitos de pós-carga.**
 
-| Parâmetro Hemodinâmico                |                              Ventrículo Esquerdo (VE)                              |                              Ventrículo Direito (VD)                               |
-| :------------------------------------ | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
-| **Pressão Intratorácica (Interação)** | Pressão Negativa $\uparrow$ Pós-carga <br> Pressão Positiva $\downarrow$ Pós-carga | Pressão Negativa $\downarrow$ Pós-carga <br> Pressão Positiva $\uparrow$ Pós-carga |
-| **Espessura da Parede (Tolerância)**  |                   $\uparrow \uparrow \uparrow$ (Parede espessa)                    |                              $\uparrow$ (Parede fina)                              |
-| **Complacência Arterial (Alvo)**      |                    $\uparrow$ (Aorta = rígida em relação à AP)                     |        $\uparrow \uparrow \uparrow$ (Artéria Pulmonar = muito distensível)         |
-| **Resistência Arterial**              |                $\uparrow \uparrow \uparrow$ (Circulação sistêmica)                 |                          $\uparrow$ (Circulação pulmonar)                          |
-| **Pressão Típica de Trabalho**        |                           ~ 80 mmHg (Diastólica Aórtica)                           |                     ~ 20 mmHg (PSAP - Pressão Sistólica da AP)                     |
-|                                       |                                                                                    |                                                                                    |
-|                                       |                                                                                    |                                                                                    |
-|                                       |                                                                                    |                                                                                    |
+| Parâmetro Hemodinâmico                |                       Ventrículo Esquerdo (VE)                       |                       Ventrículo Direito (VD)                        |
+| :------------------------------------ | :------------------------------------------------------------------: | :------------------------------------------------------------------: |
+| **Pressão Intratorácica (Interação)** | Pressão - $\uparrow$ Pós-carga <br> Pressão + $\downarrow$ Pós-carga | Pressão - $\downarrow$ Pós-carga <br> Pressão + $\uparrow$ Pós-carga |
+| **Espessura da Parede (Tolerância)**  |            $\uparrow \uparrow \uparrow$ (Parede espessa)             |                       $\uparrow$ (Parede fina)                       |
+| **Complacência Arterial (Alvo)**      |             $\uparrow$ (Aorta = rígida em relação à AP)              | $\uparrow \uparrow \uparrow$ (Artéria Pulmonar = muito distensível)  |
+| **Resistência Arterial**              |         $\uparrow \uparrow \uparrow$ (Circulação sistêmica)          |                   $\uparrow$ (Circulação pulmonar)                   |
+| **Pressão Típica de Trabalho**        |                  ~ 80 mmHg <br>(Diastólica Aórtica)                  |             ~ 20 mmHg <br>(PSAP - Pressão Sistólica AP)              |
 
 # Efeitos Cardiovasculares da Pós-Carga
 ## Fisiologia Básica: Alça Pressão-Volume (PV)

@@ -6,7 +6,8 @@ publish: true
 
 ### Conceito Base e Construção da Curva
 - **O mecanismo de Frank-Starling determina que a força de contração do coração é diretamente proporcional ao estiramento inicial da fibra muscular (Pré-carga).**
-	- **Mecanismo Intrínseco:** É uma propriedade inerente à fibra muscular cardíaca. Não depende de controle neural (sistema nervoso autônomo) ou humoral (adrenalina) para funcionar.
+	- **Mecanismo Intrínseco:** É uma propriedade inerente à fibra muscular cardíaca. 
+		- Não depende de controle neural (sistema nervoso autônomo) ou humoral (adrenalina) para funcionar.
 	- **Representação Gráfica (A Curva de Frank-Starling):**
 		- **Eixo Y (Força):** Representado pelo Débito Cardíaco (DC) ou Volume Sistólico (VS).
 		- **Eixo X (Estiramento / Pré-carga):** Pode ser mensurado através de variáveis de **Tensão** (PVC, POAP) ou variáveis de **Volume** (VDF, EDVI, GEDVI).
@@ -37,7 +38,10 @@ publish: true
 	- O paradigma mudou da simples "sobreposição ideal de actina e miosina".
 	- **Explicação Física:** Ao estirar a fibra miocárdica, seu volume intracelular total se mantém constante, porém o comprimento aumenta e o diâmetro diminui. 
 	- Essa redução de diâmetro (afinamento da fibra) aproxima fisicamente a miosina da actina e dos íons de cálcio, tornando a interação bioquímica muito mais rápida, fácil e eficiente.
-
+	- Fisiopatologia Profunda: O real motivo do ganho de força.
+		- O estiramento miocárdico não apenas alonga a fibra, mas **diminui o seu diâmetro**.
+		- Isso promove a aproximação física lateral entre os filamentos de actina, miosina e os íons de cálcio intrassarcoplasmáticos.
+		- Resultado: Aumento exponencial da facilidade de formação das pontes cruzadas e, consequentemente, da tensão desenvolvida na sístole.
 ### Relevância Fisiológica e Prática Clínica
 - **O mecanismo de Frank-Starling garante que o coração funcione como uma bomba autorregulável batimento a batimento.**
 	- **Princípio da Adequação (Entrada = Saída):** O mecanismo garante que o fluxo de saída (VS) se adeque imediatamente ao fluxo de entrada (Retorno Venoso).
