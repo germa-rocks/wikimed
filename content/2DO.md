@@ -46,7 +46,7 @@ publish: true
 [[HMD Tele]]
 [[HMD MOC]]
 [[Principles Intensive Care MOC]]
-[[Intensiva Manole 2022]]
+[[Intensiva Manole 2022 MOC]]
 [[Hab Práticas Intensiva Manole]]
 
 
