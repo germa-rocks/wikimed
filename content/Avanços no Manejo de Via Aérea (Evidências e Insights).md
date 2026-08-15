@@ -12,7 +12,10 @@ publish: true
 		- 📎 *Refs: Estudo INTUBE (JAMA, 2021).*
 - **A Obesidade (IMC ≥ 30) é um fator de risco independente para hipoxemia severa peri-intubação.**
 	- Pacientes obesos dessaturam mais rápido e de forma mais grave (12,1% vs 8,6% em não obesos).
-	- Fisiopatologia: Excesso de tecido adiposo dificulta alinhamento dos eixos; elevação da pressão intra-abdominal desloca o diafragma cranialmente, reduzindo a capacidade residual funcional (CRF) e a reserva pulmonar. Dificulta a pré-oxigenação e a oxigenação apneica.
+	- Fisiopatologia: 
+		- Excesso de tecido adiposo dificulta alinhamento dos eixos; 
+		- elevação da pressão intra-abdominal desloca o diafragma cranialmente, reduzindo a capacidade residual funcional (CRF) e a reserva pulmonar. 
+		- Dificulta a pré-oxigenação e a oxigenação apneica.
 		- 📎 *Refs: Análise secundária INTUBE (Critical Care, 2025).*
 
 ## 2. Otimização Pré-Intubação (Hemodinâmica e Oxigenação)
@@ -31,7 +34,7 @@ publish: true
 		- 📎 *Refs: Trial PREOXI (NEJM).*
 - **A Ventilação sob Máscara Facial (BVM) entre a indução e a laringoscopia é segura e previne hipoxemia.**
 	- A ventilação com pressão positiva (BVM) com válvula de PEEP (≥ 5 cmH2O) e cânula orofaríngea (Guedel) em taxa de 10 irpm a 100% FiO2 é superior à ausência de ventilação nesse período.
-		- 📎 *Refs: Trial PREVENT II (NEJM, 2019).*
+		- 📎 *Refs: Trial PREVENT (NEJM, 2019).*
 
 ## 3. Equipamentos e Dispositivos
 - **O uso do Estilete (fio-guia) dentro do tubo endotraqueal aumenta o sucesso de primeira passagem na laringoscopia direta.**
