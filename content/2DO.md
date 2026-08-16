@@ -1,12 +1,10 @@
 ---
 publish: true
 ---
+- [[Passagem Segura de Cateter Venoso Central (CVC)]]
+- Toracocentese Guia Prático e Base de Conhecimento
+- O Espaço Pleural Intervenções e Manejo à Beira-leito
 - 
-	- Cetoacidose Diabética o que eu não posso errar?.pdf
-- Gasometria Sem Mistérios_ O essencial para o plantão.pdf
-	- Insuficiência hepatica aguda prioridades para o emergencista.pdf
-	- O paciente cirrotico descompensado indo além da ascite.pdf
-- Paciente Intoxicado Manejo Prático Passo a Passo.pdf
 
 ----
 
