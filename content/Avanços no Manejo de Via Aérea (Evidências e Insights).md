@@ -75,11 +75,16 @@ publish: true
 		- 📎 *Refs: RSI Trial (NEJM, 2024); Trial Matchett (ICM, 2022).*
 - **Rocurônio em ALTA DOSE (≥ 1.2 a 1.5 mg/kg) iguala a velocidade de início de ação e as condições de intubação da Succinilcolina.**
 	- Dose padrão recomendada: **1.5 mg/kg IV**. Início de ação em cerca de 60 segundos (comparável aos 45 segundos da Succinilcolina).
-	- Redflag Succinilcolina (Risco de Hipercalemia fatal): Contraindicada em AVC subagudo (3 dias a 6 meses), grandes queimados, lesão de medula, esclerose múltipla, ELA e miopatias (ex: distrofia muscular).
+	- Redflag Succinilcolina (Risco de Hipercalemia fatal): Contraindicada em 
+		- AVC subagudo (3 dias a 6 meses), esclerose múltipla, ELA e miopatias (ex: distrofia muscular)
+		- lesão de medula
+		- grandes queimados
 	- Rescue com Sugammadex: Se usado após Rocurônio, a respiração espontânea retorna *mais rápido* do que o tempo de meia-vida da própria Succinilcolina.
-- **Regras de Dosiagem e Peso Corporal na Obesidade.**
-	- Indutores (Etomidato, Cetamina, Propofol): Calcular pelo Peso Corporal Ideal / Magro (LBW), a menos que o paciente *não* seja obesidade mórbida (nesse caso, TBW).
-	- Bloqueadores Neuromusculares (Succinilcolina e Rocurônio): Calcular SEMPRE pelo Peso Corporal Total (TBW - Total Body Weight).
+- **Regras de Dosagem e Peso Corporal na Obesidade.**
+	- Indutores (Etomidato, Cetamina, Propofol): 
+		- Calcular pelo Peso Corporal Ideal / Magro (LBW), a menos que o paciente *não* seja obesidade mórbida (nesse caso, TBW).
+	- Bloqueadores Neuromusculares (Succinilcolina e Rocurônio): 
+		- Calcular SEMPRE pelo Peso Corporal Total (TBW - Total Body Weight).
 - **A Ordem das Drogas na SRI (Bloqueador primeiro vs Indutor primeiro).**
 	- Administrar o Bloqueador Neuromuscular (BNM) logo ANTES do Indutor (separados por fluídos) reduz o tempo total até o término da intubação em ~6 segundos e parece diminuir a taxa de falha de primeira passagem.
 	- Racional: O BNM (especialmente Rocurônio) demora mais para agir que o Indutor. Iniciar por ele alinha os picos de ação. (Estratégia avançada/ *expert level*).
@@ -91,5 +96,8 @@ publish: true
 		- Glicopirrolato 0,2 a 0,4 mg IV (15 minutos antes) para secar secreções.
 		- Aspire e seque a cavidade oral mecanicamente antes da anestesia.
 		- **Atomize** (dispositivo MAD), não nebulize a lidocaína.
-		- Dose máxima da Lidocaína tópica: **9 mg/kg**. (Ex: Paciente 70kg = 630mg. Solução a 4% [40mg/mL] permite usar no máximo ~15 mL).
-	- Equipamento: Endoscópio flexível ou Lâmina Hiperangulada de VL (A lâmina hiperangulada exige menor força de tração e elevação, tolerada melhor pelo paciente acordado). Sedação mínima (ex: doses baixas de Cetamina ou Dexmedetomidina como adjuntos à topicação).
+		- Dose máxima da Lidocaína tópica: **9 mg/kg**.
+			- (Ex: Paciente 70kg = 630mg. Solução a 4% [40mg/mL] permite usar no máximo ~15 mL).
+	- Sedação mínima (ex: doses baixas de Cetamina ou Dexmedetomidina como adjuntos à topicação).
+	- Equipamento: Endoscópio flexível ou Lâmina Hiperangulada de VL (A lâmina hiperangulada exige menor força de tração e elevação, tolerada melhor pelo paciente acordado). 
+	- 
