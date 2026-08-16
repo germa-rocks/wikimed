@@ -43,7 +43,9 @@ publish: true
 
 ----
 
-#
+## Rn
+- [[Electrolyte Abnormalities]]
+	- [[23-William-Electrolyte-abnormalities]]
 
 ## GiM
 - Aqui está a base de conhecimento estruturada e otimizada para consulta rápida beira-leito, baseada nos critérios de divulgação progressiva de informação (formato toggle list multinível).
