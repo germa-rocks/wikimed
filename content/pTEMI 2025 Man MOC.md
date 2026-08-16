@@ -2,6 +2,16 @@
 publish: true
 ---
 
+## 2 Resp
+- [[AULA 01 - Uso racional de farmacos para IOT]]
+	- [[AULA 01 - Uso racional de farmacos para IOT aula]]
+- [[AULA 02 - Preparo_avaliação para acesso via aérea na UTI]]
+	- [[AULA 02 - Preparo_avaliação para acesso via aérea na UTI aula]]
+- [[AULA 03 - Indução e intubação em sequência rápida (pré-oxigenação)]]
+	- [[AULA 03 - Indução e intubação em sequência rápida (pré-oxigenação).pptx.pdf]]
+- [[AULA 04 - Dispositivos supraglóticos e outros]]
+	- [[AULA 04 - Dispositivos supraglóticos e outros.pptx.pdf]]
+
 
 ## 7 Gastrointensivismo
 
