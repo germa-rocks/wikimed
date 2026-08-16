@@ -43,6 +43,8 @@ publish: true
 
 ----
 
+#
+
 ## GiM
 - Aqui está a base de conhecimento estruturada e otimizada para consulta rápida beira-leito, baseada nos critérios de divulgação progressiva de informação (formato toggle list multinível).
 
