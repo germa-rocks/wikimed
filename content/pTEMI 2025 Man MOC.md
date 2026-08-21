@@ -13,6 +13,19 @@ publish: true
 	- [[AULA 04 - Dispositivos supraglóticos e outros.pptx.pdf]]
 
 
+## 3 CV
+- [[1 Insuficiência cardíaca agudamente descompE.pptx pTEMI2025]]
+- [[2 REANIMACAO CARDIOPULMONAR.pptx pTEMI2025]]
+- [[3 ENDOCARDITE INFECCIOSA.pptx pTEMI2025]]
+- [[4 URGÊNCIAS E EMERGÊNCIAS HIPERTENSIVAS.pptx pTEMI2025]]
+- [[5 Pós-operatório de Cirurgia Cardíaca  pTEMI2025]]
+	- [[5 Pós-operatório de Cirurgia Cardíaca.pptx  pTEMI2025]]
+- [[6 Bradiarritmias.pptx pTEMI2025]]
+- [[7 Taquiarritmias pptx.pptx pTEMI2025]]
+- [[8 Uso do marca-passo.pptx pTEMI2025]]
+- [[9 SÍNDROME CORONÁRIA pTEMI2025]]
+	- [[9 SÍNDROME CORONÁRIA.pptx pTEMI2025]]
+
 ## 7 Gastrointensivismo
 
 - [[1 Abdome agudo na UTI pTEMIMan]]
