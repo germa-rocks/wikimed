@@ -1,6 +1,13 @@
 ---
 publish: true
 ---
+[[Oclusão Coronariana Aguda ABREMED]]
+[[SEÇÃO 3 – REPOLARIZAÇÃO VENTRICULAR]]
+[[🫀 Topografia Eletrocardiográfica e Artéria Culpada (SCAcSST)]]
+
+
+---
+
 - [[pTEMI 2025 Man MOC]]
 EM Bootcamp 2020 Hippo MOC
 [[qTEMI VA questões]]
