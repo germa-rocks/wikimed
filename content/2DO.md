@@ -1,6 +1,17 @@
 ---
 publish: true
 ---
+
+- [[Hipertensão Pulmonar e Disfunção VD]]
+	- [[4 HP e Dfx VD.pdf]]
+
+- [[🫀 Pós-Operatório de Cirurgia Cardíaca mSanar]]
+	- [[13 PosOp Cardio mSanar.pdf]]
+- [[Endocardite Infecciosa mSanar]]
+	- [[14 Endocardite mSanar.pdf]]
+
+---
+
 [[Oclusão Coronariana Aguda ABREMED]]
 [[SEÇÃO 3 – REPOLARIZAÇÃO VENTRICULAR]]
 [[🫀 Topografia Eletrocardiográfica e Artéria Culpada (SCAcSST)]]

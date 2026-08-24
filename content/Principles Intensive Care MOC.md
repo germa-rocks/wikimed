@@ -22,6 +22,9 @@ publish: true
 [[Shock Vasopressor Physio Harv]]
 [[Controle de Temperatura Pós-PCR]]
 
+- 
+	- [[8-Hyland MCS mechanical circulatory support.pdf]]
+
 <<<<<<< HEAD
 ## 
 [[9-Soffler-Rabkin-VENTS-101-REVIEW-FOR-BEGINNERS_new.pdf]]
