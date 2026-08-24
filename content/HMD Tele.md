@@ -58,12 +58,18 @@ publish: true
 	- [[Aula 1 • Conhecendo o cateter de Swan-Ganz]]
 - [[Cateter de Swan-Ganz Morfologia e Progressão Hemodinâmica]]
 	- [[Aula 2 • Entendendo as curvas de pressão do cateter de Swan-Ganz]]
-[[Aula 3 • Curvas do Swan-Ganz dicas e armadilhas • PARTE I]]
-Aula 4 • Curvas do Swan-Ganz dicas e armadilhas • PARTE II
-Aula 5 • Zonas de West
-Aula 6 • Quais fatores determinam a PVC e a POAP
-Aula 7 • PVC e POAP: avaliando o retorno venoso e a função cardíaca
-Aula 8 • PVC e POAP: como usar na prática
+- [[Análise de Curvas (PVC vs. POAP)]]
+	- [[Aula 3 • Curvas do Swan-Ganz dicas e armadilhas • PARTE I]]
+- [[Interpretação de Curvas e Manejo de Artefatos]]
+	- [[Aula 4 • Curvas do Swan-Ganz dicas e armadilhas • PARTE II]]
+- [[Cateter de Swan-Ganz e Zonas de West]]
+	- [[Aula 5 • Zonas de West]]
+- [[PVC e POAP (Cateter de Swan-Ganz)]]
+	- [[Aula 6 • Quais fatores determinam a PVC e a POAP]]
+- [[PVC e POAP Dinâmica, Avaliação da Pré-carga e Aspectos Técnicos]]
+	- [[Aula 7 • PVC e POAP avaliando o retorno venoso e a função cardíaca]]
+- [[Aval HMD Swan Foco VD]]
+	- [[Aula 8 • PVC e POAP como usar na prática]]
 Aula 9 • Débito cardíaco intermitente e contínuo
 Aula 10 • Fração de ejeção e volume diastólico final do ventrículo direito
 Aula 11 • Caso clínico 1: iniciando estudo do choque cardiogênico
