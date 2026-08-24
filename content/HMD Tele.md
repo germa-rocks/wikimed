@@ -72,14 +72,15 @@ publish: true
 	- [[Aula 8 • PVC e POAP como usar na prática]]
 
 ---
+[[Aula 3 Pressão Venosa Central e Pressão de Oclusão da Artéria Pulmonar]]
 
-- 
-	- [[Aula 9 • Débito cardíaco intermitente e contínuo]]
-- 
-	- [[Aula 10 • Fração de ejeção e volume diastólico final do ventrículo direito]]
+- [[Monitorização do Débito Cardíaco via Cateter de Swan-Ganz]]
+	- [[Aula 10 • Débito cardíaco intermitente e contínuo]]
+- [[Parâmetros Hemodinâmicos de Ventrículo Direito (Swan-Ganz)]]
+	- [[Aula 11 • Fração de ejeção e volume diastólico final do ventrículo direito]]
 - 
 	- [[Aula 11 • Caso clínico 1 iniciando estudo do choque cardiogênico]]
-- 
+- [[Avaliação VD com Cateter de Swan-Ganz]]
 	- [[Aula 12 • Relação entre PVC e POAP no choque cardiogênico]]
 
 Aula 13 • Pós-carga do ventrículo direito: resistência e complacência vascular pulmonar
