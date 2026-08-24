@@ -64,6 +64,9 @@ publish: true
 	- [[Aula 4 • Curvas do Swan-Ganz dicas e armadilhas • PARTE II]]
 - [[Cateter de Swan-Ganz e Zonas de West]]
 	- [[Aula 5 • Zonas de West]]
+
+---
+
 - [[PVC e POAP (Cateter de Swan-Ganz)]]
 	- [[Aula 6 • Quais fatores determinam a PVC e a POAP]]
 - [[PVC e POAP Dinâmica, Avaliação da Pré-carga e Aspectos Técnicos]]
