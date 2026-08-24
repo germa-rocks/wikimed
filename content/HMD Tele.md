@@ -70,6 +70,9 @@ publish: true
 	- [[Aula 7 • PVC e POAP avaliando o retorno venoso e a função cardíaca]]
 - [[Aval HMD Swan Foco VD]]
 	- [[Aula 8 • PVC e POAP como usar na prática]]
+
+---
+
 Aula 9 • Débito cardíaco intermitente e contínuo
 Aula 10 • Fração de ejeção e volume diastólico final do ventrículo direito
 Aula 11 • Caso clínico 1: iniciando estudo do choque cardiogênico
