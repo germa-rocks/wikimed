@@ -72,7 +72,9 @@ publish: true
 	- [[Aula 8 • PVC e POAP como usar na prática]]
 
 ---
-[[Aula 3 Pressão Venosa Central e Pressão de Oclusão da Artéria Pulmonar]]
+
+- [[Hemodinâmica Prática PVC e POAP à Beira-Leito]]
+	- [[Aula 3 Pressão Venosa Central e Pressão de Oclusão da Artéria Pulmonar]]
 
 - [[Monitorização do Débito Cardíaco via Cateter de Swan-Ganz]]
 	- [[Aula 10 • Débito cardíaco intermitente e contínuo]]
