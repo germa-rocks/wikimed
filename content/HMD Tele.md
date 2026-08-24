@@ -73,10 +73,15 @@ publish: true
 
 ---
 
-Aula 9 • Débito cardíaco intermitente e contínuo
-Aula 10 • Fração de ejeção e volume diastólico final do ventrículo direito
-Aula 11 • Caso clínico 1: iniciando estudo do choque cardiogênico
-Aula 12 • Relação entre PVC e POAP no choque cardiogênico
+- 
+	- [[Aula 9 • Débito cardíaco intermitente e contínuo]]
+- 
+	- [[Aula 10 • Fração de ejeção e volume diastólico final do ventrículo direito]]
+- 
+	- [[Aula 11 • Caso clínico 1 iniciando estudo do choque cardiogênico]]
+- 
+	- [[Aula 12 • Relação entre PVC e POAP no choque cardiogênico]]
+
 Aula 13 • Pós-carga do ventrículo direito: resistência e complacência vascular pulmonar
 Aula 14 • PAPI índice de pulsatilidade da artéria pulmonar
 Aula 15 • Classificação da hipertensão arterial pulmonar pelo Swan-Ganz
