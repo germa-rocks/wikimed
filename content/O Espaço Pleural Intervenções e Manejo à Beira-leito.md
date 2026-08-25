@@ -53,10 +53,13 @@ publish: true
 - **Suspeita de Neoplasia ou Derrame volumoso: Utilize drenos de pelo menos 14 Fr.**
     - Derrames neoplásicos frequentemente contêm debris, proteínas densas ou sangue, o que leva à falha precoce de drenos de pequeno calibre.
 - **Evite o Edema Pulmonar de Reexpansão (REPE): Drenagem volumosa deve ser estadiada.**
-    - Diante de grandes derrames compressivos (ex: inversão diafragmática no US/TC), drene no máximo 1.5 a 2 Litros iniciais, clampeie o dreno e aguarde a acomodação pressórica.
+    - Diante de grandes derrames compressivos (ex: inversão diafragmática no US/TC), 
+    - drene no máximo 1.5 a 2 Litros iniciais, 
+    - clampeie o dreno e aguarde a acomodação pressórica.
 - **Pulmão Encarcerado (Pneumotórax ex-vácuo).**
     - Definição: Após a drenagem do líquido, o pulmão não reexpande devido ao espessamento pleural causado pela implantação tumoral, gerando um espaço preenchido por ar ex-vácuo.
-    - Conduta: O objetivo muda de reexpansão pulmonar para controle de sintomas. Considere a instalação precoce de um cateter tunelizado de longa permanência (ex: PleurX) para conforto e paliação.
+    - Conduta: O objetivo muda de reexpansão pulmonar para controle de sintomas. 
+	    - Considere a instalação precoce de um cateter tunelizado de longa permanência (ex: PleurX) para conforto e paliação.
 - **Prognóstico do Derrame Maligno baseado no pH Pleural.**
     - Apenas 15% dos cânceres de pulmão abrem o quadro clínico com derrame.
     - MPE com pH < 7.28: Sobrevida mediana de 2,5 meses.
