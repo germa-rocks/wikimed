@@ -2,14 +2,14 @@
 publish: true
 ---
 
-- [[03_Direito_do_Trabalho_Renata_Orce]]
+- [[03_Direito_do_Trabalho_Rn]]
 	- [[03_Direito_do_Trabalho_Renata_Orce_slides]]
-- [[04_Direito_do_Trabalho_Joslei]]
+- [[04_Direito_do_Trabalho_J]]
 	- [[04_Direito_do_Trabalho_Joslei_slides]]
 - [[05_Processo_Civil]]
 	- [[05_Processo_Civil_slides]]
 - 
-- [[Direito Administrativo DetonaOAB]]
+- [[06 Direito Administrativo]]
 	- [[06_Direito_Administrativo.pdf]]
 
 - [[08_Processo_Penal]]
