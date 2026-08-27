@@ -1,9 +1,6 @@
 ---
 publish: true
 ---
-- [[A1 Inscrição na OAB]]
-	- [[Inscrição na OAB transc]]
-
 
 - [[03_Direito_do_Trabalho_Renata_Orce]]
 	- [[03_Direito_do_Trabalho_Renata_Orce_slides]]
@@ -43,3 +40,6 @@ publish: true
 ----
 
 [[prompt OAB]]
+
+- [[A1 Inscrição na OAB]]
+	- [[Inscrição na OAB transc]]
