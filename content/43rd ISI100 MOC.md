@@ -2,6 +2,17 @@
 publish: true
 ---
 
+[[3949 CARDIOGENIC SHOCK]]
+- [[Choque Cardiogênico Pós-Parada Cardíaca ISICEM]]
+	- [[3949 CARDIOGENIC SHOCK p0]]
+- [[Lesão Miocárdica Perioperatória MINS PMI ISICEM]]
+	- [[3949 CARDIOGENIC SHOCK p1]]
+- [[Choque Cardiogênico e Suporte Circulatório Mecânico (ECMO VA) ISICEM]]
+	- [[3949 CARDIOGENIC SHOCK p2]]
+- [[IRA no Choque Cardiogênico e Insuficiência Cardíaca Aguda]]
+	- [[3949 CARDIOGENIC SHOCK p3]]
+
+----
 
 - [[Avaliação e Manejo Hemodinâmico do Choque ISICEM]]
 	- [[0 3945 SHOCK THE BASICS]]
@@ -23,15 +34,6 @@ publish: true
 	- [[3948 IMPROVING VASOPRESSOR USE.pdf]]
 [[4006 THE NEED TO MONITOR CARDIAC OUTPUT.pdf]]
 
-[[3949 CARDIOGENIC SHOCK]]
-- [[Choque Cardiogênico Pós-Parada Cardíaca ISICEM]]
-	- [[3949 CARDIOGENIC SHOCK p0]]
-- [[Lesão Miocárdica Perioperatória MINS PMI ISICEM]]
-	- [[3949 CARDIOGENIC SHOCK p1]]
-- [[Choque Cardiogênico e Suporte Circulatório Mecânico (ECMO VA) ISICEM]]
-	- [[3949 CARDIOGENIC SHOCK p2]]
-- [[IRA no Choque Cardiogênico e Insuficiência Cardíaca Aguda]]
-	- [[3949 CARDIOGENIC SHOCK p3]]
 
 - [[Tônus Arterial Acoplamento Ventrículo-Arterial]]
 	- [[4073 HOW TO ASSESS ARTERIAL TONE AT THE BED]]
