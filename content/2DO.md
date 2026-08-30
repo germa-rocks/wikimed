@@ -1,6 +1,10 @@
 ---
 publish: true
 ---
+- [[VM situações especiais]]
+
+-----
+
 
 - [[Hipertensão Pulmonar e Disfunção VD]]
 	- [[4 HP e Dfx VD.pdf]]
