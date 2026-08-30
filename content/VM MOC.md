@@ -65,6 +65,22 @@ publish: true
 	- [[ecmo aula]]
 
 
+- [[DVO Fisio Chest]]
+	- [[DVO Fisio Chest aula]]
+
+- [[DVO VM Chest1]]
+	- [[DVO VM Chest1 aula]]
+- [[DVO VM Chest2]]
+	- [[DVO VM Chest2]]
+- [[DVO VM Chest3]]
+	- [[DVO VM Chest3]]
+- [[DVO VM Chest5]]
+	- [[DVO VM Chest5]]
+DVO VM Chest
+
+
+----
+
 # uot
 - [[Princípios Fisiológicos da Ventilação Mecânica]]
 	- [[aula Mechanical Ventilation - Physiological Principles]]
