@@ -248,33 +248,23 @@ G: Passive Leg Raise
 ---
 
 Modos avançados de ventilação mecânica - Dr. Marcelo Park VimeoPlayer
-2 [[Ajuste de PEEP e manobras de recrutamento alveolar - Dr. Pedro]]
-3 [[Demonstração de ajuste de PEEP e manobras de recrutamento alveolar - Dr. Pedro]]
+- 2 [[Ajuste de PEEP e manobras de recrutamento alveolar]]
+	- 2 [[Ajuste de PEEP e manobras de recrutamento alveolar - Dr. Pedro]]
+- 3 [[Demonstração de ajuste de PEEP e manobras de recrutamento alveolar - Dr. Pedro]]
 Posição prona em ventilação espontânea - Dr. Marcelo Park VimeoPlayer
-5 [[Diagnóstico e tratamento das assincronias - Dra. Juliana]]
-6 [[Demonstração de assincronias no ventilador - Dra. Juliana]]
+- 5 [[Diagnóstico e tratamento das assincronias]]
+	- 5 [[Diagnóstico e tratamento das assincronias - Dra. Juliana]]
+- 6 [[Demonstração de assincronias no ventilador - Dra. Juliana]]
 Ventilação Mecânica em COVID-19 - Dr. Paulo Nassar VimeoPlayer
-8 [[Ventilação mecânica na asma e na doença pulmonar obstrutiva crônica (DPOC) - Dr. Pedro]]
+- 8 [[Ventilação mecânica na asma e na doença pulmonar obstrutiva crônica (DPOC)]]
+	- 8 [[Ventilação mecânica na asma e na doença pulmonar obstrutiva crônica (DPOC) - Dr. Pedro]]
 9 [[Demonstração de ventilação mecânica na asma e na DPOC - Dr. Pedro]]
 
-Ventilação mecânica em pediatria e neonatologia - Parte 1 - Dra. Flavia Andrea Krepel Foronda VimeoPlayer
-Tarefas: Ver
-VimeoPlayer ícone
-Ventilação mecânica em pediatria e neonatologia - Parte 2 - Dra. Flavia Andrea Krepel Foronda VimeoPlayer
-Tarefas: Ver
-VimeoPlayer ícone
-Demonstração de ventilação mecânica em pediatria - Caso clínico: Bronquiolite - Dra. Flavia Foronda VimeoPlayer
-Tarefas: Ver
-VimeoPlayer ícone
+Ventilação mecânica em pediatria e neonatologia - Parte 1 - Dra. Flavia Andrea Krepel Foronda Ventilação mecânica em pediatria e neonatologia - Parte 2 - Dra. Flavia Andrea Krepel Foronda Demonstração de ventilação mecânica em pediatria - Caso clínico: Bronquiolite - Dra. Flavia Foronda
 Ventilação mecânica em obesos - Dra. Roberta Fittipaldi VimeoPlayer
-Tarefas: Ver
-VimeoPlayer ícone
 Ventilação mecânica no trauma de Tórax - Dra. Roberta Fittipaldi VimeoPlayer
-Tarefas: Ver
-VimeoPlayer ícone
 Hipoxemia refratária - Dr. Marcelo Park VimeoPlayer
-Tarefas: Ver
-VimeoPlayer ícone
+
 16 [[Remoção extracorpórea de CO2 e oxigenação extracorpórea por membrana - Dr. Pedro Mendes]]
 
 Pasta ícone
