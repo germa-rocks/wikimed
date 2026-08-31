@@ -8,7 +8,8 @@ publish: true
 - [[Otimização da PEEP na SDRA Guia Prático Beira-Leit ISICEM]]
 	- [[3964 PEEP OPTIMIZATION]]
 
-- [[4051 USING MECHANICAL POWER AT THE BEDSIDE]]
+- [[VM Avançado Mechanical Power e Prevenção de VILI (SARA)]]
+	- [[4051 USING MECHANICAL POWER AT THE BEDSIDE]]
 - [[VM Protetora na SDRA Pressão de Distensão (Driving Pressure)]]
 	- [[4080 DRIVING PRESSURE]]
 - [[Fisiologia Básica Drive vs. Esforço Respiratório]]
