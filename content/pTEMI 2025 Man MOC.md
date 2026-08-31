@@ -27,10 +27,12 @@ publish: true
 - [[6 Pneumonias associadas à assistência na saúde pTEMI]]
 	- [[6 Pneumonias associadas à assistência na saúde Man]]
 
-7 Tromboembolismo venoso na UTI (parte 1)
-8 Tromboembolismo venoso na UTI (parte 2) 
-9 Tromboembolismo venoso na UTI (parte 3)
-10 Traqueostomia e broncoscopia na UTI
+- 7 Tromboembolismo venoso na UTI (parte 1) pTEMI
+	- [[7 Tromboembolismo venoso na UTI (parte 1) Man]]
+	- [[8 Tromboembolismo venoso na UTI (parte 2) Man]]
+	- [[9 Tromboembolismo venoso na UTI (parte 3) Man]]
+- 10 Traqueostomia e broncoscopia na UTI pTEMI
+	- 10 Traqueostomia e broncoscopia na UTI Man
 
 
 ## 3 CV
