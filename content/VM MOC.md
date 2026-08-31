@@ -209,14 +209,10 @@ G: Passive Leg Raise
 	- [[1-5 Assincronias]]
 - [[desmame VM mSan]]
 	- [[desmame VM capit mSan]]
-
 - [[usg diafragm tp]]
 	- [[usg diafragma aula]]
-
-
 - [[VM situações especiais]]
 	- [[VM situações especiais aula]]
-
 
 [[VM made ridx simple]]
 

@@ -11,7 +11,7 @@ publish: true
 - **Regra de Ouro da Ventilação: O Volume Corrente (VC) protetor deve ser de 4 a 8 mL/kg de peso predito.**
 	- **Fisiologia do Ciclo:** Inspiração é ativa (pressão pleural torna-se mais negativa); expiração é passiva (recolhimento elástico).
 		- *Exceção:* Em hiperventilação (ex: exercício, insuficiência respiratória), a expiração torna-se ativa com uso da musculatura abdominal.
-		- 📎 *Refs: 1, 2, 3*
+			- 📎 *Refs: 1, 2, 3*
 - **A Capacidade Residual Funcional (CRF) é o ponto de equilíbrio e repouso elástico ideal do sistema respiratório.**
 	- **Conceito Beira-leito:** É o volume onde a complacência é MÁXIMA e a resistência é MÍNIMA. (Pressão alveolar = Pressão atmosférica).
 	- **Componentes dos Volumes (Espirometria):**
