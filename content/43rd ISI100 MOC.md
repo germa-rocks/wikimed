@@ -3,8 +3,10 @@ publish: true
 ---
 
 ## Rp
-[[3965 LUNG PROTECTION]]
-[[3964 PEEP OPTIMIZATION]]
+- [[Proteção Pulmonar e Manejo da SDRA (ARDS) ISICEM]]
+	- [[3965 LUNG PROTECTION]]
+- [[Otimização da PEEP na SDRA Guia Prático Beira-Leit ISICEM]]
+	- [[3964 PEEP OPTIMIZATION]]
 
 
 ## CV
