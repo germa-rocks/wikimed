@@ -37,7 +37,9 @@ publish: true
 
 ## 3. Propriedades Estáticas da Parede Torácica
 - **A Parede Torácica possui sua própria curva de complacência, que deve ser avaliada sempre de forma totalmente PASSIVA (músculos respiratórios paralisados).**
-  - Diferente do pulmão, a relação da parede torácica tem formato inverso: diminuir a $P_{PL}$ (criar vácuo interno) reduz o volume da caixa torácica; aumentar a $P_{PL}$ (pressão positiva interna) expande a caixa torácica.
+  - Diferente do pulmão, a relação da parede torácica tem formato inverso: 
+	  - diminuir a $P_{PL}$ (criar vácuo interno) reduz o volume da caixa torácica; 
+	  - aumentar a $P_{PL}$ (pressão positiva interna) expande a caixa torácica.
 - **Redução da Complacência da Parede Torácica eleva a $P_{PL}$ (Shift para Baixo e à Direita na curva).**
   - Exemplos: Obesidade mórbida, Hipertensão Intra-abdominal (ascite maciça), anormalidades da caixa óssea.
   - *Impacto Mecânico:* Exige uma variação de pressão muito maior para atingir o mesmo volume torácico.

@@ -12,6 +12,26 @@ publish: true
 - [[AULA 04 - Dispositivos supraglóticos e outros]]
 	- [[AULA 04 - Dispositivos supraglóticos e outros.pptx.pdf]]
 
+---
+
+- [[1 Asma na UTI (parte 1) pTEMI]]
+	- [[1 Asma na UTI (parte 1) Man]]
+	- [[2 Asma na UTI (parte 2) Man]]
+- [[3 Doença pulmonar obstrutiva crônica na UTI pTEMI]]
+	- [[3 Doença pulmonar obstrutiva crônica na UTI Man]]
+- [[4 Hemoptise e Hemorragia Alveolar na UTI pTEMI]]
+	- [[4 Hemoptise e Hemorragia Alveolar na UTI Man]]
+- [[ 5 Derrame pleural na emergência pTEMI]]
+	- [[5 Derrame pleural na emergência Man]]
+
+- 6 Pneumonias associadas à assistência na saúde 
+	- [[6 Pneumonias associadas à assistência na saúde Man]]
+
+7 Tromboembolismo venoso na UTI (parte 1)
+8 Tromboembolismo venoso na UTI (parte 2) 
+9 Tromboembolismo venoso na UTI (parte 3)
+10 Traqueostomia e broncoscopia na UTI
+
 
 ## 3 CV
 - [[1 Insuficiência cardíaca agudamente descompE.pptx pTEMI2025]]
