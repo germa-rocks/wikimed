@@ -24,7 +24,7 @@ publish: true
 - [[ 5 Derrame pleural na emergência pTEMI]]
 	- [[5 Derrame pleural na emergência Man]]
 
-- 6 Pneumonias associadas à assistência na saúde 
+- [[6 Pneumonias associadas à assistência na saúde pTEMI]]
 	- [[6 Pneumonias associadas à assistência na saúde Man]]
 
 7 Tromboembolismo venoso na UTI (parte 1)
