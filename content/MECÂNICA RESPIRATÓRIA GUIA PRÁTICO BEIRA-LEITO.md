@@ -55,7 +55,7 @@ publish: true
 - **Resistência das Vias Aéreas: Normal < 10 cmH₂O/L/s em pacientes intubados.**
 	- **Fórmula:** $R = \frac{Pico - Platô}{Fluxo}$
 	- **Causas de Aumento:** Broncoespasmo, secreção, tubo endotraqueal fino (gera fluxo turbulento).
-- **Constante de Tempo: Guia para ajuste do tempo expiratório.**
+	- **Constante de Tempo: Guia para ajuste do tempo expiratório.**
 	- **Conceito:** Tempo para insuflar/desinsuflar 63% do volume final. Geralmente 0.1 a 0.2 segundos.
 	- **Fórmula:** $\text{Constante de Tempo} = Resistência \times Complacência$
 - **Elastância: Oposto da Complacência (tendência ao colabamento).**

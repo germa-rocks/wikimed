@@ -2,6 +2,12 @@
 publish: true
 ---
 
+## Rp
+[[3965 LUNG PROTECTION]]
+[[3964 PEEP OPTIMIZATION]]
+
+
+## CV
 [[3949 CARDIOGENIC SHOCK]]
 - [[Choque Cardiogênico Pós-Parada Cardíaca ISICEM]]
 	- [[3949 CARDIOGENIC SHOCK p0]]
