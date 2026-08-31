@@ -65,14 +65,16 @@ publish: true
 
 ## Análise de Curvas no Ventilador (Beira-leito)
 - **Curva Pressão-Volume (P-V): Diagnóstico de alterações de complacência e vazamentos.**
-	- **Em Modo VCV:** Queda de complacência deita a curva para a direita (aumento progressivo de pressão para o mesmo volume).
-	- **Em Modo PCV:** Queda de complacência achata a curva para baixo (redução do volume corrente para a mesma pressão).
+	- **Em Modo VCV:** Queda de complacência deita a curva para a direita
+		- (aumento progressivo de pressão para o mesmo volume).
+	- **Em Modo PCV:** Queda de complacência achata a curva para baixo 
+		- (redução do volume corrente para a mesma pressão).
 	- **Vazamento no circuito:** Ramo expiratório é interrompido; o volume não zera no eixo antes do fim do ciclo.
 		- 📎 *Refs: 7, 13*
 - **Curva Fluxo-Volume: Diferenciação de padrões obstrutivos.**
 	- **DPOC/Asma (Colapso precoce VAs):** Inspiração normal; Expiração escavada (concavidade).
-	- **Obstrução Extratorácica Variável:** Inspiração achatada (limitada); Expiração normal.
-	- **Obstrução Intratorácica Variável:** Inspiração normal; Expiração achatada (limitada).
+	- **Obstrução *EXTRA*torácica Variável:** *INSP*iração achatada (limitada); Expiração normal.
+	- **Obstrução *INTRA*torácica Variável:** Inspiração normal; *EXP*iração achatada (limitada).
 	- **Obstrução Fixa:** Ambas as fases achatadas (aspecto em caixote).
 		- 📎 *Refs: 14*
 
