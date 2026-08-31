@@ -257,8 +257,10 @@ Ventilação Mecânica em COVID-19 - Dr. Paulo Nassar VimeoPlayer
 9 [[Demonstração de ventilação mecânica na asma e na DPOC - Dr. Pedro]]
 
 Ventilação mecânica em pediatria e neonatologia - Parte 1 - Dra. Flavia Andrea Krepel Foronda Ventilação mecânica em pediatria e neonatologia - Parte 2 - Dra. Flavia Andrea Krepel Foronda Demonstração de ventilação mecânica em pediatria - Caso clínico: Bronquiolite - Dra. Flavia Foronda
-Ventilação mecânica em obesos - Dra. Roberta Fittipaldi VimeoPlayer
-Ventilação mecânica no trauma de Tórax - Dra. Roberta Fittipaldi VimeoPlayer
+- [[VM em Obesos Man]]
+	- [[Ventilação mecânica em obesos - Dra. Roberta]]
+- [[VM no Trauma de Tórax Man]]
+	- [[Ventilação mecânica no trauma de Tórax - Dra. Roberta]]
 Hipoxemia refratária - Dr. Marcelo Park VimeoPlayer
 
 - 16 [[Remoção extracorpórea de CO2 e oxigenação extracorpórea por membrana]]
