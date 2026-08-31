@@ -9,10 +9,14 @@ publish: true
 	- [[3964 PEEP OPTIMIZATION]]
 
 - [[4051 USING MECHANICAL POWER AT THE BEDSIDE]]
-- [[4080 DRIVING PRESSURE]]
-- [[4083 RESPIRATORY DRIVE AND EFFORT]]
-- [[4085 INDIVIDUALIZING VENTILATOR MANAGE]]
-- [[4113 LUNG PROTECTION FOCUSED ON TENSION]]
+- [[VM Protetora na SDRA Pressão de Distensão (Driving Pressure)]]
+	- [[4080 DRIVING PRESSURE]]
+- [[Fisiologia Básica Drive vs. Esforço Respiratório]]
+	- [[4083 RESPIRATORY DRIVE AND EFFORT]]
+- [[Manejo Ventilatório Individualizado na SDRA (Síndrome do Desconforto Respiratório Agudo)]]
+	- [[4085 INDIVIDUALIZING VENTILATOR MANAGE]]
+- [[Proteção Pulmonar Focada na Tensão VILI e Mecânica Avançada]]
+	- [[4113 LUNG PROTECTION FOCUSED ON TENSION]]
 
 
 ## CV
