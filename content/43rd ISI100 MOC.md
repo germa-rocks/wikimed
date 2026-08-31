@@ -12,7 +12,7 @@ publish: true
 	- [[4051 USING MECHANICAL POWER AT THE BEDSIDE]]
 - [[VM Protetora na SDRA Pressão de Distensão (Driving Pressure)]]
 	- [[4080 DRIVING PRESSURE]]
-- [[Fisiologia Básica Drive vs. Esforço Respiratório]]
+- [[Fisiologia Basica Drive vs. Esforco Respiratorio]]
 	- [[4083 RESPIRATORY DRIVE AND EFFORT]]
 - [[Manejo Ventilatório Individualizado na SDRA (Síndrome do Desconforto Respiratório Agudo)]]
 	- [[4085 INDIVIDUALIZING VENTILATOR MANAGE]]
