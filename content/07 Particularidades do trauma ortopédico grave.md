@@ -117,3 +117,6 @@ publish: true
     - **Opções de Imunização Passiva:**
         - Imunoglobulina Humana Antitetânica (IGHAT): 250 UI via IM.
         - Soro Antitetânico (Equino): 5.000 UI via IM (utilizado quando IGHAT indisponível; maior risco de anafilaxia). Deve ser feito preferencialmente até 24h do trauma.
+
+
+[[Traumatismo Descolante]]
