@@ -17,10 +17,10 @@ publish: true
 - [[Organização do Estado]]
 	- [[Organização do Estado aula]]
 
-- Poder Legislativo
+- [[Poder Legislativo]]
 	- [[Poder Legislativo aula]]
 - Poder Legislativo III (14/08/2026 20:20)
-- Poder Judiciário
+- [[Poder Judiciário]]
 	- [[Poder Judiciário aula]]
 - Controle de constitucionalidade (20/08/2026 00:00)
 
