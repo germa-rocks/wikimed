@@ -41,7 +41,7 @@ EM Bootcamp 2020 Hippo MOC
 - [[Passagem Segura de Cateter Venoso Central (CVC)]]
 - Toracocentese Guia Prático e Base de Conhecimento
 - O Espaço Pleural Intervenções e Manejo à Beira-leito
-- 
+
 
 ----
 
