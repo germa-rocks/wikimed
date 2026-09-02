@@ -25,7 +25,25 @@ publish: true
 - Controle de constitucionalidade (20/08/2026 00:00)
 
 
-
+## Penal
+Norma penal (aplicação da lei penal no tempo e espaço) (23/06/2026 00:00)
+- Do crime Fato típico - conduta e resultado
+- Do crime: fato típico; Nexo de causalidade e tipicidade (13/07/2026 19:30)
+- Do crime: fato típico; Iter criminis (20/07/2026 20:20)
+- Do crime: fato típico; erro de tipo, essencial e acidental (20/07/2026 20:50)
+- Antijuridicidade (27/07/2026 20:20)
+- Culpabilidade (27/07/2026 20:50)
+- Concurso de pessoas (31/07/2026 10:00)
+- Concurso de crimes (31/07/2026 19:30)
+- Dos crimes contra a pessoa (04/08/2026 20:20)
+- Crimes contra o patrimônio (06/08/2026 20:20)
+- Crimes contra a Administração Pública (06/08/2026 20:50)
+Crimes contra a administração da justiça (12/08/2026 19:00)
+- Crimes contra a fé pública (12/08/2026 19:30)
+- Lei de Organização Criminosa - Lei 12.850 (12/08/2026 20:20)
+Lesão corporal (15/08/2026 20:00)
+- Crimes contra a honra (15/08/2026 20:30)
+Lei de drogas - Lei 11.343 (18/08/2026 19:00)
 
 
 
