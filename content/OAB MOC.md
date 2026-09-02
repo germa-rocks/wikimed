@@ -5,16 +5,16 @@ publish: true
 - [[Direitos e garantias fundamentais]]
 	- [[Direitos e garantias fundamentais aula]]
 - Direitos sociais
-- Nacionalidade
+- [[Nacionalidade]]
 	- [[Nacionalidade aula]]
-- Direitos políticos
+- [[Direitos políticos]]
 	- [[Direitos políticos aula]]
 - Ordem Social (21/07/2026 19:00)
 - Ordem econômica (21/07/2026 19:30)
-- Remédios constitucionais
+- [[Remédios constitucionais]]
 	- [[Remédios constitucionais aula]]
 - Administração Pública (11/08/2026 20:20)
-- Organização do Estado
+- [[Organização do Estado]]
 	- [[Organização do Estado aula]]
 
 - Poder Legislativo (14/08/2026 19:30)
