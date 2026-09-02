@@ -67,3 +67,11 @@ publish: true
 - [[7 Disfagias e síndromes aspirativas pTEMIMan]]
 	- [[7 Disfagias e síndromes aspirativas pTEMIMan aula]]
 
+
+
+## Politrauma
+- [[O Paciente Vítima de Trauma na UTI e Emergência]]
+	- [[MODULO 17 - Trauma na UTI 1]]
+
+- [[Vítima de Trauma na UTI (Primeiras 24-48h)]]
+	- [[MODULO 17 - Trauma na UTI 2]]
