@@ -8,7 +8,7 @@ publish: true
 - [[06 Trauma de abdome e pelve]]
 - [[07 Particularidades do trauma ortopédico grave]]
 - [[08 Choque hemorrágico no trauma]]
-
+- [[Traumatismo Descolante]]
 
 --------
 
