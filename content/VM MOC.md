@@ -100,12 +100,18 @@ DVO VM Chest
 - [[Desmame Difícil da Ventilação Mecânica UoT]]
 - 
 ----
-[[2 Understanding The Effect Of Sedation - HD 720p]]
-[[3 Evidence Based Sedation Management In Ventilated Patients - HD 720p]]
-[[4 Evidence Based Delirium Management In Ventilated Patients - HD 720p]]
-[[5 Panel Discussion How To Mobilize Ventilated Patients - HD 720p]]
-[[6 Strategies To Improve Mechanical Ventilation Quality - HD 720p]]
-[[7 Panel Discussion Enhancing Quality Of Care For Ventilated Patients HBPanel Discussion Enhancing Quality Of Care For Ventilated P]]
+- [[Sedação e Interação Paciente-Ventilador]]
+	- [[2 Understanding The Effect Of Sedation - HD 720p]]
+- [[Sedação na VM Baseada em Evidências]]
+	- [[3 Evidence Based Sedation Management In Ventilated Patients - HD 720p]]
+- [[Manejo Baseado em Evidências do Delirium na UTI]]
+	- [[4 Evidence Based Delirium Management In Ventilated Patients - HD 720p]]
+- [[Mobilização Precoce na UTI]]
+	- [[5 Panel Discussion How To Mobilize Ventilated Patients - HD 720p]]
+- [[Melhoria na Qualidade da Ventilação]]
+	- [[6 Strategies To Improve Mechanical Ventilation Quality - HD 720p]]
+- [[Melhoria de Qualidade (QI) na UTI Princípios e Prática]]
+	- [[7 Panel Discussion Enhancing Quality Of Care For Ventilated Patients HBPanel Discussion Enhancing Quality Of Care For Ventilated P]]
 
 
 
