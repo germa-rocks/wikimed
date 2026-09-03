@@ -100,7 +100,7 @@ DVO VM Chest
 - [[Desmame Difícil da Ventilação Mecânica UoT]]
 - 
 ----
-- [[Sedação e Interação Paciente-Ventilador]]
+- [[Effect Of Sedation UoT]]
 	- [[2 Understanding The Effect Of Sedation - HD 720p]]
 - [[Sedação na VM Baseada em Evidências]]
 	- [[3 Evidence Based Sedation Management In Ventilated Patients - HD 720p]]
