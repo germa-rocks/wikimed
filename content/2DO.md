@@ -9,6 +9,9 @@ publish: true
 - [[07 Particularidades do trauma ortopédico grave]]
 - [[08 Choque hemorrágico no trauma]]
 - [[Traumatismo Descolante]]
+- [[Traumatologia Ortopédica Diagnóstico e Condutas]]
+- [[Avaliação Radiológica do Trauma Torácico]]
+- [[Trauma Medc]]
 
 --------
 
