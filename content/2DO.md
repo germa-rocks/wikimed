@@ -1,6 +1,11 @@
 ---
 publish: true
 ---
+- [[Analgesia and sedation for the critically ill patient IBCC]]
+- [[Antipsychotic pharmacology IBCC]]
+- [[Smoking cessation IBCC]]
+
+
 - [[01 Resposta orgânica ao trauma]]
 - [[03 Traumatismo crânio-encefálico]]
 - [[04 Traumatismo raquimedular e choque neurogênico]]
