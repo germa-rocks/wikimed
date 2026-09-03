@@ -104,8 +104,8 @@ DVO VM Chest
 [[3 Evidence Based Sedation Management In Ventilated Patients - HD 720p]]
 [[4 Evidence Based Delirium Management In Ventilated Patients - HD 720p]]
 [[5 Panel Discussion How To Mobilize Ventilated Patients - HD 720p]]
-6 Strategies To Improve Mechanical Ventilation Quality - HD 720p
-7 Panel Discussion Enhancing Quality Of Care For Ventilated Patients HBPanel Discussion Enhancing Quality Of Care For Ventilated P
+[[6 Strategies To Improve Mechanical Ventilation Quality - HD 720p]]
+[[7 Panel Discussion Enhancing Quality Of Care For Ventilated Patients HBPanel Discussion Enhancing Quality Of Care For Ventilated P]]
 
 
 
