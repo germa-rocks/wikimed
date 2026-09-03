@@ -102,7 +102,7 @@ DVO VM Chest
 ----
 - [[Effect Of Sedation UoT]]
 	- [[2 Understanding The Effect Of Sedation - HD 720p]]
-- [[Sedação na VM Baseada em Evidências]]
+- [[Evidence-Based Sedation In Ventilated Patients UoT]]
 	- [[3 Evidence Based Sedation Management In Ventilated Patients - HD 720p]]
 - [[Manejo Baseado em Evidências do Delirium na UTI]]
 	- [[4 Evidence Based Delirium Management In Ventilated Patients - HD 720p]]
