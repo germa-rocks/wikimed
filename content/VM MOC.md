@@ -99,6 +99,17 @@ DVO VM Chest
 - [[Desmame da Ventilação Mecânica (Liberação) UoT]]
 - [[Desmame Difícil da Ventilação Mecânica UoT]]
 - 
+----
+[[2 Understanding The Effect Of Sedation - HD 720p]]
+[[3 Evidence Based Sedation Management In Ventilated Patients - HD 720p]]
+[[4 Evidence Based Delirium Management In Ventilated Patients - HD 720p]]
+[[5 Panel Discussion How To Mobilize Ventilated Patients - HD 720p]]
+6 Strategies To Improve Mechanical Ventilation Quality - HD 720p
+7 Panel Discussion Enhancing Quality Of Care For Ventilated Patients HBPanel Discussion Enhancing Quality Of Care For Ventilated P
+
+
+
+
 
 [[Ventilação Mecânica]] BrManual
 ## Kenny
