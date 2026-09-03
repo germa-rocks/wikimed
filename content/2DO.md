@@ -4,6 +4,11 @@ publish: true
 - [[Analgesia and sedation for the critically ill patient IBCC]]
 - [[Antipsychotic pharmacology IBCC]]
 - [[Smoking cessation IBCC]]
+- 
+- [[SDA e BNM]]
+	- [[cap 20 SEDAÇÃO E BLOQUEIO NEUROMUSCULAR]]
+- [[SDA e Desmame VM]]
+	- [[aula Sedation, Delirium, and Liberation from the Ventilator]]
 
 
 - [[01 Resposta orgânica ao trauma]]
