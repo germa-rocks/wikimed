@@ -78,6 +78,12 @@ publish: true
 	- [[DVO VM Chest5]]
 DVO VM Chest
 
+## Desmame
+[[VM Chest Desmame Part 1 A1]]
+[[VM Chest Desmame Part 1 A2]]
+[[VM Chest Desmame Part 1 A3]]
+
+
 
 ----
 
