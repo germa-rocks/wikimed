@@ -68,6 +68,10 @@ publish: true
 	- [[7 Disfagias e síndromes aspirativas pTEMIMan aula]]
 
 
+## Nutrição
+- [[1 - Avaliação das necessidades nutricionais.pptx]]
+- [[2 - Composição nutricional e Dieta Enteral.pptx]]
+- [[3 - Nutrição Parenteral, monitorização de complicações e situações especiais TEMI 2022.pptx]]
 
 ## Politrauma
 - [[O Paciente Vítima de Trauma na UTI e Emergência]]
@@ -75,3 +79,8 @@ publish: true
 
 - [[Vítima de Trauma na UTI (Primeiras 24-48h)]]
 	- [[MODULO 17 - Trauma na UTI 2]]
+
+
+## INtoxicação
+- [[M19A1 intoxicacoes pTEMI]]
+- [[M19A1 Intoxicacoes medicamentos pTEMI]]
