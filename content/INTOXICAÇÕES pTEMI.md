@@ -9,7 +9,8 @@ publish: true
 	- Os maiores causadores de mortes absolutas são: Paracetamol e Opioides, seguidos por Bloqueadores de Cálcio, Antidepressivos Tricíclicos (ADT) e Benzodiazepínicos (BZD).
 - **O conhecimento toxicocinético define a escolha da terapia (descontaminação ou diálise).**
 	- Absorção e Vias: Define a janela para lavagem ou carvão.
-	- Volume de Distribuição (VD): Drogas com alto VD encontram-se nos tecidos e não no sangue; logo, diálise é ineficaz. Hemodiálise só funciona em VD baixo (< 1 L/kg).
+	- Volume de Distribuição (VD): Hemodiálise só funciona em VD baixo (< 1 L/kg).
+		- Drogas com alto VD encontram-se nos tecidos e não no sangue; logo, diálise é ineficaz. 
 	- Biotransformação: Exemplificada pelo Paracetamol (cuja toxicidade real pelo citocromo P450 demora 18-24h para surgir, sendo um risco para alta precoce).
 	- Excreção (Geralmente renal): Possibilita táticas de alcalinização urinária.
 - **Na emergência com história incerta, o diagnóstico baseia-se na identificação da Toxíndrome (Síndrome Tóxica).**
@@ -20,14 +21,17 @@ publish: true
 
 ## 2. Princípios de Suporte e Descontaminação
 - **A proteção da via aérea (ABC) precede qualquer antídoto ou descontaminação.**
-	- Glasgow < 8: Intubação orotraqueal compulsória.
+	- Glasgow < 8: *não* Intubação orotraqueal compulsória.
 - **O uso da Lavagem Gástrica caiu drasticamente; o Carvão Ativado é o método de descontaminação preferencial.**
 	- **Lavagem Gástrica:** Indicada apenas em ingesta muito recente (≤ 1 hora) de substâncias altamente tóxicas e letais.
 	- **Carvão Ativado:** Adsorve toxinas. Tempo ideal ≤ 1 hora (podendo ser ampliado se a droga lentificar o esvaziamento gástrico ou possuir circulação êntero-hepática).
 	- **Irrigação Intestinal com Polietilenoglicol (PEG):** Reservado para drogas de liberação lenta ou *body packers* (mulas de drogas).
 - **Hemodiálise tem indicação estrita na toxicologia, dependendo de características físico-químicas específicas da droga.**
 	- O medicamento deve ser hidrossolúvel, ter baixo peso molecular, baixa ligação proteica e baixo volume de distribuição.
-	- Exemplos clássicos de indicação dialítica: **Lítio, Fenobarbital, Salicilatos, Álcoois tóxicos.**
+	- Exemplos clássicos de indicação dialítica: 
+		- Lítio, Fenobarbital, 
+		- Álcoois tóxicos
+		- Salicilatos, 
 - **Emulsão Lipídica Intravenosa (Intralipid 20%) é o antídoto de resgate para toxidade refratária por drogas lipofílicas.**
 	- Mecanismo (*Lipid Sink*): Cria um compartimento lipídico no intravascular que "puxa" as drogas altamente lipofílicas dos tecidos alvo (coração e cérebro).
 	- Uso principal: Intoxicação por anestésicos locais e Antidepressivos Tricíclicos que não respondem ao ABC e Bicarbonato.
@@ -67,7 +71,11 @@ publish: true
 ## 5. ANTIDEPRESSIVOS TRICÍCLICOS (ADT)
 - **Possuem extrema letalidade por ação combinada: Bloqueio de canais de sódio (Arritmias letais) e ação anticolinérgica central (Convulsão e Coma).**
 	- Fármacos representativos: Amitriptilina, Nortriptilina, Imipramina, Clomipramina.
-	- Fisiopatologia: Inibem recaptação de noradrenalina/serotonina, bloqueiam canais de sódio rápidos (QRS largo), bloqueiam receptores alfa-adrenérgicos (vasoplegia severa) e bloqueiam receptores muscarínicos (síndrome anticolinérgica).
+	- Fisiopatologia: 
+		- Inibem recaptação de noradrenalina/serotonina, 
+		- bloqueiam canais de sódio rápidos (QRS largo),
+		- bloqueiam receptores alfa-adrenérgicos (vasoplegia severa) e
+		- bloqueiam receptores muscarínicos (síndrome anticolinérgica).
 - **O ECG dita o risco de complicações iminentes e guia a terapia com Bicarbonato.**
 	- **QRS > 100 mseg:** Risco iminente de convulsões (30% dos pacientes). Indicação de início de Bicarbonato profilático.
 	- **QRS > 160 mseg:** Risco gravíssimo de arritmias ventriculares letais (50% dos pacientes).
