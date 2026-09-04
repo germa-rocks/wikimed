@@ -19,7 +19,9 @@ publish: true
 	- Equivalência: 10mcg de Fentanil = 1mg de Morfina.
 - Morfina:
 	- Início de ação: 5-10 minutos.
-	- *Red Flag:* Possui metabólitos ativos clareados pelos rins. Evitar ou ajustar rigorosamente na Lesão Renal Aguda (LRA) prolonga significativamente o efeito.
+	- *Red Flag:* Possui metabólitos ativos clareados pelos rins. 
+		- Evitar ou ajustar rigorosamente na Lesão Renal Aguda (LRA)
+		- prolonga significativamente o efeito.
 - Hidromorfona:
 	- Início de ação: 5-10 minutos.
 	- Clareamento: Hepático e renal (sem metabólitos ativos limitantes, opção superior à morfina na disfunção renal).
