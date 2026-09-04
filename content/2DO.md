@@ -1,9 +1,18 @@
 ---
 publish: true
 ---
+- [[48 Nutritional Requirements Marinos]]
+- [[Necessidades Nutricionais pTEMI]]
+	- [[1 - Avaliação das necessidades nutricionais.pptx]]
+- [[Macronutrientes e Dieta Enteral pTEMI]]
+	- [[2 - Composição nutricional e Dieta Enteral.pptx]]
+- [[Nutrição Parenteral - Mx Situações pTEMI]]
+	- [[3 - Nutrição Parenteral, monitorização de complicações e situações especiais TEMI 2022.pptx]]
+
+- [[INTOXICAÇÕES pTEMI]]
+- [[7 Toxisíndromes mSanar]]
 - [[Approach to the Poisoned Patient Brigham]]
 - [[Intoxicação SIMM]]
-- [[7 Toxisíndromes mSanar]]
 - [[Approach to the poisoned patient IBCC]]
 
 - [[Fever IBCC]]
