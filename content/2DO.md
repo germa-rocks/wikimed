@@ -7,6 +7,11 @@ publish: true
 - [[Macronutrientes e Dieta Enteral pTEMI]]
 - [[Nutrição Parenteral - Mx Situações pTEMI]]
 
+
+
+- [[Poisonings and Overdose CHEST]]
+- [[678_30 Toxicologia Collo]]
+
 - [[INTOXICAÇÕES pTEMI]]
 - [[7 Toxisíndromes mSanar]]
 - [[Approach to the Poisoned Patient Brigham]]
