@@ -51,7 +51,11 @@ Aqui está a estruturação do material clínico em formato de base de conhecime
 		- **PEEP:** $\le$ 8 cmH2O.
 		- **Ventilação (Equilíbrio Ácido-Base):** pH > 7.25.
 	- **Critérios Logísticos (Red Flag Frequente):**
-		- **Contraindicação absoluta ao teste:** Pacientes com previsão de procedimentos invasivos iminentes, transporte para exames demorados ou cirurgias planejadas (ex: lavagem cirúrgica, reabordagem abdominal) nas próximas horas. Acordar o paciente para imediatamente voltar a sedá-lo profundamente para um procedimento é iatrogênico e contraindicado.
+		- **Contraindicação absoluta ao teste:** Pacientes com 
+			- previsão de procedimentos invasivos iminentes, 
+			- transporte para exames demorados ou 
+			- cirurgias planejadas (ex: lavagem cirúrgica, reabordagem abdominal) nas próximas horas. 
+			- Acordar o paciente para imediatamente voltar a sedá-lo profundamente para um procedimento é iatrogênico e contraindicado.
 
 ## Raciocínio Clínico a Beira-Leito: Identificando Falhas na Triagem de Segurança
 - **Na prática clínica diária, a instabilidade cirúrgica ou a necessidade de intervenção iminente anulam a estabilidade gasométrica.**

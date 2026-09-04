@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+
 - [[218_32 Fraqueza OrientPraticas]]
 - [[178_25 Desmame VM OrientPraticas]]
 
