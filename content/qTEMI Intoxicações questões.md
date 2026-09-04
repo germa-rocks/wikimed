@@ -150,7 +150,8 @@ B. Intoxicação por citrato.
 C. Cetoacidose diabética.
 D. Hipovolemia pela diálise.
 
-**Gabarito: letra B**
+##### **Gabarito: 
+letra B**
 **Conceito central:** Intoxicação por citrato é uma complicação conhecida e temida pela anticoagulação regional em diálise contínua nos pacientes que possuem alteração da função hepática e que estão sob risco de acúmulo do citrato, apresentando-se como piora de acidemia metabólica, e principalmente uma relação cálcio total dividida pelo cálcio iônico maior que 2,5.
 **Comentário:** O citrato quela o cálcio iônico. Em pacientes com cirrose Child C, há grave comprometimento do metabolismo hepático do citrato. A acumulação de citrato resulta na Quelação de cálcio (o cálcio iônico livre despenca) e no aumento da Relação de cálcio (Cálcio total / Cálcio Iônico). No caso, a relação é de 9,5 / 3,0 = 3,16 (valor > 2,5 é preditor de toxicidade).
 **Análise das alternativas incorretas:**
@@ -167,7 +168,8 @@ B. Acidente vascular cerebral.
 C. Sangramento intracerebral.
 D. Uremia por injúria renal aguda.
 
-**Gabarito: letra A**
+##### **Gabarito:
+letra A**
 **Conceito central:** A encefalopatia hepática e o edema cerebral na insuficiência hepática aguda resultam do acúmulo de amônia, que gera edema astrocitário osmótico e citotóxico.
 **Comentário:** O paracetamol é a principal causa de insuficiência hepática aguda (IHA) em diversos países. A falência do fígado em clarear toxinas (amônia) gera acúmulo de glutamina nos astrócitos, resultando em edema cerebral e aumento da pressão intracraniana. Embora 8 horas seja precoce, o contexto de ingestão maciça aponta para a progressão da encefalopatia e do edema cerebral. A coingestão de álcool tem efeito complexo, mas em etilistas crônicos aumenta a vulnerabilidade à toxicidade.
 **Análise das alternativas incorretas:**
@@ -186,7 +188,8 @@ B. Serotoninérgica.
 C. Adrenérgica.
 D. Dopaminérgica.
 
-**Gabarito: letra A**
+##### **Gabarito:
+letra A**
 **Conceito central:** A presença de miose severa (pupilas puntiformes) no paciente em coma é o divisor de águas clínico: ela afasta categoricamente as síndromes adrenérgicas, anticolinérgicas e serotoninérgicas (que cursam com midríase), restringindo o diagnóstico para a intoxicação por opioides, clonidina ou síndrome colinérgica.
 **Comentário:** A chave da questão está na imagem do exame físico neurológico: pupilas mióticas puntiformes. Fisiologicamente, a estimulação simpática ou o excesso de serotonina (típicas de drogas de festas como ecstasy/MDMA ou cocaína) causam uma midríase marcante. A presença de miose exclui imediatamente essas hipóteses. Entre as alternativas fornecidas, a única síndrome tóxica capaz de provocar miose paralítica é a síndrome colinérgica.
 **Análise das alternativas incorretas:**
@@ -206,7 +209,8 @@ B. Complexo protrombínico com vitamina K.
 C. Atropina associada a pralidoxima endovenosa.
 D. Terapia de substituição renal contínua.
 
-**Gabarito: letra D**
+##### **Gabarito: 
+letra D**
 **Conceito central:** Diagnóstico e manejo da intoxicação por metanol. A tríade de etilismo crônico (ou uso de destilados clandestinos), perda visual (neurite óptica) e rebaixamento do nível de consciência, associada a um gap osmolar elevado, sela o diagnóstico de intoxicação por metanol. Diante de sinais de gravidade (convulsões, coma ou alteração visual), a diálise é mandatória.
 **Comentário:** O metanol é metabolizado em ácido fórmico, que é extremamente tóxico para a retina e o nervo óptico, causando cegueira. Para comprovar a presença de um “álcool fantasma”, calculamos a osmolaridade sérica estimada: (2 × 135) + (100 / 18) + (20 / 2,8) = 282,6 mOsm/kg. O paciente possui um gap osmolar de 22,4 mOsm/kg (o normal é < 10). A presença de acidose grave, falência visual, convulsão ou coma é uma indicação absoluta para a remoção mecânica rápida do metanol através de hemodiálise. *(Nota: a hemodiálise intermitente é preferível, mas a terapia contínua atende à necessidade de diálise da alternativa D).*
 **Análise das alternativas incorretas:**
