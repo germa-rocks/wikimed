@@ -1,6 +1,10 @@
 ---
 publish: true
 ---
+- [[218_32 Fraqueza OrientPraticas]]
+- [[178_25 Desmame VM OrientPraticas]]
+
+
 - [[Analgesia and sedation for the critically ill patient IBCC]]
 - [[Antipsychotic pharmacology IBCC]]
 - [[Smoking cessation IBCC]]
