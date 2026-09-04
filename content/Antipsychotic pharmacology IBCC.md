@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+---
 
 Aqui está a base de conhecimento estruturada para prática clínica beira-leito, processada rigorosamente sob o formato de "toggles aninhados" e divulgação progressiva. O texto foi totalmente higienizado, preservando o rigor técnico, doses, ajustes e raciocínio fisiopatológico.
 
