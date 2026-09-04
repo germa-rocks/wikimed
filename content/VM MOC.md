@@ -87,9 +87,9 @@ DVO VM Chest
 	- [[VM Chest Desmame Part 1 A3]]
 
 - [[Desmame e Liberação da Ventilação Mecânica Prolongada]]
-- [[VM Chest Desmame Part 2 A1]]
-- [[VM Chest Desmame Part 2 A2]]
-- [[VM Chest Desmame Part 2 A3]]
+	- [[VM Chest Desmame Part 2 A1]]
+	- [[VM Chest Desmame Part 2 A2]]
+	- [[VM Chest Desmame Part 2 A3]]
 
 
 ----

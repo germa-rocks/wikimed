@@ -4,6 +4,9 @@ publish: true
 - [[218_32 Fraqueza OrientPraticas]]
 - [[178_25 Desmame VM OrientPraticas]]
 
+[[Descontinuação da Ventilação Mecânica Princípios e Avaliação Inicial]]
+[[Testes de Despertar e Respiração Espontânea]]
+[[Desmame e Liberação da Ventilação Mecânica Prolongada]]
 
 - [[Analgesia and sedation for the critically ill patient IBCC]]
 - [[Antipsychotic pharmacology IBCC]]
