@@ -66,7 +66,8 @@ B. A intoxicação por etilenoglicol tem característica bifásica, inicialmente
 C. O tratamento inicial da intoxicação por etilenoglicol e mentaol é baseada em expansão volêmica vigorosa, diuréticos de alça em altas doses, N-acetilcisteina e hemodiálise, se necessário, para redução de escórias renais, hiperpotassemia e acidose.
 D. Não há indícios de redução de manifestações com uso de tiamina e ácido fólico.
 
-**Gabarito: letra B**
+##### **Gabarito:
+letra B**
 **Conceito central:** A intoxicação por álcoois tóxicos compartilha uma marca registrada: a presença de acidose metabólica com hiato aniônico (anion gap) elevado associada a um hiato osmolar (osmolar gap) elevado. A gravidade não vem do álcool em si, mas de seus metabólitos ácidos. A diferenciação clínica fundamental reside no órgão-alvo: metanol = olho; etilenoglicol = rim.
 **Comentário:** As fases da intoxicação (foco no etilenoglicol): A alternativa B destaca a natureza progressiva. Inicialmente (fase neurológica), o paciente parece “embriagado” (depressão do SNC, ataxia), mas sem hálito etílico, evoluindo rapidamente para acidose grave e edema cerebral.
 **Análise das alternativas incorretas:**
@@ -104,7 +105,8 @@ B. Fazer nova etapa de expansão volêmica.
 C. Administrar dose de hidroxicobalamina.
 D. Ajustar VMI visando a SpO2 de 92 a 95%.
 
-**Gabarito: letra C**
+##### **Gabarito: 
+letra C**
 **Conceito central:** Na inalação de fumaça em vítimas de incêndios, a presença de acidose lática grave e alteração do sensório deve levantar a suspeita de intoxicação por cianeto, sendo a hidroxicobalamina o antídoto de escolha.
 **Comentário:** Vítimas de incêndio em ambientes fechados estão expostas a uma mistura complexa de gases tóxicos. O monóxido de carbono (CO) e o cianeto (CN-) são os principais vilões. O cianeto é produzido pela combustão de materiais sintéticos e age bloqueando a cadeia transportadora de elétrons, gerando uma acidose lática hiperaguda e grave (frequentemente > 10 mmol/L). A hidroxicobalamina (Cyanokit) 5 g IV em 15 minutos é o antídoto preferencial no ambiente de UTI.
 **Análise das alternativas incorretas:**
@@ -123,8 +125,13 @@ B. Anticolinérgica.
 C. Serotoninérgica.
 D. Hipertermia maligna.
 
-**Gabarito: letra C**
-**Conceito central:** A tríade de hiperatividade neuromuscular (tremores, hiper-reflexia difusa, clônus), estimulação autonômica (diaforese, hipertermia, diarreia) e agitação em uma paciente em uso da combinação de inibidores da monoamina oxidase (IMAO) com antidepressivos tricíclicos constitui o diagnóstico de síndrome serotoninérgica.
+##### **Gabarito: 
+letra C**
+- **Conceito central:** A tríade de 
+	- hiperatividade neuromuscular (tremores, hiper-reflexia difusa, clônus),
+	- estimulação autonômica (diaforese, hipertermia, diarreia) e 
+	- agitação 
+	- em uma paciente em uso da combinação de inibidores da monoamina oxidase (IMAO) com antidepressivos tricíclicos constitui o diagnóstico de síndrome serotoninérgica.
 **Comentário:** A paciente em questão faz uso crônico de fenelzina (um IMAO). A introdução da amitriptilina (tricíclico) criou a combinação farmacológica ideal para o acúmulo maciço de serotonina. O grande diferencial semiológico para o diagnóstico desta toxíndrome é a hiperatividade motora: tremores, hiper-reflexia difusa e clônus.
 **Análise das alternativas incorretas:**
 *Alternativa A:* A síndrome neuroléptica maligna (SNM) caracteriza-se por rigidez muscular severa uniforme (“em cano de chumbo”) e hiporreflexia, em oposição direta ao clônus e à hiper-reflexia ágil.
