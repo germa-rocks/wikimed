@@ -69,9 +69,12 @@ publish: true
 
 
 ## Nutrição
-- [[1 - Avaliação das necessidades nutricionais.pptx]]
-- [[2 - Composição nutricional e Dieta Enteral.pptx]]
-- [[3 - Nutrição Parenteral, monitorização de complicações e situações especiais TEMI 2022.pptx]]
+- [[Necessidades Nutricionais pTEMI]]
+	- [[1 - Avaliação das necessidades nutricionais.pptx]]
+- [[Macronutrientes e Dieta Enteral pTEMI]]
+	- [[2 - Composição nutricional e Dieta Enteral.pptx]]
+- [[Nutrição Parenteral - Mx Situações pTEMI]]
+	- [[3 - Nutrição Parenteral, monitorização de complicações e situações especiais TEMI 2022.pptx]]
 
 ## Politrauma
 - [[O Paciente Vítima de Trauma na UTI e Emergência]]
