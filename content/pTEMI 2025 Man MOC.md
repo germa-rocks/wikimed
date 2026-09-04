@@ -83,7 +83,6 @@ publish: true
 - [[Vítima de Trauma na UTI (Primeiras 24-48h)]]
 	- [[MODULO 17 - Trauma na UTI 2]]
 
-
 ## INtoxicação
 - [[INTOXICAÇÕES pTEMI]]
 	- [[M19A1 intoxicacoes pTEMI]]
