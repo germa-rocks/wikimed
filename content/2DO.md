@@ -1,6 +1,12 @@
 ---
 publish: true
 ---
+- [[Approach to the Poisoned Patient Brigham]]
+- [[Intoxicação SIMM]]
+- [[7 Toxisíndromes mSanar]]
+- [[Approach to the poisoned patient IBCC]]
+
+--------
 
 - [[218_32 Fraqueza OrientPraticas]]
 - [[178_25 Desmame VM OrientPraticas]]
