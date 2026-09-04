@@ -6,6 +6,8 @@ publish: true
 - [[7 Toxisíndromes mSanar]]
 - [[Approach to the poisoned patient IBCC]]
 
+- [[Fever IBCC]]
+
 --------
 
 - [[218_32 Fraqueza OrientPraticas]]
