@@ -27,7 +27,8 @@ publish: true
 	- Clareamento: Hepático e renal (sem metabólitos ativos limitantes, opção superior à morfina na disfunção renal).
 - Metadona:
 	- Início de ação IV: 10-20 minutos. Meia-vida extremamente longa (9 a 59 horas).
-	- *Red Flag:* Prolonga intervalo QT. Requer monitorização estrita se associada a outros fármacos que prolongam QT (ex: antipsicóticos).
+	- *Red Flag:* Prolonga intervalo QT. 
+		- Requer monitorização estrita se associada a outros fármacos que prolongam QT (ex: antipsicóticos).
 - Meperidina:
 	- Uso evitado na UTI devido ao risco de diminuição do limiar convulsivo.
 
