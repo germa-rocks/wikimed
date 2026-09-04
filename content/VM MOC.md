@@ -79,10 +79,17 @@ publish: true
 DVO VM Chest
 
 ## Desmame
-[[VM Chest Desmame Part 1 A1]]
-[[VM Chest Desmame Part 1 A2]]
-[[VM Chest Desmame Part 1 A3]]
 
+- [[Descontinuação da Ventilação Mecânica Princípios e Avaliação Inicial]]
+	- [[VM Chest Desmame Part 1 A1]]
+- [[Testes de Despertar e Respiração Espontânea]]
+	- [[VM Chest Desmame Part 1 A2]]
+	- [[VM Chest Desmame Part 1 A3]]
+
+- [[Desmame e Liberação da Ventilação Mecânica Prolongada]]
+- [[VM Chest Desmame Part 2 A1]]
+- [[VM Chest Desmame Part 2 A2]]
+- [[VM Chest Desmame Part 2 A3]]
 
 
 ----
