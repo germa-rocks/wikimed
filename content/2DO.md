@@ -2,6 +2,7 @@
 publish: true
 ---
 
+- [[G+ IBCC]]
 
 - [[Resistência CGP Malu]]
 	- [[Resistência CGP Malu aula]]
