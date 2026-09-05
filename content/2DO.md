@@ -3,8 +3,8 @@ publish: true
 ---
 
 - [[G+ IBCC]]
-- 
-
+- [[Glicopeptídeos (Vancomicina e Teicoplanina)]]
+- [[Lipopeptídeo (Daptomicina)]]
 
 
 -  [[Antibioticoterapia e Resistencia Gisela]]
