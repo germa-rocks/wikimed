@@ -1,6 +1,12 @@
 ---
 publish: true
 ---
+[[Sem título 16]]
+
+
+
+
+----
 
 - [[G+ IBCC]]
 - [[Glicopeptídeos (Vancomicina e Teicoplanina)]]
