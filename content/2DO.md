@@ -5,6 +5,10 @@ publish: true
 
 [[NeuroCritical ICU Pocket]]
 
+- [[Stroke in Critical Care Brigham]]
+- [[Cerebral hemorrhage HTN Brigham]]
+- [[Status Epilepticus Brigham]]
+- [[Comatose Examination Brigham]]
 
 ----
 
