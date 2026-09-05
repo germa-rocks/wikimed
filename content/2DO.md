@@ -3,7 +3,12 @@ publish: true
 ---
 
 - [[G+ IBCC]]
+- 
 
+
+
+-  [[Antibioticoterapia e Resistencia Gisela]]
+	- [[Antibioticoterapia e Resistencia - Dra Gisela Costa - 720p]]
 - [[Resistência CGP Malu]]
 	- [[Resistência CGP Malu aula]]
 - [[Resistência G- Gabriela]]
