@@ -2,6 +2,17 @@
 publish: true
 ---
 
+
+- [[Resistência CGP Malu]]
+	- [[Resistência CGP Malu aula]]
+- [[Resistência G- Gabriela]]
+	- [[Resistência G- Gabriela aula]]
+- [[Resistência G- Icaro]]
+	- [[Resistência G- Icaro aula]]
+- [[Interpretação Antibiograma Marcela]]
+	- [[Interpretação Antibiograma Marcela aula]]
+
+
 - [[Terapêutica para Infecções por Gram-Positivos Resistentes mAMB]]
 - [[Terapêutica Antibiótica para Infecção por Bactérias Gram-Negativo Resistentes mAMB]]
 - [[Febre e Hipertermia na UTI Brigham]]
