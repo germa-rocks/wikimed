@@ -32,6 +32,10 @@ publish: true
 	- [[Pneumonia Chest aula]]
 - [[Extrapulmonary Infections CHEST]]
 	- [[Extrapulmonary Infections Chest aula]]
+
+
+
+
 - [[Intra-abdominal Emergencies CHEST]]
 	- [[Intra-abdominal Emergencies Chest aula]]
 
