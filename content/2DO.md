@@ -2,6 +2,24 @@
 publish: true
 ---
 
+- [[Febre e Hipertermia na UTI Brigham]]
+	- [[7 27. Infection, FUO _ Antibiotic Use in the ICU]]
+- [[PAV Dx Rx Px Brigham]]
+	- [[7 26. Ventilator-Associated Pneumonia - Diagnosis, Therapy _ Prevention]]
+
+- [[Care of the Immunocompromised Patient CHEST]]
+	- [[Care of the Immunocompromised Patient Chest aula]]
+- [[Pneumonia CHEST]]
+	- [[Pneumonia Chest aula]]
+- [[Extrapulmonary Infections CHEST]]
+	- [[Extrapulmonary Infections Chest aula]]
+- [[Intra-abdominal Emergencies CHEST]]
+	- [[Intra-abdominal Emergencies Chest aula]]
+
+
+
+-------------
+
 - [[48 Nutritional Requirements Marinos]]
 - [[Necessidades Nutricionais pTEMI]]
 - [[Macronutrientes e Dieta Enteral pTEMI]]
