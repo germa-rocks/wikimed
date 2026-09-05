@@ -2,6 +2,8 @@
 publish: true
 ---
 
+- [[Terapêutica para Infecções por Gram-Positivos Resistentes mAMB]]
+- [[Terapêutica Antibiótica para Infecção por Bactérias Gram-Negativo Resistentes mAMB]]
 - [[Febre e Hipertermia na UTI Brigham]]
 	- [[7 27. Infection, FUO _ Antibiotic Use in the ICU]]
 - [[PAV Dx Rx Px Brigham]]
