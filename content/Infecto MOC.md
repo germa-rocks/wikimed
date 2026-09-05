@@ -33,14 +33,14 @@ publish: true
 - [[Imunomoduladores e Imunossupressores Reumatológicos]]
 
 ## Chest
-- [[Care of the Immunocompromised Patient]]
-	- [[Care of the Immunocompromised Patient Chest]]
-- [[Pneumonia]]
-	- [[Pneumonia Chest]]
-- [[Extrapulmonary Infections]]
-	- [[Extrapulmonary Infections Chest]]
-- [[Intra-abdominal Emergencies]]
-	- [[Intra-abdominal Emergencies Chest]]
+- [[Care of the Immunocompromised Patient CHEST]]
+	- [[Care of the Immunocompromised Patient Chest aula]]
+- [[Pneumonia CHEST]]
+	- [[Pneumonia Chest aula]]
+- [[Extrapulmonary Infections CHEST]]
+	- [[Extrapulmonary Infections Chest aula]]
+- [[Intra-abdominal Emergencies CHEST]]
+	- [[Intra-abdominal Emergencies Chest aula]]
 
 
 ## Telegra
@@ -66,8 +66,8 @@ publish: true
 
 
 
-[[Care of the Immunocompromised Patient]]
-[[Care of the Immunocompromised Patient Chest]]
+[[Care of the Immunocompromised Patient CHEST]]
+[[Care of the Immunocompromised Patient Chest aula]]
 [[O Paciente Transplantado de Órgão Sólido no PS]]
 [[Immunocompromised Patient Clinical Review]]
 [[Imunossuprimido no PS]]
