@@ -10,6 +10,10 @@ publish: true
 - [[Antipsychotic pharmacology IBCC]]
 - [[Smoking cessation IBCC]]
 
+- [[Neuroimaging IBCC]]
+- [[Pupillometry & pupillary abnormalities IBCC]]
+- [[Neurosonology IBCC]]
+
 ## Rp
 - [[Otimização da Laringoscopia (The Kovacs Kata)]]
 	- [[EMCrit 253 - the Kovacs Kata to Optimize a Failing Laryngoscopy Attempt - 720p.pdf]]
