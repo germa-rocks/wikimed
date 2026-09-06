@@ -4,7 +4,11 @@ publish: true
 
 
 [[ef coma mSanar]]
+[[Lesão Neurológica Aguda Ladeira]]
+- [[Neuroimaging IBCC]]
+- [[Pupillometry & pupillary abnormalities IBCC]]
 
+----
 
 [[Sem título 16]]
 
