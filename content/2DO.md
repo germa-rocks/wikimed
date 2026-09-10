@@ -1,7 +1,15 @@
 ---
 publish: true
 ---
+[[HIV Dx GWU]]
+[[TARV Sketchy]]
 
+[[HIV Hospitalizado Oakstone]]
+
+[[Hepatite B Abordagem Clínica e Coinfecção com HIV GenInfecto]]
+[[Hepatite C Atualização Clínica e Manejo GenInfecto]]
+
+------
 
 [[ef coma mSanar]]
 [[Lesão Neurológica Aguda Ladeira]]
