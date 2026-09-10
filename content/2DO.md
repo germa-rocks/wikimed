@@ -21,7 +21,11 @@ publish: true
 
 ----
 
+<<<<<<< HEAD
+[[Andeson 09-09]]
+=======
 [[3 13. Pulmonary Embolism in the ICU Brigham]]
+>>>>>>> origin/main
 
 [[NeuroCritical ICU Pocket]]
 
