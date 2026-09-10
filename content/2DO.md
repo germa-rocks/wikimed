@@ -3,6 +3,8 @@ publish: true
 ---
 [[HIV Dx GWU]]
 [[TARV Sketchy]]
+- [[AIDS Rp na UTI Man22]]
+- [[AIDS SNC na UTI Man22]]
 
 [[HIV Hospitalizado Oakstone]]
 
