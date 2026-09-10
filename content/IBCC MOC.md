@@ -22,6 +22,8 @@ publish: true
 	- [[EMCrit 299 - Bougie Master Class with George Kovacs - 720p.pdf]]
 [[Untitled 10]]
 
+- [[Liberation from the ventilator IBCC]]
+
 ## CV
 [[ECMO manual - EMCrit]]
 [[Intra-aortic balloon pump (IABP) - EMCrit]]
