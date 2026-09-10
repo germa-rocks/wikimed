@@ -1,13 +1,15 @@
 ---
 publish: true
 ---
+[[HIV Hospitalizado Oakstone]]
+- [[Manejo e Terapia Antirretroviral (TARV) no HIV (PCDT)]]
+[[39 Tratamento Antirretroviral (TARV) para o HIV]]
 
 [[HIV Dx GWU]]
 [[TARV Sketchy]]
 - [[AIDS Rp na UTI Man22]]
 - [[AIDS SNC na UTI Man22]]
 
-[[HIV Hospitalizado Oakstone]]
 
 [[Hepatite B Abordagem Clínica e Coinfecção com HIV GenInfecto]]
 [[Hepatite C Atualização Clínica e Manejo GenInfecto]]
