@@ -5,6 +5,7 @@ publish: true
 
 [[178_25 Desmame VM OrientPraticas]]
 
+[[Liberation from the ventilator IBCC]]
 
 ----
 [[painel casos 06-07]]
