@@ -1,6 +1,10 @@
 ---
 publish: true
 ---
+[[usg diafragm tp]]
+
+
+----
 [[painel casos 06-07]]
 ## Systm
 
