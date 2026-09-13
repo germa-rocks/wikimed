@@ -30,6 +30,10 @@ publish: true
 [[Impella management - EMCrit]]
 [[Right heart catheterization (RHC) - EMCrit]]
 
+[[Shock & vasoactive medications IBCC]]
+[[Acute heart failure (incl cardiogenic shock) IBCC]]
+[[Right Ventricular failure IBCC]]
+
 ## Rn
 - Sodium
 	- [[Hypernatremia IBCC]]
