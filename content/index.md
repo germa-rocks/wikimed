@@ -1,6 +1,11 @@
 ---
 publish: true
 ---
+[[Managing Hemorrhage, Transfusions, Coagulopathies CHEST]]
+[[2298_PDFsam_mHC Intensiva 5ed 2022.pdf]]
+
+-----
+
 [[usg diafragm tp]]
 
 [[178_25 Desmame VM OrientPraticas]]
