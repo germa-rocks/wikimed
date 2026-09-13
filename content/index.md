@@ -6,6 +6,7 @@ publish: true
 [[tromboelastograma MedCof]]
 [[Testes Viscoelásticos ISICEM]]
 
+
 -----
 
 [[usg diafragm tp]]
