@@ -62,3 +62,9 @@ publish: true
 	- [[4078 HOW TO MONITOR CAPILLARY REFILL TIME IN.pdf]]
 - [[Pressão Sistêmica Média (Pms) e Retorno Venoso ISICEM]]
 	- [[4077 MEASUREMENT OF MEAN SYSTEMIC FILLING.m4a]]
+
+
+## hem
+
+- [[Testes Viscoelásticos ISICEM]]
+	- [[4082 VISCOELASTIC TESTING]]

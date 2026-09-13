@@ -4,6 +4,7 @@ publish: true
 [[Managing Hemorrhage, Transfusions, Coagulopathies CHEST]]
 [[2298_PDFsam_mHC Intensiva 5ed 2022.pdf]]
 [[tromboelastograma MedCof]]
+[[Testes Viscoelásticos ISICEM]]
 
 -----
 
