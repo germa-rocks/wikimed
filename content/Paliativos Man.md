@@ -4,11 +4,16 @@ publish: true
 
 ## Comunicação
 
- [[Neurobiologia da Comunicação - 720p]]
- [[ANATOMIA DA COMUNICAÇÃO - 720p]]
- [[Autonomia e Tomada de Decisão - audio]]
- [[COMUNICAÇÃO EM CONFLITOS - 720p]]
- [[Futilidade terapêutica na UTI - 720p]]
+- [[A Hierarquia das Necessidades de Comunicação]]
+	- [[Neurobiologia da Comunicação - 720p]]
+ - 
+	 - [[ANATOMIA DA COMUNICAÇÃO - 720p]]
+- [[Ética e Prática Clínica Autonomia e Capacidade de Decisão]]
+	- [[Autonomia e Tomada de Decisão - audio]]
+ - 
+	 - [[COMUNICAÇÃO EM CONFLITOS - 720p]]
+ - [[Futilidade Terapêutica e Cuidados de Fim de Vida no Paciente Crítico]]
+	 - [[Futilidade terapêutica na UTI - 720p]]
 
 
 ## Pal
