@@ -10,7 +10,7 @@ publish: true
 	 - [[ANATOMIA DA COMUNICAÇÃO - 720p]]
 - [[Ética e Prática Clínica Autonomia e Capacidade de Decisão]]
 	- [[Autonomia e Tomada de Decisão - audio]]
- - 
+ - [[Comunicação e Manejo de Conflitos no Ambiente de Saúde]]
 	 - [[COMUNICAÇÃO EM CONFLITOS - 720p]]
  - [[Futilidade Terapêutica e Cuidados de Fim de Vida no Paciente Crítico]]
 	 - [[Futilidade terapêutica na UTI - 720p]]
