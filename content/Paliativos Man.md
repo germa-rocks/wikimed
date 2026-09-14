@@ -2,6 +2,19 @@
 publish: true
 ---
 
+## Comunicação
+
+ [[Neurobiologia da Comunicação - 720p]]
+ [[ANATOMIA DA COMUNICAÇÃO - 720p]]
+ [[Autonomia e Tomada de Decisão - audio]]
+ [[COMUNICAÇÃO EM CONFLITOS - 720p]]
+ [[Futilidade terapêutica na UTI - 720p]]
+
+
+## Pal
+
+----
+
 [[resumo Update Paliativo]]
 
 ---
