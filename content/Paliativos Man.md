@@ -6,7 +6,7 @@ publish: true
 
 - [[A Hierarquia das Necessidades de Comunicação]]
 	- [[Neurobiologia da Comunicação - 720p]]
- - 
+ - [[Anatomia Comunicação]]
 	 - [[ANATOMIA DA COMUNICAÇÃO - 720p]]
 - [[Ética e Prática Clínica Autonomia e Capacidade de Decisão]]
 	- [[Autonomia e Tomada de Decisão - audio]]
