@@ -12,13 +12,6 @@ publish: true
 [[637_40 Embolia Pulmonar e Choque Obstrutivo Critico D&T]]
 
 
-- [[A Hierarquia das Necessidades de Comunicação]]
- - [[Anatomia Comunicação]]
-- [[Ética e Prática Clínica Autonomia e Capacidade de Decisão]]
- - [[Comunicação e Manejo de Conflitos no Ambiente de Saúde]]
- - [[Futilidade Terapêutica e Cuidados de Fim de Vida no Paciente Crítico]]
-
-
 ----
 
 [[Managing Hemorrhage, Transfusions, Coagulopathies CHEST]]
