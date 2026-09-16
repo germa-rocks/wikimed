@@ -3,6 +3,8 @@ publish: true
 ---
 
 
+----
+
 [[555_34 Choque e Aval Perfusao Critico D&T]]
 [[564_35 Monitorização Hemodinâmica Critico D&T]]
 [[586_Fluidorresponsividade e fluidotolerância Critico D&T]]
