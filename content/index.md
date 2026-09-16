@@ -1,6 +1,26 @@
 ---
 publish: true
 ---
+
+
+[[555_34 Choque e Aval Perfusao Critico D&T]]
+[[564_35 Monitorização Hemodinâmica Critico D&T]]
+[[586_Fluidorresponsividade e fluidotolerância Critico D&T]]
+[[602_Choque hemorrágico Critico D&T]]
+[[609_Choque Cardiogênico Critico D&T]]
+[[622_Choque Séptico Critico D&T]]
+[[637_40 Embolia Pulmonar e Choque Obstrutivo Critico D&T]]
+
+
+- [[A Hierarquia das Necessidades de Comunicação]]
+ - [[Anatomia Comunicação]]
+- [[Ética e Prática Clínica Autonomia e Capacidade de Decisão]]
+ - [[Comunicação e Manejo de Conflitos no Ambiente de Saúde]]
+ - [[Futilidade Terapêutica e Cuidados de Fim de Vida no Paciente Crítico]]
+
+
+----
+
 [[Managing Hemorrhage, Transfusions, Coagulopathies CHEST]]
 [[2298_PDFsam_mHC Intensiva 5ed 2022.pdf]]
 [[tromboelastograma MedCof]]
