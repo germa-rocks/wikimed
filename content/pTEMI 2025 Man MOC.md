@@ -75,7 +75,7 @@ publish: true
 - [[IRA PAV e ITU pTEMI]]
 	- [[2 IRA PAV e ITU aula]]
 - IRAS ICS relacionada CVC
-	- 3 IRAS ICS relacionada CVC
+	- [[3 IRAS ICS relacionada CVC aula ptemi]]
 
 ## Nutrição
 - [[Necessidades Nutricionais pTEMI]]
