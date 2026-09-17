@@ -70,7 +70,7 @@ publish: true
 
 
 
-- Sepse e choque séptico pTEMI
+- [[Sepse e choque séptico pTEMI]]
 	- [[1 Sepse e choque séptico aula ptemi]]
 - [[IRA PAV e ITU pTEMI]]
 	- [[2 IRA PAV e ITU aula]]
