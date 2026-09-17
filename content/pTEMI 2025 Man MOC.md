@@ -74,7 +74,7 @@ publish: true
 	- [[1 Sepse e choque séptico aula ptemi]]
 - [[IRA PAV e ITU pTEMI]]
 	- [[2 IRA PAV e ITU aula]]
-- IRAS ICS relacionada CVC
+- [[IRAS ICS relacionada CVC]]
 	- [[3 IRAS ICS relacionada CVC aula ptemi]]
 
 ## Nutrição
