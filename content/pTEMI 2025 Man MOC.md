@@ -70,9 +70,9 @@ publish: true
 
 
 
-- Sepse e choque séptico - Parte 1
-	- 1 Sepse e choque séptico - Parte 1
-- IRA PAV e ITU
+- Sepse e choque séptico pTEMI
+	- [[1 Sepse e choque séptico aula ptemi]]
+- [[IRA PAV e ITU pTEMI]]
 	- [[2 IRA PAV e ITU aula]]
 - IRAS ICS relacionada CVC
 	- 3 IRAS ICS relacionada CVC
