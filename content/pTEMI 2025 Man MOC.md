@@ -66,7 +66,16 @@ publish: true
 	- [[6 Pancreatite Aguda pTEMIMan aula]]
 - [[7 Disfagias e síndromes aspirativas pTEMIMan]]
 	- [[7 Disfagias e síndromes aspirativas pTEMIMan aula]]
+## Infecto
 
+
+
+- Sepse e choque séptico - Parte 1
+	- 1 Sepse e choque séptico - Parte 1
+- IRA PAV e ITU
+	- [[2 IRA PAV e ITU aula]]
+- IRAS ICS relacionada CVC
+	- 3 IRAS ICS relacionada CVC
 
 ## Nutrição
 - [[Necessidades Nutricionais pTEMI]]
