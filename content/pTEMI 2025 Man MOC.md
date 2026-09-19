@@ -50,6 +50,10 @@ publish: true
 - [[9 SÍNDROME CORONÁRIA pTEMI2025]]
 	- [[9 SÍNDROME CORONÁRIA.pptx pTEMI2025]]
 
+
+## Renal
+
+
 ## 7 Gastrointensivismo
 
 - [[1 Abdome agudo na UTI pTEMIMan]]
