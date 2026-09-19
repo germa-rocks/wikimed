@@ -62,7 +62,8 @@ publish: true
 	- [[4 - Distúrbios hidroeletrolíticos II_Distúrbios do sódio.pptx]]
 - [[Dialitico UTI pTEMI]]
 	- [[5 - O paciente dialítico na UTI (1).pptx]]
-6 - Distúrbios hidroeletrolíticos e equilíbrio ácido-base_casos clínicos (1).pptx
+- [[DAB Casos pTEMI]]
+	- [[6 - Distúrbios hidroeletrolíticos e equilíbrio ácido-base_casos clínicos (1).pptx]]
 ## 7 Gastrointensivismo
 
 - [[1 Abdome agudo na UTI pTEMIMan]]
