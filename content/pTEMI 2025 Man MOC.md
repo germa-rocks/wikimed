@@ -52,11 +52,16 @@ publish: true
 
 
 ## Renal
-[[1 - Distúrbios do estado ácido-base.pptx]]
-2 - Síndrome da Injúria Renal Aguda na UTI.pptx
-3 - Distúrbios hidroeletrolíticos I_Distúrbios do potássio (1).pptx
-[[4 - Distúrbios hidroeletrolíticos II_Distúrbios do sódio.pptx]]
-5 - O paciente dialítico na UTI (1).pptx
+- [[DAB pTEMI]]
+	- [[1 - Distúrbios do estado ácido-base.pptx]]
+- [[IRA pTEMI]]
+	- [[2 - Síndrome da Injúria Renal Aguda na UTI.pptx]]
+- [[Discalemias pTEMI]]
+	- [[3 - Distúrbios hidroeletrolíticos I_Distúrbios do potássio (1).pptx]]
+- [[Disnatremias pTEMI]]
+	- [[4 - Distúrbios hidroeletrolíticos II_Distúrbios do sódio.pptx]]
+- [[Dialitico UTI pTEMI]]
+	- [[5 - O paciente dialítico na UTI (1).pptx]]
 6 - Distúrbios hidroeletrolíticos e equilíbrio ácido-base_casos clínicos (1).pptx
 ## 7 Gastrointensivismo
 
