@@ -1,6 +1,8 @@
 ---
 publish: true
 ---
+[[VM em Doenças Neuromusculares]]
+
 - [[VM - conceitos]]
 	- [[Mechanical Ventilation - Basic to Advanced Concepts]]
 - [[asd]]
