@@ -3,6 +3,8 @@ publish: true
 ---
 [[VM em Doenças Neuromusculares]]
 
+[[169_22 VM neuromuscular]]
+
 - [[VM - conceitos]]
 	- [[Mechanical Ventilation - Basic to Advanced Concepts]]
 - [[asd]]
