@@ -110,12 +110,25 @@ DVO VM Chest
 - [[Heart-Lung Interactions UoT]]
 	- [[aula Heart-Lung Interactions]]
 
-- 
+- [[Mechanical Ventilation in Acute Brain Injury UoT]]
 	- [[aula Mechanical Ventilation in Acute Brain Injury]]
-- 
+
+
+- [[Ventilação Protetora Pulmonar e Diafragmática UoT]]
+	- [[ 7 Lung and Diaphragm - Protective Ventilation_audio]]
+- [[VM Protetora Pulm e Diafrag]]
+	- [[8 Case Discussion Spontaneous Breathing Who, When, How, And Why_audio]]
+- 9 PEEP And Lung Recruitment_audio
+- 10 Case Discussion Managing Refractory Hypoxemia and ECLS_audio
+- [[Medições Mecânica Respirtória UoT]]
+	- [[11 Respiratory Mechanics What To Measure_audio]]
+
+
 	- [[aula Lung and Diaphragm-Protective Ventilation]]
 - [[aula Lung- and Diaphragm-Protective Ventilation 2]]
 - [[aula Lecture On Lung And Diaphragm Protection]]
+
+
 - [[aula Prone Positioning and Inhaled Pulmonary Vasodilators]]
 - [[aula Managing Refractory Hypoxemia and ECLS]]
 
