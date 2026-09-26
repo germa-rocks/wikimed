@@ -119,7 +119,7 @@ Aqui está a estruturação do material em formato de base de conhecimento de al
         - **D** - Drive (POCC, P0.1, PMI).
         - **C** - Contexto (ex: Paciente politraumatizado com acidose e lactato elevado terá aumento compensatório do drive respiratório - avaliar necessidade de ajuste de modo ou sedação).
 
-## 4. Banco de Imagens e Casos Clínicos (Padrão Prova de Título - TEMI)
+## 4. Banco de Imagens e Casos Clínicos 
 - **Questões de Prova: Padrões de reconhecimento imediato exigidos pela AMIB.**
     - **Caso TEMI 2022 - Desconforto em PSV:**
         - *Cenário:* Paciente em PSV com desconforto visível. Intervenção melhorou o padrão.
