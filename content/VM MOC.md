@@ -101,13 +101,19 @@ DVO VM Chest
 # uot
 - [[Princípios Fisiológicos da Ventilação Mecânica]]
 	- [[aula Mechanical Ventilation - Physiological Principles]]
+- [[Breathing Control UoT]]
+	- [[aula Control of Breathing During Mechanical Ventilation]]
+-  [[Determinants of Respiratory Drive and Effort UoT]]
+	- [[aula Determinants of Respiratory Drive and Effort]]
+- [[Patient-Ventilator Dyssynchrony UoT]]
+	- [[aula Patient-Ventilator Dyssynchrony]]
+- [[Heart-Lung Interactions UoT]]
+	- [[aula Heart-Lung Interactions]]
+
 - 
-- [[aula Control of Breathing During Mechanical Ventilation]]
-- [[aula Determinants of Respiratory Drive and Effort]]
-- [[aula Patient-Ventilator Dyssynchrony]]
-- [[aula Heart-Lung Interactions]]
-- [[aula Mechanical Ventilation in Acute Brain Injury]]
-- [[aula Lung and Diaphragm-Protective Ventilation]]
+	- [[aula Mechanical Ventilation in Acute Brain Injury]]
+- 
+	- [[aula Lung and Diaphragm-Protective Ventilation]]
 - [[aula Lung- and Diaphragm-Protective Ventilation 2]]
 - [[aula Lecture On Lung And Diaphragm Protection]]
 - [[aula Prone Positioning and Inhaled Pulmonary Vasodilators]]
