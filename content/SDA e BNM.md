@@ -1,0 +1,164 @@
+---
+publish: true
+---
+
+# SEDAÇÃO E BLOQUEIO NEUROMUSCULAR NA UTI
+## 1. Princípios Gerais da Sedação em Terapia Intensiva
+- **A estratégia de sedação restritiva (alvo em sedação leve ou paciente acordado) é o padrão-ouro, associando-se a melhores desfechos clínicos.**
+	- Benefícios (evidentes já nas primeiras 48h): Redução da mortalidade, menor tempo de ventilação mecânica (VM), menor tempo de UTI e hospitalar, redução de *delirium*, assincronias e custos.
+	- Sedação profunda deliberada: Causa maiores taxas de sintomas psíquicos, ansiedade e estresse pós-traumático a longo prazo.
+	- 📎 Refs: 1-5.
+- **Sedativos não-benzodiazepínicos (Propofol, Dexmedetomidina) são a primeira linha.**
+	- Reduzem tempo de VM e aceleram o despertar para exame neurológico comparados ao Midazolam.
+	- 📎 Refs: 11-21.
+
+## 2. Metas e Avaliação Diária
+- **O alvo terapêutico padrão é manter o paciente calmo, colaborativo, interagindo com o examinador/família, com RASS 0 a -2 ou SAS 3 a 4.**
+	- 📎 Refs: 6, 7.
+- **A monitorização deve ser feita obrigatoriamente através de escalas validadas (RASS ou SAS).**
+	- ▶ **Escala RASS (Richmond Agitation Sedation Scale)**
+		- **+4 Combativo:** Violento, risco para a equipe.
+		- **+3 Muito agitado:** Puxa/remove tubos ou cateteres, agressivo verbalmente.
+		- **+2 Agitado:** Movimentos despropositados frequentes, briga com o ventilador.
+		- **+1 Inquieto:** Movimentos presentes, mas não agressivos/vigorosos.
+		- **0 Alerta e calmo**
+		- **-1 Sonolento:** Adormecido, acorda ao chamado verbal e mantém olhos abertos > 10s.
+		- **-2 Sedação leve:** Desperta ao estímulo verbal, mantém contato visual < 10s.
+		- **-3 Sedação moderada:** Movimentação/abertura ocular ao estímulo verbal (sem contato visual).
+		- **-4 Sedação intensa:** Sem resposta ao chamado, mas movimenta/abre olhos ao estímulo físico.
+		- **-5 Não desperta:** Sem resposta a qualquer estímulo.
+	- ▶ **Escala SAS (Sedation-Agitation Scale)**
+		- **7 Agitação perigosa:** Tenta retirar tubo/cateter, sair da cama, agredir equipe.
+		- **6 Muito agitado:** Morde tubo, necessita restrição, não acalma com orientação verbal.
+		- **5 Agitado:** Ansioso, tenta levantar, acalma com orientação verbal.
+		- **4 Calmo e cooperativo:** Acorda fácil, obedece comandos.
+		- **3 Sedado:** Difícil acordar, acorda com estímulo/gentil chacoalhar, mas volta a dormir. Obedece comandos simples.
+		- **2 Muito sedado:** Acorda com estímulo físico, não responde ordens. Move-se espontaneamente.
+		- **1 Não despertável:** Resposta mínima ou nula a estímulos/ordens.
+- **Exceções à regra (Indicações de Sedação Profunda / RASS -4 a -5):**
+	- **Estado de Mal Epiléptico:** Titular por crises clínicas e EEG.
+	- **Hipertensão Intracraniana (HIC):** Considerar valores de PIC durante o desmame da sedação.
+	- **SDRA grave:** Para garantir ventilação mecânica protetora rigorosa (com ou sem BNM associado).
+- **Protocolos obrigatórios a beira-leito para redução de sedativos:**
+	- Despertar Diário: Interromper infusão até o paciente acordar -> reintroduzir em 50% da dose anterior se necessário.
+	- Titulação baseada em algoritmos de enfermagem buscando a menor dose tolerada.
+	- 📎 Refs: 8, 9.
+
+## 3. Algoritmo de Manejo da Agitação e Necessidade de Sedação
+- **Sempre avalie e trate causas reversíveis (Dor, Delirium, Desconforto) ANTES de aumentar a sedação.**
+	- **Passo 1: Paciente está agitado e/ou desconfortável (RASS > 0)?**
+		- **NÃO:** Mantenha sem sedação contínua. Reavalie apenas necessidade de analgesia.
+		- **SIM:** Siga para Passo 2.
+	- **Passo 2: Investigação de Fatores Modificáveis**
+		- Há fatores modificáveis presentes? (Dor, bexigoma, constipação, má posição, hipoxemia).
+		- **SIM:** Realizar Tratamento Específico.
+			- Se Dor -> Analgesia prioritária.
+			- Se Delirium -> Medidas não farmacológicas + antipsicóticos.
+			- Se Ansiedade -> Ansiólise pontual.
+			- Intervenções de enfermagem -> Mudança de decúbito, esvaziamento vesical/intestinal.
+		- **NÃO:** Siga para sedação alvo (Passo 4).
+	- **Passo 3: Reavaliação pós-intervenção**
+		- Paciente ficou confortável e calmo?
+		- **SIM:** Manter sem sedação contínua, reavaliar.
+		- **NÃO:** Siga para Passo 4.
+	- **Passo 4: Titulação do Sedativo**
+		- Aprofundar sedação para RASS -3 a -4.
+		- Exigência: Reavaliar necessidade de redução diariamente (Desligar/Reduzir).
+	- 📎 Refs: 7, 10.
+
+## 4. Farmacologia: Sedativos em Infusão Contínua
+- **Propofol 1% (10mg/mL) - Primeira linha para sedação rápida e despertares precoces.**
+	- Mecanismo: Agonista GABA (ação puramente sedativa, sem analgesia). Ação em glutamato e canabinoide.
+	- Dosagem Contínua: 50 a 200 mg/h (ou 1 a 3 mg/kg/h). Sugestão de início: 5 mL/h e titular.
+	- Farmacocinética: Meia-vida curta (30-60 min). Metabolização hepática, excreção renal. Deposição em tecido adiposo (pode acumular em uso prolongado).
+	- Perfil de Risco e Red Flags:
+		- Hipotensão (vasodilatação) e bradicardia.
+		- **Síndrome da Infusão do Propofol (PRIS):** Incomum, mas letal. 
+			- *Fatores de risco:* Doses altas (> 4 mg/kg/h) por mais de 48h.
+			- *Clínica:* Acidose lática, arritmia, rabdomiólise, IRA e PCR.
+	- Dicas Práticas:
+		- Fornece aporte calórico (1,1 kcal/mL de lipídeos) - considerar no cálculo nutricional.
+		- Monitorar Triglicerídeos e CPK regularmente.
+		- Evitar infusão em acesso periférico (flebitis).
+		- 📎 Refs: 27.
+- **Dexmedetomidina / Precedex (100 mcg/mL) - Útil para desmame ventilatório, controle de agitação leve e cooperação.**
+	- Mecanismo: Agonista Alfa-2 adrenérgico. Promove sedação cooperativa e possui leve ação analgésica (poupador de opioide). Não deprime *drive* respiratório.
+	- Dosagem Contínua: 0,2 a 1,5 mcg/kg/h. (Diluição padrão: 400mcg em 96mL SF 0,9% = 4 mcg/mL).
+	- Farmacocinética: Meia-vida de 2h. Metabolização hepática. Não acumula em infusão contínua.
+	- Perfil de Risco e Red Flags:
+		- Bradicardia e hipotensão significativas (principalmente se dose de ataque). Boca seca e náuseas.
+	- Dicas Práticas:
+		- **NÃO FAZER BOLUS** (aumenta risco de instabilidade hemodinâmica severa).
+		- Evitar em pacientes já muito instáveis hemodinamicamente ou extremamente agitados (falha terapêutica).
+- **Midazolam (5 mg/mL) - Reservado para sedação profunda, status epiléptico ou contraindicações aos anteriores.**
+	- Mecanismo: Agonista GABA (sedativo, ansiolítico, anticonvulsivante). Amnésico forte.
+	- Dosagem Contínua: 0,05 a 0,4 mg/kg/h. Sugestão de início: 5 mg/h (Diluição padrão: 150mg em 120mL SF 0,9% = 1 mg/mL).
+	- Farmacocinética: Meia vida de 3-11h. Metabolização hepática, excreção renal.
+		- *Alerta:* Acúmulo de metabólito ativo em infusão prolongada, insuficiência renal ou hepática, lentificando criticamente o despertar.
+	- Perfil de Risco e Red Flags:
+		- Maior risco de *delirium* na UTI.
+		- Tolerância rápida ao efeito sedativo e anticonvulsivante (necessidade de doses crescentes), mas não ao efeito ansiolítico.
+		- Hipotensão.
+	- Dicas Práticas:
+		- Evitar uso de rotina. Evitar em pacientes obesos, idosos, nefropatas e hepatopatas.
+
+## 5. Sedação para Procedimentos e Intubação (Bolus)
+- **A escolha do agente de indução deve considerar rigorosamente o perfil hemodinâmico, comorbidades e disfunções orgânicas do paciente.**
+	- A associação de Fentanil (opioide) com Propofol ou Midazolam aumenta significativamente o risco de depressão cardiovascular e respiratória. Reduza as doses de *bolus* se usar associação.
+	- 📎 Refs: 22.
+- **Quetamina (50 mg/mL) - Droga de escolha no paciente chocado, instável ou com broncoespasmo.**
+	- Mecanismo: Antagonista NMDA. Anestesia dissociativa.
+	- Dosagem para IOT: 1 a 2 mg/kg IV (Ação em 30-60s, dura 5-10 min).
+	- Dosagem para Sedação leve/Procedimento: 0,5 a 1,0 mg/kg IV. Analgesia isolada: 0,2 a 0,5 mg/kg IV.
+	- Perfil de Risco e Red Flags:
+		- Taquicardia, hipertensão (ação simpatomimética). Sialorreia, broncorreia.
+		- **Fenômeno de emergência:** Alucinações, delírios e agitação ao acordar (em altas doses). *Prevenção:* Associar baixas doses de benzodiazepínico ou propofol (Ex: 1 mg/kg propofol + 1 mg/kg quetamina).
+	- Vantagens: Preserva *drive* respiratório, reflexos de via aérea e é potente broncodilatador.
+- **Etomidato (2 mg/mL) - Alternativa para estabilidade hemodinâmica, mas com efeitos colaterais marcantes.**
+	- Dosagem para IOT: 0,3 mg/kg IV (Ação em 30-60s).
+	- Dosagem para Procedimento: 0,1 a 0,2 mg/kg IV.
+	- Perfil de Risco e Red Flags:
+		- **Inibição da síntese de corticoide (Adrenalite):** Controverso o impacto em choque séptico, mas real.
+		- Mioclonias e rigidez muscular muito frequentes (32-80%).
+		- Reduz limiar convulsivo. Náuseas/vômitos.
+	- Dicas Práticas: Evitar em procedimentos de longa duração.
+- **Propofol em Bolus**
+	- Dosagem para IOT: 1,5 mg/kg IV. Procedimento: 0,5 a 1,0 mg/kg IV.
+	- *Alerta:* Queda abrupta da PA. Evitar em limítrofes ou instáveis hemodinamicamente.
+- **Midazolam em Bolus**
+	- Dosagem para IOT: 0,2 a 0,4 mg/kg IV. Procedimento: 0,1 mg/kg IV.
+	- *Alerta:* Menos hipotensor que propofol, mas ação mais lenta para pico (até 3 min) e duração imprevisível/longa (até 2h para depurar bolus).
+
+## 6. Bloqueio Neuromuscular (BNM)
+- **O uso de BNM é restrito a cenários de exceção na UTI. Exige sedação prévia profundíssima e analgesia plena.**
+	- Eventos adversos associados: Fraqueza muscular prolongada na UTI, consciência aprisionada durante paralisia (trauma psicológico), aumento do tempo de VM.
+	- 📎 Refs: 22-25.
+- **Principais Indicações na UTI:**
+	- SDRA grave com relação PaO2/FiO2 < 150.
+	- Crise asmática refratária com acidose/hipoxemia grave ou instabilidade por hiperinsuflação (auto-PEEP), refratária à sedação profunda.
+	- HIC refratária (cessar movimentos/dissincronia que aumentam PIC).
+	- Síndrome Compartimental Abdominal.
+	- Controle de tremores na Hipotermia Terapêutica pós-PCR.
+	- Redução de tônus em tétano grave ou Síndrome Neuroléptica Maligna.
+	- Hemoptise maciça (evitar tosse/deslocamento de coágulo).
+	- Procedimentos curtos (IOT, broncoscopia).
+- **Escolha do BNM:**
+	- **Rocurônio (10 mg/mL) - Padrão-ouro atual para Intubação Sequência Rápida (ISR) na UTI.**
+		- Dose IOT: 0,6 a 1,2 mg/kg. Dose infusão: Bolus 0,6-1 mg/kg + Manutenção 3 a 8 mcg/kg/min.
+		- Cinética: Início em 1-2 min. Meia-vida aumenta drasticamente na disfunção hepática (até 400min) e renal (até 300min).
+		- Dicas: Perfil de segurança muito superior à succinilcolina. Pode causar dor local na infusão.
+	- **Cisatracúrio (2 mg/mL) - Padrão-ouro para Infusão Contínua (SDRA).**
+		- Dose infusão: Bolus 0,1-0,2 mg/kg + Manutenção 1 a 3 mcg/kg/min.
+		- Cinética: Início lento (2-3 min) - **não usar para ISR**.
+		- *Vantagem absoluta:* Metabolização via Degradação de Hofmann e hidrólise de éster (independente de função renal e hepática).
+	- **Succinilcolina (100 mg/amp) - Despolarizante. NÃO é mais a primeira escolha na UTI.**
+		- Dose IOT: 0,6 a 1,5 mg/kg. NUNCA usar em infusão contínua.
+		- Red Flags / Contraindicações Absolutas: Hipercalemia, grandes queimados, politrauma, rabdomiólise, distrofia muscular, denervação extensa / doença do neurônio motor (risco de parada cardíaca hipercalêmica), e suscetibilidade à hipertermia maligna.
+- **Checklist de Cuidados Obrigatórios com o Paciente Bloqueado:**
+	- 1. Garantir via aérea definitiva e segura.
+	- 2. Assegurar **Sedação Profunda (RASS -5 / SAS 1)** e analgesia em bomba.
+	- 3. Profilaxia ocular rigorosa: colírio/gel lubrificante + oclusão ocular contínua (prevenção de úlcera de córnea).
+	- 4. Profilaxia mecânica de lesão por pressão (mudança de decúbito 2/2h, coxins, placas).
+	- 5. Profilaxia de TEV (farmacológica ou mecânica).
+	- 6. Aspiração traqueal de rotina frequente (paciente perde reflexo de tosse e não elimina secreção).
+	- 7. Fisioterapia motora passiva precoce.
