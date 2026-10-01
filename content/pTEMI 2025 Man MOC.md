@@ -116,9 +116,14 @@ publish: true
 
 
 ## POCUS
-1 POCUS VA
-2 POCUS Abdome
-3 POCUS SNC
-4 ULTRASSOM ALÉM DO POCUS
-5 Ecocardiograma PARTE 1.pptx
-6 Ecocardiograma PARTE 2.pptx
+- 1 POCUS VA pTEMI
+	- 1 POCUS VA pTEMI aula
+- 2 POCUS Abdome pTEMI
+	- 2 POCUS Abdome pTEMI aula
+- 3 POCUS SNC pTEMI
+	- 3 POCUS SNC pTEMI aula
+- 4 ULTRASSOM ALÉM DO POCUS pTEMI
+	- 4 ULTRASSOM ALÉM DO POCUS pTEMI aula
+- 5 Ecocardiograma pTEMI
+	- 5 ECO PARTE 1.pptx pTEMI
+	- 6 ECO PARTE 2.pptx pTEMI
