@@ -128,8 +128,8 @@ publish: true
 	- [[5 ECO PARTE 1.pptx pTEMI]]
 	- [[6 ECO PARTE 2.pptx pTEMI]]
 
-- 
+- [[Rx UTI pTEMI]]
 	- [[0 Radiologia do tórax para o intensivista.pdf]]
-- 
+- [[TC UTI pTEMI]]
 	- [[0 Tomografia na UTI pdf]]
 
