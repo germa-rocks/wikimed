@@ -115,3 +115,10 @@ publish: true
 
 
 
+## POCUS
+1 POCUS VA
+2 POCUS Abdome
+3 POCUS SNC
+4 ULTRASSOM ALÉM DO POCUS
+5 Ecocardiograma PARTE 1.pptx
+6 Ecocardiograma PARTE 2.pptx
