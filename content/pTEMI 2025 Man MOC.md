@@ -115,7 +115,7 @@ publish: true
 
 
 
-## POCUS
+## POCUS e Imagem
 - [[1 POCUS VA pTEMI]]
 	- [[1 POCUS VA pTEMI aula]]
 - [[2 POCUS Abdome pTEMI]]
@@ -125,5 +125,11 @@ publish: true
 - [[4 ULTRASSOM ALÉM DO POCUS pTEMI]]
 	- [[4 ULTRASSOM ALÉM DO POCUS pTEMI aula]]
 - [[5 Ecocardiograma pTEMI]]
-	- 5 ECO PARTE 1.pptx pTEMI
+	- [[5 ECO PARTE 1.pptx pTEMI]]
 	- [[6 ECO PARTE 2.pptx pTEMI]]
+
+- 
+	- [[0 Radiologia do tórax para o intensivista.pdf]]
+- 
+	- [[0 Tomografia na UTI pdf]]
+
