@@ -133,3 +133,6 @@ publish: true
 - [[TC UTI pTEMI]]
 	- [[0 Tomografia na UTI pdf]]
 
+## Gestão
+- Gestao em UTI pTEMI
+	- Gestao em UTI pTEMI aula
