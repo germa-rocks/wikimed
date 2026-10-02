@@ -1,7 +1,8 @@
 ---
 publish: true
 ---
-
+[[pocus sources]]
+- [[pocusmeded cardiac]]
 # Links Top
 ## [[ECO Questoes Cardio MOC]]
 ## [[FCUS IntensiveCareNetwork PreRead]]
