@@ -3,7 +3,7 @@ publish: true
 ---
 - [[2 GESTÃO EM UTI - Gestão Qualidade e Segurança MUTI]]
 - [[mQA25 Questões TEMI Gestão MUTI]]
-
+![[Pasted image 20261002153355.png]]
 ----
 
 [[555_34 Choque e Aval Perfusao Critico D&T]]
