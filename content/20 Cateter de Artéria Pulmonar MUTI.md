@@ -78,7 +78,8 @@ publish: true
 		- É o ==momento do ciclo respiratório em que a pressão intratorácica está mais próxima de zero==, minimizando artefatos torácicos sobre o vaso.
 		- Ventilação Espontânea: A pressão intratorácica cai (negativa) na inspiração. 
 			- O "final da expiração" corresponde ao **pico superior (vale)** do traçado antes da próxima queda.
-		- Ventilação Mecânica (Pressão Positiva): A pressão sobe na inspiração. O "final da expiração" corresponde ao **ponto basal mais baixo** do traçado antes do ventilador insuflar.
+		- Ventilação Mecânica (Pressão Positiva): A pressão sobe na inspiração. 
+			- O "final da expiração" corresponde ao **ponto basal mais baixo** do traçado antes do ventilador insuflar.
 	- Fisiologia da Zona 3 de West:
 		- Regra hemodinâmica: Na Zona 3, a Pressão Arterial > Pressão Venosa > Pressão Alveolar (`Pap > Ppv > Palv`).
 		- Como o balão bloqueia o fluxo arterial de um lado, a ponta do cateter "lê" a pressão venosa pulmonar que se iguala à pressão do átrio esquerdo porque *não há compressão alveolar* obliterando o capilar.
@@ -89,7 +90,7 @@ publish: true
 
 ## Artefatos, Armadilhas Clínicas e Overwedging
 - **Interpretações errôneas da curva de POAP podem levar a condutas iatrogênicas letais, como hipervolemia não intencional ou ruptura da artéria pulmonar.**
-	- A Armadilha da Insuficiência Mitral Aguda:
+	- A ==Armadilha da Insuficiência Mitral Aguda:
 		- Gera uma onda *V* gigante holossistólica precoce no Átrio Esquerdo.
 		- Essa onda é refletida retrogradamente para a curva de POAP, fundindo-se com a onda *C* e apagando a descida *X*.
 		- *Risco:* O traçado gigante simula uma curva de Artéria Pulmonar, levando o médico a achar que não encunhou o cateter e empurrá-lo mais fundo, causando ruptura.
@@ -105,9 +106,9 @@ publish: true
 - **O raio-X de tórax é obrigatório após o procedimento. A ruptura da artéria pulmonar é a complicação mais fatal, diretamente associada a mau posicionamento periférico.**
 	- Confirmação Radiológica:
 		- A ponta deve estar em uma das artérias pulmonares principais.
-		- Distância de segurança: Não deve passar 3 a 5 cm além da linha média no AP.
+		- Distância de segurança: Não deve passar ==3 a 5 cm além da linha média== no AP.
 		- Não devem haver dobras, nós ou alças dentro do VD.
-		- Na incidência lateral, a ponta deve estar posicionada *abaixo* do nível do átrio esquerdo (indicativo anatômico da Zona 3 de West).
+		- Na incidência lateral, a ponta deve estar posicionado ==*abaixo* do nível do átrio esquerdo== (indicativo anatômico da Zona 3 de West).
 	- Complicações e Timing:
 		- Imediatas (na passagem): Arritmias (extrassístoles ventriculares a Taquicardia Ventricular ao atravessar a válvula tricúspide), BRD transitório.
 		- Tardias (na manutenção): Infarto pulmonar (se o balão não for desinsuflado ou se houver migração).
