@@ -1,6 +1,13 @@
 ---
 publish: true
 ---
+- ==[[mInt Monitorização Hemodinâmica MUTI]]
+- [[20 Cateter de Artéria Pulmonar MUTI]]
+- [[AI in Medicine Harvard 2026 MOC]]
+
+-----
+
+- 
 - [[2 GESTÃO EM UTI - Gestão Qualidade e Segurança MUTI]]
 - [[mQA25 Questões TEMI Gestão MUTI]]
 ![[Pasted image 20261002153355.png]]
