@@ -3,7 +3,7 @@ publish: true
 ---
 - ==[[mInt Monitorização Hemodinâmica MUTI]]
 - [[20 Cateter de Artéria Pulmonar MUTI]]
-- [[AI in Medicine Harvard 2026 MOC]]
+- [[AI in Medi Harv 2026 MOC]]
 
 -----
 
