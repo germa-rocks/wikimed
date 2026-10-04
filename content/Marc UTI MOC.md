@@ -17,8 +17,9 @@ publish: true
 	- [[9 ANÁLISE GRÁFICA EM VM.pdf]]
 	- [[10 ANÁLISE GRÁFICA na Prática pdf]]
 
-19 Via Aerea I
-24 Via Aerea II
+- [[Via aérea MUTI]]
+	- [[19 Via Aerea I aula]]
+	- 24 Via Aerea II
 
 - [[26 Desmame VM MUTI]]
 	- [[26 Desmame VM aula]]
