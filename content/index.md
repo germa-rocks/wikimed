@@ -1,6 +1,10 @@
 ---
 publish: true
 ---
+- [[6 Doenças Neuromusculares MUTI]]
+- [[5 SDRA MUTI]]
+- 
+
 - ==[[mInt Monitorização Hemodinâmica MUTI]]
 - [[20 Cateter de Artéria Pulmonar MUTI]]
 - [[AI in Medi Harv 2026 MOC]]
