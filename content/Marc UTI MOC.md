@@ -1,7 +1,13 @@
 ---
 publish: true
 ---
+## Ne
 
+- [[Doenças Neuromusculares MUTI]]
+	- [[Doenças Neuromusculares.pdf]]
+
+
+---
 
 ## 2 Rp
 
@@ -10,14 +16,19 @@ Aula 1 - Fisiologia respiratória - perspectivas
 	- [[2 Mecânica Ventilatória MIC 20]]
 - [[3 Modos VM Básicos MUTI]]
 	- [[3 MODOS VENTILATÓRIOS BÁSICOS]]
-
+4
+5
+6
 - [[7 Assincronias Ventilatórias MUTI]]
 	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial 1]] (incompleto)
 	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial 2]] (incompleto)
 	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial ]]
+8
 - [[Análise Gráfica VM MUTI]]
 	- [[9 ANÁLISE GRÁFICA EM VM.pdf]]
 	- [[10 ANÁLISE GRÁFICA na Prática pdf]]
+11
+12
 
 - [[Via aérea MUTI]]
 	- [[19 Via Aerea I aula]]
@@ -130,6 +141,13 @@ Aula 1 - Fisiologia respiratória - perspectivas
 	- [[13 Procedimentos guiados por USG AULA]]
 - [[14 POCUS na via aérea MUTI]]
 	- [[14 POCUS na via aérea 2026.pdf]]
+
+---
+
+## Cx e Posop
+
+- [[5 Abdome agudo e outras catástrofes abdominais MUTI]]
+	- [[5 - Abdome agudo e outras catástrofes abdominais.mp3]]
 
 
 ---
