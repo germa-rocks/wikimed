@@ -22,7 +22,7 @@ publish: true
 - [[4 Ajustes Ventilatórios aula]]
 - [[5 SDRA MUTI]]
 	- [[5 SDRA MUTI AULA 1]]
-	- 5 SDRA MUTI AULA 2
+	- [[5 SDRA MUTI AULA 2]]
 6
 - [[7 Assincronias Ventilatórias MUTI]]
 	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial 1]] (incompleto)
