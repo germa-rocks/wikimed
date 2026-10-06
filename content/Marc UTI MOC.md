@@ -20,9 +20,7 @@ publish: true
 	- [[3 MODOS VENTILATÓRIOS BÁSICOS]]
 [[4 Ajustes Ventilatórios MUTI]]
 - [[4 Ajustes Ventilatórios aula]]
-- 5 SDRA MUTI
-	- [[5 SDRA MUTI AULA 1]]
-	- 5 SDRA MUTI AULA 2
+5
 6
 - [[7 Assincronias Ventilatórias MUTI]]
 	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial 1]] (incompleto)
@@ -39,7 +37,7 @@ publish: true
 	- [[19 Via Aerea I aula]]
 	- [[24 Via Aerea II]]
 
-[[25 - ECO como Swan-Ganz MUTI]]
+[[25 - ECO como Swan-Ganz]]
 - [[25 - ECO como Swan-Ganz AULA]]
 
 - [[26 Desmame VM MUTI]]
