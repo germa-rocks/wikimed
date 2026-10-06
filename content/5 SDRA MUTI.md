@@ -85,7 +85,7 @@ publish: true
 
 ## 5. Os 2 Domínios da Ventilação Mecânica Protetora
 
-- **Conceito "Baby Lung": O pulmão da SDRA não é rígido, ele é funcionalmente pequeno.**
+- **Conceito "Baby Lung": O pulmão da SDRA ==não é rígido, ele é funcionalmente pequeno.**
 	- Grande parte dos alvéolos estão colapsados. A ventilação ocorre apenas em uma pequena porção de pulmão viável aerado.
 	- Aplicar volumes convencionais em um pulmão de tamanho funcional "de um bebê" gera estresse (strain) altíssimo, causando Lesão Pulmonar Induzida pela Ventilação (VILI).
 
@@ -122,7 +122,10 @@ publish: true
 
 ## Fundamentos e Fisiopatologia Básica
 - **A SDRA é uma Insuficiência Respiratória Aguda Hipoxêmica (Tipo 1) de etiologia não cardíaca.**
-  - Caracteriza-se por um gatilho inflamatório sistêmico ou pulmonar conhecido, imagem difusa bilateral (Rx, TC ou USG) e edema de permeabilidade capilar.
+  - Caracteriza-se por 
+	  - um gatilho inflamatório sistêmico ou pulmonar conhecido, 
+	  - imagem difusa bilateral (Rx, TC ou USG) e 
+	  - edema de permeabilidade capilar.
   - O conceito central estrutural é o ***Baby Lung***: o pulmão efetivamente funcionante está severamente reduzido devido ao colapso alveólar gravitacional-dependente causado pelo edema.
 - **A Ventilação Mecânica inadequada agrava a doença através da Lesão Induzida pelo Ventilador (VILI).**
   - O ajuste inadequado causa injúria por múltiplos mecanismos que perpetuam a inflamação orgânica sistêmica (Biotrauma):
@@ -151,8 +154,9 @@ publish: true
   - Pacientes respondem mal a PEEP alta se não houver parênquima colapsado recrutável (risco de hiperdistensão de áreas sadias).
   - **Avaliação da Recrutabilidade (R/I Ratio - Razão de Recrutamento/Insuflação):** Compara a complacência mecânica em níveis distintos de PEEP.
   - **Índice NMD% (Massa Pulmonar Não Aerada):**
-    - $\ge$ 41%: Alto potencial para recrutamento (responde à PEEP alta).
+    - ==$\ge$ 41%: Alto potencial para recrutamento (responde à PEEP alta).
     - < 41%: Baixo potencial para recrutamento (focar em não hiperdistender).
+    - ![[Pasted image 20261006200301.png]]
 - **Identifique a Pressão de Abertura das Vias Aéreas (AOP) para definir um limiar mínimo de PEEP de segurança.**
   - AOP ocorre quando condições extrapulmonares (ex: Hipertensão Intra-abdominal severa, grande obesidade) causam colapso persistente das vias aéreas distais. Nestes casos, PEEPs baixas geram atelectrauma a cada ciclo.
   - **Como diagnosticar (A Regra do 5):**
@@ -161,6 +165,7 @@ publish: true
     - Ajustar FR baixa para 5 irpm.
     - Ajustar PEEP para 0 a 5 cmH2O.
     - **Diagnóstico Gráfico:** Visualiza-se um "degrau" ou inflexão brusca na curva Pressão-Tempo antes da pressão subir linearmente.
+    - ![[Pasted image 20261006200334.png]]
   - **Conduta:** A PEEP do paciente **deve ser ajustada acima do valor numérico onde ocorreu o degrau (AOP)**, impedindo o fechamento das vias aéreas na expiração.
 
 ## Posição Prona e Estratégias de Resgate
@@ -172,7 +177,10 @@ publish: true
     - Reduz a hiperdistensão nas zonas ventrais e o *shunt* (colapso) nas zonas dorsais.
     - Libera o parênquima pulmonar dorsal da compressão direta imposta pelo coração e pelas vísceras abdominais.
     - Melhora radicalmente o acoplamento Ventilação/Perfusão (V/Q).
+    - ![[Pasted image 20261006200437.png]]
+    - ![[Pasted image 20261006200458.png]]
   - **Monitoramento de sucesso:** O benefício não é medido apenas pelo aumento da PaO2, mas frequentemente por uma **queda da PaCO2**, o que indica ganho de pulmão útil e redução de espaço morto.
+	  - ![[Pasted image 20261006200739.png]]
   - **Red Flag (Gestantes):** Gravidez NÃO é contraindicação para Prona. Em gestantes graves (PaO2/FiO2 < 150), realiza-se a manobra utilizando coxins adaptados para alívio da pressão abdominal. Interromper a gestação com o único intuito de ventilar a mãe não é a conduta primária recomendada.
 - **O Bloqueio Neuromuscular (BNM) não é universal, mas tem seu papel nos casos graves (SARA precoce com disfunção profunda).**
   - Utilizado pontualmente para suprimir o *drive* respiratório nocivo, tratar assincronias graves, e diminuir o excessivo esforço inspiratório que aumenta a pressão transpulmonar e deflagra lesão adicional.
@@ -195,7 +203,7 @@ publish: true
     - Sinal de McConnell (hipocinesia de parede livre com preservação do ápice).
     - TAPSE rebaixado.
     - Abertura de Forame Oval Patente (FOP) ou presença de coágulo em trânsito.
-  - **Conduta protetora do VD:** A **Posição Prona** é a estratégia terapêutica isolada que mais rapidamente alivia a disfunção de VD ao homogeneizar as pressões torácicas e reduzir a resistência vascular pulmonar.
+  - **Conduta protetora do VD:** ==A **Posição Prona** é a estratégia terapêutica isolada que mais rapidamente alivia a disfunção de VD== ao homogeneizar as pressões torácicas e reduzir a resistência vascular pulmonar.
 - **Avalie a presença de Espaço Morto através da Capnografia e Razão Ventilatória (VR).**
   - Um pulmão submetido a *shunt* por atelectasia também sofre aumento compensatório de espaço morto em zonas de hiperdistensão.
   - **Fórmula da Razão Ventilatória (VR):** $[FR \times VC \times PaCO2] \div [Peso Predito \times 37,5 \times 100]$.
@@ -207,3 +215,4 @@ publish: true
     - **Linear (Stress Index = 1):** Configuração ideal. Energia e complacência bem equilibradas.
     - **Concavidade para Baixo (Stress Index < 1):** Sinaliza Atelectrauma dinâmico. O alvéolo está se abrindo à força no meio da inspiração. Requer **aumento da PEEP**.
     - **Concavidade para Cima / "Bico de Pássaro" (Stress Index > 1):** Sinaliza Hiperdistensão alveolar. O limite elástico foi ultrapassado. Requer **redução imediata da PEEP ou do Volume Corrente**.
+    - ![[Pasted image 20261006200815.png]]
