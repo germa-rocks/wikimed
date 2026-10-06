@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-- [[Sem título 20]]
 - [[6 Doenças Neuromusculares MUTI]]
 - [[5 SDRA MUTI]]
 - [[1 Abdome agudo na UTI pTEMIMan]]
