@@ -13,6 +13,11 @@ publish: true
 
 [[1 Fisiologia respiratória perspectivas MUTI]]
 - [[Aula 1 - Fisiologia respiratória perspectivas AULA]]
+[[12 IRPA MUTI]]
+- [[12 IRPA aula]]
+[[8 - DPOC e Asma MUTI]]
+- [[8 DPOC e Asma aula]]
+
 
 - [[2 Mecânica Ventilatória MUTI]]
 	- [[2 Mecânica Ventilatória MIC 20]]

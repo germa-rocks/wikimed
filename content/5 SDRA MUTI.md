@@ -8,7 +8,7 @@ publish: true
 ## Visão Geral e Framework Diagnóstico "4-3-2"
 - **A SDRA é uma síndrome inflamatória aguda de complacência reduzida, baseada em 4 Dimensões, 3 Fases e 2 Domínios ventilatórios principais.**
 	- Trata-se de um edema pulmonar difuso, inflamatório (rico em proteínas), que acomete alvéolos e interstício, gerando hipoxemia refratária por efeito *shunt* intrapulmonar.
-
+![[Pasted image 20261006200922.png]]
 ---
 
 ## 1. As 4 Dimensões (Critérios Diagnósticos - Atualização ATS/ESICM 2023)
@@ -22,6 +22,7 @@ publish: true
 	- **Raio-X / TC:** Infiltrado alveolar bilateral heterogêneo. A TC revela áreas normoaeradas (não dependentes), áreas em vidro fosco (transição) e áreas colapsadas (dependentes).
 	- **Ultrassom Pulmonar (Critério Atualizado 2023):** Padrão de aeração anormal difusa.
 		- Presença de *múltiplas Linhas B* (verticais, hiperecogênicas, que apagam a linha A e acompanham o deslizamento pleural) + consolidações subpleurais.
+		- ![[Pasted image 20261006201024.png]]
 
 - **DIMENSÃO 3: Oxigenação - Hipoxemia grave, categorizada pela relação PaO2/FiO2 (P/F) ou SpO2/FiO2 (S/F).**
 	- **Classificação de Gravidade (com PEEP ≥ 5 cmH2O):**
@@ -33,7 +34,7 @@ publish: true
 
 - **DIMENSÃO 4: Etiologia - O edema deve ser inflamatório, não cardiogênico.**
 	- Deve ser descartada insuficiência cardíaca e sobrecarga volêmica exclusiva como causadoras do quadro.
-
+![[Pasted image 20261006200954.png]]
 ---
 
 ## 2. Diagnóstico Diferencial (Nem toda hipoxemia bilateral é SDRA)
@@ -56,14 +57,18 @@ publish: true
 - **A Hipoxemia da SDRA é causada por um *Shunt* intrapulmonar verdadeiro, sendo refratária a aumentos isolados de FiO2.**
 	- Alvéolos preenchidos por fluido inflamatório são perfundidos, mas não ventilados. 
 	- *Red Flag da relação P/F:* Em shunts graves, aumentar a FiO2 não eleva a PaO2. Se você diminuir a FiO2, o denominador cai e a relação P/F aumenta matematicamente, criando uma "falsa sensação de melhora" clínica.
+	- ![[Pasted image 20261006201139.png]]
 
 - **Disfunção do Ventrículo Direito (VD) e Cor Pulmonale Agudo são riscos iminentes devido à Vasoconstrição Hipóxica.**
 	- O pulmão tenta desviar sangue de áreas não ventiladas (vasoconstrição hipóxica). Somado a microtrombos e hipercapnia/acidose, há um aumento súbito e brutal da Resistência Vascular Pulmonar (RVP).
+	- ![[Pasted image 20261006201207.png]]
 	- **Comportamento em "U" da RVP:** A resistência pulmonar é altíssima nos extremos de volume. Tanto no pulmão colapsado (próximo ao Volume Residual) quanto no pulmão hiperdistendido (próximo à CPT, esmagando capilares).
+	- ![[Pasted image 20261006201218.png]]
 
 - **Fatores que alteram a afinidade da Hemoglobina pelo Oxigênio (Curva de Dissociação / P50):**
 	- **Desvio para a Direita (Diminui afinidade / "Solta" O2 nos tecidos):** Acidose (Baixo pH), Hipercapnia (Alto CO2), Febre, Aumento de 2,3-DPG.
 	- **Desvio para a Esquerda (Aumenta afinidade / "Prende" O2):** Alcalose (Alto pH), Hipocapnia, Hipotermia.
+	- ![[Pasted image 20261006201353.png]]
 
 ---
 
@@ -73,6 +78,8 @@ publish: true
 	- Ocorre lesão endotelial e epitelial (destruição de pneumócitos tipo I e II).
 	- Diminuição da produção de surfactante, levando a colapso alveolar massivo.
 	- **Achado Histológico Clássico:** Dano Alveolar Difuso (DAD) com formação de *Membranas Hialinas* ricas em fibrina e exsudato proteico no alvéolo. (Obs: DAD não é patognomônico de SDRA).
+	- ![[Pasted image 20261006201446.png]]
+	- ![[Pasted image 20261006201455.png]]
 
 - **Fase Proliferativa (Após a primeira semana):**
 	- Início da proliferação celular e inflamação celular intersticial marcante.
@@ -80,6 +87,7 @@ publish: true
 - **Fase Fibrótica (Após 2 a 3 semanas):**
 	- Substituição da arquitetura pulmonar por fibrose intersticial.
 	- *Pérola Clínica:* Nesta fase, a complacência está cronicamente reduzida de forma irreversível. Tentativas agressivas de recrutamento alveolar (altas PEEPs/manobras) não têm benefício e causam hiperdistensão e volutrauma do tecido viável.
+![[Pasted image 20261006201420.png]]
 
 ---
 
@@ -104,6 +112,7 @@ publish: true
 	- A contração diafragmática gera pressões negativas desiguais, "sugando" ar das áreas aeradas (não dependentes) diretamente para as áreas colapsadas (dependentes) dentro do próprio pulmão na mesma inspiração.
 	- Gera altíssimo estresse local (stress raisers).
 	- *Conduta:* Uso de Bloqueadores Neuromusculares (BNM) na fase aguda grave para abolir o *drive* respiratório e o *pendelluft*.
+	- ![[Pasted image 20261006201555.png]]
 
 ---
 
@@ -203,6 +212,7 @@ publish: true
     - Sinal de McConnell (hipocinesia de parede livre com preservação do ápice).
     - TAPSE rebaixado.
     - Abertura de Forame Oval Patente (FOP) ou presença de coágulo em trânsito.
+    - ![[Pasted image 20261006201314.png]]
   - **Conduta protetora do VD:** ==A **Posição Prona** é a estratégia terapêutica isolada que mais rapidamente alivia a disfunção de VD== ao homogeneizar as pressões torácicas e reduzir a resistência vascular pulmonar.
 - **Avalie a presença de Espaço Morto através da Capnografia e Razão Ventilatória (VR).**
   - Um pulmão submetido a *shunt* por atelectasia também sofre aumento compensatório de espaço morto em zonas de hiperdistensão.
