@@ -3,7 +3,7 @@ publish: true
 ---
 ## Ne
 
-- [[Doenças Neuromusculares MUTI]]
+- [[6 Doenças Neuromusculares MUTI]]
 	- [[Doenças Neuromusculares.pdf]]
 
 
@@ -11,13 +11,18 @@ publish: true
 
 ## 2 Rp
 
-Aula 1 - Fisiologia respiratória - perspectivas
+[[1 Fisiologia respiratória perspectivas MUTI]]
+- [[Aula 1 - Fisiologia respiratória perspectivas AULA]]
+
 - [[2 Mecânica Ventilatória MUTI]]
 	- [[2 Mecânica Ventilatória MIC 20]]
 - [[3 Modos VM Básicos MUTI]]
 	- [[3 MODOS VENTILATÓRIOS BÁSICOS]]
-4
-5
+[[4 Ajustes Ventilatórios MUTI]]
+- [[4 Ajustes Ventilatórios aula]]
+- 5 SDRA MUTI
+	- [[5 SDRA MUTI AULA 1]]
+	- 5 SDRA MUTI AULA 2
 6
 - [[7 Assincronias Ventilatórias MUTI]]
 	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial 1]] (incompleto)
@@ -32,7 +37,10 @@ Aula 1 - Fisiologia respiratória - perspectivas
 
 - [[Via aérea MUTI]]
 	- [[19 Via Aerea I aula]]
-	- 24 Via Aerea II
+	- [[24 Via Aerea II]]
+
+[[25 - ECO como Swan-Ganz MUTI]]
+- [[25 - ECO como Swan-Ganz AULA]]
 
 - [[26 Desmame VM MUTI]]
 	- [[26 Desmame VM aula]]
