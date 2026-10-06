@@ -4,9 +4,6 @@ publish: true
 
 - [[terca 6]]
 - [[6 Doenças Neuromusculares MUTI]]
-=======
-- [[6 Doenças Neuromusculares MUTI]]
->>>>>>> cff6c74b7065239d1aa3a0d36f084e19d9f7496c
 - [[5 SDRA MUTI]]
 - [[1 Abdome agudo na UTI pTEMIMan]]
 - [[5 Abdome agudo e outras catástrofes abdominais MUTI]]
