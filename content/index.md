@@ -3,7 +3,8 @@ publish: true
 ---
 - [[6 Doenças Neuromusculares MUTI]]
 - [[5 SDRA MUTI]]
-- 
+- [[1 Abdome agudo na UTI pTEMIMan]]
+- [[5 Abdome agudo e outras catástrofes abdominais MUTI]]
 
 - ==[[mInt Monitorização Hemodinâmica MUTI]]
 - [[20 Cateter de Artéria Pulmonar MUTI]]
