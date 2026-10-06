@@ -5,10 +5,12 @@ publish: true
 
 ## 2 Rp
 
+Aula 1 - Fisiologia respiratória - perspectivas
 - [[2 Mecânica Ventilatória MUTI]]
 	- [[2 Mecânica Ventilatória MIC 20]]
 - [[3 Modos VM Básicos MUTI]]
 	- [[3 MODOS VENTILATÓRIOS BÁSICOS]]
+
 - [[7 Assincronias Ventilatórias MUTI]]
 	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial 1]] (incompleto)
 	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial 2]] (incompleto)
