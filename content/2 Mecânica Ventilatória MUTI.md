@@ -81,17 +81,17 @@ publish: true
 		- ![[Pasted image 20261007165359.png]]
 	- **Strain (Deformação Tecidual):**
 		- É a relação entre o Volume Corrente entregue e a Capacidade Residual Funcional (CRF) do paciente ($Strain = VC / CRF$).
-		- Um =="baby lung" (pulmão com muita área colapsada) tem CRF pequena==. Um VC de 500ml nele causa um strain gigantesco em comparação ao mesmo volume num pulmão normal.
+		- Um "baby lung" (pulmão com muita área colapsada) tem CRF pequena. Um VC de 500ml nele causa um strain gigantesco em comparação ao mesmo volume num pulmão normal.
 		- ![[Pasted image 20261007165418.png]]
 	- **Pressão Transpulmonar ($Ptp$) e a Parede Torácica:**
-		- ==A $Ptp$ é a verdadeira pressão de distensão do pulmão ($Ptp = Palv - Ppl$).
-		- A pressão alveolar ($Palv$) equivale à $Pplatô$. ==A pressão pleural ($Ppl$) sofre influência da caixa torácica e abdome.
-		- Se o paciente tem a ==parede torácica muito rígida (ex: grande obeso, ascite grave, hipertensão intra-abdominal), a $Ppl$ é alta==. A $Pplatô$ estará alta, mas a $Ptp$ pode estar normal. ==A lesão alveolar ($VILI$) se correlaciona com a $Ptp$, e não apenas com a $Pplatô$ isolada neste contexto.
+		- A $Ptp$ é a verdadeira pressão de distensão do pulmão ($Ptp = Palv - Ppl$).
+		- A pressão alveolar ($Palv$) equivale à $Pplatô$. A pressão pleural ($Ppl$) sofre influência da caixa torácica e abdome.
+		- Se o paciente tem a parede torácica muito rígida (ex: grande obeso, ascite grave, hipertensão intra-abdominal), a $Ppl$ é alta. A $Pplatô$ estará alta, mas a $Ptp$ pode estar normal. A lesão alveolar ($VILI$) se correlaciona com a $Ptp$, e não apenas com a $Pplatô$ isolada neste contexto.
 		- ![[Pasted image 20261007165444.png]]
 	- **P-SILI (Patient Self-Inflicted Lung Injury) e Esforço Inspiratório:**
 		- Quando o paciente faz esforço excessivo (ex: não sedado, drive alto), ele gera pressões intrapleurais muito negativas.
 		- Essa força, somada à pressão do ventilador, distende excessivamente o alvéolo e gera fluxo regional de ar anormal (**Pendelluft** - ar se movendo entre áreas não dependentes para dependentes do pulmão durante a inspiração).
 		- ![[Pasted image 20261007165459.png]]
-		- **Manejo:** Nesses casos, ==manter drive espontâneo pode ser deletério. A indicação é aprofundar sedação/bloqueio neuromuscular para anular o componente muscular na equação do movimento respiratório.
+		- **Manejo:** Nesses casos, manter drive espontâneo pode ser deletério. A indicação é aprofundar sedação/bloqueio neuromuscular para anular o componente muscular na equação do movimento respiratório.
 		- *Monitorização do drive:* Na beira leito, estima-se o esforço indiretamente por manobras como oclusão expiratória breve ($P0.1$) ou pressão de oclusão ($Pocc$).
 		- ![[Pasted image 20261007165540.png]]
