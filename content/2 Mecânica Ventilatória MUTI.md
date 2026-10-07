@@ -12,18 +12,19 @@ publish: true
 
 ## Princípios Básicos e o Modelo Bicompartimental
 - **O ventilador mecânico precisa vencer duas forças principais do sistema respiratório: a resistência das vias aéreas e a elastância (recolhimento) do tecido.**
+	- ![[Pasted image 20261007164804.png]]
+	- ![[Pasted image 20261007164818.png]]
 	- **Força Resistiva (Movimento dos gases):**
 		- Relacionada ao atrito gerado pela passagem do ar nas vias aéreas (movimento canalicular).
 		- Consome energia dissipando-a em forma de calor, mas **não** deforma o tecido pulmonar diretamente.
 		- Regida pela Lei de Ohm ($R = \Delta P / Fluxo$) e Lei de Poiseuille (resistência é inversamente proporcional à 4ª potência do raio da via aérea).
-		- O fluxo de ar ideal é laminar. Fluxos turbulentos (ex: secreção, broncoespasmo) aumentam criticamente a resistência.
+		- ==O fluxo de ar ideal é laminar. Fluxos turbulentos (ex: secreção, broncoespasmo) aumentam criticamente a resistência.
 			- ![[Pasted image 20261007164901.png]]
-		- ![[Pasted image 20261007164804.png]]
 	- **Força Elástica (Deformação tecidual):**
 		- Relacionada à expansão do parênquima pulmonar e da caixa torácica.
 		- Acumula energia potencial na inspiração para gerar o recolhimento na expiração (que é predominantemente passiva).
 		- A Elastância (E) é o inverso da **Complacência (C)**. Portanto, avaliar complacência é avaliar a complacência elástica do sistema.
-		- ![[Pasted image 20261007164818.png]]
+		- 
 	- **A Equação do Movimento Respiratório:**
 		- A pressão total do sistema é a soma da pressão muscular do paciente ($Pmus$) com a pressão do ventilador ($Pvent$).
 		- $Pmus + Pvent = (Resistência \times Fluxo) + (Volume / Complacência) + PEEP$.
