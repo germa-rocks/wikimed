@@ -15,26 +15,26 @@ publish: true
 - [[Aula 1 - Fisiologia respiratória perspectivas AULA]]
 [[12 IRPA MUTI]]
 - [[12 IRPA aula]]
-[[8 - DPOC e Asma MUTI]]
+==[[8 - DPOC e Asma MUTI]]
 - [[8 DPOC e Asma aula]]
 
 
-- [[2 Mecânica Ventilatória MUTI]]
+- ==[[2 Mecânica Ventilatória MUTI]]
 	- [[2 Mecânica Ventilatória MIC 20]]
-- [[3 Modos VM Básicos MUTI]]
+- ==[[3 Modos VM Básicos MUTI]]
 	- [[3 MODOS VENTILATÓRIOS BÁSICOS]]
 [[4 Ajustes Ventilatórios MUTI]]
 - [[4 Ajustes Ventilatórios aula]]
-- [[5 SDRA MUTI]]
+- ==[[5 SDRA MUTI]]
 	- [[5 SDRA MUTI AULA 1]]
-	- [[5 SDRA MUTI AULA 2]]
+	- ==[[5 SDRA MUTI AULA 2]]==
 6
-- [[7 Assincronias Ventilatórias MUTI]]
+- ==[[7 Assincronias Ventilatórias MUTI]]
 	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial 1]] (incompleto)
 	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial 2]] (incompleto)
 	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial ]]
 8
-- [[Análise Gráfica VM MUTI]]
+- ==[[Análise Gráfica VM MUTI]]
 	- [[9 ANÁLISE GRÁFICA EM VM.pdf]]
 	- [[10 ANÁLISE GRÁFICA na Prática pdf]]
 - [[11 oxigenioterapia MUTI]]
@@ -58,9 +58,9 @@ publish: true
 	- [[19 Via Aerea I aula]]
 	- [[24 Via Aerea II]]
 
-- [[20 - Vexus MUTI]]
+- ==[[20 - Vexus MUTI]]
 	- [[20 - Vexus aula]]
-- [[21 - Interação pulmão x coracao MUTI]]
+- ==[[21 - Interação pulmão x coracao MUTI]]
 	- [[21 - Interação pulmão x coracao aula]]
 - [[22 - Broncoscopia MUTI]]
 	- [[22 - Broncoscopia aula]]
@@ -69,9 +69,9 @@ publish: true
 [[25 - ECO como Swan-Ganz MUTI]]
 - [[25 - ECO como Swan-Ganz AULA]]
 
-- [[26 Desmame VM MUTI]]
+- ==[[26 Desmame VM MUTI]]
 	- [[26 Desmame VM aula]]
-- [[27 VILI MUTI]]
+- ==[[27 VILI MUTI]]
 	- [[27 VILI aula]]
 
 
