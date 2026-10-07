@@ -138,28 +138,34 @@ publish: true
 ## 🧤 O GOLEIRO: Vazamento do Circuito
 - **A identificação do vazamento é mandatória antes de avaliar qualquer outra assincronia, pois falseia a mecânica e gera autodisparos.**
   - **Identificação Gráfica (O "V" de Vazamento):**
-    - Observar a curva de **Volume x Tempo**.
-    - A curva expiratória não retorna à linha de base (zero).
-    - O Volume Corrente Inspirado (VTi) é maior que o Expirado (VTe) (Ex: VTi 500mL / VTe 350mL = 150mL perdidos).
-    - ![[Pasted image 20261007170928.png]]
+    - Observar a curva de **Volume x Tempo**: ==a curva expiratória não retorna à linha de base (zero).
+    - O ==Volume Corrente Inspirado (VTi) é maior que o Expirado (VTe)
+	    - (Ex: VTi 500mL / VTe 350mL = 150mL perdidos).
+	    - ![[Pasted image 20261007170928.png]]
   - **Impacto Clínico:**
     - Contaminação do ambiente (risco biológico).
-    - Impossibilidade de avaliar mecânica (queda contínua na pausa inspiratória).
-    - Principal causa de autodisparo.
+    - ==Impossibilidade de avaliar mecânica (queda contínua na pausa inspiratória).
+    - Principal causa de ==autodisparo.
 
 ---
 
 ## 🛡️ A DEFESA: Assincronias de Disparo (Início do Ciclo)
+- ==FR executada vs Drive
+	- FR setada
+	- Esforço, início ciclo
+	- Vt empilhado com expiração incompleta
+
 
 - **1. Autodisparo: O ventilador dispara sem esforço do paciente (FR alta, mas sem drive).**
   - **Identificação Clínica e Gráfica:**
-    - Frequência respiratória maior que a ajustada em paciente sedado/sem drive.
-    - Ausência de *P-trigger* (deflexão negativa na curva de pressão antes do fluxo).
-    - Curva de Fluxo com "rabiscos" ou serrilhados.
+    - ==Frequência respiratória maior que a ajustada== 
+    - em paciente sedado/==sem drive.
+	    - ==Ausência de *P-trigger* (deflexão negativa na curva de pressão antes do fluxo).
+    - Curva de ==Fluxo com "rabiscos" ou serrilhados.
   - **Causas Principais:**
-    - Vazamentos (o aparelho lê a perda de volume como esforço).
-    - Presença de condensado/água no circuito.
-    - Artefato de batimento cardíaco sendo lido pelo sensor.
+    - ====Vazamentos== (o aparelho lê a perda de volume como esforço).
+    - Presença de ==condensado==/água no circuito.
+    - Artefato de ==batimento== cardíaco sendo lido pelo sensor.
     - Sensibilidade excessivamente "leve".
   - **Manejo e Resolução:**
     - 1º Passo: Checar e corrigir vazamentos ou água no circuito.
@@ -171,10 +177,10 @@ publish: true
 - **2. Disparo Ineficaz: O paciente faz esforço, mas a máquina não reconhece.**
   - **Identificação Clínica e Gráfica:**
     - Observação de esforço muscular (tórax/abdome) sem entrega de ciclo pelo ventilador.
-    - Curva de fluxo com deflexão positiva (solavanco) na fase expiratória.
-    - **Red Flag:** Esforço que ocorre longe da inspiração anterior (não confundir com ciclagem precoce).
+    - Curva de **fluxo** com ==deflexão positiva (solavanco) na fase expiratória.
+    - **Red Flag:** Esforço que ocorre ==longe da inspiração anterior (não confundir com ciclagem precoce).
     - 
-    - ![[Pasted image 20261007171106.png]]
+	    - ![[Pasted image 20261007171106.png]]
 		  -  "queda na curva de pressão associada a uma deflexão positiva na curva de fluxo, mas sem o fornecimento de um ciclo". O gráfico deste slide ilustra exatamente isso, mostrando o esforço muscular do paciente (linha vermelha) não sendo suficiente para disparar a máquina.
   - **A Causa Oculta (O Gatilho Mental):**
     - **Auto-PEEP / Hiperinsuflação Dinâmica:** É a principal causa. O paciente precisa vencer a PEEP intrínseca + a sensibilidade ajustada para conseguir disparar a máquina.
@@ -186,13 +192,13 @@ publish: true
     - Em VCV: Aumentar o Fluxo Inspiratório (para reduzir o Tempo Ins).
     - Ajuste de sensibilidade: Deixar mais sensível (geralmente não é a solução primária).
 
-- **3. Duplo Disparo (O grande desafio diagnóstico): Dois ciclos consecutivos com exalação incompleta (empilhamento de volume).**
+- **3. Duplo Disparo (O grande desafio diagnóstico): Dois ciclos consecutivos com ==exalação incompleta== (empilhamento de volume).**
   - **A Chave do Diagnóstico:** Diferenciar se a causa é Ciclagem Precoce (drive ativo) ou Disparo Reverso (drive suprimido).
   - ▶ **Variante A: Por Ciclagem Precoce (Paciente quer mais tempo)**
     - **Diagnóstico:** O tempo neural do paciente é maior que o tempo inspiratório da máquina. A máquina fecha a válvula, mas o paciente continua puxando e gera um novo ciclo.
 	    - ![[Pasted image 20261007171210.png]]
 		    - mostra que o tempo neural do paciente é maior que o da máquina, evidenciando o paciente "puxando" o ar e gerando o empilhamento de volume.
-    - **Achados:** *Drive Ativo*. Existe *P-trigger* inicial. O esforço muscular começa junto com a máquina.
+    - **Achados:** ==*Drive Ativo*==. Existe ==*P-trigger* inicial==. O esforço muscular começa junto com a máquina.
     - **Manejo (Adequar o Tempo Inspiratório):**
       - Em PCV: Aumentar o Tempo Inspiratório.
       - Em VCV: Aumentar o Volume Corrente (Atenção: reduzir o fluxo em VCV piora o drive).
@@ -204,7 +210,7 @@ publish: true
     - **Diagnóstico:** Insuflação passiva pela máquina gera um reflexo neuromuscular tardio.
 	    - ![[Pasted image 20261007171224.png]]
 		    - "soluço diafragmático" descrito no seu texto: a insuflação passiva pela máquina (sem P-trigger inicial) gera um esforço muscular reflexo e tardio.
-    - **Achados:** *Drive Suprimido/Abolido no início*. Acontece em modos Controlados. É rítmico/cíclico (ex: a cada 2 ciclos passivos, 1 reverso). Não há *P-trigger* inicial. A deflexão de pressão ocorre no meio/fim da insuflação.
+    - **Achados:** *Drive Suprimido/Abolido no início*. Acontece em ==modos Controlados==. É ==rítmico/cíclico== (ex: a cada 2 ciclos passivos, 1 reverso). ==Não há *P-trigger* inicial==. A deflexão de pressão ocorre no meio/fim da insuflação.
     - **Manejo:**
       - Despertar o paciente: Permitir ventilação espontânea (PSV) com redução de sedação (remove a "insuflação passiva" da jogada).
       - Se quadro clínico grave (ex: SARA): Bloqueio Neuromuscular (Curarização) ou ajuste de FR/variáveis.

@@ -73,6 +73,18 @@ publish: true
 
 
 ## CV
+
+### Choque
+1 choque circulatório.pdf
+2 Fluidos na UTI.pdf
+3 choque hipovolêmico.pdf
+4 choque hemorrágico.pdf
+5 Choque obstrutivo aula.pdf
+6 Choque distributivo aula.pdf
+7 Sepse e choque séptico.pdf
+
+
+### Mx Hemodinâmica
 - [ ] 
  - [x] ==[[mInt Monitorização Hemodinâmica MUTI]]
 	- [[mInt Monitorização Hemodinâmica aula]]
