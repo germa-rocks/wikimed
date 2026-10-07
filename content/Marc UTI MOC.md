@@ -58,9 +58,9 @@ publish: true
 	- [[19 Via Aerea I aula]]
 	- [[24 Via Aerea II]]
 
-20
-21
-22
+20 - Vexus
+21 - Interação pulmão x coracao
+22 - Broncoscopia
 23
 
 [[25 - ECO como Swan-Ganz MUTI]]
@@ -224,28 +224,6 @@ mInt
 
 mInt BNM, Sedação e analgesia
 
-==mInt Miscelânea
-qA Miscelanea
-- qA03 Miscelanea I
-- qA05 Miscelanea II
-- qA07 Miscelanea III
-- qA09 Miscelanea IV
-- qA11 Miscelanea V
-- qA16 Miscelanea VI
-- qA19 Miscelanea VII
-- qA22 Miscelanea VIII
-- qA24 Miscelanea IX
-
-mInt 
-
-## Rp
-## CV
-
-## Rn
-- ==[[mInt Nefrointensivismo MUTI2]]]
-	- [[mInt Nefrointensivismo MUTI aula]]
-- ==[[qA26 Quest Nefrointensivismo MUTI2]]]
-=======
 
 ## Rp
 
@@ -264,6 +242,12 @@ mInt
 - ==[[mInt Monitorização Hemodinâmica MUTI]]
 	- [[mInt Monitorização Hemodinâmica aula]]
 
+
+## Rn
+- ==[[mInt Nefrointensivismo MUTI2]]]
+	- [[mInt Nefrointensivismo MUTI aula]]
+- ==[[qA26 Quest Nefrointensivismo MUTI2]]]
+=======
 
 ## Rn
 - [ ] 
@@ -288,4 +272,17 @@ mInt
 - 
 
 
+==mInt Miscelânea
+qA Miscelanea
+- qA03 Miscelanea I
+- qA05 Miscelanea II
+- qA07 Miscelanea III
+- qA09 Miscelanea IV
+- qA11 Miscelanea V
+- qA16 Miscelanea VI
+- qA19 Miscelanea VII
+- qA22 Miscelanea VIII
+- qA24 Miscelanea IX
+
+mInt 
 - 
