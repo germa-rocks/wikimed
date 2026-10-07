@@ -32,6 +32,9 @@ publish: true
 - [[Via aérea MUTI]]
 	- [[19 Via Aerea I aula]]
 	- [[24 Via Aerea II]]
+- [[23 ECMO MUTI]]
+	- [[23 ECMO MUTI aula]]
+
 
 - [[14 - Capnografia MUTI]]
 	- [[14 - Capnografia aula]]
