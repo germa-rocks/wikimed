@@ -1,12 +1,6 @@
 ---
 publish: true
 ---
-
-
-Aqui está a estruturação de alto rendimento do material, desenhada para plataformas como Notion ou Obsidian, utilizando o princípio da divulgação progressiva.
-
-
-
 # Assincronia Paciente-Ventilador
 
 ## Sistematização Inicial: A "Escalação 4-3-3"
@@ -15,7 +9,7 @@ Aqui está a estruturação de alto rendimento do material, desenhada para plata
 	- **A Defesa (Fase de Disparo - 4 tipos):** Auto disparo, Disparo ineficaz, Duplo disparo e Disparo reverso.
 	- **O Meio-Campo (Fase de Fluxo - 3 tipos):** Fluxo insuficiente, Fluxo excessivo e Flow Index.
 	- **O Ataque (Fase de Ciclagem - 3 tipos):** Ciclagem precoce, Ciclagem tardia e Autopeep.
-
+![[Pasted image 20261007171801.png]]
 ---
 
 ## Assincronias de Fundo / Circuito
