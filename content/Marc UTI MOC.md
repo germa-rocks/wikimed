@@ -58,9 +58,12 @@ publish: true
 	- [[19 Via Aerea I aula]]
 	- [[24 Via Aerea II]]
 
-20 - Vexus
-21 - Interação pulmão x coracao
-22 - Broncoscopia
+- [[20 - Vexus MUTI]]
+	- [[20 - Vexus aula]]
+- [[21 - Interação pulmão x coracao MUTI]]
+	- [[21 - Interação pulmão x coracao aula]]
+- [[22 - Broncoscopia MUTI]]
+	- [[22 - Broncoscopia aula]]
 23
 
 [[25 - ECO como Swan-Ganz MUTI]]
