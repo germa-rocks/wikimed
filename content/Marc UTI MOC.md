@@ -39,6 +39,11 @@ publish: true
 	- [[10 ANÁLISE GRÁFICA na Prática pdf]]
 11
 12
+- [[14 - Capnografia MUTI]]
+	- [[14 - Capnografia aula]]
+
+- [[15 - VNI MUTI]]
+	- [[15 - VNI aula]]
 
 - [[Via aérea MUTI]]
 	- [[19 Via Aerea I aula]]
