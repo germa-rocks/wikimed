@@ -29,7 +29,7 @@ Aqui está a base de conhecimento estruturada em Markdown, focada no formato de 
 		* Se a Pressão é constante/quadrada: o limite é a Pressão (Modo PCV ou PSV).
 	* **3. Fase de Ciclagem:** É o FIM. Momento em que a válvula inspiratória fecha e a expiratória abre.
 		* Pode ocorrer ao se atingir um Volume pré-determinado, um Tempo pré-determinado ou uma queda de Fluxo pré-determinada.
-
+![[Pasted image 20261007170538.png]]
 ## Ajuste Fino: Sensibilidade e Fluxo Base (Bias Flow)
 * **A regra de ouro da sensibilidade: O ajuste deve ser "o mais sensível possível, desde que não gere autodisparo" (falsas respirações não iniciadas pelo paciente).**
 	* **Sensibilidade a Fluxo (Flow Trigger):** O ventilador lê a mudança no fluxo gerada pelo esforço do paciente.

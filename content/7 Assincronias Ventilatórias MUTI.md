@@ -147,6 +147,7 @@ Aqui está a estruturação de alto rendimento do material, desenhada para plata
     - Observar a curva de **Volume x Tempo**.
     - A curva expiratória não retorna à linha de base (zero).
     - O Volume Corrente Inspirado (VTi) é maior que o Expirado (VTe) (Ex: VTi 500mL / VTe 350mL = 150mL perdidos).
+    - ![[Pasted image 20261007170928.png]]
   - **Impacto Clínico:**
     - Contaminação do ambiente (risco biológico).
     - Impossibilidade de avaliar mecânica (queda contínua na pausa inspiratória).
@@ -178,6 +179,9 @@ Aqui está a estruturação de alto rendimento do material, desenhada para plata
     - Observação de esforço muscular (tórax/abdome) sem entrega de ciclo pelo ventilador.
     - Curva de fluxo com deflexão positiva (solavanco) na fase expiratória.
     - **Red Flag:** Esforço que ocorre longe da inspiração anterior (não confundir com ciclagem precoce).
+    - 
+    - ![[Pasted image 20261007171106.png]]
+		  -  "queda na curva de pressão associada a uma deflexão positiva na curva de fluxo, mas sem o fornecimento de um ciclo". O gráfico deste slide ilustra exatamente isso, mostrando o esforço muscular do paciente (linha vermelha) não sendo suficiente para disparar a máquina.
   - **A Causa Oculta (O Gatilho Mental):**
     - **Auto-PEEP / Hiperinsuflação Dinâmica:** É a principal causa. O paciente precisa vencer a PEEP intrínseca + a sensibilidade ajustada para conseguir disparar a máquina.
     - Outras causas: Fraqueza muscular extrema, depressão do comando neural.
@@ -192,6 +196,8 @@ Aqui está a estruturação de alto rendimento do material, desenhada para plata
   - **A Chave do Diagnóstico:** Diferenciar se a causa é Ciclagem Precoce (drive ativo) ou Disparo Reverso (drive suprimido).
   - ▶ **Variante A: Por Ciclagem Precoce (Paciente quer mais tempo)**
     - **Diagnóstico:** O tempo neural do paciente é maior que o tempo inspiratório da máquina. A máquina fecha a válvula, mas o paciente continua puxando e gera um novo ciclo.
+	    - ![[Pasted image 20261007171210.png]]
+		    - mostra que o tempo neural do paciente é maior que o da máquina, evidenciando o paciente "puxando" o ar e gerando o empilhamento de volume.
     - **Achados:** *Drive Ativo*. Existe *P-trigger* inicial. O esforço muscular começa junto com a máquina.
     - **Manejo (Adequar o Tempo Inspiratório):**
       - Em PCV: Aumentar o Tempo Inspiratório.
@@ -202,6 +208,8 @@ Aqui está a estruturação de alto rendimento do material, desenhada para plata
         - Reduzir o **E-sens** (Ciclagem). Ex: de 25% para 5%.
   - ▶ **Variante B: Por Disparo Reverso (O "Soluço" diafragmático)**
     - **Diagnóstico:** Insuflação passiva pela máquina gera um reflexo neuromuscular tardio.
+	    - ![[Pasted image 20261007171224.png]]
+		    - "soluço diafragmático" descrito no seu texto: a insuflação passiva pela máquina (sem P-trigger inicial) gera um esforço muscular reflexo e tardio.
     - **Achados:** *Drive Suprimido/Abolido no início*. Acontece em modos Controlados. É rítmico/cíclico (ex: a cada 2 ciclos passivos, 1 reverso). Não há *P-trigger* inicial. A deflexão de pressão ocorre no meio/fim da insuflação.
     - **Manejo:**
       - Despertar o paciente: Permitir ventilação espontânea (PSV) com redução de sedação (remove a "insuflação passiva" da jogada).
@@ -216,6 +224,9 @@ Aqui está a estruturação de alto rendimento do material, desenhada para plata
     - O paciente demanda mais fluxo do que a máquina entrega.
     - **Gráfico (Pressão x Tempo):** A curva de pressão "desaba", formando uma "barriga" (aspecto côncavo), indicando esforço ativo roubando pressão do sistema.
     - Presença de *P-trigger* nítido.
+    - ![[Pasted image 20261007171317.png]]
+    - ![[Pasted image 20261007171329.png]]
+    - ![[Pasted image 20261007171342.png]]
   - **Manejo:**
     - Em VCV: Aumentar o Fluxo Inspiratório e/ou Volume.
     - **Conduta Ouro:** Mudar para modos de fluxo livre/variável (PCV ou PSV).
@@ -225,6 +236,8 @@ Aqui está a estruturação de alto rendimento do material, desenhada para plata
   - **Identificação:** Típica de modos pressóricos (**PCV ou PSV**). *Não ocorre em VCV.*
     - O ventilador entrega o fluxo muito rápido para uma via aérea com resistência aumentada.
     - **Gráfico (Pressão x Tempo):** Espícula inicial ("chifrinho") logo na entrada da insuflação, ultrapassando o limite de pressão ajustado.
+    - ![[Pasted image 20261007171420.png]]
+    - ![[Pasted image 20261007171426.png]]
   - **Manejo:**
     - Deitar a curva: **Aumentar o Tempo de Subida (Rise Time / Rampa)**. Ex: passar de 0ms para 150-200ms.
     - Tratar a causa base (broncoespasmo, secreção - alta resistência).
@@ -232,8 +245,10 @@ Aqui está a estruturação de alto rendimento do material, desenhada para plata
 - **3. Flow Index (A assincronia oculta do PSV)**
   - **Identificação:** Ocorre no modo **PSV**.
     - **Gráfico (Fluxo x Tempo):** A curva inspiratória descendente (que deveria ser reta ou levemente côncava) fica **convexa** (abaulada para cima).
+    - ![[Pasted image 20261007171524.png]]
   - **Significado Clínico:**
     - Indica esforço ativo mantido do paciente durante toda a fase inspiratória (sub-assistência). A energia fornecida pelo PSV está inadequada para a demanda.
+    - ![[Pasted image 20261007171513.png]]
   - **Manejo:**
     - Avaliar necessidade de aumentar o suporte pressórico (PS) ou tratar a causa do aumento de demanda.
 
@@ -244,6 +259,8 @@ Aqui está a estruturação de alto rendimento do material, desenhada para plata
 - **1. Ciclagem Tardia (Overshoot de Saída)**
   - **Identificação:** O tempo inspiratório da máquina é maior que o tempo neural do paciente. O paciente quer expirar, mas a máquina continua insuflando.
     - **Gráfico (Pressão x Tempo):** Aumento abrupto (espícula / "barrigada" para cima) no **final** da fase inspiratória.
+    - ![[Pasted image 20261007171700.png]]
+    - ![[Pasted image 20261007171709.png]]
   - **Manejo:**
     - O objetivo é **reduzir o tempo inspiratório**.
     - Em PCV: Reduzir o tempo inspiratório no botão.
@@ -252,6 +269,9 @@ Aqui está a estruturação de alto rendimento do material, desenhada para plata
 
 - **2. Ciclagem Precoce**
   - *Detalhada acima, no módulo de Defesa, como principal causadora do "Duplo Disparo".*
+  - ![[Pasted image 20261007171629.png]]
+	  o fluxo expiratório apresenta uma "barriga ou deflexão positiva logo após o início da expiração". O gráfico do slide 24 aponta explicitamente para essa deflexão positiva, mostrando a tentativa do paciente de continuar inspirando.
+	  ![[Pasted image 20261007171643.png]]
 
 ---
 
