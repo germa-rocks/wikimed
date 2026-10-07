@@ -37,8 +37,17 @@ publish: true
 - [[Análise Gráfica VM MUTI]]
 	- [[9 ANÁLISE GRÁFICA EM VM.pdf]]
 	- [[10 ANÁLISE GRÁFICA na Prática pdf]]
-11
-12
+- [[11 oxigenioterapia MUTI]]
+	- [[11 oxigenioterapia 2026.pdf]]
+- [[13 CNAF MUTI]]
+	- [[13 CATETER NASAL DE ALTO FLUXO. aula]]
+- [[16 Modos VM Avançados MUTI]]
+	- [[16 MODOS VENTILATÓRIOS AVANÇADO aula]]
+- [[16 VM Obeso MUTI]]
+	- [[17 MAIO VM EM OBESOS 2026.pdf]]
+- [[17 VM Gestante MUTI]]
+	- [[18 VM EM GESTANTE.pdf]]
+
 - [[14 - Capnografia MUTI]]
 	- [[14 - Capnografia aula]]
 
