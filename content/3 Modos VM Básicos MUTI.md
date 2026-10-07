@@ -73,6 +73,8 @@ Aqui está a base de conhecimento estruturada em Markdown, focada no formato de 
 ## Questões e Casos de Raciocínio Clínico (Pérolas de Prova - TEMI)
 * **Compreender as variáveis fixas vs. dependentes é a chave para provas de terapia intensiva.**
 	* **Caso 1 (Conceito VCV):** Se um paciente está em VCV e você aumenta o fluxo inspiratório, o que ocorre com o volume corrente?
-		* *Resposta:* Permanece **absolutamente igual**. No VCV o volume corrente é o alvo ditatorial final. Se você aumentar a velocidade do fluxo, os mesmos 500mL entrarão, porém de forma mais rápida (encurtando o tempo inspiratório e aumentando a pressão de pico), mas o volume total não se altera.
+		* *Resposta:* Permanece **absolutamente igual**. 
+			* No VCV o volume corrente é o alvo ditatorial final. Se você aumentar a velocidade do fluxo, os mesmos 500mL entrarão, porém de forma mais rápida (encurtando o tempo inspiratório e aumentando a pressão de pico), mas o volume total não se altera.
 	* **Caso 2 (Ajustes Iniciais VCV):** Quais os três parâmetros centrais que o médico deve ajustar no painel ao colocar alguém em Volume Controlado?
-		* *Resposta:* Fluxo inspiratório (que define a variável constante), Volume corrente (que define a ciclagem) e a PEEP (fase expiratória). Pressões de via aérea e pressão de distensão (driving pressure) são *consequências* observadas na mecânica, não parâmetros ajustados diretamente no painel no modo VCV.
+		* *Resposta:* Fluxo inspiratório (que define a variável constante), Volume corrente (que define a ciclagem) e a PEEP (fase expiratória). 
+			* Pressões de via aérea e pressão de distensão (driving pressure) são *consequências* observadas na mecânica, não parâmetros ajustados diretamente no painel no modo VCV.
