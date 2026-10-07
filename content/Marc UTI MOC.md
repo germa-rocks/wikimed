@@ -11,36 +11,57 @@ publish: true
 
 ## 2 Rp
 
-[[1 Fisiologia respiratória perspectivas MUTI]]
-- [[Aula 1 - Fisiologia respiratória perspectivas AULA]]
-[[12 IRPA MUTI]]
-- [[12 IRPA aula]]
-==[[8 - DPOC e Asma MUTI]]
-- [[8 DPOC e Asma aula]]
+- [[1 Fisiologia respiratória perspectivas MUTI]]
+	- [[Aula 1 - Fisiologia respiratória perspectivas AULA]]
 
-
-- ==[[2 Mecânica Ventilatória MUTI]]
-	- [[2 Mecânica Ventilatória MIC 20]]
-- ==[[3 Modos VM Básicos MUTI]]
-	- [[3 MODOS VENTILATÓRIOS BÁSICOS]]
-[[4 Ajustes Ventilatórios MUTI]]
-- [[4 Ajustes Ventilatórios aula]]
+### Pato
+- [[12 IRPA MUTI]]
+	- [[12 IRPA aula]]
+- ==[[8 - DPOC e Asma MUTI]]
+	- [[8 DPOC e Asma aula]]
 - ==[[5 SDRA MUTI]]
 	- [[5 SDRA MUTI AULA 1]]
 	- ==[[5 SDRA MUTI AULA 2]]==
-6
-- ==[[7 Assincronias Ventilatórias MUTI]]
-	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial 1]] (incompleto)
-	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial 2]] (incompleto)
-	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial ]]
-8
-- ==[[Análise Gráfica VM MUTI]]
-	- [[9 ANÁLISE GRÁFICA EM VM.pdf]]
-	- [[10 ANÁLISE GRÁFICA na Prática pdf]]
+
 - [[11 oxigenioterapia MUTI]]
 	- [[11 oxigenioterapia 2026.pdf]]
 - [[13 CNAF MUTI]]
 	- [[13 CATETER NASAL DE ALTO FLUXO. aula]]
+- [[15 - VNI MUTI]]
+	- [[15 - VNI aula]]
+- [[Via aérea MUTI]]
+	- [[19 Via Aerea I aula]]
+	- [[24 Via Aerea II]]
+
+- [[14 - Capnografia MUTI]]
+	- [[14 - Capnografia aula]]
+- ==[[20 - Vexus MUTI]]
+	- [[20 - Vexus aula]]
+- ==[[21 - Interação pulmão x coracao MUTI]]
+	- [[21 - Interação pulmão x coracao aula]]
+- [[22 - Broncoscopia MUTI]]
+	- [[22 - Broncoscopia aula]]
+- [[25 - ECO como Swan-Ganz MUTI]]
+	- [[25 - ECO como Swan-Ganz AULA]]
+### VM
+- ==[[2 Mecânica Ventilatória MUTI]]
+	- [[2 Mecânica Ventilatória MIC 20]]
+- ==[[3 Modos VM Básicos MUTI]]
+	- [[3 MODOS VENTILATÓRIOS BÁSICOS]]
+- [[4 Ajustes Ventilatórios MUTI]]
+	- [[4 Ajustes Ventilatórios aula]]]]
+- ==[[7 Assincronias Ventilatórias MUTI]]
+	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial 1]] (incompleto)
+	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial 2]] (incompleto)
+	- [[7 ASSINCRONIA VENTILATÓRIA 2026 trial ]]
+- ==[[Análise Gráfica VM MUTI]]
+	- [[9 ANÁLISE GRÁFICA EM VM.pdf]]
+	- [[10 ANÁLISE GRÁFICA na Prática pdf]]
+- ==[[26 Desmame VM MUTI]]
+	- [[26 Desmame VM aula]]
+- ==[[27 VILI MUTI]]
+	- [[27 VILI aula]]
+
 - [[16 Modos VM Avançados MUTI]]
 	- [[16 MODOS VENTILATÓRIOS AVANÇADO aula]]
 - [[16 VM Obeso MUTI]]
@@ -48,31 +69,7 @@ publish: true
 - [[17 VM Gestante MUTI]]
 	- [[18 VM EM GESTANTE.pdf]]
 
-- [[14 - Capnografia MUTI]]
-	- [[14 - Capnografia aula]]
 
-- [[15 - VNI MUTI]]
-	- [[15 - VNI aula]]
-
-- [[Via aérea MUTI]]
-	- [[19 Via Aerea I aula]]
-	- [[24 Via Aerea II]]
-
-- ==[[20 - Vexus MUTI]]
-	- [[20 - Vexus aula]]
-- ==[[21 - Interação pulmão x coracao MUTI]]
-	- [[21 - Interação pulmão x coracao aula]]
-- [[22 - Broncoscopia MUTI]]
-	- [[22 - Broncoscopia aula]]
-23
-
-[[25 - ECO como Swan-Ganz MUTI]]
-- [[25 - ECO como Swan-Ganz AULA]]
-
-- ==[[26 Desmame VM MUTI]]
-	- [[26 Desmame VM aula]]
-- ==[[27 VILI MUTI]]
-	- [[27 VILI aula]]
 
 
 ## CV
