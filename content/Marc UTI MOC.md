@@ -75,13 +75,20 @@ publish: true
 ## CV
 
 ### Choque
-1 choque circulatório.pdf
-2 Fluidos na UTI.pdf
-3 choque hipovolêmico.pdf
-4 choque hemorrágico.pdf
-5 Choque obstrutivo aula.pdf
-6 Choque distributivo aula.pdf
-7 Sepse e choque séptico.pdf
+- [[1 choque circulatório MUTI]]
+	- [[1 choque circulatório.pdf]]
+- [[2 Fluidos MUTI.pdf]]
+	- [[2 Fluidos na UTI.pdf]]
+- [[3 choque hipovolêmico MUTI]]
+	- [[3 choque hipovolêmico.pdf]]
+- [[4 choque hemorrágico MUTI]]
+	- [[4 choque hemorrágico.pdf]]
+- [[5 Choque obstrutivo MUTI]]
+	- [[5 Choque obstrutivo aula.pdf]]
+- [[6 Choque distributivo MUTI]]
+	- [[6 Choque distributivo aula.pdf]]
+- [[7 Sepse e choque séptico MUTI]]
+	- [[7 Sepse e choque séptico.pdf]]
 
 
 ### Mx Hemodinâmica
