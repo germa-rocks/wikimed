@@ -158,7 +158,7 @@ publish: true
 - ==[[4 Stewardship PkPd]]
 	- [[4 - Stewardship pk_pd.pdf]]
 Aula 5 - Arboviroses 🟡
-Aula 6 - Infecções do SNC 🟡
+	Aula 6 - Infecções do SNC 🟡
 Aula 7 - Introdução à prevenção e controle de IRAS 🟢
 Aula 8 - Prevenção de IRAS - higiene das mãos 🟢
 
