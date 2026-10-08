@@ -153,18 +153,18 @@ publish: true
 	- [[1 Gram Neg.mp3]]
 - [[Antibióticos para Gram-Positivos e Antifúngicos]]
 	- [[2 Gram Pos e Antifungico.mp3]]
-- ==[[3 Resistencia BrCAST]]
+- [ ] ==[[3 Resistencia BrCAST]]
 	- [[3 Resistencia BrCAST.mp3]]
-- ==[[4 Stewardship PkPd]]
+- [ ] ==[[4 Stewardship PkPd]]
 	- [[4 - Stewardship pk_pd.pdf]]
 Aula 5 - Arboviroses 🟡
 	Aula 6 - Infecções do SNC 🟡
 Aula 7 - Introdução à prevenção e controle de IRAS 🟢
 Aula 8 - Prevenção de IRAS - higiene das mãos 🟢
 
-- ==[[9 IPCS]]
+- [ ] ==[[9 IPCS]]
 	- [[9 IPCS.pdf]]
-- ==[[10 Candidemia]]
+- [ ] ==[[10 Candidemia]]
 	- [[10 - Candidemia.pdf]]
 
 	==Aula 11 - Endocardite 🔴==
