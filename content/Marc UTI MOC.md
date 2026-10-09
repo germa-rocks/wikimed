@@ -147,6 +147,10 @@ publish: true
 	- [[20 Cateter de Artéria Pulmonar MUTI aula]]
 	- [[21 TEMI_estacoes_MH - p1]]
 	- [[22 TEMI_estacoes_MH - p2]]
+
+### CardioIntensivismo
+
+
 ## 7 Infecto
 
 - [[Microbio e ATBs para Gram Positivos]]
