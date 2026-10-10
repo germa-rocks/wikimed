@@ -150,6 +150,54 @@ publish: true
 
 ### CardioIntensivismo
 
+#### Rx
+Aula 2 - BLS 🟡
+Aula 3 - ACLS 🟡
+Aula 4 - Inotrópicos e vasopressores 🟡
+- [[Aula 6 - Cuidados Pós PCR 🟢]]
+- Aula 7 - Antiagregantes e Anticoagulantes na UTI 🟡
+Aula 15 - Balão intra-aórtico 🔴
+Aula 16 - RCP em Situacoes Especiais 🔴
+Aula 18 - Dispositivos mecânicos de assistência circulatória 🟢
+Aula 22 - Ecmo VA 🟢
+
+- Aula 1 - Eletrocardiograma na UTI 🟡
+Aula 20- ECG nos distúrbios eletrolíticos e toxicologia 🟢
+
+#### Dz estrutural
+==Aula 9 - Choque cardiogênico - Parte I 🔴
+Aula 10 - Choque cardiogênico - Parte II 🔴==
+Aula 11 - Disfunção do VD e Hipertensão Pulmonar 🟡
+
+Aula 32 - Síndrome coronariana aguda sem supra de segmento ST 🔴
+Aula 33 - Infarto agudo do miocárdio com supra do segmento ST 🔴
+Aula 34 - Complicações mecânicas pós infarto 🟡
+
+- Aula 12 - Tamponamento cardíaco e ==pericardite 🔴==
+Aula 13 - Embolia pulmonar - I 🔴
+Aula 14 - Embolia pulmonar - II 🔴
+
+Aula 5 - Síndrome aórtica aguda 🔴
+
+[[Aula 6 - Cuidados Pós PCR 🟢]]
+Aula 17 - Emergências hipertensivas 🟢
+Aula 8 - Insuficiência cardíaca aguda 🟢
+- [[Aula 28 - Miocardite 🟡]]
+	- [[Aula 28 - Miocardite 🟡aula]]
+Aula 35 - Doenças valvares 🟢
+
+#### Dz elétrico: ARR
+Aula 19 - Bradicardias 🟡
+- Aula 24 - Marca-passo temporário 🔴
+Aula 25 - Fibrilação atrial 🔴
+Aula 26 - Taquicardias supraventriculares 🟡
+Aula 31 - Taquiarritmias ventriculares 🟡
+Aula 27 - Síndrome de takotsubo 🟡
+- Aula 29 - Sedação e analgesia 🟢
+- Aula 30 - Cardioversão elétrica 🟢
+
+Aula 21 - Transplante cardíaco 🟢
+- Aula 23 - Pós op. de cirurgia cardíaca 🟡
 
 ## 7 Infecto
 
