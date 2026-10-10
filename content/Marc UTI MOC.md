@@ -163,7 +163,6 @@ Aula 22 - Ecmo VA 🟢
 
 - Aula 1 - Eletrocardiograma na UTI 🟡
 Aula 20- ECG nos distúrbios eletrolíticos e toxicologia 🟢
-
 #### Dz estrutural
 ==Aula 9 - Choque cardiogênico - Parte I 🔴
 Aula 10 - Choque cardiogênico - Parte II 🔴==
