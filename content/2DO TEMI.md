@@ -19,7 +19,7 @@ publish: true
 	- [ ] [[ECG Bizurado Imagens]]
 	- [ ] [[1 - Eletrocardiograma na UTI MUTI🟡]]
 	- [ ] [[20- ECG nos distúrbios eletrolíticos e toxicologia 🟢]]
-- [ ] ==[[CHOQUE CARDIOGÊNICO - BIZURADO ⚡🏥]]
+- [x] ==[[CHOQUE CARDIOGÊNICO - BIZURADO ⚡🏥]]
 	- [ ] [[9 - Choque cardiogênico MUTI 🔴 MUTI]]
 - [x] ==[[🫀 DISFUNÇÃO DE VD E HIPERTENSÃO PULMONAR (HP) - BIZURADO]]
 	- [ ] [[11 - Disfunção do VD e Hipertensão Pulmonar 🟡MUTI]]
