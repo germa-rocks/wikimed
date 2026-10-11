@@ -26,7 +26,7 @@ publish: true
 - [ ] ==[[🧠 SEDAÇÃO E ANALGESIA NA UTI CARDIOLÓGICA - BIZURADO]]
 	- [ ] ´[[SEDAÇÃO E ANALGESIA no Cardiológico IMAGENS]]
 	- [ ] [[29 - Sedação e analgesia MUTI 🟢]]
-- [ ] [[⚡ CVES - BIZURADO]]
+- [x] [[⚡ CVES - BIZURADO]]
 	- [ ] [[30 - Cardioversão elétrica 🟢MUTI]]
 - [ ] [[⚡ MP Temporário (MPTC e MPTV) - BIZURADO]]
 	- [ ] [[24 - Marca-passo temporário 🔴 MUTI]]
