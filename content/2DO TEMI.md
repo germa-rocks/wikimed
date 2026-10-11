@@ -12,7 +12,6 @@ publish: true
 - [ ] as
 - [ ] as
 
-
 ### CV 1
 
 Dz
