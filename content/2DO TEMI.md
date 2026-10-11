@@ -42,7 +42,8 @@ Rx
 - [ ] [[CVES UltraBizurada]]
 	- [ ] [[⚡ CVES - BIZURADO]]
 	- [ ] [[30 - Cardioversão elétrica 🟢MUTI]]
-- [ ] [[⚡ MP Temporário (MPTC e MPTV) - BIZURADO]]
+- [ ] [[MP temporário (MPTC e MPTV) Ultrabizurado]]
+	- [ ] [[⚡ MP Temporário (MPTC e MPTV) - BIZURADO]]
 	- [ ] [[24 - Marca-passo temporário 🔴 MUTI]]
 - [ ] s
 
