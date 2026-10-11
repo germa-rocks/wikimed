@@ -1,0 +1,32 @@
+---
+publish: true
+---
+
+- 1 Quadro Clínico
+	- Dor
+	- Atrito
+	- ECG (60%)
+		- infra PR + supra difuso (não isquêmico) polpa avR e V1
+		- achatamm + inversão T
+	- ECOTT: derrame pericárdico novo
+- 2 Workup
+	- tropo → miopericardite
+	- VHS, PCR
+	- RM cardíaca
+- 3 Estratificação (risco: tamponamento x evolução incessante x constritiva)
+	- CF: 
+		- imunossuprimido | anticoagulado | trauma
+		- subagudo | falha tratamento (1sem otimizado) | 
+	- A: 
+		- tamponamento | ↑ derrame
+		- febre | miopericardite (↑tropo)
+- 4 Manejo
+	- terapia dupla: AINE (dose plena) + Colchicina (0,5-1g/d cf idade: 70a+)
+	- corticoide somente em exceções
+		- recorrência
+		- F 
+			- Gestante 20sem+
+			- Anticoagulado
+			- DRC (dialítico?) como resgate
+				- evitando AINE pelo sangramento e perda se diurese residual+
+				- evitando Colchicina por risco de mielossupressão e neuromiopatia
