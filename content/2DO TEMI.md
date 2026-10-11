@@ -24,5 +24,6 @@ publish: true
 - [ ] ==[[🫀 DISFUNÇÃO DE VD E HIPERTENSÃO PULMONAR (HP) - BIZURADO]]
 	- [ ] [[11 - Disfunção do VD e Hipertensão Pulmonar 🟡MUTI]]
 - [ ] ==[[🧠 SEDAÇÃO E ANALGESIA NA UTI CARDIOLÓGICA - BIZURADO]]
+	- [ ] ´[[SEDAÇÃO E ANALGESIA no Cardiológico IMAGENS]]
 	- [ ] [[29 - Sedação e analgesia MUTI 🟢]]
 - [ ] 
