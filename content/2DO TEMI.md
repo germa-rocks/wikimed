@@ -11,6 +11,16 @@ publish: true
 - [ ] 
 - [ ] as
 - [ ] as
+
+
+### CV 1
+
+Dz
+- SCA, TEP, SAoA, tamponamento
+Rx
+- CVES, MPt
+- SCM
+
 - [x] [[12 Pericardite Aguda Bizurada]]
 	- [ ] [[12 Pericardite Aguda MUTI]]
 - [x] ==[[MIOCARDITE AGUDA - BIZURADO]]
@@ -30,4 +40,18 @@ publish: true
 	- [ ] [[30 - Cardioversão elétrica 🟢MUTI]]
 - [ ] [[⚡ MP Temporário (MPTC e MPTV) - BIZURADO]]
 	- [ ] [[24 - Marca-passo temporário 🔴 MUTI]]
-- [ ] 
+- [ ] s
+
+
+Aula 27 - Síndrome de takotsubo 🟡
+Aula 17 - Emergências hipertensivas 🟢
+Aula 8 - Insuficiência cardíaca aguda 🟢
+Aula 35 - Doenças valvares 🟢
+
+Aula 19 - Bradicardias 🟡
+Aula 25 - Fibrilação atrial 🔴
+Aula 26 - Taquicardias supraventriculares 🟡
+Aula 31 - Taquiarritmias ventriculares 🟡
+
+Aula 21 - Transplante cardíaco 🟢
+- Aula 23 - Pós op. de cirurgia cardíaca 🟡
