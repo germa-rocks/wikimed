@@ -3,7 +3,7 @@ publish: true
 ---
 
 
-[[2Do MOC]]
+[[2Do MOC]]12
 
 
 
@@ -16,6 +16,7 @@ publish: true
 - [ ] ==[[MIOCARDITE AGUDA - BIZURADO]]
 	- [ ] [[28 - Miocardite 🟡]]
 - [ ] ==[[ECG aplicados a UTI - BIZURADO]]
+	- [ ] [[ECG Bizurado Imagens]]
 	- [ ] [[1 - Eletrocardiograma na UTI MUTI🟡]]
 	- [ ] [[20- ECG nos distúrbios eletrolíticos e toxicologia 🟢]]
 - [ ] ==[[CHOQUE CARDIOGÊNICO - BIZURADO ⚡🏥]]
