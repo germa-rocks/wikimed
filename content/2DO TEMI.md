@@ -20,9 +20,10 @@ Rx
 - CVES, MPt
 - SCM
 
-- [x] [[12 Pericardite Aguda Bizurada]]
+- [ ] [[12 Pericardite Aguda UltraBizurada]]
 	- [ ] [[12 Pericardite Aguda MUTI]]
-- [x] ==[[MIOCARDITE AGUDA - BIZURADO]]
+- [ ] [[MIOCARDITE AGUDA - ULTRABIZURADO]]
+	- [x] [[MIOCARDITE AGUDA - BIZURADO]]
 	- [ ] [[28 - Miocardite 🟡]]
 - [ ] ==[[ECG aplicados a UTI - BIZURADO]]
 	- [ ] [[ECG Bizurado Imagens]]
@@ -30,7 +31,8 @@ Rx
 	- [ ] [[20- ECG nos distúrbios eletrolíticos e toxicologia 🟢]]
 - [x] ==[[CHOQUE CARDIOGÊNICO - BIZURADO ⚡🏥]]
 	- [ ] [[9 - Choque cardiogênico MUTI 🔴 MUTI]]
-- [x] ==[[🫀 DISFUNÇÃO DE VD E HIPERTENSÃO PULMONAR (HP) - BIZURADO]]
+- [ ] [[Dfx VD ULTRABIZURADO]]
+	- [ ] ==[[🫀 DISFUNÇÃO DE VD E HIPERTENSÃO PULMONAR (HP) - BIZURADO]]
 	- [ ] [[11 - Disfunção do VD e Hipertensão Pulmonar 🟡MUTI]]
 - [ ] ==[[🧠 SEDAÇÃO E ANALGESIA NA UTI CARDIOLÓGICA - BIZURADO]]
 	- [ ] ´[[SEDAÇÃO E ANALGESIA no Cardiológico IMAGENS]]
