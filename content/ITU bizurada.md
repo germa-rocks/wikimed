@@ -34,17 +34,17 @@ Os novos guidelines dividem pela ==**repercussão sistêmica**:
 *   **Resgate (MDR de bexiga):** Fosfomicina (dose única) ou Amicacina (dose única).
 
 ### Pielonefrite e Urossepse (Sistêmica)
-*   **Regra:** **SEMPRE** coletar hemocultura/urocultura ANTES do ATB! Errar o empirismo aqui = ↑ morbimortalidade.
+*   **Regra:** ==**SEMPRE** coletar hemocultura/urocultura ANTES do ATB! Errar o empirismo aqui = ↑ morbimortalidade.
 *   **Esquema Pielo:** 7 a 14 dias (Ceftriaxona, Quinolonas, Aminoglicosídeos).
-*   **UROSSEPSE (Choque foco urinário):** Se houver risco para ESBL (idoso, DM, internado, ATB prévio) → **Carbapenêmico empírico**.
+*   **UROSSEPSE (Choque foco urinário):** Se houver ==risco para ESBL (idoso, DM, internado, ATB prévio) → **Carbapenêmico empírico**.
 *   🚨 **RED FLAGS NO CHOQUE:**
-    *   **NÃO USE** Ertapenem no choque séptico!
+    *   ==**NÃO USE** Ertapenem no choque séptico!
     *   **NÃO USE** Pip-Tazo (Tazocin) como terapia inicial para ESBL chocado (deixe para descalonar depois, se der).
 
 ## 5. ITU Associada a Cateter (ITU-AC) e Prevenção
 *   **Definição:** Ocorre 48h após instalação do CVD. Tempo de permanência é o principal fator de risco (coloniza 3-8% ao dia).
-*   **Conduta na suspeita:** Diagnóstico de exclusão. Se for tratar, **TROQUE O CATETER** antes de colher a cultura oficial para guiar o ATB (remove o biofilme).
-*   **Prevenção (O que cai na prova prática):**
+*   **Conduta na suspeita:** Diagnóstico de exclusão. ==Se for tratar, **TROQUE O CATETER** antes de colher a cultura oficial para guiar o ATB (remove o biofilme).
+*   ==**Prevenção (O que cai na prova prática):**
     *   **Remoção precoce:** Revisar necessidade diariamente (Alvo: tirar < 24h em pós-op).
     *   Alternativas: Cateterismo intermitente limpo (sempre preferível!) ou *condom* externo em homens.
     *   Manter sistema **fechado** e **abaixo** do nível da bexiga (ao transportar, clampar a sonda).
@@ -54,15 +54,15 @@ Os novos guidelines dividem pela ==**repercussão sistêmica**:
 *   **Para a Vida:** Toda ITU Sistêmica (Pielonefrite/Sepse) exige imagem para afastar obstrução/abscesso!
 *   **USG (Indicações Iniciais):** História prévia de litíase, alteração aguda da função renal, sepse inicial.
 *   **Tomografia (A soberana):** Deterioração clínica, febre persistente (após 48-72h de ATB correto), recorrência rápida.
-*   🚨 **PIELONEFRITE OBSTRUTIVA = EMERGÊNCIA CIRÚRGICA:** Obstrução (cálculo) + Infecção com gás (Pielonefrite enfisematosa) → ATB e volume não salvam o rim! Exige **Desobstrução Urgente** (Passagem de Duplo J ou Nefrostomia).
+* ==🚨 **PIELONEFRITE OBSTRUTIVA = EMERGÊNCIA CIRÚRGICA:** Obstrução (cálculo) + Infecção com gás (Pielonefrite enfisematosa) → ATB e volume não salvam o rim! Exige **Desobstrução Urgente** (Passagem de Duplo J ou Nefrostomia).
 
 ## 7. Pérolas Farmacológicas e Prostatite
 *   💊 **O Bizu das Polimixinas:** 
-    *   **Polimixina B:** **NÃO** tem excreção urinária. Nunca use para foco urinário!
-    *   **Polimixina E (Colistina):** Droga de escolha se for tratar foco urinário por *Pseudomonas* MDR resistente a carbapenem.
+    *   ==**Polimixina E (Colistina):** Droga de escolha se for tratar foco urinário por *Pseudomonas* MDR resistente a carbapenem.
+	    * **Polimixina B:** **NÃO** tem excreção urinária. Nunca use para foco urinário!
 *   💊 **O Bizu da Tigeciclina:** **NÃO** cobre *Pseudomonas*. Nem pense nela nesse cenário.
 *   🪠 **Controle de Foco (Duplo J):** ATB não clareia infecção em prótese velha/colonizada. O cateter Duplo J **TEM** que ser retirado/trocado.
-*   🍒 **Prostatite Bacteriana:** 
+* ==🍒 **Prostatite Bacteriana:** 
     *   Início agudo, dor pélvica/perineal/escrotal, febre. Agente principal: *E. coli* (Risco clássico: biópsia transretal recente).
     *   🚨 **Pegadinha:** **NÃO DOSAR PSA na fase aguda!** Sofre falsa elevação pela inflamação. 
     *   Tratamento prolongado: 14 dias para aguda (Quinolonas), 4 a 6 semanas para crônica.
