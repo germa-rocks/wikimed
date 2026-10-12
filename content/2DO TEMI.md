@@ -60,3 +60,11 @@ Aula 31 - Taquiarritmias ventriculares 🟡
 
 Aula 21 - Transplante cardíaco 🟢
 - Aula 23 - Pós op. de cirurgia cardíaca 🟡
+
+
+
+
+## Infecto
+
+- [ ] [[6 - Infecções do SNC 🟡bizurado]]
+- [ ] [[PAC bizurado]]
