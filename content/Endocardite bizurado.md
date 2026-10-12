@@ -8,11 +8,13 @@ publish: true
 # 🦠 ENDOCARDITE INFECCIOSA (EI) - BIZURADO
 
 ## 1. EPIDEMIOLOGIA & MICROBIOLOGIA
-*   **Tendência:** Doença rara, mas com **↑ incidência** devido ao envelhecimento e intervenções médicas (cateteres, próteses, hemodiálise).
-*   **Classificação atual:** Esqueça "Aguda vs. Subaguda" para guiar tratamento empírico. O foco agora é **Comunitária** vs. **Associada a Cuidados de Saúde** (sintomas >48h de internação, *home care*, diálise/quimio nos últimos 90 dias).
+*   **Tendência:** Doença rara, mas com **↑ incidência** devido ao envelhecimento e intervenções médicas ==(cateteres, próteses, hemodiálise).
+*   **Classificação atual:** Esqueça "Aguda vs. Subaguda" para guiar tratamento empírico. 
+	* O foco agora é ==**Comunitária** vs. **Associada a Cuidados de Saúde** (sintomas >48h de internação, *home care*, diálise/quimio nos últimos 90 dias).
 *   **O Rei:** ***Staphylococcus aureus*** é hoje o agente **+ comum e + letal** (mesmo em valva nativa!).
-*   **Grupo HACEK:** Crescimento lento na cultura (*Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella*). Moram na orofaringe. Tratar com Ceftriaxona.
-*   🚨 **Hemocultura Negativa?** Pense em germes atípicos:
+*   **Grupo HACEK:** Crescimento lento na cultura (*Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella*). Moram na orofaringe
+	* [ ] ==Tratar com Ceftriaxona.
+*   🚨 ==**Hemocultura Negativa?** Pense em germes atípicos:
     *   ***Coxiella burnetii* (Febre Q):** Contato com mamíferos parturientes (fazenda) ou leite cru. Diagnóstico: **Sorologia IgG > 1:800** (Critério Maior!). Tratamento = 18 meses!
     *   ***Bartonella spp.:*** Contato com gatos. 
 
@@ -30,7 +32,7 @@ publish: true
 ## 3. DIAGNÓSTICO (Critérios de Duke Modificados)
 *Para fechar: 2 Maiores OU 1 Maior + 3 Menores OU 5 Menores.*
 
-**🛑 CRITÉRIOS MAIORES (Eixo central: Bicho + Imagem)**
+**🛑 CRITÉRIOS MAIORES (Eixo central: Bicho/Microbio + Imagem)**
 1.  **Hemocultura Positiva:** 2 amostras com germes típicos OU hemoculturas persistentemente (+) OU 1 amostra (+) para *C. burnetii* (ou IgG >1:800).
     *   *Bizú de Coleta:* 3 sets (aeróbio + anaeróbio) com intervalo de 30 min, **ANTES** do ATB. Se paciente estável/quadro subagudo, pode retardar o ATB em 48h.
 2.  **Imagem Positiva:** ECO, TC cardíaca ou PET-CT mostrando vegetação, abscesso ou deiscência de prótese.
@@ -68,6 +70,7 @@ A regra é baseada no tipo de valva e tempo de implante:
     *   *Sinal Clássico:* Insuficiência aórtica aguda com **fechamento precoce da valva mitral** no ECO (enchimento ventricular esquerdo retrógrado massivo).
 2.  🚨 **URGÊNCIA (Dias):** 
     *   **Falha cardíaca** (má tolerância hemodinâmica sem choque).
+	    * ==**Indicação #1 de Cirurgia de Urgência:** **IC Refratária** secundária a insuficiência valvar aguda.
     *   **Infecção Não Controlada:** Foco fúngico, germe multirresistente, hemocultura (+) > 7 dias com ATB correto.
     *   **Prevenção de Embolia:** Vegetação **> 10 mm** + evento embólico prévio.
     *   **Complicação Perivalvar:** Abscesso, fístula, deiscência.
@@ -75,8 +78,8 @@ A regra é baseada no tipo de valva e tempo de implante:
 
 **Manejo do "Timing" nas Complicações:**
 *   🧠 **AVC Isquêmico:** **NÃO retardar** a cirurgia cardíaca.
-*   🩸 **AVC Hemorrágico:** **Adiar cirurgia por 1 mês** (risco altíssimo de sangrar na CEC por causa da heparina).
-*   💥 **Aneurisma Micótico Cerebral:** Aguardar 2 semanas se correção cirúrgica do aneurisma; se correção endovascular, não precisa adiar a cirurgia cardíaca.
+*   🩸 ==**AVC Hemorrágico:** **Adiar cirurgia por 1 mês**== (risco altíssimo de sangrar na CEC por causa da heparina).
+*   💥 ==**Aneurisma Micótico Cerebral:** Aguardar 2 semanas se correção cirúrgica== do aneurisma; se correção endovascular, não precisa adiar a cirurgia cardíaca.
 *   🧊 **Infarto Esplênico:** Tratamento conservador. Esplenectomia hoje é raridade.
 
 ## 7. 🫀 DEVICES (Marca-passo / CDI) & PROFILAXIA
