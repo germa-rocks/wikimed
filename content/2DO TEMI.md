@@ -68,3 +68,4 @@ Aula 21 - Transplante cardíaco 🟢
 
 - [ ] [[6 - Infecções do SNC 🟡bizurado]]
 - [ ] [[PAC bizurado]]
+- [ ] [[PAV bizurado]]
