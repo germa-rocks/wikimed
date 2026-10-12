@@ -13,11 +13,11 @@ publish: true
 *   ⚠️ **Pegadinha de Prova:** PCR e Procalcitonina (PCT) **NUNCA** devem ser usadas isoladamente para decidir iniciar ou atrasar tratamento. A clínica é soberana.
 
 **2. 📊 CLASSIFICAÇÃO (O Mapa Mental do Cirurgião/Intensivista)**
-*   **1️⃣ Primária (PBE):** Não há perfuração. Germe vem por translocação ou ascite prévia (Cirrose, Nefrótica) ou diálise peritoneal. 
+*   **1️⃣ ==Primária (PBE):** Não há perfuração==. Germe vem por ==translocação ou ascite prévia (Cirrose, Nefrótica) ou diálise peritoneal==. 
     *   *Tratamento:* Antibiótico. **Cirurgia NÃO!**
-*   **2️⃣ Secundária:** Perfuração de víscera oca, isquemia, deiscência de anastomose, trauma penetrante.
+*   **2️⃣ Secundária:** ==Perfuração de víscera oca, isquemia, deiscência de anastomose, trauma penetrante.==
     *   *Tratamento:* Cirurgia (Controle do foco) + Antibiótico.
-*   **3️⃣ Terciária (O Caos da UTI):** É a secundária que deu errado. Doente já operou, piorou e segue na UTI. O abdome tem sangue, bile, fibrina (adjuvantes que ↓ o inóculo necessário para infecção). 
+*   **3️⃣ Terciária (O Caos da UTI):** É a ==secundária que deu errado. Doente já operou, piorou e segue na UTI. O abdome tem sangue, bile, fibrina (adjuvantes que ↓ o inóculo necessário para infecção). 
     *   *Tratamento:* Reabordagem + Ampliar ATB para germes hospitalares/resistentes + **Fungos**.
 
 **3. 💊 O "KIT BARRIGA" (Terapia Empírica Base)**
@@ -28,6 +28,10 @@ publish: true
     *   Ceftriaxona + Metronidazol
     *   Ciprofloxacino + Metronidazol
 *   ⚠️ **Armadilha:** Amoxicilina-Clavulanato e Ampicilina-Sulbactam **SAÍRAM DO JOGO** empírico (alta resistência da *E. coli*). 
+- **O Algoritmo do ==Kit Barriga é simples:** 
+	- Primária = Kit *Sem* Metronidazol (BGN aeróbio é o alvo). 
+	- Secundária = Kit Clássico (*Com* Metronidazol, cobre flora do cólon). 
+	- Terciária = Kit Clássico Ampliado (Sobe degrau para BGN Hospitalar + *Candida*)
 
 **4. 🕵️‍♂️ DIAGNÓSTICOS ESPECÍFICOS NA UTI (Flashcards de Conduta)**
 *   **PBE (Peritonite Bacteriana Espontânea):**
@@ -68,13 +72,9 @@ publish: true
 
 ***
 
-**💡 3 DICAS DE OURO DO PRECEPTOR**
-1. **O Algoritmo do ==Kit Barriga é simples:** 
-	- Primária = Kit *Sem* Metronidazol (BGN aeróbio é o alvo). 
-	- Secundária = Kit Clássico (*Com* Metronidazol, cobre flora do cólon). 
-	- Terciária = Kit Clássico Ampliado (Sobe degrau para BGN Hospitalar + *Candida*). 
-2. **Tempo é pâncreas:** Febre e SIRS nos primeiros 3-5 dias de pancreatite severa é inflamação estéril. Não prescreva Pipe-Tazo/Carbapenêmico à toa. Segure a mão e espere a janela de 7-10 dias (ou gás na TC) para pensar em necrose infectada.
-3. **C==andidemia tem protocolo rígido:** Cresceu *Candida* no sangue de paciente com sepse abdominal? A conduta é mecânica: 
+**💡 DICAS DE OURO DO PRECEPTOR**
+1. **Tempo é pâncreas:** Febre e SIRS nos primeiros 3-5 dias de pancreatite severa é inflamação estéril. Não prescreva Pipe-Tazo/Carbapenêmico à toa. Segure a mão e espere a janela de 7-10 dias (ou gás na TC) para pensar em necrose infectada.
+2. **C==andidemia tem protocolo rígido:** Cresceu *Candida* no sangue de paciente com sepse abdominal? A conduta é mecânica: 
 	- Iniciar Equinocandina + 
 	- Sacar o Cateter Central + 
 	- Fundo de Olho. 

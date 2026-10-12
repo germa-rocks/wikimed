@@ -10,13 +10,13 @@ publish: true
 *   **Patogênese:** Apenas as cepas **toxigênicas** causam doença (produzem Toxinas A e B → lesam colonócito → inflamação → pseudomembrana).
 *   **Fator de Risco #1 (Vácuo Ecológico):** Uso recente de **antibióticos** (mata a flora normal e abre espaço).
     *   ⚠️ *Alerta de Prova:* **Clindamicina** é o gatilho clássico (até 10% de risco)! Outros: Cefalosporinas, Piperacilina-Tazobactam e Carbapenêmicos.
-*   **Clínica Clássica:** Paciente internado há > 2 semanas + ATB prévio + **Diarréia nova** (> 3 episódios aquosos/sem forma em 24h). 
+*   **Clínica Clássica:** Paciente internado há > 2 semanas + ATB prévio + ==**Diarréia nova** (> 3 episódios aquosos/sem forma em 24h). 
 
 **2. 🔬 DIAGNÓSTICO: O ALGORITMO BIZURADO**
 *   ⚠️ **REGRA DE OURO:** Paciente sem diarreia **NÃO** colhe exame e **NÃO** recebe tratamento (colonização ≠ infecção).
 *   **Passo 1 (A Triagem): GDH (Glutamato Desidrogenase)**. É a "rede". Tem altíssima sensibilidade. Se der **negativo**, praticamente exclui a doença (VPN ~100%).
 *   **Passo 2 (A Confirmação): Toxinas A/B**. É o "sniper". Tem altíssima especificidade. Se GDH(+) e Toxina(+), fechou o diagnóstico.
-*   **Passo 3 (O Desempate): PCR**. Se GDH(+) e Toxina(-), pede PCR. Se vier positivo, confirma.
+*   **Passo 3 (O Desempate): PCR**. ==Se GDH(+) e Toxina(-), pede PCR==. Se vier positivo, confirma.
 *   *Endoscopia/TC:* Não são exames de rotina. TC apenas para buscar complicações (megacólon, perfuração). *Achado clássico da endoscopia:* Placas amareladas salpicadas (pseudomembranas).
 
 **3. 📊 CLASSIFICAÇÃO DE GRAVIDADE (Define a Conduta na UTI)**
