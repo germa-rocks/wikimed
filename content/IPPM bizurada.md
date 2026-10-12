@@ -25,9 +25,12 @@ Infecção da derme profunda e tecido subcutâneo.
     *   ==Risco de: Trombose de seio cavernoso, meningite, empiema.
     *   Conduta: **Internação SEMPRE + ATB IV** (==Vancomicina, pois tem que cobrir *S. aureus* grave).
 *   **Conduta de Plantão (Tratamento Geral):**
-    *   **Abscesso > 1,5 cm:** DRENAR SEMPRE + Enviar cultura (se não drenar, não cura).
+    *   ==**Abscesso > 1,5 cm:** DRENAR SEMPRE + Enviar cultura (se não drenar, não cura).
     *   **Hemoculturas:** Só solicite se houver resposta sistêmica (SIRS) franca. Em hígidos, a positividade é baixíssima.
-    *   **Leves (Sem SIRS):** Foco em Staph não-MRSA. Cefadroxila (12/12h é melhor que Cefalexina 6/6h para o paciente dormir), Amoxi+Clav. *Bizu: Bactrim é ótimo marcador para Staph Comunitário.*
+    *   **Leves (Sem SIRS):** Foco em Staph não-MRSA. 
+	    * Cefadroxila (12/12h é melhor que Cefalexina 6/6h para o paciente dormir), 
+	    * Amoxi+Clav. 
+	    * *Bizu: Bactrim é ótimo marcador para Staph Comunitário.*
     *   **Graves (Internamento):** Vancomicina (escolha primária), Linezolida ou Dapto.
     *   **Tempo de Tx:** A clínica guia. Sem coleções, **5 dias** de ATB são suficientes ("você vê a melhora").
 
@@ -80,9 +83,12 @@ Choque distributivo desencadeado por exotoxinas (vazamento capilar maciço).
 
 ## 🧠 6. FISIOLOGIA DE UTI & QUESTÕES TEMI (O OURO DA AULA)
 
-*   💉 **O Conceito de "Cura Mecânica" (Sítio Controlado):**
+*   💉 **O Conceito de =="Cura Mecânica" (Sítio Controlado):**
     *   Se um foco crônico com sepse (ex: osteomielite em perna) for resolvido com **amputação proximal completa**, e o paciente fica afebril e reverte choque: **SUSPENDA TODOS OS ANTIBIÓTICOS.** A infecção foi jogada no lixo com o osso. Não há por que manter ATB.
 *   💧 **Farmacocinética no "Terceiro Espaço" da Sepse:**
     *   O choque séptico gera vazamento capilar brutal (o paciente fica edemaciado).
-    *   ⚠️ **DROGAS HIDROFÍLICAS** (Beta-lactâmicos, Cefalosporinas, Vancomicina) se diluem extensamente nesse excesso de líquido (aumento do Volume de Distribuição).
-    *   *Conduta:* Perdem concentração sérica útil → Exigem **aumento da dose** inicial no paciente séptico chocado. *(Pegadinha frequente do TEMI: a banca costuma tentar te confundir chamando Vanco/Beta-lactâmicos de lipofílicos. Eles são HIDROFÍLICOS).*
+    *   ==⚠️**DROGAS HIDROFÍLICAS** (Beta-lactâmicos, Cefalosporinas, Vancomicina) 
+	    * se diluem extensamente nesse excesso de líquido 
+	    * ==(aumento do Volume de Distribuição).==
+    *   *Conduta:* Perdem concentração sérica útil → ==Exigem **aumento da dose** inicial no paciente séptico chocado==. 
+    * *(Pegadinha frequente do TEMI: a banca costuma tentar te confundir chamando Vanco/Beta-lactâmicos de lipofílicos. Eles são HIDROFÍLICOS).*
