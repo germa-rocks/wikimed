@@ -13,7 +13,7 @@ O diagnóstico e a gravidade dependem de **4 Eixos**:
 *   📍 **Localização:** Infecção na face = ↑ Morbimortalidade (complicações SNC).
 *   📏 **Profundidade:** Erisipela (superficial) vs. Celulite (subcutâneo) vs. Fasciíte (fáscia/músculo).
 *   🦠 **Agente Etiológico:** Regra de Ouro → **Predominância ABSOLUTA de Gram-Positivos** (*S. aureus* e *Streptococcus*). 
-    *   *Exceção para pensar em Gram-Negativo:* Úlcera venosa crônica ou Pé Diabético.
+    *  ==*Exceção para pensar em Gram-Negativo:* Úlcera venosa crônica ou Pé Diabético.
 *   🤒 **Quadro Clínico:** Presença de SIRS/Sepse é o que define internamento e via do ATB (VO vs. IV).
 
 ---
@@ -22,8 +22,8 @@ O diagnóstico e a gravidade dependem de **4 Eixos**:
 Infecção da derme profunda e tecido subcutâneo.
 *   **Clínica:** Dor, calor, rubor, edema (frequente em MMII). Pode gerar abscessos.
 *   ⚠️ **RED FLAG: CELULITE DE FACE = EMERGÊNCIA MÉDICA.**
-    *   Risco de: Trombose de seio cavernoso, meningite, empiema.
-    *   Conduta: **Internação SEMPRE + ATB IV** (Vancomicina, pois tem que cobrir *S. aureus* grave).
+    *   ==Risco de: Trombose de seio cavernoso, meningite, empiema.
+    *   Conduta: **Internação SEMPRE + ATB IV** (==Vancomicina, pois tem que cobrir *S. aureus* grave).
 *   **Conduta de Plantão (Tratamento Geral):**
     *   **Abscesso > 1,5 cm:** DRENAR SEMPRE + Enviar cultura (se não drenar, não cura).
     *   **Hemoculturas:** Só solicite se houver resposta sistêmica (SIRS) franca. Em hígidos, a positividade é baixíssima.
@@ -36,13 +36,17 @@ Infecção da derme profunda e tecido subcutâneo.
 ## 🚨 3. FASCIÍTE NECROTIZANTE (A EMERGÊNCIA CIRÚRGICA)
 *Bactéria comedora de carne*. Progressão fulminante, destrói fáscia e tecido subcutâneo.
 
-*   👁️ **Sinal de Alerta MÁXIMO:** Dor **EXCRUCIANTE e DESPROPORCIONAL** ao aspecto inicial do eritema + Edema severo.
+*   👁️ **Sinal de Alerta MÁXIMO:** ==Dor **EXCRUCIANTE e DESPROPORCIONAL** ao aspecto inicial do eritema + Edema severo.
 *   🫧 **Crepitação (Gás):** Altamente específico, mas só ocorre em 10% dos casos.
 *   **Imagem:** TC de região afetada (mostra gás dissecando planos e perda de realce fascial).
     *   ⚠️ *Bizu de UTI:* Paciente em choque NÃO vai pra TC → Intervenção diagnóstica = **Exploração Cirúrgica Imediata**.
 *   **TRATAMENTO (OS 4 PILARES SALVA-VIDAS):**
-    1.  🔪 **Desbridamento Cirúrgico URGENTE:** Atraso = óbito. Sempre coletar cultura profunda.
-    2.  💊 **ATB Triplo/Amplo:** Meropenem (ou Piper/Tazo) + Vancomicina (ou Dapto) + Clindamicina.
+    1.  🔪 **Desbridamento Cirúrgico URGENTE:** Atraso = óbito. 
+	    - Sempre coletar cultura profunda.
+    2.  💊 **ATB Triplo/Amplo:** 
+	    - Meropenem (ou Piper/Tazo) + 
+	    - Vancomicina (ou Dapto) + 
+	    - Clindamicina.
     3.  🛑 **Bloqueio de Toxinas:** **Clindamicina** (Mecanismo: Inibe ribossomo 50S, bloqueando a SÍNTESE/PRODUÇÃO de exotoxinas. *Questão clássica de prova!*)
     4.  🛡️ **Terapia Adjuvante:** Imunoglobulina IV (Neutraliza toxinas já *circulantes*).
     *   *Câmara Hiperbárica?* SÓ na fase de recuperação (tardia). Contraindicada no choque instável.
