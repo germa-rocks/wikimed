@@ -16,20 +16,20 @@ publish: true
 *   **Regra Geral:** **NÃO RASTREAR E NÃO TRATAR.** Tratar BA apenas seleciona flora multirresistente (MDR).
 *   **NÃO TRATAR MESMO SE:** Idoso institucionalizado (até 50% têm BA!), DM controlado, lesão medular, transplantado renal, portador de CVD crônico, pré-op de artroplastia.
 *   **Idoso confuso + febre?** Investigue outros focos! A urina dele já será positiva por colonização prévia.
-*   🎯 **QUANDO RASTREAR E TRATAR (As 2 únicas exceções):**
+*  ==🎯 **QUANDO RASTREAR E TRATAR (As 2 únicas exceções):**
     1.  **Gestantes:** Evita parto prematuro e complicação neonatal.
     2.  **Pré-procedimento urológico invasivo:** Que rompa mucosa (Ex: RTU de próstata). Risco altíssimo de sepse.
 
 ## 3. A Nova Classificação (Esqueça "Complicada vs. Não Complicada")
-Os novos guidelines dividem pela **repercussão sistêmica**:
+Os novos guidelines dividem pela ==**repercussão sistêmica**:
 *   🟢 **Localizada (Cistite):** Disúria, polaciúria, urgência, dor suprapúbica. **SEM** sinais sistêmicos.
 *   🔴 **Sistêmica (Pielonefrite/Urossepse/Prostatite):** Febre, calafrios, mialgia, dor lombar (Giordano +), taquicardia. 
-    *   *Nota:* Homens, gestantes, disfunções anatômicas e ITU por cateter entram automaticamente no guarda-chuva de alto risco.
+    *   *Nota:* ==Homens, gestantes, disfunções anatômicas e ITU por cateter entram automaticamente no guarda-chuva de alto risco.
 
 ## 4. Conduta Prática: Como Prescrever
 ### Cistite (Localizada)
 *   **Diagnóstico:** Clínico. Urocultura **NÃO** é rotina inicial.
-*   **Tratar c/ Cultura se:** Falha prévia, clínica atípica ou suspeita de MDR.
+* ==**Tratar c/ Cultura se:** Falha prévia, clínica atípica ou suspeita de MDR.
 *   **Esquema:** Curto (5 dias). Nitrofurantoína, Sulfametoxazol-Trimetoprima, Cefuroxima, Quinolonas. 
 *   **Resgate (MDR de bexiga):** Fosfomicina (dose única) ou Amicacina (dose única).
 
