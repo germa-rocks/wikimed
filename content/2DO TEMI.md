@@ -33,6 +33,7 @@ Rx
 	- [ ] ==[[CHOQUE CARDIOGÊNICO - BIZURADO ⚡🏥]]
 	- [ ] [[9 - Choque cardiogênico MUTI 🔴 MUTI]]
 - [x] [[Dfx VD ULTRABIZURADO]]
+	- [ ] ==🔴[[qTEMI Dfx VD e HP questões]]
 	- [ ] ==[[🫀 DISFUNÇÃO DE VD E HIPERTENSÃO PULMONAR (HP) - BIZURADO]]
 	- [ ] [[11 - Disfunção do VD e Hipertensão Pulmonar 🟡MUTI]]
 - [x] ==[[🧠 SEDAÇÃO E ANALGESIA NA UTI CARDIOLÓGICA - BIZURADO]]
