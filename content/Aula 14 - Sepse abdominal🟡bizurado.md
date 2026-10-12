@@ -60,11 +60,22 @@ publish: true
 
 **6. ☠️ A MORTE DA TIGECICLINA (A Alternativa Errada)**
 *   Em provas e na vida, a Tigeciclina parece linda (cobre VRE, BGN MR, Anaeróbio), mas é uma **ARMADILHA**.
-*   *Por que não usar?* Maior mortalidade em estudos de não-inferioridade; não tem antibiograma validado confiavelmente; **"Buracos" no espectro** (não cobre os "Ps": *Pseudomonas, Proteus, Providencia*, nem *Morganella*). Causa náusea limitante e sangramento (hipofibrinogenemia). **Nunca marque Tigeciclina como 1ª escolha.**
+*   *Por que não usar?* 
+	* ==Maior mortalidade em estudos de não-inferioridade==; não tem antibiograma validado confiavelmente; 
+	* ==**"Buracos" no espectro** (não cobre os "Ps": *Pseudomonas, Proteus, Providencia*, nem *Morganella*)==. 
+	* Causa náusea limitante e sangramento (hipofibrinogenemia). 
+* **Nunca marque Tigeciclina como 1ª escolha.**
 
 ***
 
 **💡 3 DICAS DE OURO DO PRECEPTOR**
-1. **O Algoritmo do Kit Barriga é simples:** Primária = Kit *Sem* Metronidazol (BGN aeróbio é o alvo). Secundária = Kit Clássico (*Com* Metronidazol, cobre flora do cólon). Terciária = Kit Clássico Ampliado (Sobe degrau para BGN Hospitalar + *Candida*). 
+1. **O Algoritmo do ==Kit Barriga é simples:** 
+	- Primária = Kit *Sem* Metronidazol (BGN aeróbio é o alvo). 
+	- Secundária = Kit Clássico (*Com* Metronidazol, cobre flora do cólon). 
+	- Terciária = Kit Clássico Ampliado (Sobe degrau para BGN Hospitalar + *Candida*). 
 2. **Tempo é pâncreas:** Febre e SIRS nos primeiros 3-5 dias de pancreatite severa é inflamação estéril. Não prescreva Pipe-Tazo/Carbapenêmico à toa. Segure a mão e espere a janela de 7-10 dias (ou gás na TC) para pensar em necrose infectada.
-3. **Candidemia tem protocolo rígido:** Cresceu *Candida* no sangue de paciente com sepse abdominal? A conduta é mecânica: Iniciar Equinocandina + Sacar o Cateter Central + Fundo de Olho. Faltou um desses, a resposta da prova (e a conduta do plantão) está incompleta.
+3. **C==andidemia tem protocolo rígido:** Cresceu *Candida* no sangue de paciente com sepse abdominal? A conduta é mecânica: 
+	- Iniciar Equinocandina + 
+	- Sacar o Cateter Central + 
+	- Fundo de Olho. 
+	- Faltou um desses, a resposta da prova (e a conduta do plantão) está incompleta.
