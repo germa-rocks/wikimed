@@ -17,7 +17,6 @@ publish: true
 Dz
 - SCA, TEP, SAoA, tamponamento
 Rx
-- CVES, MPt
 - SCM
 
 - [x] [[12 Pericardite Aguda UltraBizurada]]
