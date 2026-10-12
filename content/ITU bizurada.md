@@ -8,7 +8,7 @@ publish: true
 # 🎯 ITU e BACTERIÚRIA ASSINTOMÁTICA - BIZURADO
 
 ## 1. Conceitos Fundamentais (O Básico que Salva Vidas)
-*   **Bacteriúria Assintomática (BA):** Crescimento bacteriano (>10³ UFC/mL no cateter ou >10⁵ em jato médio) **SEM** sintoma clínico ou resposta inflamatória.
+*   **Bacteriúria Assintomática (BA):** Crescimento bacteriano (>10³ UFC/mL no cateter ou >10⁵ em jato médio) ==**SEM** sintoma clínico ou resposta inflamatória.
 *   **ITU:** Crescimento bacteriano + **Sintomatologia clínica** ou inflamação clara (sem outra causa).
 *   🚨 **PEGADINHA DE PROVA:** Piúria (EAS "sujo"), nitrito positivo ou urina fétida em idoso/paciente sondado **NÃO** confirmam infecção aguda! Diagnóstico em UTI/sedado é de EXCLUSÃO.
 
