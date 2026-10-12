@@ -6,14 +6,14 @@ publish: true
 	- Dor
 	- Atrito
 	- ECG (60%)
-		- infra PR + supra difuso (não isquêmico) polpa avR e V1
+		- infra PR + supra difuso (não isquêmico) + polpa avR e V1
 		- achatamm + inversão T
 	- ECOTT: derrame pericárdico novo
 - 2 Workup
 	- tropo → miopericardite
 	- VHS, PCR
 	- RM cardíaca
-- 3 Estratificação (risco: tamponamento x evolução incessante x constritiva)
+- 3 Estratificação (risco: tamponamento x evolução incessante/constritiva)
 	- CF: 
 		- imunossuprimido | anticoagulado | trauma
 		- subagudo | falha tratamento (1sem otimizado) | 
