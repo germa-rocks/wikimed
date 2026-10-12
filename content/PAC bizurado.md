@@ -7,9 +7,9 @@ publish: true
 # 🫁 PNEUMONIA ADQUIRIDA NA COMUNIDADE (PAC) - BIZURADO
 
 ### 1. CONCEITO & DIAGNÓSTICO DIFERENCIAL
-*   **Definição:** Infecção do trato inferior **COM** acometimento do parênquima (se não tiver = traqueíte/bronquite).
+*   **Definição:** Infecção do trato inferior ==**COM** acometimento do parênquima (se não tiver = traqueíte/bronquite).
 *   **Rx/Morfologia:** Consolidação (alvéolo cheio de exsudato), broncograma aéreo ou cavitação.
-*   🚨 **PEGADINHA (Red Flag Clínica):** Nem todo pulmão "branco" com febre/taquipneia é PAC!
+*   🚨 **PEGADINHA (Red Flag Clínica):** ==Nem todo pulmão "branco" com febre/taquipneia é PAC!
     *   *Melhorou em 2 dias com diurético?* → Era Insuficiência Cardíaca (IC). **Suspenda o ATB!**
     *   *Outros ddx:* TEP (pense nisso se Procalcitonina < 0,25), exacerbação de DPOC.
 
@@ -27,7 +27,7 @@ publish: true
     *   👉 **Conduta:** **0-1** = Ambulatório | **2** = Enfermaria (avaliar) | **≥ 3** = UTI / Grave.
 *   **PSI (Pneumonia Severity Index):** **SUPERIOR ao CURB-65.** Considera comorbidades, dados vitais e labs.
     *   👉 **Conduta:** **Classes I e II** = Ambulatório | **Classe III** = Observação curta | **Classes IV e V** = Internação (V = UTI).
-*   🚨 **Critérios de UTI (IDSA/ATS) - CAI MUITO EM PROVA:**
+*   🚨 ==**Critérios de UTI (IDSA/ATS) - CAI MUITO EM PROVA:**
     *   Precisa de **1 Maior** OU **3 Menores**.
     *   **Maiores (Óbvios):** Choque séptico (precisa de DVA) ou Falência respiratória (precisa de VMI).
     *   **Menores:** FR ≥30, pO2/FiO2 ≤250, Infiltrado multilobar, confusão, Uremia, Leucopenia, Trombocitopenia, Hipotermia, Hipotensão (responsiva a volume).
@@ -38,7 +38,7 @@ publish: true
 *Não peça exame de escarro/cultura para paciente ambulatorial! Só para internação grave/UTI.*
 
 *   **#1 DISPARADO (Em quase todos os cenários):** ***Streptococcus pneumoniae*** (Pneumococo).
-*   **Associações de Prova (Match Perfeito):**
+*  ==**Associações de Prova (Match Perfeito):**
     *   🍺 **Alcoolismo / AVC / Demência:** *S. pneumoniae* (ainda é o #1!), Anaeróbios, Gram-negativos.
     *   🚬 **DPOC / Tabagismo:** *H. influenzae*, *Moraxella*, *Legionella*.
     *   🏗️ **Doença Estrutural (Bronquiectasia/Fibrose Cística):** *Pseudomonas*, *S. aureus*.
@@ -68,21 +68,21 @@ publish: true
 
 ### 5. COBRINDO OS "BRABOS" (Situações Especiais)
 *   🛡️ **MRSA:**
-    *   *Quando pensar:* PAC grave pós-gripe, PAC cavitária.
+    *   ==*Quando pensar:* PAC grave pós-gripe, PAC cavitária.
     *   *Droga:* **Linezolida** (Penetração pulmonar absurda). Vanco é opção (mas penetra menos no alvéolo).
 *   🟢 **Pseudomonas:**
     *   *Quando pensar:* Bronquiectasia, VEF1 <30%, corticoide crônico, ATB amplo recente (<3 meses).
     *   *Drogas:* Cefepime, Ceftazidima, Pip-Tazo, Meropenem. (**Sempre associar Macrolídeo** no início).
 *   🤢 **Anaeróbios (Broncoaspiração):**
     *   🚨 **REGRA DE OURO:** **NÃO COBRIR** anaeróbio de rotina na broncoaspiração simples!
-    *   *Quando cobrir?* Apenas se **Abscesso Pulmonar** ou **Empiema**.
+    *  ==*Quando cobrir?* Apenas se **Abscesso Pulmonar** ou **Empiema**.
     *   *Drogas que cobrem:* Amp-Sulbactam, Amox-Clav, Pip-Tazo, Meropenem. *(Obs: Ceftazidima NÃO cobre, precisa de Metronidazol junto).*
 
 ---
 
 ### 6. TERAPIAS ADJUNTAS: O QUE MUDOU?
 *   💊 **Corticoides:**
-    *   **SIM:** **APENAS** na PAC BACTERIANA **GRAVE** (Ex: Hidrocortisona <400mg/dia por 5-7 dias).
+    *   ==**SIM:** **APENAS** na PAC BACTERIANA **GRAVE** (Ex: Hidrocortisona <400mg/dia por 5-7 dias).
     *   **NÃO:** Contraindicado em PAC não-grave.
 *   🩸 **Procalcitonina (PCT):**
     *   **NÃO USE** para decidir se inicia ou não o ATB (falha em diferenciar viral vs bacteriana isoladamente).
@@ -103,7 +103,7 @@ publish: true
 ### 8. BIZU TOXICOLÓGICO: META-HEMOGLOBINEMIA 🔵
 *Caiu na prova do TEMI!*
 
-*   **O Cenário Clínico Clássico:** Paciente saturando mal (~80-85%) na oximetria de pulso, **NÃO melhora** com O2, mas a **PaO2 na gasometria está NORMAL** (o problema é no transporte pela hemoglobina, não na troca gasosa). Sangue cor de chocolate.
+*   **O Cenário Clínico Clássico:** Paciente ==saturando mal (~80-85%) na oximetria de pulso, **NÃO melhora** com O2, mas a **PaO2 na gasometria está NORMAL** (o problema é no transporte pela hemoglobina, não na troca gasosa). Sangue cor de chocolate.
 *   **Gatilhos:** **Dapsona** (lembre do paciente com Hanseníase), Benzocaína, Lidocaína, Nitroprussiato.
 *   **Diagnóstico:** Co-oximetria (>10%).
 *   **Tratamento:** Suspender agente + O2 + **Azul de Metileno**.

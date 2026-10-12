@@ -1,10 +1,6 @@
 ---
 publish: true
 ---
-
-
----
-
 # 🫁 PNEUMONIA ASSOCIADA À VENTILAÇÃO MECÂNICA (PAV) - BIZURADO
 
 ## 1. CONCEITO E REGRA DE TEMPO (A clássica pegadinha)
@@ -12,7 +8,7 @@ publish: true
 *   🔥 **Regra dos 3 Dias (D3):**
     *   **D1** (Dia da intubação): Não é PAV.
     *   **D2:** Não é PAV.
-    *   **D3 em diante:** **É PAV!**
+    * ==**D3 em diante:** **É PAV!**
     *   *Extubou?* Se a infecção abrir **até o dia seguinte** à retirada do tubo, ainda conta como PAV.
 *   **TAV (Traqueobronquite Associada à Ventilação):** Mudança na secreção + Cultura (+) **SEM** piora sistêmica/oxigenação. 
     *   🚨 **Conduta TAV:** **NÃO TRATAR COM ATB ROTINEIRAMENTE!** (Tratar precocemente não muda desfecho e seleciona KPC/Acinetobacter). Só trate se virar PAV franca.
@@ -22,7 +18,7 @@ publish: true
 *   **Tríade de suspeita:** VMI > 48h + **Piora ventilatória** ($\downarrow$ relação P/F) + **Sinais infecciosos** (Febre, secreção purulenta, leucocitose/leucopenia).
 *   ⚠️ **Escore CPIS:** **NÃO USE COMO CRITÉRIO ÚNICO!** (Baixa sensibilidade 65% e especificidade 64%). O julgamento clínico é soberano.
 *   **Microbiologia:** **Aspirado Traqueal quantitativo** > Lavado Broncoalveolar (Broncoscopia não agrega o suficiente para justificar o risco rotineiro).
-*   🚨 **Procalcitonina (PCT):** **NÃO USE** para iniciar nem para suspender ATB na PAV comum. O tratamento já é curto (7-8 dias). Use só em evolução arrastada/atípica (>10 dias sem melhora) para buscar outro foco.
+*   ==🚨 **Procalcitonina (PCT):** **NÃO USE** para iniciar nem para suspender ATB na PAV comum==. O tratamento já é curto (7-8 dias). Use só em evolução arrastada/atípica (>10 dias sem melhora) para buscar outro foco.
 
 ## 3. FISIOPATOLOGIA E FATORES DE RISCO
 *   **Mecanismo principal:** **Microaspiração** de secreções da orofaringe (muitas vezes originadas de refluxo gástrico) que passam pelas bordas do *cuff* (balonete).
@@ -33,12 +29,17 @@ publish: true
 *Sempre baseado na microbiologia local! Atrasar ATB $\uparrow$ mortalidade.*
 
 **A. Avaliação do Risco para MDR (Multirresistentes):**
-*   Tempo de VMI: Precoce (< 5 dias = flora sensível) vs. Tardia ($\ge$ 5 dias = MDR).
+*   ==Tempo de VMI: Precoce (< 5 dias = flora sensível) vs. Tardia ($\ge$ 5 dias = MDR).
     *   *Pegadinha:* Paciente ficou 10 dias na enfermaria e foi intubado. A PAV no 2º dia de tubo **JÁ É TARDIA/MDR** pelo tempo total de hospitalização!
-*   **Fatores de Risco MDR/MRSA:** ATB venoso nos últimos 90 dias, Choque Séptico, SDRA prévia, Hemodiálise prévia, colonização prévia (ex: swab retal de KPC), UTI com >10% de resistência.
+*   ==**Fatores de Risco MDR/MRSA:** 
+	* SDRA prévia
+	* Choque Séptico
+	* Hemodiálise prévia
+	* colonização prévia (ex: swab retal de KPC), UTI com >10% de resistência.
+	* ATB venoso nos últimos 90 dias, 
 
 **B. Esquema ATB (Regra Básica):**
-*   **Alvo sempre:** *Pseudomonas aeruginosa* + *S. aureus* (BGN + Gram Positivo).
+*  ==**Alvo sempre:** *Pseudomonas aeruginosa* + *S. aureus* (BGN + Gram Positivo).
 *   **Baixo Risco MDR:** Cefepime **OU** Pip/Tazo **OU** Meropenem. *(Ciprofloxacino isolado: NÃO USAR MAIS - alta resistência).*
 *   **Alto Risco BGN MDR:** $\beta$-lactâmico + **Polimixina e/ou Amicacina**. (Opção Premium: Ceftazidima/Avibactam).
 *   **Alto Risco MRSA:** Adicionar **Vancomicina OU Linezolida**. *(🚨 Ceftazidima/Avibactam NÃO cobre MRSA, precisa associar).*
@@ -48,7 +49,7 @@ publish: true
 *   ⏱️ **Duração do Tratamento:** **7 a 8 dias.** (Não passe disso se boa resposta!). 
 *   *Quando prolongar?* Empiema, abscesso, pneumonite necrotizante.
 
-## 5. PREVENÇÃO: BUNDLE DE PAV (SHEA 2022 - Despenca nas Provas)
+## 5. ==PREVENÇÃO: BUNDLE DE PAV (SHEA 2022 - Despenca nas Provas)
 *As bancas amam cobrar o que "caiu por terra" recentemente.*
 
 ✅ **O QUE FAZER (Alta/Moderada Evidência):**
