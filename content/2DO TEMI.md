@@ -5,11 +5,9 @@ publish: true
 
 [[2Do MOC]]12
 
-
-
-
-- [ ] 
-- [ ] as
+- [ ] [[1 - Intoxicação HCN CO Paracetamol🟡MUTI]]
+- [ ] [[n1 Nutrologia MUTI]]
+- [ ] [[int Nutrologia MUTI
 - [ ] as
 
 ### CV 1
