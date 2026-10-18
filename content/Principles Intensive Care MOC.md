@@ -78,7 +78,8 @@ publish: true
 	- [[Manejo CAD EHH em UTI PPC]]
 	- [[16 Taxin DKA]]
 	- [[16 Taxin DKA flash]]
-- [[Síndrome Compartimental Abdominal (SCA) PCC]]
+- [[42-Davis-Abdominal-Compartment-Syndrome IS3]]
+	- [[Síndrome Compartimental Abdominal (SCA) PCC]]
 	- [[42-Davis-Abdominal-Compartment-Syndrome]]
 	- [[42-Davis-Abdominal-Compartment-Syndrome flash]]
 
@@ -88,4 +89,5 @@ publish: true
 
 
 
-[[12-Shainker Obstetric Emergencies.pdf flash]]
+- [[12-Shainker Obstetric Emergencies IS3]]
+	- [[12-Shainker Obstetric Emergencies.pdf flash]]
