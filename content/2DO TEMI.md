@@ -1,6 +1,10 @@
 ---
 publish: true
 ---
+- [[ICU CHEST MOC]]
+- [[Principles Intensive Care MOC]]
+- [[Critico D & T MOC]]
+
 
 
 [[2Do MOC]]12
