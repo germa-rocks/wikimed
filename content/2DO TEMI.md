@@ -6,6 +6,11 @@ publish: true
 - [[Critico D & T MOC]]
 
 
+scripts +frameworks
+- SITUATION SCRIPT +sistemas
+- MONITORIZATION SCRIPT
+- Support Script + bundles
+
 
 [[2Do MOC]]12
 
