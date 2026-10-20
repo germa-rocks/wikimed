@@ -1,6 +1,9 @@
 ---
 publish: true
 ---
+[[26 - Taquicardias supraventriculares IS3]]
+[[Aula 3 - Coagulopatia na UTI 🟡IS3]]
+
 
 - [[terca 6]]
 - [[6 Doenças Neuromusculares MUTI]]
