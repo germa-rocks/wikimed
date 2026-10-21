@@ -8,6 +8,7 @@ publish: true
 
 scripts +frameworks
 - SITUATION SCRIPT +sistemas
+- Ilness Script (v3)
 - MONITORIZATION SCRIPT
 - Support Script + bundles
 
