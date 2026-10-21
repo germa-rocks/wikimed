@@ -40,6 +40,26 @@ publish: true
 - [[fluxo]]
 - [[casos micro]]
 
+m2a1 lactato metab
+m2a2 lact p1
+m2a3 lact p2
+m2a4 lact p3
+
+m2a5
+m2a6
+m2a7
+m2a8
+
+m2a9
+m2a10
+m2a11
+m2a12
+m2a13
+m2a14
+m2a15
+m2a16
+m2a17
+m2a18
 
 ## Fisio
 - [[2a remast]]
