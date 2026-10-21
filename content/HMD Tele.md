@@ -40,15 +40,15 @@ publish: true
 - [[fluxo]]
 - [[casos micro]]
 
-- [[Lactato HMDTele]]
+- [[Lactato HMDTele MxS1]]
 	- [[Lactato HMDTele]]
-- [[SatvO2 HMDTele]]
+- [[SatvO2 HMDTele MxS1]]
 	- [[SatvO2 HMDTele]]
-- [[gapCO2 HMDTele]]
+- [[gapCO2 HMDTele  MxS1]]
 	- [[gapCO2 HMDTele]]
-- [[gapCO2 indexado HMDTele]]
+- [[gapCO2 indexado HMDTele MxS1]]
 	- [[gapCO2 indexado HMDTele]]
-- [[janelas HMDTele]]
+- [[janelas HMDTele MxS1]]
 	- [[janelas HMDTele]]
 =======
 ### Lactato
