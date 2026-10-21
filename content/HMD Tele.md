@@ -41,15 +41,20 @@ publish: true
 - [[casos micro]]
 
 ### MxS1 Hemodinamica
-- [[Lactato HMDTele MxS1]]
+- [[Lactato HMDTele MxS2]]
+	- [[Lactato HMDTele MxS1]]
 	- [[Lactato HMDTele]]
-- [[SatvO2 HMDTele MxS1]]
+- [[SatvO2 HMDTele MxS2]]
+	- [[SatvO2 HMDTele MxS1]]
 	- [[SatvO2 HMDTele]]
-- [[gapCO2 HMDTele  MxS1]]
+- [[gapCO2 HMDTele  MxS2]]
+	- [[gapCO2 HMDTele  MxS1]]
 	- [[gapCO2 HMDTele]]
-- [[gapCO2 indexado HMDTele MxS1]]
+- [[gapCO2 indexado HMDTele MxS2]]
+	- [[gapCO2 indexado HMDTele MxS1]]
 	- [[gapCO2 indexado HMDTele]]
-- [[janelas HMDTele MxS1]]
+- [[janelas HMDTele MxS2]]
+	- [[janelas HMDTele MxS1]]
 	- [[janelas HMDTele]]
 =======
 ### M2 Flash
