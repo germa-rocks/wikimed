@@ -40,6 +40,7 @@ publish: true
 - [[fluxo]]
 - [[casos micro]]
 
+### MxS1 Hemodinamica
 - [[Lactato HMDTele MxS1]]
 	- [[Lactato HMDTele]]
 - [[SatvO2 HMDTele MxS1]]
@@ -51,7 +52,8 @@ publish: true
 - [[janelas HMDTele MxS1]]
 	- [[janelas HMDTele]]
 =======
-### Lactato
+### M2 Flash
+#### Lactato
 - [[m2a1 lactato metab]]
 - [[m2a2 lact p1]]
 - [[m2a3 lact p2]]
@@ -79,7 +81,6 @@ publish: true
 [[m2a18]]
 
 
->>>>>>> origin/main
 ## Fisio
 - [[2a remast]]
 	- [[2a aula]]
