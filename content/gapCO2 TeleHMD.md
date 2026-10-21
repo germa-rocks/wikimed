@@ -286,3 +286,10 @@ O Gap de CO2 é um **alvo terapêutico** e deve ser avaliado junto com a ScvO2 e
 
 ***
 *Nota: Salve este texto com a extensão `.md` para visualização formatada em qualquer leitor de Markdown.*
+
+### gapCO2
+[[m2a7]]
+[[m2a8]]
+[[m2a9]]
+[[m2a10]]
+[[m2a11]]

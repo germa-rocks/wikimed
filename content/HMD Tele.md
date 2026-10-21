@@ -40,6 +40,17 @@ publish: true
 - [[fluxo]]
 - [[casos micro]]
 
+- [[Lactato HMDTele]]
+	- [[Lactato HMDTele]]
+- [[SatvO2 HMDTele]]
+	- [[SatvO2 HMDTele]]
+- [[gapCO2 HMDTele]]
+	- [[gapCO2 HMDTele]]
+- [[gapCO2 indexado HMDTele]]
+	- [[gapCO2 indexado HMDTele]]
+- [[janelas HMDTele]]
+	- [[janelas HMDTele]]
+=======
 ### Lactato
 - [[m2a1 lactato metab]]
 - [[m2a2 lact p1]]
@@ -68,6 +79,7 @@ publish: true
 [[m2a18]]
 
 
+>>>>>>> origin/main
 ## Fisio
 - [[2a remast]]
 	- [[2a aula]]
