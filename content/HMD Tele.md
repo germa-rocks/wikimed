@@ -41,7 +41,8 @@ publish: true
 - [[casos micro]]
 
 ### MxS1 Hemodinamica
-- [[Lactato HMDTele MxS2]]
+- [[Lactato HMDTele MxS3a]]
+	- [[Lactato HMDTele MxS2]]
 	- [[Lactato HMDTele MxS1]]
 	- [[Lactato HMDTele]]
 - [[SatvO2 HMDTele MxS2]]
