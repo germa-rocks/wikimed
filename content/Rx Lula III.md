@@ -10,7 +10,17 @@ publish: true
 
 ## 1. Síntese Executiva
 
-O material articula uma investigação retrospectiva e prospectiva sobre o governo Lula 3 (projetando o encerramento do mandato rumo ao ciclo eleitoral de 2026). A tese central sustenta que, sob a superfície de indicadores macroeconômicos tradicionalmente populares (queda do desemprego, crescimento do PIB e redução da pobreza), opera uma **engrenagem de alto risco fiscal e institucional**: explosão de gastos primários, inflação no custo de vida de itens básicos, aumento recorde de carga tributária e judicialização sistemática do processo político via Supremo Tribunal Federal (STF) para contornar um Congresso hostil.
+O material articula uma investigação retrospectiva e prospectiva sobre o governo Lula 3 (projetando o encerramento do mandato rumo ao ciclo eleitoral de 2026). 
+
+- A tese central sustenta que, sob a superfície de indicadores macroeconômicos tradicionalmente populares 
+	- (queda do desemprego, 
+	- crescimento do PIB e 
+	- redução da pobreza), 
+- opera uma **engrenagem de alto risco fiscal e institucional**: 
+	- explosão de gastos primários, 
+	- inflação no custo de vida de itens básicos, 
+	- aumento recorde de carga tributária e 
+	- judicialização sistemática do processo político via Supremo Tribunal Federal (STF) para contornar um Congresso hostil.
 
 ---
 
