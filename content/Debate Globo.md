@@ -1,6 +1,8 @@
 ---
 publish: true
 ---
+[[Rx Lula III]]
+
 # Relatório Analítico: Debate Presidencial (2º Turno)
 **Veículo:** TV Globo / Estúdios Globo  
 **Mediação:** César Tralli  
