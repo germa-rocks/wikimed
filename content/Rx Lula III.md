@@ -32,9 +32,15 @@ O material articula uma investigação retrospectiva e prospectiva sobre o gover
   * **Subutilização da Força de Trabalho:** Queda de **18,5%** para **12,9%**.
   * **Desalento:** Queda de **3,7 milhões** para **2,3 milhões** de pessoas.
   * **PIB:** Crescimento médio próximo a **3% ao ano** no primeiro triênio (acima da média histórica brasileira recente de 2,2% e da média global).
-  * **Pobreza e Fome:** Pobreza caiu de **31,6%** para **23,1%**; extrema pobreza recuou de **5,9%** para **3,5%**; saída do Mapa da Fome da ONU (<2,5% da população em subnutrição severa).
+  * **Pobreza e Fome:** 
+	  * Pobreza caiu de **31,6%** para **23,1%**; 
+	  * extrema pobreza recuou de **5,9%** para **3,5%**; 
+	  * saída do Mapa da Fome da ONU (<2,5% da população em subnutrição severa).
 * **O Contraponto Técnico & Percepção Popular:**
-  * **Metodologia de Desemprego:** Argumenta-se que a expansão de programas sociais (Bolsa Família, Pé-de-Meia) retira de 60 a 90 milhões de pessoas da busca ativa por trabalho; pela metodologia do IBGE/PNAD Contínua, quem não busca ativamente não conta como desempregado, gerando escassez artificial de mão de obra de base (construção civil e agro).
+  * **Metodologia de Desemprego:** Argumenta-se que 
+	  * a expansão de programas sociais (Bolsa Família, Pé-de-Meia) retira de 60 a 90 milhões de pessoas da busca ativa por trabalho; 
+	  * pela metodologia do IBGE/PNAD Contínua, quem não busca ativamente não conta como desempregado, 
+	  * gerando escassez artificial de mão de obra de base (construção civil e agro).
   * **A Ruptura na Renda da Classe Média:** Apesar do PIB em alta, pesquisa indica que **42% dos brasileiros relataram piora financeira** pessoal (salto de 23 pontos na percepção de piora em 7 meses), contra 38% que sentiram melhora.
   * **Custo dos Essenciais:** Alta concentrada em alimentos básicos (café, carnes), combustíveis e tarifas de energia elétrica.
 
