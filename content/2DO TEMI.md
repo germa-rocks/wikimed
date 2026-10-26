@@ -1,6 +1,11 @@
 ---
 publish: true
 ---
+
+![[Marc UTI MOC#Infecções por Sítio]]
+
+
+- 
 - [[ICU CHEST MOC]]
 - [[Principles Intensive Care MOC]]
 - [[Critico D & T MOC]]
