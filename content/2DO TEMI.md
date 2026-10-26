@@ -12,6 +12,7 @@ publish: true
 
 
 scripts +frameworks
+- concept script
 - SITUATION SCRIPT +sistemas
 - Ilness Script (v3)
 - MONITORIZATION SCRIPT
