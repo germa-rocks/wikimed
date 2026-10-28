@@ -142,10 +142,10 @@ Aula 17 • Caso clínico 2
 
 
 ## M5
-Elastancia arterial dinamica
+[[Elastancia arterial dinamica CSa]]
 - [[m5a1 Aula 1 Elastancia arterial dinamica p1 flash]]
 - [[m5a2 Aula 2 Elastancia arterial dinamica p2 flash]]
-dPdt
+[[dPdt CSa]]
 - [[m5a3 Aula 3 dPdt flash]]
 PAI conceitos
 - [[m5a4 Aula 4 PAI conceitos flash]]
