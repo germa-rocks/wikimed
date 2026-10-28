@@ -116,15 +116,13 @@ publish: true
 	- [[Aula 8 • O que é pós-carga flash]]
 	- [[Aula 9 • Efeitos da pós-carga na função cardíaca flash]]
 
-- Inotropismo (dP/dt FE efeitos Anrep e Bowditch | alça PV) CSa
+- [[Inotropismo dPdt FE efeitos Anrep e Bowditch | alça PV CSa]]
 	- [[Aula 10 inotropismo dt FE efeitos Anrep e Bowditch flash inc]]
 	- [[Aula 11 • Avaliando o inotropismo na alça PV flash]]
 
-Aula 12 • Interação coração-pulmão (alterações cíclicas PITx VD e VE)
-[[Aula 12 • Interação coração-pulmão (alterações cíclicas PITx VD e VE) flash]]
-
-Aula 13 • Interação coração-pulmão (alterações hemodinâmicas geradas pela ▲PITx)
-[[Aula 13 • Interação coração-pulmão (alterações hemodinâmicas geradas pela ▲PITx) flash]]
+- [[Interação coração-pulmão alterações PITx VD-VE e HMD CSa]]
+	- [[Aula 12 • Interação coração-pulmão (alterações cíclicas PITx VD e VE) flash]]
+	- [[Aula 13 • Interação coração-pulmão (alterações hemodinâmicas geradas pela ▲PITx) flash]]
 
 
 ## 2️⃣ MÓDULO II • Microcirculação avaliação da perfusão e extração de oxigênio
