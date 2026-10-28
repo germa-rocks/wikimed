@@ -140,6 +140,42 @@ Aula 13 • Interação coração-pulmão (alterações hemodinâmicas geradas p
 Aula 13 • Interação coração-pulmão (alterações hemodinâmicas geradas pela ▲PITx)
 
 
+## 2️⃣ MÓDULO II • Microcirculação avaliação da perfusão e extração de oxigênio
+
+Aula 1 • Como é o metabolismo do lactato
+Aula 2 • Por que o lactato se eleva no choque • PARTE 1 DE 2
+Aula 3 • Por que o lactato se eleva no choque • PARTE 2 DE 2
+
+Aula 4 • Lactato: dicas práticas 
+
+Aula 5 • SvO2 e SvcO2: entendendo o parâmetro
+
+Aula 6 • SvO2 e SvcO2: como usar no paciente com choque
+
+Aula 7 • GapCO2: como o CO2 é transportado
+
+Aula 8 • GapCO2: como o O2 influencia o transporte do CO2 efeito Haldane
+
+Aula 9 • GapCO2: relação com débito cardíaco e produção de CO2 pelas células
+
+Aula 10 • GapCO2 no choque
+
+Aula 11 • GapCO2 na sepse
+
+Aula 12 • Quociente respiratório: o que significa
+
+Aula 13 • Quociente respiratório: como calcular
+
+Aula 14 • Quociente respiratório na prática clínica
+
+Aula 15 • Janelas clínicas do choque: cérebro, pele e rins
+
+Aula 16 • Fluxograma de decisão: vamos construir o nosso
+
+Aula 17 • Micro-hemodinâmica: casos clínicos • PARTE 1 DE 2
+
+Aula 18 • Micro-hemodinâmica: casos clínicos • PARTE 2 DE 2
+
 
 ## M3 MÓDULO III • Avaliação da fluidorresponsividade  
   
