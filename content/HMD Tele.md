@@ -147,11 +147,10 @@ Aula 17 • Caso clínico 2
 - [[m5a2 Aula 2 Elastancia arterial dinamica p2 flash]]
 [[dPdt CSa]]
 - [[m5a3 Aula 3 dPdt flash]]
-PAI conceitos
+[[PAI conceitos CSa]]
 - [[m5a4 Aula 4 PAI conceitos flash]]
-Componentes PA
 - [[m5a5 Aula 5 Componentes PA flash]]
-Aval HMD curva PAI
+[[Aval HMD curva PAI CSa]]
 - [[m5a6 Aula 6 Aval HMD curva PAI flash]]
 - [[m5a7 Aula 7 DC curva PAI p1 flash]]
 - [[m5a8 Aula 8 DC curva PAI p2 flash]]
