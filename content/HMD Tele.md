@@ -139,3 +139,19 @@ Aula 14 • PAPI índice de pulsatilidade da artéria pulmonar
 Aula 15 • Classificação da hipertensão arterial pulmonar pelo Swan-Ganz
 Aula 16 • Resolução do caso clínico 1: CPO e índice de trabalho sistólico
 Aula 17 • Caso clínico 2
+
+
+## M5
+Elastancia arterial dinamica
+- [[m5a1 Aula 1 Elastancia arterial dinamica p1 flash]]
+- [[m5a2 Aula 2 Elastancia arterial dinamica p2 flash]]
+dPdt
+- [[m5a3 Aula 3 dPdt flash]]
+PAI conceitos
+- [[m5a4 Aula 4 PAI conceitos flash]]
+Componentes PA
+- [[m5a5 Aula 5 Componentes PA flash]]
+Aval HMD curva PAI
+- [[m5a6 Aula 6 Aval HMD curva PAI flash]]
+- [[m5a7 Aula 7 DC curva PAI p1 flash]]
+- [[m5a8 Aula 8 DC curva PAI p2 flash]]
