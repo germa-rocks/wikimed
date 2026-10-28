@@ -101,43 +101,45 @@ publish: true
 ## 1️⃣ MÓDULO I • Revisão de Fisiologia Cardiovascular
 
 Aula 1 • Ciclo cardíaco
-Aula 1 • Ciclo cardíaco
+[[Aula 1 • Ciclo cardíaco flash inc]]
 
-Aula 2 • Alça pressão-volume: ciclo cardíaco e relação pressão-volume diastólico final
-Aula 2 • Alça pressão-volume: ciclo cardíaco e relação pressão-volume diastólico final
+Aula 2 • Alça PV - ciclo cardíaco e relação P x VDF
+[[Aula 2 • Alça PV - ciclo cardíaco e relação P x VDF flash in]]
 
+Aula 3 • Alça PV - relação P x VSF e Elastância Arterial
+[[Aula 3 • Alça PV - relação P x VSF e Elastância Arterial flash]]
 Aula 3 • Alça pressão-volume: relação pressão-volume sistólica final e elastância arterial
-Aula 3 • Alça pressão-volume: relação pressão-volume sistólica final e elastância arterial
 
-Aula 4 • Retorno venoso e pré-carga: como ocorre o retorno venoso
+Aula 4 • Retorno venoso e pré-carga - como ocorre o RV
+[[Aula 4 • Retorno venoso e pré-carga - como ocorre o RV flash]]
 Aula 4 • Retorno venoso e pré-carga: como ocorre o retorno venoso
 
-Aula 5 • Retorno venoso e pré-carga: o que é volume estressado e não estressado
-Aula 5 • Retorno venoso e pré-carga: o que é volume estressado e não estressado
+Aula 5 • Retorno venoso e pré-carga - volume estressado e não estressado
+[[Aula 5 • Retorno venoso e pré-carga - volume estressado e não estressado flash inc]]
 
 Aula 6 • Retorno venoso e pré-carga no choque
-Aula 6 • Retorno venoso e pré-carga no choque
+[[Aula 6 • Retorno venoso e pré-carga no choque flash]]
 
 Aula 7 • Mecanismo de Frank-Starling e sua importância para fluidorresponsividade
-Aula 7 • Mecanismo de Frank-Starling e sua importância para fluidorresponsividade
+[[Aula 7 • Mecanismo de Frank-Starling e sua importância para fluidorresponsividade flash]]
 
 Aula 8 • O que é pós-carga
-Aula 8 • O que é pós-carga
+[[Aula 8 • O que é pós-carga flash]]
 
 Aula 9 • Efeitos da pós-carga na função cardíaca
-Aula 9 • Efeitos da pós-carga na função cardíaca
+[[Aula 9 • Efeitos da pós-carga na função cardíaca flash]]
 
-Aula 10 • Inotropismo: definição, dP/dt, fração de ejeção e efeitos Anrep e Bowditch
-Aula 10 • Inotropismo: definição, dP/dt, fração de ejeção e efeitos Anrep e Bowditch
+Aula 10 • Inotropismo (dP/dt FE efeitos Anrep e Bowditch)
+[[Aula 10 • Inotropismo (dP/dt FE efeitos Anrep e Bowditch) flash inc]]
 
 Aula 11 • Avaliando o inotropismo na alça PV
-Aula 11 • Avaliando o inotropismo na alça PV
+[[Aula 11 • Avaliando o inotropismo na alça PV flash]]
 
 Aula 12 • Interação coração-pulmão (alterações cíclicas PITx VD e VE)
-Aula 12 • Interação coração-pulmão (alterações cíclicas PITx VD e VE)
+[[Aula 12 • Interação coração-pulmão (alterações cíclicas PITx VD e VE) flash]]
 
 Aula 13 • Interação coração-pulmão (alterações hemodinâmicas geradas pela ▲PITx)
-Aula 13 • Interação coração-pulmão (alterações hemodinâmicas geradas pela ▲PITx)
+[[Aula 13 • Interação coração-pulmão (alterações hemodinâmicas geradas pela ▲PITx) flash]]
 
 
 ## 2️⃣ MÓDULO II • Microcirculação avaliação da perfusão e extração de oxigênio
