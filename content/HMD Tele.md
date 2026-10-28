@@ -97,6 +97,50 @@ publish: true
 
 ----
 
+
+## 1️⃣ MÓDULO I • Revisão de Fisiologia Cardiovascular
+
+Aula 1 • Ciclo cardíaco
+Aula 1 • Ciclo cardíaco
+
+Aula 2 • Alça pressão-volume: ciclo cardíaco e relação pressão-volume diastólico final
+Aula 2 • Alça pressão-volume: ciclo cardíaco e relação pressão-volume diastólico final
+
+Aula 3 • Alça pressão-volume: relação pressão-volume sistólica final e elastância arterial
+Aula 3 • Alça pressão-volume: relação pressão-volume sistólica final e elastância arterial
+
+Aula 4 • Retorno venoso e pré-carga: como ocorre o retorno venoso
+Aula 4 • Retorno venoso e pré-carga: como ocorre o retorno venoso
+
+Aula 5 • Retorno venoso e pré-carga: o que é volume estressado e não estressado
+Aula 5 • Retorno venoso e pré-carga: o que é volume estressado e não estressado
+
+Aula 6 • Retorno venoso e pré-carga no choque
+Aula 6 • Retorno venoso e pré-carga no choque
+
+Aula 7 • Mecanismo de Frank-Starling e sua importância para fluidorresponsividade
+Aula 7 • Mecanismo de Frank-Starling e sua importância para fluidorresponsividade
+
+Aula 8 • O que é pós-carga
+Aula 8 • O que é pós-carga
+
+Aula 9 • Efeitos da pós-carga na função cardíaca
+Aula 9 • Efeitos da pós-carga na função cardíaca
+
+Aula 10 • Inotropismo: definição, dP/dt, fração de ejeção e efeitos Anrep e Bowditch
+Aula 10 • Inotropismo: definição, dP/dt, fração de ejeção e efeitos Anrep e Bowditch
+
+Aula 11 • Avaliando o inotropismo na alça PV
+Aula 11 • Avaliando o inotropismo na alça PV
+
+Aula 12 • Interação coração-pulmão (alterações cíclicas PITx VD e VE)
+Aula 12 • Interação coração-pulmão (alterações cíclicas PITx VD e VE)
+
+Aula 13 • Interação coração-pulmão (alterações hemodinâmicas geradas pela ▲PITx)
+Aula 13 • Interação coração-pulmão (alterações hemodinâmicas geradas pela ▲PITx)
+
+
+
 ## M3 MÓDULO III • Avaliação da fluidorresponsividade  
   
 Aula 1 • Conceitos fundamentais
