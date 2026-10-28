@@ -116,7 +116,7 @@ publish: true
 	- [[Aula 8 • O que é pós-carga flash]]
 	- [[Aula 9 • Efeitos da pós-carga na função cardíaca flash]]
 
-- [[Inotropismo dPdt FE efeitos Anrep e Bowditch | alça PV CSa]]
+- [[Inotropismo dPdt FE efeitos Anrep e Bowditch]]
 	- [[Aula 10 inotropismo dt FE efeitos Anrep e Bowditch flash inc]]
 	- [[Aula 11 • Avaliando o inotropismo na alça PV flash]]
 
