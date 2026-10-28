@@ -117,7 +117,7 @@ publish: true
 	- [[Aula 9 • Efeitos da pós-carga na função cardíaca flash]]
 
 - Inotropismo (dP/dt FE efeitos Anrep e Bowditch | alça PV) CSa
-	- ==[[Aula 10 • Inotropismo (dP/dt FE efeitos Anrep e Bowditch) flash inc]]
+	- [[10 dt FE efeitos Anrep e Bowditch flash inc]]
 	- [[Aula 11 • Avaliando o inotropismo na alça PV flash]]
 
 Aula 12 • Interação coração-pulmão (alterações cíclicas PITx VD e VE)
