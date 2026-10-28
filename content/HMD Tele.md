@@ -99,14 +99,30 @@ publish: true
 
 ## M3 MÓDULO III • Avaliação da fluidorresponsividade  
   
-Aula 1 • Conceitos fundamentais  
+Aula 1 • Conceitos fundamentais
+Aula 1 • Conceitos fundamentais
+
 Aula 2 • ΔPP e VVS: como avaliam a fluidorresponsividade  
+Aula 2 • ΔPP e VVS: como avaliam a fluidorresponsividade  
+
 Aula 3 • ΔPP: como calcular no seu monitor multiparamétrico  
+Aula 3 • ΔPP: como calcular no seu monitor multiparamétrico  
+
 Aula 4 • ΔPP e VVS: quais as suas limitações  
+Aula 4 • ΔPP e VVS: quais as suas limitações  
+
 Aula 5 • Desafio do volume corrente e teste da oclusão expiratória  
+Aula 5 • Desafio do volume corrente e teste da oclusão expiratória  
+
 Aula 6 • Elevação passiva dos membros inferiores: conceitos fundamentais  
+Aula 6 • Elevação passiva dos membros inferiores: conceitos fundamentais  
+
 Aula 7 • Elevação passiva dos membros inferiores com a pletismografia: o que é a PI  
+Aula 7 • Elevação passiva dos membros inferiores com a pletismografia: o que é a PI  
+
 Aula 8 • Elevação passiva dos membros inferiores com pletismografia na prática  
+Aula 8 • Elevação passiva dos membros inferiores com pletismografia na prática  
+
 Aula 9 • Elevação passiva dos membros inferiores com uso da capnografia
 
 
