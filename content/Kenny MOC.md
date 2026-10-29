@@ -108,7 +108,7 @@ publish: true
 - [[aula E Cardiac output & trouble-shooting flash]]
 
 
-Chapter 8: Dynamic Means of Cardiovascular Monitoring
+#### Chapter 8: Dynamic Means of Cardiovascular Monitoring
 A: Functional hemodynamic monitoring
 B: Dynamic LV output and pulse pressure variation in passive ventilated pt
 C: Caveats to 8B!
