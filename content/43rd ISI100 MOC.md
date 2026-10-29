@@ -38,6 +38,8 @@ publish: true
 	- [[0 3945 SHOCK THE BASICS flash]]
 - [[Integração de Variáveis Hemodinâmicas no Choque ISICEM]]
 	- [[0 4035 HOW TO INTEGRATE HEMODYNAMIC VARIABLES]]
+	- [[0 4035 HOW TO INTEGRATE HEMODYNAMIC VARIABLES]]
+	- ==[[4035 Integração Hemodinâmica Avançada]]
 - [[Monitorização Hemodinâmica e Manejo do Choque ISICEM]]
 	- [[0 4061 WHAT HEMODYNAMIC MONITORING IN THIS]]
 
@@ -46,13 +48,16 @@ publish: true
 
 - [[Fisiologia Cardiovascular Essencial no Manejo do Paciente Crítico ISICEM]]
 	- [[0 4021 EVERYTHING YOUVE ALWAYS WANTED TO]]
-	- ==[[Hemodynamic Physiology ISICEM Flash]]
+	- ==[[4021 Hemodynamic Physiology ISICEM Flash]]
 - [[Hemodinâmica Perioperatória e Risco Cirúrgico ISICEM]]
 	- [[4055 PERIOPERATIVE HEMODYNAMICS.pdf]]
 
 - [[Otimização Vasopressores na UTI ISICEM]]
 	- [[3948 IMPROVING VASOPRESSOR USE ISICEM]]
 	- [[3948 IMPROVING VASOPRESSOR USE.pdf]]
+	- [[3948 Otimização Vasopressores (Da Macrocirculação ao AVA) ISICEM Flash]]
+
+
 [[4006 THE NEED TO MONITOR CARDIAC OUTPUT.pdf]]
 
 
