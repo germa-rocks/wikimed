@@ -25,10 +25,13 @@ publish: true
 ### Chapter 2: Cardiovascular Physiology
 - [[A Venous Return]]
 	- [[aula 2a]]
+	- [[aula 2a venous return flash]]
 - [[B Cardiac Function]]
 	- [[aula 2b card]]
+	- [[aula 2b card funcion flash]]
 - [[C Integration of cardiovascular & cardio-respiratory phys]]
 	- [[aula 2c]]
+	- [[aula 2c CV Rp integration flash]]
 
 ### 3 Heart-Lung Interactions in Health
 - [[A Lung Volume Effects]]
