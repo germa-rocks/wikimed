@@ -109,7 +109,7 @@ publish: true
 	- [[Aula 4 • Retorno venoso e pré-carga - como ocorre o RV flash]]
 	- ==[[Aula 5 • Retorno venoso e pré-carga - volume estressado e não estressado flash inc]]
 	- [[Aula 6 • Retorno venoso e pré-carga no choque flash]]
-- [[Frank-Starling e sua importância para fluidorresponsividade CSa]]
+- [ ] [[Frank-Starling e sua importância para fluidorresponsividade CSa]]
 	- [[Aula 7 • Mecanismo de Frank-Starling e sua importância para fluidorresponsividade flash]]
 
 - [[pós carga CSa]]

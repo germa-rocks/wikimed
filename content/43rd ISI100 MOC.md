@@ -24,7 +24,7 @@ publish: true
 	- ==[[4085 VM Personalizada SDRA ESICEM Flash]]
 - [[Proteção Pulmonar Focada na Tensão VILI e Mecânica Avançada]]
 	- [[4113 LUNG PROTECTION FOCUSED ON TENSION]]
-	- [[4113 LUNG PROTECTION FOCUSED ON TENSION flash]]
+	- ==[[4113 LUNG PROTECTION FOCUSED ON TENSION flash]]
 
 
 ## CV
