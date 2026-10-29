@@ -36,14 +36,19 @@ publish: true
 ### 3 Heart-Lung Interactions in Health
 - [[A Lung Volume Effects]]
 	- [[aula 3a A Lung Volume Effects]]
+	- [[aula 3a A Lung Volume Effects flash]]
 - [[B Effects of Decreased Intra-Thoracic Pressure]]
 	- [[aula 3b Decreased Intra-Thoracic P]]
+	- [[aula 3b Decreased Intra-Thoracic P flash]]
 - [[C Effects of Spontaneous Ventilation]]
 	- [[3c Spontaneous aula]]
+	- [[3c Spontaneous Vent flash]]
 - [[D Effects of Increased Intra-Thoracic Pressure]]
 	- [[3d Increased IntraTh P aula]]
+	- [[3d Increased IntraTh P flash]]
 - [[E Effects of Intermittent Positive Pressure Ventilation without PEEP]]
 	- [[3e PEEP aula]]
+	- [[3e VNI sem PEEP flash]]
 
 ### 4 Heart-Lung Interactions in Sickness
 - [[A Ventilation as Exercise]]
