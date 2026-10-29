@@ -93,14 +93,19 @@ publish: true
 ### Chapter 7: The Pulmonary Artery Catheter
 [[A The anatomy of the pulmonary artery catheter]]
 - [[aula A The anatomy of the pulmonary artery catheter]]
+- [[aula A PAC Anatomy flash]]
 [[B The central venous pressure re-visited]]
 - [[aula B The central venous pressure re-visited]]
+- [[aula B CVP re-visited flash]]
 [[C Pulmonary artery pressure and pulmonary vascular resistance]]
 - [[aula C Pulmonary artery pressure and pulmonary vascular resistance]]
+- [[aula C PAP and PVR flash]]
 [[D Pulmonary artery occlusion pressure & pulmonary capillary pressure]]
-[[aula D Pulmonary artery occlusion pressure & pulmonary capillary pressure]]
+- [[aula D Pulmonary artery occlusion pressure & pulmonary capillary pressure]]
+- [[aula D PAOP & pulmonary capillary pressure flash]]
 [[E Cardiac output & trouble-shooting]]
-[[aula E Cardiac output & trouble-shooting]]
+- [[aula E Cardiac output & trouble-shooting]]
+- [[aula E Cardiac output & trouble-shooting flash]]
 
 
 Chapter 8: Dynamic Means of Cardiovascular Monitoring
