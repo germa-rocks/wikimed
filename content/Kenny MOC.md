@@ -7,14 +7,19 @@ publish: true
 ### Chapter 1: Mechanics o f Ventilation
 - [[A Static Respiratory Pressure]]
 	- [[aula 1a Pleural Pressure]]
+	- [[aula 1a Pleural Pressure flash]]
 - [[B Dynamic Respiratory Pressure]]
 	- [[aula 2b Respiratory]]
+	- [[aula 2b Respiratory flash]]
 - [[C Work of Breathing]]
 	- [[aula 1c Working of Breathing]]
+	- [[aula 1c Working of Breathing flash]]
 - [[D Pressures and Mechanical Ventilation]]
 	- [[aula 1d Pressures]]
+	- [[aula 1d Pressures flash]]
 - [[E Auto-PEEP]]
 	- [[aula 1e]]
+	- [[aula 1e autopeep flash]]
 
 
 ### Chapter 2: Cardiovascular Physiology
