@@ -40,13 +40,13 @@ publish: true
 	- [[0 4035 HOW TO INTEGRATE HEMODYNAMIC VARIABLES]]
 - [[Monitorização Hemodinâmica e Manejo do Choque ISICEM]]
 	- [[0 4061 WHAT HEMODYNAMIC MONITORING IN THIS]]
-	- [[Hemodynamic Physiology ISICEM Flash]]
+
 
 ---
 
 - [[Fisiologia Cardiovascular Essencial no Manejo do Paciente Crítico ISICEM]]
 	- [[0 4021 EVERYTHING YOUVE ALWAYS WANTED TO]]
-
+	- ==[[Hemodynamic Physiology ISICEM Flash]]
 - [[Hemodinâmica Perioperatória e Risco Cirúrgico ISICEM]]
 	- [[4055 PERIOPERATIVE HEMODYNAMICS.pdf]]
 
