@@ -70,8 +70,10 @@ publish: true
 ### 5: Physiology of Extubation Failure
 - [[A Obstructed lung physiology]]
 	- [[aula A Obstructed lung physiology]]
+	- [[aula A Obstructed lung physiology flash]]
 - [[B Congested lung physiology]]
 	- [[aula B Congested lung physiology]]
+	- [[aula B Congested lung physiology flash]]
 
 ### Chapter 6: The Central Venous Pressure
 - [[A CVP Measurement]]
