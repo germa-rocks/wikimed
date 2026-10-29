@@ -72,6 +72,7 @@ publish: true
 	- [[4078 HOW TO MONITOR CAPILLARY REFILL TIME IN.pdf]]
 - [[Pressão Sistêmica Média (Pms) e Retorno Venoso ISICEM]]
 	- [[4077 MEASUREMENT OF MEAN SYSTEMIC FILLING.m4a]]
+	- ==[[4077 Mensuração da Pressão Média de Enchimento Sistêmico ISICEM Flash]]
 
 
 ## hem
