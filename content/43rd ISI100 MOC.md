@@ -35,10 +35,12 @@ publish: true
 
 - [[Avaliação e Manejo Hemodinâmico do Choque ISICEM]]
 	- [[0 3945 SHOCK THE BASICS]]
+	- [[0 3945 SHOCK THE BASICS flash]]
 - [[Integração de Variáveis Hemodinâmicas no Choque ISICEM]]
 	- [[0 4035 HOW TO INTEGRATE HEMODYNAMIC VARIABLES]]
 - [[Monitorização Hemodinâmica e Manejo do Choque ISICEM]]
 	- [[0 4061 WHAT HEMODYNAMIC MONITORING IN THIS]]
+	- [[Hemodynamic Physiology ISICEM Flash]]
 
 ---
 
