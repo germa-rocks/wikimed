@@ -42,6 +42,7 @@ publish: true
 	- ==[[4035 Integração Hemodinâmica Avançada]]
 - [[Monitorização Hemodinâmica e Manejo do Choque ISICEM]]
 	- [[0 4061 WHAT HEMODYNAMIC MONITORING IN THIS]]
+	- ==[[4061 Monitorização Hemodinâmica (Do Básico à TDTP) ISICEM Flash]]
 
 
 ---
@@ -51,11 +52,12 @@ publish: true
 	- ==[[4021 Hemodynamic Physiology ISICEM Flash]]
 - [[Hemodinâmica Perioperatória e Risco Cirúrgico ISICEM]]
 	- [[4055 PERIOPERATIVE HEMODYNAMICS.pdf]]
+	- ==[[4055 Hemodinâmico Perioperatório ISICEM Flash]]
 
 - [[Otimização Vasopressores na UTI ISICEM]]
 	- [[3948 IMPROVING VASOPRESSOR USE ISICEM]]
 	- [[3948 IMPROVING VASOPRESSOR USE.pdf]]
-	- [[3948 Otimização Vasopressores (Da Macrocirculação ao AVA) ISICEM Flash]]
+	- ==[[3948 Otimização Vasopressores (Da Macrocirculação ao AVA) ISICEM Flash]]
 
 
 [[4006 THE NEED TO MONITOR CARDIAC OUTPUT.pdf]]
