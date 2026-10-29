@@ -48,7 +48,7 @@ publish: true
 	- [[3d Increased IntraTh P flash]]
 - [[E Effects of Intermittent Positive Pressure Ventilation without PEEP]]
 	- [[3e PEEP aula]]
-	- [[3e VNI sem PEEP flash]]
+	- [[3e ZEEP flash]]
 
 ### 4 Heart-Lung Interactions in Sickness
 - [[A Ventilation as Exercise]]
