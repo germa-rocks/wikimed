@@ -65,6 +65,7 @@ publish: true
 
 - [[Tônus Arterial Acoplamento Ventrículo-Arterial]]
 	- [[4073 HOW TO ASSESS ARTERIAL TONE AT THE BED]]
+	- ==[[4073 Aval Tônus Arterial e Acoplamento Ventrículo-Arterial ISICEM Flash]]
 - [[Choque e Terapia Vasopressora Manejo Clínico ISICEM]]
 	- [[4127 VASOPRESSOR THERAPY.pdf]]
 - [[Monitoramento TEC no Choque Séptico ISICEM]]
