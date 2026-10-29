@@ -100,12 +100,12 @@ publish: true
 
 ## 1️⃣ MÓDULO I • Revisão de Fisiologia Cardiovascular
 
-- [[1 • Ciclo cardíaco CSa]]
+- [ ] [[1 • Ciclo cardíaco CSa]]
 	- ==[[Aula 1 • Ciclo cardíaco flash inc]]
-- [[Alça PV CSa]]
+- [ ] [[Alça PV CSa]]
 	- ==[[Aula 2 • Alça PV - ciclo cardíaco e relação P x VDF flash in]]
 	- [[Aula 3 • Alça PV - relação P x VSF e Elastância Arterial flash]]
-- [[RV CSa]]
+- [ ] [[RV CSa]]
 	- [[Aula 4 • Retorno venoso e pré-carga - como ocorre o RV flash]]
 	- ==[[Aula 5 • Retorno venoso e pré-carga - volume estressado e não estressado flash inc]]
 	- [[Aula 6 • Retorno venoso e pré-carga no choque flash]]
