@@ -5,23 +5,26 @@ publish: true
 ## Rp
 - [[Proteção Pulmonar e Manejo da SDRA (ARDS) ISICEM]]
 	- [[3965 LUNG PROTECTION]]
-	- [[3965 LUNG PROTECTION flash]]
+	- ==[[3965 LUNG PROTECTION flash]]
 - [[Otimização da PEEP na SDRA Guia Prático Beira-Leit ISICEM]]
 	- [[3964 PEEP OPTIMIZATION]]
-	- [[3964 PEEP OPTIMIZATION flash]]
+	- ==[[3964 PEEP OPTIMIZATION flash]]
 
 - [[VM Avançado Mechanical Power e Prevenção de VILI (SARA)]]
 	- [[4051 USING MECHANICAL POWER AT THE BEDSIDE]]
-	- [[4051 USING MECHANICAL POWER flash]]
+	- ==[[4051 USING MECHANICAL POWER flash]]
 - [[VM Protetora na SDRA Pressão de Distensão (Driving Pressure)]]
 	- [[4080 DRIVING PRESSURE]]
-	- [[4080 DRIVING PRESSURE flash]]
+	- ==[[4080 DRIVING PRESSURE flash]]
 - [[Fisiologia Basica Drive vs. Esforco Respiratorio]]
 	- [[4083 RESPIRATORY DRIVE AND EFFORT]]
+	- ==[[4083 RESPIRATORY DRIVE AND EFFORT flash]]
 - [[Manejo Ventilatório Individualizado na SDRA (Síndrome do Desconforto Respiratório Agudo)]]
 	- [[4085 INDIVIDUALIZING VENTILATOR MANAGE]]
+	- ==[[4085 VM Personalizada SDRA ESICEM Flash]]
 - [[Proteção Pulmonar Focada na Tensão VILI e Mecânica Avançada]]
 	- [[4113 LUNG PROTECTION FOCUSED ON TENSION]]
+	- [[4113 LUNG PROTECTION FOCUSED ON TENSION flash]]
 
 
 ## CV
