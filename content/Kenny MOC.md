@@ -78,12 +78,16 @@ publish: true
 ### Chapter 6: The Central Venous Pressure
 - [[A CVP Measurement]]
 	- [[aula A CVP Measurement]]
+	- [[aula A CVP Measurement flash]]
 - [[B CVP Determinants]]
 	- [[aula B CVP Determinants]]
+	- [[aula B CVP Determinants flash]]
 - [[C CVP Dynamic Assessments]]
 	- [[aula C CVP Dynamic Assessments]]
+	- [[aula C CVP Dynamic Assessments flash]]
 - [[D CVP and the IVC]]
 	- [[aula D CVP and the IVC]]
+	- [[aula D CVP and the IVC flash]]
 
 
 ### Chapter 7: The Pulmonary Artery Catheter
