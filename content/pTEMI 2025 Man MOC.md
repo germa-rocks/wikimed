@@ -102,9 +102,11 @@ publish: true
 ## Politrauma
 - [[O Paciente Vítima de Trauma na UTI e Emergência]]
 	- [[MODULO 17 - Trauma na UTI 1]]
+	- [[MODULO 17 - Trauma na UTI 1 flash]]
 
 - [[Vítima de Trauma na UTI (Primeiras 24-48h)]]
 	- [[MODULO 17 - Trauma na UTI 2]]
+	- [[MODULO 17 - Trauma na UTI 2 flash]]
 
 ## INtoxicação
 - [[INTOXICAÇÕES pTEMI]]
