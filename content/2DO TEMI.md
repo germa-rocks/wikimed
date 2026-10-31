@@ -1,6 +1,10 @@
 ---
 publish: true
 ---
+mINT Trauma flash
+MODULO 17 - Trauma na UTI 1 flash
+MODULO 17 - Trauma na UTI 2 flash
+
 
 ![[Marc UTI MOC#Infecções por Sítio]]
 
