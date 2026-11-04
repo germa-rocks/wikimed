@@ -149,31 +149,33 @@ Aula 18 • Micro-hemodinâmica: casos clínicos • PARTE 2 DE 2
 ## M3 MÓDULO III • Avaliação da fluidorresponsividade  
   
 Aula 1 • Conceitos fundamentais
-Aula 1 • Conceitos fundamentais
+[[Aula 1 • Conceitos fundamentais flash]]
 
-Aula 2 • ΔPP e VVS: como avaliam a fluidorresponsividade  
-Aula 2 • ΔPP e VVS: como avaliam a fluidorresponsividade  
+Aula 2 • ΔPP e VVS como avaliam a fluidorresponsividade  
+[[Aula 2 • ΔPP e VVS como avaliam a fluidorresponsividade  flash]]
 
 Aula 3 • ΔPP: como calcular no seu monitor multiparamétrico  
-Aula 3 • ΔPP: como calcular no seu monitor multiparamétrico  
+[[Aula 3 • ΔPP como calcular no seu monitor multiparamétrico  flash]]
 
-Aula 4 • ΔPP e VVS: quais as suas limitações  
-Aula 4 • ΔPP e VVS: quais as suas limitações  
+Aula 4 • ΔPP e VVS quais as suas limitações  
+[[Aula 4 • ΔPP e VVS quais as suas limitações  flash]]
+
+----
 
 Aula 5 • Desafio do volume corrente e teste da oclusão expiratória  
-Aula 5 • Desafio do volume corrente e teste da oclusão expiratória  
+[[Aula 5 • Desafio do volume corrente e teste da oclusão expiratória  flash]]
 
 Aula 6 • Elevação passiva dos membros inferiores: conceitos fundamentais  
-Aula 6 • Elevação passiva dos membros inferiores: conceitos fundamentais  
+[[Aula 6 • Elevação passiva dos membros inferiores conceitos fundamentais  flash]]
 
-Aula 7 • Elevação passiva dos membros inferiores com a pletismografia: o que é a PI  
-Aula 7 • Elevação passiva dos membros inferiores com a pletismografia: o que é a PI  
+Aula 7 • Elevação passiva dos membros inferiores com a pletismografia o que é a PI  
+[[Aula 7 • Elevação passiva dos membros inferiores com a pletismografia o que é a PI  flash]]
 
 Aula 8 • Elevação passiva dos membros inferiores com pletismografia na prática  
-Aula 8 • Elevação passiva dos membros inferiores com pletismografia na prática  
+[[Aula 8 • Elevação passiva dos membros inferiores com pletismografia na prática  flash]]
 
 Aula 9 • Elevação passiva dos membros inferiores com uso da capnografia
-
+[[Aula 9 • Elevação passiva dos membros inferiores com uso da capnografia flash]]
 
 
 ## 4️⃣ MÓDULO IV • Cateter de Swan-Ganz
