@@ -1,19 +1,30 @@
 ---
 publish: true
 ---
-- 
+
+- [ ] colocar🔴 🟡 no MarcUTI
+- [ ] cruzar com Sumário mAMIB → direcionar prioridades processamento via Studio
+- [ ] 
+
+
 - **Cluster A — Pressões & Curvas Vasculares:** Aula 7 (PAI 🔴), Aula 10 (PVC 🔴), Aula 20 (Cateter de Artéria Pulmonar / Swan-Ganz).
 - [ ] [[1. Traçados de Pressão Atrial - Ondas e Descensos]]
 - [ ] [[Morfologia da Curva de PVC x Patologia]]
 - [ ] [[Morfologia da Curva de PVC Matriz DDx]]
 
 - **Cluster B — Testes Funcionais & Interação Coração-Pulmão:** 
-Aula 9 (VPP 🔴), 
-Aula 12 (Teste de Oclusão Expiratória - TFOE 🟡),
-Aula 14 (Passive Leg Raising - PLR 🔴), 
-Aula 18 (Aplicação Prática de Fluidoresponsividade e Fluidotolerância 🔴).
+	- Aula 9 (VPP 🔴), 
+	- Aula 12 (Teste de Oclusão Expiratória - TFOE 🟡),
+	- Aula 14 (Passive Leg Raising - PLR 🔴), 
+	- Aula 18 (Aplicação Prática de Fluidoresponsividade e Fluidotolerância 🔴).
 
-- **Cluster C — Métodos de Débito Cardíaco, Termodiluição & Fluxo:** Aula 11 (DC por Contorno de Pulso e VVS 🟡), Aula 13 (Bioimpedância e Biorreatância 🔴), Aula 15 (DC pelo Ecocardiograma 🔴), Aula 16 (Doppler Esofágico 🟡), Aula 17 (Princípio de Fick e Termodiluição 🟡), Aula 19 (Aplicações da Termodiluição Transpulmonar - TDTP 🔴).
+- **Cluster C — Métodos de Débito Cardíaco, Termodiluição & Fluxo:**
+	- Aula 11 (DC por Contorno de Pulso e VVS 🟡), 
+	- Aula 13 (Bioimpedância e Biorreatância 🔴), 
+	- Aula 15 (DC pelo Ecocardiograma 🔴), 
+	- Aula 16 (Doppler Esofágico 🟡), 
+	- Aula 17 (Princípio de Fick e Termodiluição 🟡), 
+	- Aula 19 (Aplicações da Termodiluição Transpulmonar - TDTP 🔴).
 
 
 mINT Trauma flash

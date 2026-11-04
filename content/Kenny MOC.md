@@ -4,7 +4,7 @@ publish: true
 
 ## Kenny
 
-### Chapter 1: Mechanics o f Ventilation
+### Chapter 1: Mechanics of Ventilation
 - [[A Static Respiratory Pressure]]
 	- [[aula 1a Pleural Pressure]]
 	- [[aula 1a Pleural Pressure flash]]
