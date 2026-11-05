@@ -2,6 +2,11 @@
 publish: true
 ---
 
+- [ ] [[6.Postpartum Hemorrhage HarvEm26 IS3aObs]]
+- [ ] [[Obstetric Emergencies IS3a]]
+
+------
+
 - [ ] colocar🔴 🟡 no MarcUTI
 - [ ] cruzar com Sumário mAMIB → direcionar prioridades processamento via Studio
 - [ ] 
