@@ -3,21 +3,32 @@ publish: true
 ---
 # 🎯 1. INFECÇÃO PELO HIV NA UTI, TARV, SIRI & PEP
 
-O sucesso no manejo do paciente com HIV na Unidade de Terapia Intensiva depende do diagnóstico rápido, da identificação precisa do nível de imunodepressão via CD4 e do respeito rigoroso aos momentos ideais (timing) para o início de antimicrobianos, corticoterapia e TARV.
+- **Estratificar** a gravidade e o risco de infecções oportunistas com base na contagem de linfócitos T-CD4+ e nos fenótipos clínicos de chegada;
+- **Executar** o algoritmo de diagnóstico rápido à beira do leito utilizando testes rápidos e biomarcadores;
+- **Manejar** com precisão as principais emergências oportunistas (PCP, Neurotoxoplasmose e Meningite Criptocócica), aplicando doses e esquemas farmacológicos exatos;
+- **Determinar** o momento ideal (timing) para o início da Terapia Antirretroviral (TARV) e da Profilaxia Pós-Exposição (PEP);
+- **Reconhecer** e **evitar** condutas contraindicadas e iatrogenias fatais na fase aguda
+
+
+O sucesso no manejo do paciente com HIV na Unidade de Terapia Intensiva depende do diagnóstico rápido, da 
+- identificação precisa do ==🟡nível de imunodepressão via CD4== e 
+- do respeito rigoroso aos momentos ideais (==🟡timing==) para o início de antimicrobianos, corticoterapia e TARV.
 
 **Pontos Chave de Aprendizado:**
 
 - **PCP Grave (**$PaO_2 < 70$ **ou** $P(A-a)O_2 \ge 35$**):** A corticoidoterapia adjuvante (Prednisona/Metilprednisolona) é OBRIGATÓRIA antes ou junto do SMX-TMP para prevenir a deterioração por lise fúngica nas primeiras 24-72h;
 - **Meningite Criptocócica:** Tratada na indução com Anfotericina B Lipossomal + Flucitosina. A Hipertensão Intracraniana é controlada com punções lombares de alívio seriadas (jamais manitol ou corticoides). **Adie a TARV obrigatoriamente por 4 a 6 semanas** para evitar SIRI fatal. Equinocandinas NÃO têm ação contra o Criptococo;
-- **Neurotoxoplasmose:** Causa #1 de massa cerebral focal em pacientes com HIV. Tratamento empírico com Sulfadiazina + Pirimetamina + Ácido Folínico (ou SMX-TMP) por 6 semanas. Biópsia apenas se sem melhora em 10-14 dias;
-- **PEP:** Emergência médica em até 72h (TDF + 3TC + DTG por 28 dias). Se houver insuficiência renal, troque TDF por AZT. Dobre a dose do DTG (50 mg 12/12h) se o paciente usar Rifampicina ou anticonvulsivantes indutores.
+- **Neurotoxoplasmose:** Causa #1 de massa cerebral focal em pacientes com HIV. Tratamento empírico com Sulfadiazina + Pirimetamina + Ácido ==🟡Folínico== (ou SMX-TMP) por 6 semanas. Biópsia apenas se sem melhora em 10-14 dias;
+- **PEP:** Emergência médica em até 72h (TDF + 3TC + DTG por 28 dias). 
+	- Se houver ==🟡insuficiência renal, troque TDF por AZT==. 
+	- ==🟡Dobre a dose do DTG== (50 mg 12/12h) se o paciente usar Rifampicina ou anticonvulsivantes indutores.
 
 **Mural de Erros Fatais (O que JAMAIS Fazer):**
 
 1. **NUNCA** inicie a TARV imediatamente na Meningite Criptocócica ou Tuberculosa;
 2. **NUNCA** use Manitol, Acetazolamida ou Corticoides para tratar HIC na Meningite Criptocócica;
 3. **NUNCA** prescreva SMX-TMP isolado na PCP moderada a grave sem associar corticoide adjuvante;
-4. **NUNCA** utilize equinocandinas para tratar infecção por _Cryptococcus_ ou lesões do Sistema Nervoso Central;
+4. ==🟡**NUNCA** utilize equinocandinas para tratar infecção por _Cryptococcus_ ou lesões do Sistema Nervoso Central==;
 5. **NUNCA** diagnostique doença digestiva invasiva por CMV apenas com PCR sérico ou sorologia — exija biópsia com histopatologia
 
 ### 1. FISIOPATOLOGIA & PK/PD (EM 4 LINHAS)
@@ -150,24 +161,29 @@ O sucesso no manejo do paciente com HIV na Unidade de Terapia Intensiva depende 
   - **PROIBIDO:** Aguardar broncoscopia/LBA para iniciar SMX-TMP + Corticoide na suspeita clínica com hipoxemia.
 - **Tabela de Exames / Biomarcadores / Imagem:**
 
-| Exame / Método | Corte / Achado Clássico | Quando Pedir / Limitação |
-| :--- | :--- | :--- |
-| **Gasometria Arterial (Ar Ambiente)** | **PaO2 < 70 mmHg** OU **P(A-a)O2 ≥ 35 mmHg**.<br/>*Fórmula:* `P(A-a)O2 = [(Patm - PH2O) × FiO2 - (PaCO2 / 0,8)] - PaO2` *(ao nível do mar AA: ≈ 150 - PaCO2/0,8 - PaO2)*. | Define **PCP Moderada a Grave** → indica **SMX-TMP exclusivamente IV + Corticosteroide obrigatório**. |
-| **LDH Sérico (Desidrogenase Láctica)** | **Muito elevado** (tipicamente > 500 UI/L). | Alta sensibilidade para lesão celular alveolar na PCP, porém baixa especificidade. |
-| **RX e TC de Tórax** | **RX:** Normal (inicial) ou infiltrado intersticial/reticulonodular bilateral, peri-hilar, simétrico (**"asa de borboleta"**).<br/>**TC:** **Vidro fosco** bilateral simétrico + **cistos/pneumatoceles**. | Ausência de derrame pleural. Cistos subpleurais alertam para alto risco de **pneumotórax**. |
-| **LBA / Escarro Induzido (Microscopia)** | Identificação de cistos e trofozoítos por **Grocott (prata)**, **Azul de Toluidina**, **Giemsa** ou **Imunofluorescência direta**. | **LBA tem rendimento > 90%**. Os cistos permanecem visíveis por dias mesmo após início do SMX-TMP. |
+| Exame / Método                           | Corte / Achado Clássico                                                                                                                                                                                    | Quando Pedir / Limitação                                                                                                                                                     |
+| :--------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Gasometria Arterial (Ar Ambiente)**    | **PaO2 < 70 mmHg** OU **P(A-a)O2 ≥ 35 mmHg**.<br/>*Fórmula:* `P(A-a)O2 = [(Patm - PH2O) × FiO2 - (PaCO2 / 0,8)] - PaO2` *(ao nível do mar AA: ≈ 150 - PaCO2/0,8 - PaO2)*.                                  | Define **PCP Moderada a Grave** → indica **SMX-TMP exclusivamente IV + Corticosteroide obrigatório**.                                                                        |
+| **LDH Sérico (Desidrogenase Láctica)**   | **Muito elevado** (tipicamente > 500 UI/L).                                                                                                                                                                | Alta sensibilidade para lesão celular alveolar na PCP, porém baixa especificidade.                                                                                           |
+| **RX e TC de Tórax**                     | **RX:** Normal (inicial) ou infiltrado intersticial/reticulonodular bilateral, peri-hilar, simétrico (**"asa de borboleta"**).<br/>**TC:** **Vidro fosco** bilateral simétrico + **cistos/pneumatoceles**. | ==🟡Ausência de derrame pleural (Se presente, suspeite imediatamente de Tuberculose ou Sarcoma de Kaposi.)==. Cistos subpleurais alertam para alto risco de **pneumotórax**. |
+| **LBA / Escarro Induzido (Microscopia)** | Identificação de cistos e trofozoítos por **Grocott (prata)**, **Azul de Toluidina**, **Giemsa** ou **Imunofluorescência direta**.                                                                         | **LBA tem rendimento > 90%**. Os cistos permanecem visíveis por dias mesmo após início do SMX-TMP.                                                                           |
 
 ### 3. MONITORIZAÇÃO & CONDUTA POR SISTEMAS
 
-| Sistema | O que Vigiar (Alvos / Cortes / Alertas) | Conduta / Ajuste Específico |
-| :--- | :--- | :--- |
-| **Rp** (Resp/VM) | **PaO2 < 70 mmHg** ou **P(A-a)O2 ≥ 35 mmHg**. Queda abrupta de PaO2/FiO2 em 24–72h. Piora súbita da complacência/choque no ventilador (**pneumotórax**). | **Corticoide** antes/junto à 1ª dose de SMX-TMP. **VM Protetora** (Vt 6 mL/kg, Platô < 30, ΔP < 15, evitar PEEP excessiva). POCUS pulmonar + **drenagem imediata** se pneumotórax. |
-| **CV** (Hemodinâmica) | Sobrecarga volêmica iatrogênica (SMX-TMP IV exige alto volume de diluição em SF/SG). | Balanço hídrico rigoroso (pulmão de SDRA); atenção ao volume de diluição da sulfa IV. |
-| **Rn** (Renal/Eletrol.) | **↑ K+ (Hipercalemia)** e ↑ Creatinina pelo Trimetoprim (bloqueia canal ENaC no túbulo coletor, efeito *amilorida-like*); cristalúria pela sulfa. | Monitorar K+ e função renal diariamente; ajustar dose se disfunção renal. |
-| **HI** (Hemato/Isolam.) | Mielotoxicidade (neutropenia, plaquetopenia) por SMX-TMP; hemólise se deficiência de G6PD em uso de **Primaquina**. | Hemograma seriado. Manter **Precaução para Aerossóis (N95)** na admissão até excluir Tuberculose pulmonar associada. |
+| Sistema                 | O que Vigiar (Alvos / Cortes / Alertas)                                                                                                                        | Conduta / Ajuste Específico                                                                                                                                                        |
+| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Rp** (Resp/VM)        | **PaO2 < 70 mmHg** ou **P(A-a)O2 ≥ 35 mmHg**. Queda abrupta de PaO2/FiO2 em 24–72h. Piora súbita da com==🟡placência/choque no ventilador (**pneumotórax**).== | **Corticoide** antes/junto à 1ª dose de SMX-TMP. **VM Protetora** (Vt 6 mL/kg, Platô < 30, ΔP < 15, evitar PEEP excessiva). POCUS pulmonar + **drenagem imediata** se pneumotórax. |
+| **CV** (Hemodinâmica)   | Sobrecarga volêmica iatrogênica (SMX-TMP IV exige alto volume de diluição em SF/SG).                                                                           | Balanço hídrico rigoroso (pulmão de SDRA); atenção ao volume de diluição da sulfa IV.                                                                                              |
+| **Rn** (Renal/Eletrol.) | **↑ K+ (Hipercalemia)** e ↑ Creatinina pelo Trimetoprim (bloqueia canal ENaC no túbulo coletor, efeito *amilorida-like*); cristalúria pela sulfa.              | Monitorar K+ e função renal diariamente; ajustar dose se disfunção renal.                                                                                                          |
+| **HI** (Hemato/Isolam.) | Mielotoxicidade (neutropenia, plaquetopenia) por SMX-TMP; hemólise se deficiência de G6PD em uso de **Primaquina**.                                            | Hemograma seriado. Manter **==🟡Precaução para Aerossóis (N95)** na admissão até excluir Tuberculose pulmonar associada.==                                                         |
 
 ### 4. TERAPÊUTICA ACIONÁVEL (ORDEM & DOSES)
-1. **Visão Geral:** **SMX-TMP por 21 dias** é a 1ª escolha absoluta + **Corticoterapia adjuvante por 21 dias** se PaO2 < 70 mmHg (ou P(A-a)O2 ≥ 35 mmHg) + **Não retardar início da TARV** (iniciar em ≤ 14 dias).
+1. **Visão Geral:** 
+	- **SMX-TMP por 21 dias** é a 1ª escolha absoluta
+	+ ==🟡**Corticoterapia adjuvante por 21 dias** se grave==
+		+ PaO2 < 70 mmHg 
+		+ (ou P(A-a)O2 ≥ 35 mmHg) 
+	+ **Não retardar início da TARV** (iniciar em ≤ 14 dias).
 2. **Passo 1 (Adjuvante Anti-inflamatório — ANTES ou JUNTO à 1ª dose de SMX-TMP se PaO2 < 70 mmHg ou P(A-a)O2 ≥ 35):**
    - **Prednisona VO** (ou equivalente em **Metilprednisolona IV**):
      - **Dias 1 a 5:** **40 mg VO 2×/dia** (12/12h).
@@ -175,8 +191,8 @@ O sucesso no manejo do paciente com HIV na Unidade de Terapia Intensiva depende 
      - **Dias 11 a 21:** **20 mg VO 1×/dia** até completar **21 dias**.
 3. **Passo 2 (Antimicrobiano 1ª Linha vs. Alternativa — Duração: 21 dias):**
    - **1ª Linha:** **Sulfametoxazol + Trimetoprima (SMX-TMP)** na dose de **15 a 20 mg/kg/dia do componente TMP**, fracionado de **6/6h ou 8/8h**, por **21 dias** *(VO ou IV se PaO2 ≥ 70 mmHg; **exclusivamente IV** se PaO2 < 70 mmHg)*.
-   - **Alternativa (Alergia/Intolerância à Sulfa):** **Clindamicina 600 mg** IV ou VO de **6/6h** **+** **Primaquina 15 a 30 mg** VO **1×/dia** por **21 dias**.
-4. **Passo 3 (Profilaxia Secundária & TARV):**
+   - **==🟡Alternativa (Alergia/Intolerância à Sulfa):** **Clindamicina 600 mg** IV ou VO de **6/6h** **+** **Primaquina== 15 a 30 mg** VO **1×/dia** por **21 dias**.
+1. **Passo 3 (Profilaxia Secundária & TARV):**
    - **Profilaxia Secundária:** **SMX-TMP 800/160 mg** (**2 comprimidos VO, 3×/semana**) **OU** **400/80 mg/dia** (**1 comprimido VO/dia**).
    - **Quando Suspender Profilaxia:** Quando **LT-CD4+ > 200 céls/mm³ por pelo menos 3 meses**.
    - **TARV:** **Não retardar!** Iniciar nos primeiros **14 dias**.
@@ -189,7 +205,7 @@ O sucesso no manejo do paciente com HIV na Unidade de Terapia Intensiva depende 
 - **Iatrogenias Fatais (NUNCA FAZER):**
   - ❌ **Iniciar SMX-TMP sem corticoide na PCP com PaO2 < 70 mmHg:** Lise fúngica maciça em 24–72h → tempestade inflamatória alveolar → intubação e óbito.
   - ❌ **Prescrever corticoide em TODA PCP (incluindo PaO2 ≥ 70 mmHg):** Sem benefício nas formas leves e ↑ risco de infecções oportunistas (CMV, Kaposi).
-  - ❌ **Tratar PCP com Fluconazol ou Anfotericina B:** Fungo possui colesterol (e não ergosterol) na membrana → 100% ineficazes.
+  - ==🟡❌ **Tratar PCP com Fluconazol ou Anfotericina B==:** Fungo possui colesterol (e não ergosterol) na membrana → 100% ineficazes.
 - **Questões da Aula (1 linha por questão):**
   - **Q1 (TEMI 2011):** **Gabarito B** — PCP é causa clássica de IRpA na UTI, mas derrame pleural moderado NÃO é típico de PCP.
   - **Q2 (TEMI 2008):** **Gabarito A** — Jovem com CD4 88 e PaO2 50 mmHg tratado só com SMX-TMP IV que intuba em 24h: piora causada pela **ausência de prescrição concomitante de corticosteroide**.
@@ -243,7 +259,7 @@ O sucesso no manejo do paciente com HIV na Unidade de Terapia Intensiva depende 
      - **Manutenção (≥ 60 kg):** **75 mg/dia** (3 comprimidos de 25 mg) VO.
    - **+ Ácido Folínico VO:** **10 a 20 mg/dia** VO.
 3. **Passo 2 (Esquemas Alternativos — Duração: 6 semanas):**
-   - **Alternativa Preferencial Prática (disponível IV e VO):** **Sulfametoxazol + Trimetoprima (SMX-TMP)** na dose de **25 mg/kg de sulfametoxazol**, **2×/dia (12/12h)**, VO ou IV, por **6 semanas**.
+   - ==🟡**Alternativa Preferencial Prática (disponível IV e VO):** **Sulfametoxazol + Trimetoprima (SMX-TMP)==** na dose de **25 mg/kg de sulfametoxazol**, **2×/dia (12/12h)**, VO ou IV, por **6 semanas**.
    - **Alternativa em Alergia à Sulfa:** **Clindamicina 600 mg** IV ou VO a cada **6 horas (6/6h)** **+** **Pirimetamina** (mesmas doses acima) **+** **Ácido Folínico** (10–20 mg/dia VO) por **6 semanas**.
 4. **Passo 3 (Profilaxia Secundária & TARV):**
    - **Profilaxia Secundária:** Manter terapia de manutenção até **LT-CD4+ > 200 céls/mm³ por ≥ 6 meses**.
@@ -301,8 +317,8 @@ O sucesso no manejo do paciente com HIV na Unidade de Terapia Intensiva depende 
    - **Fase de Indução (Duração: pelo menos 2 semanas):**
      - **Anfotericina B Lipossomal: 3 mg/kg/dia IV** **+** **Flucitosina: 100 mg/kg/dia VO**, dividida de **6/6h**.
      - *Quando Prolongar a Indução (por +2 a 4 semanas):* 1) Pacientes comatosos ou com deterioração clínica; 2) HIC persistentemente elevada; 3) Cultura liquórica positiva após 2 semanas de terapia; 4) Achados neurorradiológicos de criptococose no parênquima cerebral (ex.: pseudocistos mucinosos).
-   - **Fase de Consolidação (Duração: pelo menos 8 semanas):**
-     - **Fluconazol: 400 a 800 mg/dia**, VO ou IV (4 a 8 cápsulas/dia ou 2 a 4 frascos IV).
+   - ==🟡**Fase de Consolidação (Duração: pelo menos 8 semanas):**==
+     - ==🟡**Fluconazol==: 400 a 800 mg/dia**, VO ou IV (4 a 8 cápsulas/dia ou 2 a 4 frascos IV).
    - **Fase de Manutenção / Profilaxia Secundária (Duração: pelo menos 6 a 12 meses):**
      - **Fluconazol: 200 mg/dia** (2 cápsulas) VO *(ou 400 mg/dia conforme slide 26)*.
      - *Quando Suspender Manutenção:* Apenas após ≥ 6–12 meses, quando **LT-CD4+ > 200 céls/mm³ E Carga Viral do HIV indetectável**.
