@@ -1,8 +1,24 @@
 ---
 publish: true
 ---
-a
 # 🎯 1. INFECÇÃO PELO HIV NA UTI, TARV, SIRI & PEP
+
+O sucesso no manejo do paciente com HIV na Unidade de Terapia Intensiva depende do diagnóstico rápido, da identificação precisa do nível de imunodepressão via CD4 e do respeito rigoroso aos momentos ideais (timing) para o início de antimicrobianos, corticoterapia e TARV.
+
+**Pontos Chave de Aprendizado:**
+
+- **PCP Grave (**$PaO_2 < 70$ **ou** $P(A-a)O_2 \ge 35$**):** A corticoidoterapia adjuvante (Prednisona/Metilprednisolona) é OBRIGATÓRIA antes ou junto do SMX-TMP para prevenir a deterioração por lise fúngica nas primeiras 24-72h;
+- **Meningite Criptocócica:** Tratada na indução com Anfotericina B Lipossomal + Flucitosina. A Hipertensão Intracraniana é controlada com punções lombares de alívio seriadas (jamais manitol ou corticoides). **Adie a TARV obrigatoriamente por 4 a 6 semanas** para evitar SIRI fatal. Equinocandinas NÃO têm ação contra o Criptococo;
+- **Neurotoxoplasmose:** Causa #1 de massa cerebral focal em pacientes com HIV. Tratamento empírico com Sulfadiazina + Pirimetamina + Ácido Folínico (ou SMX-TMP) por 6 semanas. Biópsia apenas se sem melhora em 10-14 dias;
+- **PEP:** Emergência médica em até 72h (TDF + 3TC + DTG por 28 dias). Se houver insuficiência renal, troque TDF por AZT. Dobre a dose do DTG (50 mg 12/12h) se o paciente usar Rifampicina ou anticonvulsivantes indutores.
+
+**Mural de Erros Fatais (O que JAMAIS Fazer):**
+
+1. **NUNCA** inicie a TARV imediatamente na Meningite Criptocócica ou Tuberculosa;
+2. **NUNCA** use Manitol, Acetazolamida ou Corticoides para tratar HIC na Meningite Criptocócica;
+3. **NUNCA** prescreva SMX-TMP isolado na PCP moderada a grave sem associar corticoide adjuvante;
+4. **NUNCA** utilize equinocandinas para tratar infecção por _Cryptococcus_ ou lesões do Sistema Nervoso Central;
+5. **NUNCA** diagnostique doença digestiva invasiva por CMV apenas com PCR sérico ou sorologia — exija biópsia com histopatologia
 
 ### 1. FISIOPATOLOGIA & PK/PD (EM 4 LINHAS)
 - **Agente & Transmissão:** Retrovírus de RNA fita simples (**HIV-1** e **HIV-2**, família *Retroviridae*, mesma de HTLV-I/II; origem zoonótica do SIV de chimpanzés/gorilas entre 1890–1940), partícula esférica (80–120 nm) com **9 genes** + Transmissão sexual (**I = I**: Carga Viral indetectável há ≥ 6 meses em TARV não transmite via sexual), sanguínea, vertical ou ocupacional (fluidos de risco).
