@@ -24,6 +24,7 @@ publish: true
 
 - [[Fundamentos do Suporte Circulatório Mecânico (MCS) Principles]]
 	- [[8-Hyland MCS mechanical circulatory support.pdf]]
+	- [[8-Hyland MCS mechanical circulatory support flash]]
 
 
 
