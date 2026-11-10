@@ -22,9 +22,10 @@ publish: true
 [[Shock Vasopressor Physio Harv]]
 [[Controle de Temperatura Pós-PCR]]
 
-- [[Fundamentos do Suporte Circulatório Mecânico (MCS) Principles]]
-	- [[8-Hyland MCS mechanical circulatory support.pdf]]
-	- [[8-Hyland MCS mechanical circulatory support flash]]
+- [[Suporte Circulatório Mecânico (MCS) TurboHMD]]
+	- [[Fundamentos do Suporte Circulatório Mecânico (MCS) Principles]]
+		- [[8-Hyland MCS mechanical circulatory support.pdf]]
+		- [[8-Hyland MCS mechanical circulatory support flash]]
 
 
 
