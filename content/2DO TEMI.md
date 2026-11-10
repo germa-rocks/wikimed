@@ -1,6 +1,12 @@
 ---
 publish: true
 ---
+
+- [[mQ Questões TEMI Infectointensivismo MUTI]]
+- [[mInt Monitorização Hemodinâmica MUTI]]
+- [[mInt Pneumointensivismo mUTI]]
+- [[questões Quest Pneumointensivismo]]
+
 [[IS5aHMD-Dz]]
 [[IS5aInf]]
 
