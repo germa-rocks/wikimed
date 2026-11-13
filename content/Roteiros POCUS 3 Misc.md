@@ -12,30 +12,106 @@ publish: true
 ### 3.1 Aula 11 (Neuro) - NeuroPOCUS no CTI (DTC, Bainha do Nervo Óptico, Parênquima e DVE/PPC)
 
 - [ ] *"Para executar o NeuroPOCUS multimodal protegendo a fisiologia cerebral ($PPC = PAM - PIC$, mantendo ambos os transdutores — DVE e PAM — zerados no **tragus**, plano do **forame de Monro**, evitando PPC artificialmente falsa),
-    - [ ] **[Setup]** na **BNO (Consenso 2024)** seleciono o **probe linear ($\ge 7,5\text{ MHz}$)** no **preset ocular obrigatório** respeitando o princípio **ALARA ($MI \le 0,23$ e $TI \le 1,0$**, evitando Doppler colorido rotineiro) com globo centralizado a $\sim 4\text{ cm}$; no **DTC/TCCD** seleciono o **probe setorial ($1\text{ a }2,5\text{ MHz}$)** em **preset transcraniano** a $14\text{ a }16\text{ cm}$ de profundidade.
-    - [ ] **[Referência e Ergonomia]** posiciono o monitor à frente, cabeceira padronizada a $30^\circ$, cabeça centrada e **olhar neutro**; na órbita, insono sobre pálpebra superior fechada com gel abundante e mão apoiada na testa, ponte nasal ou bochecha **sem comprimir o globo** (*marker* axial às 9h); no DTC, utilizo as 4 janelas — **transtemporal** (*marker* anterior: plano mesencefálico para ACM a **$45\text{–}65\text{ mm}$** com fluxo em direção ao probe [$V_m < 80\text{ cm/s}$], ACA a $62\text{–}75\text{ mm}$ afastando-se e ACP a $55\text{–}70\text{ mm}$; e plano diencefálico para tálamos, pineal e **3º ventrículo**), **submandibular** (ACI extracraniana), **transforaminal/suboccipital** (vertebrais $45\text{–}80\text{ mm}$ e basilar **$80\text{–}100+\text{ mm}$** afastando-se) e **transorbital** (oftálmica $40\text{–}60\text{ mm}$ e sifão carotídeo $60\text{–}65\text{ mm}$).
-- [ ] Integrando o contexto clínico e os moduladores de velocidade (**aumentam $V_m$**: anemia, hipercapnia, febre, meningite; **reduzem $V_m$**: idade, hipotermia, hipocapnia, sedação), direciono a análise:
-    - [ ] caso investigue **Hipertensão Intracraniana (avaliação multimodal) ou alarme de PIC na DVE**,
-        - [ ] **[Parâmetros e Conduta]** avalio a perda de complacência pela morfologia da curva (queda progressiva de $V_d$), calculo $V_m = (V_s + 2V_d)/3$, **$IP = (V_s - V_d)/V_m > 1,2$** (normal $0,6\text{–}1,1$) e estimo não invasivamente **$PPC_e = (PAM \times V_d / V_m) + 14$** e **$PIC_e = PAM - PPC_e$** (alto VPN para excluir HIC no IMPRESSIT-2, limiar $\sim 20,5\text{ mmHg}$). Integro o desvio do 3º ventrículo [$(A - B)/2 \ge 2,5\text{–}3,0\text{ mm}$] e a **BNO interna ($ONSD_{int}$)** medida bilateralmente em *Freeze* a $90^\circ$ do nervo **exatamente $3\text{ mm}$ atrás da retina** (excluindo artefatos de sombra/volume parcial; $> 5,7\text{–}6,0\text{ mm}$ sugere HIC — **ciente de que a BNO elevada pode persistir após normalização transitória da PIC, refletindo picos recentes sem indicar osmoterapia isolada!**). Se houver DVE alarmando, checo antes se está **fechada** ou com **zero abaixo do tragus**, reabrindo e renivelando com régua de prumo;
-    - [ ] caso rastreie **vasoespasmo vs. hiperemia na HSA aneurismática (D3–D14, AHA 2023)**,
-        - [ ] **[Parâmetros e Conduta]** diante de $V_{m,ACM} \ge 120\text{ cm/s}$ (grave $\ge 200\text{ cm/s}$), calculo o **Índice de Lindegaard ($IL = V_{m,ACM} / V_{m,ACI}$)** na circulação anterior e o **Índice de Soustiel ($IS = V_{m,BA} / V_{m,VA\text{ V3}}$ a $45\text{–}55\text{ mm}$)** na posterior: se **$IL \le 3$** (com $IP$ normal/baixo), diagnostico **hiperemia cerebral/disautorregulação** e corrijo febre, $PaCO_2$, anemia e sedação **sem induzir hipertensão empírica**; se **$IL > 3$** (**$\ge 6$ grave**) ou **$IS > 2$** (**$> 3$ grave** com $V_{m,BA} > 85\text{ cm/s}$), confirmo **vasoespasmo** — mantendo nimodipina e euvolemia (hipertensão profilática é Classe 3/dano!) e instituindo elevação pressórica ou resgate endovascular diante de deterioração/isquemia tardia;
-    - [ ] ou caso realize **exame complementar no Protocolo de Morte Encefálica (CFM/ABN 2017)**,
-        - [ ] **[Parâmetros e Conduta]** assegurados **$PAS > 90\text{ mmHg}$, $FC > 60\text{ bpm}$, $SpO_2 > 95\%$ e duração mínima de $30\text{ minutos}$**, busco **picos sistólicos curtos**, **fluxo alternante/reverberante** ou **ausência total de sinal** (válida apenas se exame prévio na mesma internação demonstrou fluxo) obrigatoriamente nas **circulações anterior bilateral** (ACMs, ou sifões carotídeos via transorbital se sem janela) **e posterior** (basilar e vertebrais). **Regra crítica**: a persistência de **fluxo anterógrado/diastólico residual** em qualquer vaso (ex.: por **DVE aberta funcionante** ou craniectomia) torna o exame **inconclusivo** para parada circulatória — sem excluir ME e sem clampear a DVE, indicando outro método complementar."*
+    - [ ] **[Setup]** 
+	    - [ ] na **BNO (Consenso 2024)** seleciono o **probe linear ($\ge 7,5\text{ MHz}$)** no **preset ocular obrigatório** 
+		    - [ ] respeitando o princípio **ALARA ($MI \le 0,23$ e $TI \le 1,0$**, evitando Doppler colorido rotineiro) 
+		    - [ ] com globo centralizado a $\sim 4\text{ cm}$; 
+		- [ ] no **DTC/TCCD** seleciono o **probe setorial ($1\text{ a }2,5\text{ MHz}$)** em **preset transcraniano** 
+			- [ ] a $14\text{ a }16\text{ cm}$ de profundidade.
+    - [ ] **[Referência e Ergonomia]** posiciono o monitor à frente, cabeceira padronizada a $30^\circ$, cabeça centrada e **olhar neutro**; 
+	    - [ ] na órbita, insono sobre pálpebra superior fechada com gel abundante e mão apoiada na testa, ponte nasal ou bochecha **sem comprimir o globo** (*marker* axial às 9h); 
+	    - [ ] no DTC, utilizo as 4 janelas — 
+		    - [ ] **transtemporal** (*marker* anterior: 
+			    - [ ] plano mesencefálico para ACM a **$45\text{–}65\text{ mm}$** com fluxo em direção ao probe [$V_m < 80\text{ cm/s}$], ACA a $62\text{–}75\text{ mm}$ afastando-se e ACP a $55\text{–}70\text{ mm}$; 
+				- [ ] e plano diencefálico para tálamos, pineal e **3º ventrículo**), 
+		    - [ ] **submandibular** (ACI extracraniana), 
+		    - [ ] **transforaminal/suboccipital** (vertebrais $45\text{–}80\text{ mm}$ e basilar **$80\text{–}100+\text{ mm}$** afastando-se) e 
+		    - [ ] **transorbital** (oftálmica $40\text{–}60\text{ mm}$ e sifão carotídeo $60\text{–}65\text{ mm}$).
+- [ ] Integrando o contexto clínico e os 
+	- [ ] moduladores de velocidade 
+		- [ ] **aumentam $V_m$**: anemia, hipercapnia, febre, meningite; 
+		- [ ] **reduzem $V_m$**: idade, hipotermia, hipocapnia, sedação), direciono a análise:
+	 - [ ] caso investigue **Hipertensão Intracraniana (avaliação multimodal) ou alarme de PIC na DVE**,
+	    - [ ] **[Parâmetros e Conduta]** 
+	    - [ ] avalio a perda de complacência pela morfologia da curva (queda progressiva de $V_d$), 
+	    - [ ] calculo $V_m = (V_s + 2V_d)/3$, **$IP = (V_s - V_d)/V_m > 1,2$** (normal $0,6\text{–}1,1$) e 
+	    - [ ] estimo não invasivamente **$PPC_e = (PAM \times V_d / V_m) + 14$**
+	    - [ ] e **$PIC_e = PAM - PPC_e$** (alto VPN para excluir HIC no IMPRESSIT-2, limiar $\sim 20,5\text{ mmHg}$). 
+	    - [ ] Integro o desvio do 3º ventrículo [$(A - B)/2 \ge 2,5\text{–}3,0\text{ mm}$] e 
+	    - [ ] a **BNO interna ($ONSD_{int}$)** medida bilateralmente 
+		    - [ ] em *Freeze* a $90^\circ$ do nervo **exatamente $3\text{ mm}$ atrás da retina** (excluindo artefatos de sombra/volume parcial; 
+		    - [ ] $> 5,7\text{–}6,0\text{ mm}$ sugere HIC
+		    - [ ] **ciente de que a BNO elevada pode persistir após normalização transitória da PIC, refletindo picos recentes sem indicar osmoterapia isolada!**). 
+	    - [ ] Se houver DVE alarmando, 
+		    - [ ] checo antes se está **fechada** ou com **zero abaixo do tragus**, 
+		    - [ ] reabrindo e renivelando com régua de prumo;
+	   - [ ] caso rastreie **vasoespasmo vs. hiperemia na HSA aneurismática (D3–D14, AHA 2023)**,
+	    - [ ] **[Parâmetros e Conduta]** diante de $V_{m,ACM} \ge 120\text{ cm/s}$ (grave $\ge 200\text{ cm/s}$),
+		    - [ ] calculo o **Índice de Lindegaard ($IL = V_{m,ACM} / V_{m,ACI}$)** na circulação anterior e
+		    - [ ] o **Índice de Soustiel ($IS = V_{m,BA} / V_{m,VA\text{ V3}}$ a $45\text{–}55\text{ mm}$)** na posterior: 
+	    - [ ] se **$IL \le 3$** (com $IP$ normal/baixo), diagnostico **hiperemia cerebral/disautorregulação** e 
+		    - [ ] corrijo febre, $PaCO_2$, anemia e sedação
+		    - [ ] **sem induzir hipertensão empírica**; 
+	    - [ ] se **$IL > 3$** (**$\ge 6$ grave**) ou **$IS > 2$** (**$> 3$ grave** com $V_{m,BA} > 85\text{ cm/s}$), confirmo **vasoespasmo** — 
+		    - [ ] mantendo nimodipina e euvolemia (hipertensão profilática é Classe 3/dano!) 
+		    - [ ] e instituindo elevação pressórica ou resgate endovascular diante de deterioração/isquemia tardia;
+	 - [ ] ou caso realize **exame complementar no Protocolo de Morte Encefálica (CFM/ABN 2017)**,
+	    - [ ] **[Parâmetros e Conduta]** assegurados **$PAS > 90\text{ mmHg}$, $FC > 60\text{ bpm}$, $SpO_2 > 95\%$ e duração mínima de $30\text{ minutos}$**, 
+	    - [ ] busco **picos sistólicos curtos**, **fluxo alternante/reverberante** ou **ausência total de sinal** 
+		    - [ ] (válida apenas se exame prévio na mesma internação demonstrou fluxo) obrigatoriamente nas 
+			- [ ] **circulações anterior bilateral** (ACMs, ou sifões carotídeos via transorbital se sem janela) 
+			- [ ] **e posterior** (basilar e vertebrais). 
+	    - [ ] **Regra crítica**: a persistência de **fluxo anterógrado/diastólico residual** em qualquer vaso (ex.: por **DVE aberta funcionante** ou craniectomia)
+		    - [ ] torna o exame **inconclusivo** para parada circulatória — 
+			- [ ] sem excluir ME e sem clampear a DVE, 
+			- [ ] indicando outro método complementar."*
 
-> **Alerta de Banca (Armadilha Psicométrica):** Violar $MI \le 0,23$ ou comprimir o olho na BNO; medir a BNO a $5\text{ mm}$ em vez de $3\text{ mm}$ da retina (TEMI 2019); fazer terapia hipertensiva numa $V_{m,ACM}$ alta com Lindegaard $\le 3$ (hiperemia!) ou hipertensão profilática na HSAa; laudar morte encefálica (ou suspender protocolo/clampear DVE) quando há fluxo residual nas ACMs com DVE pérvia; ou esquecer de nivelar DVE e PAM juntos no tragus reprovam na estação.
+> **Alerta de Banca (Armadilha Psicométrica):** 
+> - Violar $MI \le 0,23$ ou comprimir o olho na BNO; 
+> - medir a BNO a $5\text{ mm}$ em vez de $3\text{ mm}$ da retina (TEMI 2019); 
+> - fazer terapia hipertensiva numa $V_{m,ACM}$ alta com Lindegaard $\le 3$ (hiperemia!) ou
+> - fazer hipertensão profilática na HSAa; 
+> - laudar morte encefálica (ou suspender protocolo/clampear DVE) quando há fluxo residual nas ACMs com DVE pérvia; 
+> - ou esquecer de nivelar DVE e PAM juntos no tragus reprovam na estação.
 
 ---
 
 ### 3.2 Aula 11 - E-FAST e USG de Abdome Crítico (Trauma, Bexiga, Rins, VCI/PIA e Aorta)
 
 - [ ] *"Para rastrear líquido livre no trauma pelo protocolo E-FAST (detecta a partir de **$100\text{ mL}$**; sensibilidade de **$74\%$** — subindo a **$80\text{–}92\%$ com exames seriados** — e especificidade de **$96\%$**) e causas abdominais de choque ou oligúria,
-    - [ ] **[Setup]** seleciono o **probe convexo/curvilíneo ($2\text{ a }5\text{ MHz}$)** de grande profundidade no **preset abdominal/FAST** com **$15\text{ a }20\text{ cm}$**, ajustando ganho e TGC (reduzindo profundidade no tórax anterior ou usando linear).
-    - [ ] **[Referência e Ergonomia]** posiciono o monitor à frente e o paciente em **supino a $0^\circ$** (podendo usar **Trendelenburg** para sensibilizar os quadrantes superiores), aplicando movimentos econômicos de varredura (*fanning*, *tilt* e *rock*) com *marker* às **3h** na subcostal, **cefálico (9h/12h)** nos cortes longitudinais/coronais e à **direita do paciente (9h)** nos transversais.
+    - [ ] **[Setup]** seleciono o **probe convexo/curvilíneo ($2\text{ a }5\text{ MHz}$)** de grande profundidade no **preset abdominal/FAST** com **$15\text{ a }20\text{ cm}$**, 
+	    - [ ] ajustando ganho e TGC 
+	    - [ ] (reduzindo profundidade no tórax anterior ou usando linear).
+    - [ ] **[Referência e Ergonomia]** posiciono o monitor à frente e o paciente em **supino a $0^\circ$** 
+	    - [ ] (podendo usar **Trendelenburg** para sensibilizar os quadrantes superiores), 
+		- [ ] aplicando movimentos econômicos de varredura (*fanning*, *tilt* e *rock*) com *marker*
+			- [ ] às **3h** na subcostal, 
+			- [ ] **cefálico (9h/12h)** nos cortes longitudinais/coronais e
+			- [ ]  à **direita do paciente (9h)** nos transversais.
 - [ ] Identificando o líquido livre como um **espaço hipoecoico/anecoico de limites anatômicos típicos e mudanças dinâmicas** (Teste de Progresso AMIB), roteio minha conduta:
     - [ ] caso avalie **trauma toracoabdominal com E-FAST positivo**,
-        - [ ] **[Parâmetros e Conduta]** avalio sistematicamente as 5 regiões inspecionando **sempre os 3 pontos de cada hipocôndrio** (destacando globalmente os **3 mais sensíveis: 1º Morison/polo inferior hepático, 2º Supraesplênico e 3º Retrovesical**): **(1) Subcostal** (hemopericárdio via janela hepática); **(2) QSD** (**goteira parietocólica**, **hepatorrenal/Morison** e **infradiafragmático/pleural** com *Sinal da Espinha* no hemotórax); **(3) QSE** (**infradiafragmático/supraesplênico**, **paracólico esquerdo** e **esplenorrenal**); **(4) Suprapúbico** pré-SVD (retovesical no homem / Douglas na mulher); e **(5) Tórax anterior** (ausência de *lung sliding* + *lung point* no pneumotórax). No **FAST (+) instável**, indico **Centro Cirúrgico imediato**; no **estável**, **TC com contraste**;
+        - [ ] **[Parâmetros e Conduta]** avalio sistematicamente as 5 regiões inspecionando **sempre os 3 pontos de cada hipocôndrio** 
+	        - [ ] (destacando globalmente os **3 mais sensíveis: 1º Morison/polo inferior hepático, 2º Supraesplênico e 3º Retrovesical**):
+	        - [ ] **(1) Subcostal** (hemopericárdio via janela hepática); 
+	        - [ ] **(2) QSD** (**goteira parietocólica**, **hepatorrenal/Morison** e **infradiafragmático/pleural** com *Sinal da Espinha* no hemotórax);
+	        - [ ] **(3) QSE** (**infradiafragmático/supraesplênico**, **paracólico esquerdo** e **esplenorrenal**); 
+	        - [ ] **(4) Suprapúbico** pré-SVD (retovesical no homem / Douglas na mulher); 
+	        - [ ] e **(5) Tórax anterior** (ausência de *lung sliding* + *lung point* no pneumotórax). 
+        - [ ] No **FAST (+) instável**, indico **Centro Cirúrgico imediato**; 
+        - [ ] no **estável**, **TC com contraste**;
     - [ ] caso o **E-FAST seja negativo** diante de trauma ou suspeita de *pitfalls*,
-        - [ ] **[Parâmetros e Conduta]** reconheço as armadilhas falso-negativas (**pouco líquido $< 100\text{ mL}$, rutura de víscera oca, sangramento retroperitoneal/pélvico, lesão parenquimatosa sem rotura capsular, enfisema subcutâneo** e ***dirty fluid*** por coágulo organizado/conteúdo entérico) e falso-positivas (**estômago cheio** junto ao baço e **gordura perirrenal**). No **estável**, mantenho observação, **E-FAST seriado** e TC se necessário; no **instável com FAST (–)**, investigo **sangramento extra-abdominal ou retroperitoneal/pélvico**;
+        - [ ] **[Parâmetros e Conduta]** reconheço as armadilhas 
+	        - [ ] falso-negativas 
+		        - [ ] (**pouco líquido $< 100\text{ mL}$, 
+		        - [ ] rutura de víscera oca, 
+		        - [ ] sangramento retroperitoneal/pélvico, 
+		        - [ ] lesão parenquimatosa sem rotura capsular, 
+		        - [ ] enfisema subcutâneo** e 
+		        - [ ] ***dirty fluid*** por coágulo organizado/conteúdo entérico) e 
+	        - [ ] falso-positivas 
+		        - [ ] (**estômago cheio** junto ao baço e
+		        - [ ] **gordura perirrenal**). 
+        - [ ] No **estável**, mantenho observação, **E-FAST seriado** e TC se necessário; no **instável com FAST (–)**, investigo **sangramento extra-abdominal ou retroperitoneal/pélvico**;
     - [ ] ou caso investigue **oligúria (bexiga/rins), volemia (VCI/PIA) e aorta na UTI**,
         - [ ] **[Parâmetros e Conduta]** na **bexiga**, meço Largura $\times$ Profundidade (*tilt* transversal) $\times$ Altura (*rock* longitudinal) $\times$ coeficiente (**$0,72$** padrão ou **$0,52$ na bexiga esférica/elíptica — TEMI 2022: $AB \times CD \times EF \times 0,52$!**) e graduo **hidronefrose** de **I** (pelviectasia), **II** (cálices maiores) e **III** (cálices menores) a **IV** (afinamento cortical). Na **VCI** subcostal (*marker* 12h), em espontânea estimo PVC nos extremos ($< 1,5\text{ cm}$ e colapso $> 50\% \to \text{PVC } 0\text{–}5$; **$> 2,1\text{ cm}$ e $< 50\% \to \text{PVC } > 15\text{ mmHg}$**) e na VMI avalio fluido-responsividade por **distensibilidade $(D_{m\acute{a}x}-D_{m\acute{i}n})/D_{m\acute{i}n} > 18\%$** (ou $> 12\%$ pela média) apenas se **intubado em modo controlado, $V_t \ge 8\text{ mL/kg}$, sinusal** e sem HIA (medindo PIA a $0^\circ$ com $25\text{ mL}$ após $30\text{–}60\text{ s}$ no fim da expiração). Na **aorta**, varro as janelas **paraesternal longa, supraesternal e abdominal** de borda externa a externa ($\ge 3,0\text{ cm}$ aneurisma; *flap* intimal dissecção)."*
 
