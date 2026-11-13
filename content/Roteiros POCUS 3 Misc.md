@@ -111,11 +111,37 @@ publish: true
 	        - [ ] falso-positivas 
 		        - [ ] (**estômago cheio** junto ao baço e
 		        - [ ] **gordura perirrenal**). 
-        - [ ] No **estável**, mantenho observação, **E-FAST seriado** e TC se necessário; no **instável com FAST (–)**, investigo **sangramento extra-abdominal ou retroperitoneal/pélvico**;
+        - [ ] No **estável**, mantenho observação, **E-FAST seriado** e TC se necessário; 
+        - [ ] no **instável com FAST (–)**, investigo **sangramento extra-abdominal ou retroperitoneal/pélvico**;
     - [ ] ou caso investigue **oligúria (bexiga/rins), volemia (VCI/PIA) e aorta na UTI**,
-        - [ ] **[Parâmetros e Conduta]** na **bexiga**, meço Largura $\times$ Profundidade (*tilt* transversal) $\times$ Altura (*rock* longitudinal) $\times$ coeficiente (**$0,72$** padrão ou **$0,52$ na bexiga esférica/elíptica — TEMI 2022: $AB \times CD \times EF \times 0,52$!**) e graduo **hidronefrose** de **I** (pelviectasia), **II** (cálices maiores) e **III** (cálices menores) a **IV** (afinamento cortical). Na **VCI** subcostal (*marker* 12h), em espontânea estimo PVC nos extremos ($< 1,5\text{ cm}$ e colapso $> 50\% \to \text{PVC } 0\text{–}5$; **$> 2,1\text{ cm}$ e $< 50\% \to \text{PVC } > 15\text{ mmHg}$**) e na VMI avalio fluido-responsividade por **distensibilidade $(D_{m\acute{a}x}-D_{m\acute{i}n})/D_{m\acute{i}n} > 18\%$** (ou $> 12\%$ pela média) apenas se **intubado em modo controlado, $V_t \ge 8\text{ mL/kg}$, sinusal** e sem HIA (medindo PIA a $0^\circ$ com $25\text{ mL}$ após $30\text{–}60\text{ s}$ no fim da expiração). Na **aorta**, varro as janelas **paraesternal longa, supraesternal e abdominal** de borda externa a externa ($\ge 3,0\text{ cm}$ aneurisma; *flap* intimal dissecção)."*
+        - [ ] **[Parâmetros e Conduta]** 
+        - [ ] na **bexiga**, meço Largura $\times$ Profundidade (*tilt* transversal) $\times$ Altura (*rock* longitudinal) $\times$ coeficiente 
+	        - [ ] (**$0,72$** padrão ou
+	        - [ ] **$0,52$ na bexiga esférica/elíptica — TEMI 2022) e
+        - [ ] graduo **hidronefrose** 
+	        - [ ] de **I** (pelviectasia), 
+	        - [ ] **II** (cálices maiores) e 
+	        - [ ] **III** (cálices menores) a
+	        - [ ] **IV** (afinamento cortical). 
+        - [ ] Na **VCI** subcostal (*marker* 12h), 
+	        - [ ] em espontânea estimo PVC nos extremos 
+		        - [ ] ($< 1,5\text{ cm}$ e colapso $> 50\% \to \text{PVC } 0\text{–}5$; 
+		        - [ ] **$> 2,1\text{ cm}$ e $< 50\% \to \text{PVC } > 15\text{ mmHg}$**) e
+	        - [ ] na VMI avalio fluido-responsividade por **distensibilidade $(D_{m\acute{a}x}-D_{m\acute{i}n})/D_{m\acute{i}n} > 18\%$** (ou $> 12\%$ pela média) apenas se 
+		        - [ ] **intubado em modo controlado,
+		        - [ ] $V_t \ge 8\text{ mL/kg}$, 
+		        - [ ] sinusal** e
+		        - [ ] sem HIA (medindo PIA a $0^\circ$ com $25\text{ mL}$ após $30\text{–}60\text{ s}$ no fim da expiração). 
+	    - [ ] Na **aorta**, varro as janelas **paraesternal longa, supraesternal e abdominal** de borda externa a externa 
+		    - [ ] ($\ge 3,0\text{ cm}$ aneurisma; 
+		    - [ ] *flap* intimal dissecção)."*
 
-> **Alerta de Banca (Armadilha Psicométrica):** Esquecer um dos 3 pontos obrigatórios do QSD ou QSE, confundir estômago cheio ou gordura perirrenal com sangue livre, descartar lesão retroperitoneal ou de víscera oca por FAST negativo, errar os eixos ou omitir o fator $0,52$ na bexiga elíptica (TEMI 2022), ou usar distensibilidade da VCI fora dos pré-requisitos ventilatórios/rítmicos zeram a questão.
+> **Alerta de Banca (Armadilha Psicométrica):** 
+> - Esquecer um dos 3 pontos obrigatórios do QSD ou QSE, 
+> - confundir estômago cheio ou gordura perirrenal com sangue livre, 
+> - descartar lesão retroperitoneal ou de víscera oca por FAST negativo, 
+> - errar os eixos ou omitir o fator $0,52$ na bexiga elíptica (TEMI 2022), 
+> - ou usar distensibilidade da VCI fora dos pré-requisitos ventilatórios/rítmicos zeram a questão.
 
 ---
 
