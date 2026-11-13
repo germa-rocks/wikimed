@@ -13,3 +13,19 @@ publish: true
 
 ---
 
+[[Roteiros Verbal B1]]
+[[Roteiros Verbal B2]]
+
+... integrar
+
+
+----
+
+
+[[Habilidades 1 revisado]]
+[[ATUALIDADES dyn]]
+
+- [[mRevPrat MdC 1 HMD]]
+- [[mRevPrat MdC 3 VM]]
+- [[mRevPrat MdC 2 Proc1]]
+- [[mRevPrat MdC 4 Proc2]]
