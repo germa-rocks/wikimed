@@ -61,17 +61,26 @@ publish: true
 ### 3.3 Medida do Débito Cardíaco pelo Ecocardiograma (VTI-VSVE)
 
 - [ ] *"Para aferir o débito cardíaco ecocardiográfico modelando o cilindro hidráulico na VSVE,
-    - [ ] no paraesternal longo (probe setorial, marker às 11h) com zoom mesossistólico meço borda-interna a borda-interna o diâmetro na inserção aórtica ($Área = 0,785 \times d^2$, ou fixo $2,0\text{ cm}$ evitando 11% de erro quadrático).
+    - [ ] no paraesternal longo (probe setorial, marker às 11h) com zoom mesossistólico 
+    - [ ] meço borda-interna a borda-interna o diâmetro na inserção aórtica ($Área = 0,785 \times d^2$, ou fixo $2,0\text{ cm}$ evitando 11% de erro quadrático).
 - [ ] No apical 5 câmaras (marker às 3h), alinho o Doppler pulsado ($< 20^\circ$) com gate 5 mm proximal à valva aórtica — fugindo do jato na estenose aórtica — e traço 3 a 5 ciclos (5 a 10 na FA) obtendo $DC = Área \times VTI \times FC$,
     - [ ] caso meça VTI reduzida ($< 17\text{–}18\text{ cm}$, normal AMIB 18 a 22 cm), integro contratilidade, VCI e pulmão,
-        - [ ] diferenciando hipovolemia (VE hiperdinâmico colabante, VCI fina colapsável $> 50\%$ e linhas A/FAST+), choque cardiogênico (hipocinesia, VCI $> 2,1\text{ cm}$ fixa e linhas B difusas) e obstrutivo (colapso diastólico direito no tamponamento, $VD/VE > 1$ com septo em D no TEP ou ausência de lung sliding);
+        - [ ] diferenciando hipovolemia (VE hiperdinâmico colabante, VCI fina colapsável $> 50\%$ e linhas A/FAST+), 
+        - [ ] choque cardiogênico (hipocinesia, VCI $> 2,1\text{ cm}$ fixa e linhas B difusas) e 
+        - [ ] obstrutivo (colapso diastólico direito no tamponamento, $VD/VE > 1$ com septo em D no TEP ou ausência de lung sliding);
     - [ ] caso observe VTI normal ou elevada ($\ge 23\text{ cm}$) em paciente hipotenso,
-        - [ ] afasto turbulência local por insuficiência aórtica moderada a grave ou obstrução dinâmica da VSVE com SAM mitral em adaga, confirmando choque distributivo hiperdinâmico para titular noradrenalina e rastreando apenas a VTI isolada nas séries (precisão de 4%, limiar mínimo de 10%);
+        - [ ] afasto turbulência local por insuficiência aórtica moderada a grave ou 
+        - [ ] obstrução dinâmica da VSVE com SAM mitral em adaga, 
+        - [ ] confirmando choque distributivo hiperdinâmico para titular noradrenalina e rastreando apenas a VTI isolada nas séries (precisão de 4%, limiar mínimo de 10%);
     - [ ] ou caso interrogue fluidoresponsividade pela VTI isolada (PLR $\ge 15\%$ em 60 s, mini-challenge de 100 mL $\ge 10\%$ ou variação respiratória passiva sinusal de $10\text{ a }12\%$),
-        - [ ] exijo fluidotolerância intacta antes de infundir soro, pois diante de SDRA com linhas B coalescentes difusas e baixa $PaO_2/FiO_2$ proíbo prova volêmica, diurético ou dobutamina e inicio noradrenalina mesmo com PLR francamente positivo."*
+        - [ ] exijo fluidotolerância intacta antes de infundir soro, pois diante de SDRA com linhas B coalescentes difusas e baixa $PaO_2/FiO_2$ 
+        - [ ] proíbo prova volêmica, diurético ou dobutamina e
+        - [ ] inicio noradrenalina mesmo com PLR francamente positivo."*
 
 > **Alerta de Banca (Armadilha Psicométrica):** 
-> - Remedir o diâmetro da VSVE a cada prova propagando erro quadrático, deixar o gate escorregar para o orifício estenótico aórtico ou prescrever volume apenas por $\Delta VTI \ge 15\%$ no PLR na vigência de SDRA com linhas B coalescentes (TEMI 2025) reprovam na estação.
+> - Remedir o diâmetro da VSVE a cada prova propagando erro quadrático, 
+> - deixar o gate escorregar para o orifício estenótico aórtico ou
+> - prescrever volume apenas por $\Delta VTI \ge 15\%$ no PLR na vigência de SDRA com linhas B coalescentes (TEMI 2025) reprovam na estação.
 
 ### 3.4 Monitorização Hemodinâmica com Doppler Esofágico
 
