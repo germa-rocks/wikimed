@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-
+a
 # Fichamento de Véspera — 2ª Fase TEMI/AMIB (Revisão Crítica Padrão Ouro)
 
 ---

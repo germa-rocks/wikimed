@@ -22,8 +22,10 @@ publish: true
 ----
 
 
-[[Habilidades 1 revisado]]
+[[Habilidades 1 rev dyn]]
+[[HABILIDADES 02 dyn]]
 [[ATUALIDADES dyn]]
+
 
 - [[mRevPrat MdC 1 HMD]]
 - [[mRevPrat MdC 3 VM]]
