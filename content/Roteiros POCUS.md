@@ -312,10 +312,10 @@ title: Roteiros POCUS — Síntese Prática TEMI e Beira-Leito
 
 ### Tabela de Bolso — Revisão Flash do Protocolo VExUS *(Prova Prática 2025)*
 
-| Etapa / Território | Normal (Sem Congestão) | Anormalidade Leve | Anormalidade Grave *(Tipo 3)* |
-| :--- | :--- | :--- | :--- |
-| **Passo 1: VCI (Subcostal 12h)** | **$< 2,0\text{ cm}$ $\to$ Grau 0 (Para aqui!)** | $\ge 2,0\text{ cm}$ *(prosseguir Doppler)* | $\ge 2,0\text{ cm}$ *(prosseguir Doppler)* |
-| **Passo 2: Veia Supra-Hepática** | Onda sistólica **$S > D$** *(abaixo da base)* | Onda **$S < D$** *(abaixo da base)* | **Reversão da onda $S$** *(acima da base)* |
-| **Passo 3: Veia Porta ($IP$)** | Contínuo, **$IP < 30\%$** | Pulsátil leve, **$IP\ 30\text{–}49\%$** | Pulsátil acentuado, **$IP \ge 50\%$** |
-| **Passo 4: Veia Intrarrenal** | Fluxo **contínuo monofásico** | Descontínuo **bifásico ($S + D$)** | Descontínuo **só diastólico (só $D$)** |
-| **Classificação (se VCI $\ge 2\text{ cm}$)** | **Grau 1 (Leve):** $0$ padrão grave | **Grau 2 (Moderada):** $1$ padrão grave | **Grau 3 (Grave):** $\ge 2$ padrões graves |
+| Etapa / Território                           | Normal (Sem Congestão)                          | Anormalidade Leve                          | Anormalidade Grave *(Tipo 3)*              |
+| :------------------------------------------- | :---------------------------------------------- | :----------------------------------------- | :----------------------------------------- |
+| **Passo 1: VCI (Subcostal 12h)**             | **$< 2,0\text{ cm}$ $\to$ Grau 0 (Para aqui!)** | $\ge 2,0\text{ cm}$ *(prosseguir Doppler)* | $\ge 2,0\text{ cm}$ *(prosseguir Doppler)* |
+| **Passo 2: Veia Supra-Hepática**             | Onda sistólica **$S > D$** *(abaixo da base)*   | Onda **$S < D$** *(abaixo da base)*        | **Reversão da onda $S$** *(acima da base)* |
+| **Passo 3: Veia Porta ($IP$)**               | Contínuo, **$IP < 30\%$**                       | Pulsátil leve, **$IP\ 30\text{–}49\%$**    | Pulsátil acentuado, **$IP \ge 50\%$**      |
+| **Passo 4: Veia Intrarrenal**                | Fluxo **contínuo monofásico**                   | Descontínuo **bifásico ($S + D$)**         | Descontínuo **só diastólico (só $D$)**     |
+| **Classificação (se VCI $\ge 2\text{ cm}$)** | **Grau 1 (Leve):** $0$ padrão grave             | **Grau 2 (Moderada):** $1$ padrão grave    | **Grau 3 (Grave):** $\ge 2$ padrões graves |
