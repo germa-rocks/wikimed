@@ -14,6 +14,8 @@ publish: true
 
 ---
 
+
+[[Roteiro Desmame VM]]
 [[Roteiros Verbal B1]]
 [[Roteiros Verbal B2]]
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-
+a
 ### 2.1 Aula 3 - Princípios Físicos do USG e Knobologia
 
 - [ ] *"Para parametrizar o aparelho de ultrassom com rigor físico e ergonômico à beira-leito,

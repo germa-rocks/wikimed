@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-
+a
 ### 1.1 Aula 1 - Fundamentos do Ultrassom Cardíaco para Intensivistas
 
 - [ ] *"Para executar o ultrassom cardíaco focado à beira-leito com rigor técnico,
