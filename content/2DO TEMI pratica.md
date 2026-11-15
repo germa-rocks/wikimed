@@ -6,6 +6,8 @@ publish: true
 	- [[Roteiros HMD2]]
 	- [[Roteiros HMD3]]
 
+[[Roteiros SCM]]
+
 ---
 
 - [[Roteiros POCUS]]
