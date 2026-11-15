@@ -8,18 +8,18 @@ publish: true
 
 ---
 
-[[Roteiros POCUS CV2]]
-[[Roteiros POCUS Rp]]
-[[Roteiros POCUS 3 Misc]]
+- [[Roteiros POCUS]]
+	- [[Roteiros POCUS CV2]]
+	- [[Roteiros POCUS Rp]]
+	- [[Roteiros POCUS 3 Misc]]
 
 ---
 
 
 [[Roteiro Desmame VM]]
 [[Roteiros VM Manole]]
-
-[[Roteiros Verbal B1]]
-[[Roteiros Verbal B2]]
+- [[Roteiros Verbal B1]]
+- [[Roteiros Verbal B2]]
 
 ... integrar
 
