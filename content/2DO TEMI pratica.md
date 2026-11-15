@@ -1,10 +1,10 @@
 ---
 publish: true
 ---
-[[Roteiros HMD]]
-[[Roteiros HMD1]]
-[[Roteiros HMD2]]
-[[Roteiros HMD3]]
+- [[Roteiros HMD]]
+	- [[Roteiros HMD1]]
+	- [[Roteiros HMD2]]
+	- [[Roteiros HMD3]]
 
 ---
 
@@ -16,10 +16,12 @@ publish: true
 ---
 
 
-[[Roteiro Desmame VM]]
-[[Roteiros VM Manole]]
-- [[Roteiros Verbal B1]]
-- [[Roteiros Verbal B2]]
+
+- [[Roteiros VM]]
+- [[Roteiro Desmame VM]]
+	- [[Roteiros VM Manole]]
+	- [[Roteiros Verbal B1]]
+	- [[Roteiros Verbal B2]]
 
 ... integrar
 
