@@ -16,6 +16,8 @@ publish: true
 
 
 [[Roteiro Desmame VM]]
+[[Roteiros VM Manole]]
+
 [[Roteiros Verbal B1]]
 [[Roteiros Verbal B2]]
 
