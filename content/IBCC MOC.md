@@ -60,8 +60,7 @@ publish: true
 ## GI
 [[Pancreatite Aguda IBCC]]
 [[Abdominal compartment syndrome IBCC]]
-
-
+[[GI Bleeding IBCC TurboDz]]
 ## HI
 - [[Endocarditis IBCC]]
 - [[Fever IBCC]]
